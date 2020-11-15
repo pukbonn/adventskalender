@@ -1,3 +1,3 @@
 # Adventskalender
 
-Der Lebendige Adventskalender der Pfarrei St. Maria Magdalena und Christi Auferstehung im Advent 2020.
+Der ökumenisch Lebendige Adventskalender der Pfarrei St. Maria Magdalena und Christi Auferstehung und der evangelischen Trinitatis Gemeinde Endenich im Advent 2020.
