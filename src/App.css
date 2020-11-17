@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: #F5EED7;
+	text-align: center;
+
+    font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+	letter-spacing: 0.5px;
+}
+
+.svg-header{
+	background: #B73A3A;
+	fill: #F5EED7;
+	padding: 64px;
+	width: 100%;
+}
+.main-page-countdown{
+	padding: 64px;
+}
+
+.footer{
+	padding: 0 64px 64px 64px;
+}
+
+a,
+a:visited{
+	color: #B73A3A;
+	text-decoration: none;
+}
+a:hover{
+	color: #B73A3A;
+	text-decoration: underline;
+}
+
+h1,
+.h1{
+	font-family: 'Playfair Display', serif;
+	font-weight: lighter;
+	font-size: 99px;
+	letter-spacing: -1.5px;
+}
+
+h2,
+.h2{
+	font-family: 'Playfair Display', serif;
+	font-weight: lighter;
+	font-size: 62px;
+	letter-spacing: -0.5px;
+}
+
+h4,
+.h4{
+	font-family: 'Playfair Display', serif;
+	font-weight: normal;
+	font-size: 35px;
+	letter-spacing: 0.25px;
+}
