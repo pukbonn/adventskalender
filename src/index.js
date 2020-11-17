@@ -15,3 +15,10 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 // reportWebVitals();
+
+if (
+	!window.location.startsWith('https')
+	&& window.location.startsWith('http://adventskalender.puk-bonn.de')
+){
+	window.location.replace(window.location.replace('http://', 'https://'))
+}
