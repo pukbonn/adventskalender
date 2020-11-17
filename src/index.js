@@ -16,9 +16,12 @@ ReactDOM.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 // reportWebVitals();
 
+const url = window.location+''
 if (
-	!window.location.startsWith('https')
-	&& window.location.startsWith('http://adventskalender.puk-bonn.de')
+	!url.startsWith('https')
+	&& url.startsWith('http://adventskalender.puk-bonn.de')
 ){
-	window.location.replace(window.location.replace('http://', 'https://'))
+	window.location.replace(url.replace('http://', 'https://'))
 }
+
+
