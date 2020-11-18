@@ -1,5 +1,6 @@
 import './App.css'
 import Countdown from 'react-countdown'
+import Footer from './Footer.js'
  
 const renderer = ({ days, hours, minutes, seconds, completed }) => {
 	if (completed) {
@@ -15,7 +16,7 @@ const renderer = ({ days, hours, minutes, seconds, completed }) => {
 			</table>
 		</div>
 	}
-};
+}
 
 function App() {
 	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
@@ -27,15 +28,13 @@ function App() {
 				<text className="h1" x="10" y="200">Adventskalender</text>
 				<text className="h1" x="10" y="290">2020</text>
 			</svg>
-        	
+
 			<Countdown
 				date={calendarStart}
 				renderer={renderer}
 			/>
 
-			<div className="footer">
-				Ein ökumenisches Projekt der <a href="https://puk-bonn.de">Pfarrei St. Maria Magdalena und Christi Auferstehung</a> und der <a href="https://www.trinitatiskirche-bonn.de/">Evangelische Trinitatiskirchengemeinde Bonn-Endenich</a>.
-			</div>
+			<Footer />
 		</>
 	)
 }
