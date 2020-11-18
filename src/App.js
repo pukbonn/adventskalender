@@ -16,7 +16,7 @@ const renderer = ({ days, hours, minutes, seconds, completed }) => {
 			</table>
 		</div>
 	}
-};
+}
 
 function App() {
 	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
@@ -28,7 +28,7 @@ function App() {
 				<text className="h1" x="10" y="200">Adventskalender</text>
 				<text className="h1" x="10" y="290">2020</text>
 			</svg>
-        	
+
 			<Countdown
 				date={calendarStart}
 				renderer={renderer}
