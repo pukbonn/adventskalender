@@ -1,5 +1,6 @@
 import './App.css'
 import Countdown from 'react-countdown'
+import Footer from './Footer.js'
  
 const renderer = ({ days, hours, minutes, seconds, completed }) => {
 	if (completed) {
@@ -33,9 +34,7 @@ function App() {
 				renderer={renderer}
 			/>
 
-			<div className="footer">
-				Ein ökumenisches Projekt der <a href="https://puk-bonn.de">Pfarrei St. Maria Magdalena und Christi Auferstehung</a> und der <a href="https://www.trinitatiskirche-bonn.de/">Evangelische Trinitatiskirchengemeinde Bonn-Endenich</a>.
-			</div>
+			<Footer />
 		</>
 	)
 }
