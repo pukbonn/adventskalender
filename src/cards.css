@@ -1,11 +1,7 @@
 .cards{
-	/*position: relative;*/
 	margin: 64px auto;
-	/*grid-template-columns: 200px 200px;*/
-	/*grid-template-rows: auto auto;*/
 
 	display: grid;
-	/*grid-gap: 10px;*/
 	grid-auto-flow: row;
 	grid-template-columns: repeat(4, 256px);
 	grid-template-rows: repeat(6, 256px);
