@@ -1,26 +1,30 @@
-import './App.css'
+import './app.css'
+import './cards.css'
 import Countdown from 'react-countdown'
 import Footer from './Footer.js'
  
 const renderer = ({ days, hours, minutes, seconds, completed }) => {
 	if (completed) {
-		return <span>Adventskalender</span>
+		return null
 	} else {
-		return <div className="main-page-countdown h4">
+		return <>
+			<br />
 			<strong>Das erste Fenster öffnet in…</strong><br/>
-			<table style={{margin:'0 auto'}}>
-				{days === 0 ? null : (<tr><td style={{textAlign:'right'}}>{days}</td><td style={{textAlign:'left'}}>{days === 1 ? 'Tag' : 'Tagen'}</td></tr>)}
-				{hours === 0 ? null : (<tr><td style={{textAlign:'right'}}>{hours}</td><td style={{textAlign:'left'}}>{hours === 1 ? 'Stunde' : 'Stunden'}</td></tr>)}
-				{minutes === 0 ? null : (<tr><td style={{textAlign:'right'}}>{minutes}</td><td style={{textAlign:'left'}}>{minutes === 1 ? 'Minute' : 'Minuten'}</td></tr>)}
-				<tr><td style={{textAlign:'right'}}>{seconds}</td><td style={{textAlign:'left'}}>{seconds === 1 ? 'Sekunde' : 'Sekunden'}</td></tr>
+			<table>
+				<tbody>
+					{days === 0 ? null : (<tr><td style={{textAlign:'right'}}>{days}</td><td style={{textAlign:'left'}}>{days === 1 ? 'Tag' : 'Tagen'}</td></tr>)}
+					{hours === 0 ? null : (<tr><td style={{textAlign:'right'}}>{hours}</td><td style={{textAlign:'left'}}>{hours === 1 ? 'Stunde' : 'Stunden'}</td></tr>)}
+					{minutes === 0 ? null : (<tr><td style={{textAlign:'right'}}>{minutes}</td><td style={{textAlign:'left'}}>{minutes === 1 ? 'Minute' : 'Minuten'}</td></tr>)}
+					<tr><td style={{textAlign:'right'}}>{seconds}</td><td style={{textAlign:'left'}}>{seconds === 1 ? 'Sekunde' : 'Sekunden'}</td></tr>
+				</tbody>
 			</table>
-		</div>
+		</>
 	}
 }
 
 function App() {
-	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
 
+	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
 	return (
 		<>
 			<svg viewBox="0 0 775 305" className="svg-header">
@@ -29,10 +33,23 @@ function App() {
 				<text className="h1" x="10" y="290">2020</text>
 			</svg>
 
-			<Countdown
-				date={calendarStart}
-				renderer={renderer}
-			/>
+			
+
+			<div className="intro_text">
+				<div className="inner">
+				<p>
+					Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
+					<strong>Jeweils von 18.00 bis 18.30 Uhr erstrahlt ein geschmücktes Fenster,</strong><br />
+					spazieren Sie vorbei, vielleicht gibt es eine Überraschung.
+				</p>
+				<br />
+				<p><strong>Die Gestaltung berücksichtigt die geltenden Coronabedingungen!</strong></p>
+				<Countdown
+					date={calendarStart}
+					renderer={renderer}
+				/>
+				</div>
+			</div>
 
 			<Footer />
 		</>

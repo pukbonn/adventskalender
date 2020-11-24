@@ -14,9 +14,22 @@ body{
 	padding: 64px;
 	width: 100%;
 }
-.main-page-countdown{
+
+.intro_text{
+	width: 100%;
 	padding: 64px;
+	margin: -6px 0 0 0;
+	background: var(--on-background);
+	color: var(--background);
 }
+.intro_text .inner{
+	display: inline-block;
+	width: auto;
+	max-width: 100%;
+	margin: 0 auto;
+	text-align: left;
+}
+
 
 .footer{
 	padding: 64px 64px 0 64px;
