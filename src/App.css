@@ -1,22 +1,43 @@
+:root{
+	--background: #F5EED7;
+	--on-background: #c42b2c;
+	--on-background-text: #000;
+}
+
 body{
-	background: #F5EED7;
+	background: var(--background);
 	text-align: center;
 
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Petrona', sans-serif;
 	font-weight: normal;
-	font-size: 16px;
+	font-size: 19px;
 	letter-spacing: 0.5px;
 }
 
 .svg-header{
-	background: #B73A3A;
-	fill: #F5EED7;
-	padding: 64px;
+	background: var(--on-background);
+	fill: var(--background);
 	width: 100%;
-}
-.main-page-countdown{
+	max-height: 64vh;
 	padding: 64px;
+	padding: 8vh;
 }
+
+.intro_text{
+	width: 100%;
+	padding: 0 64px 64px 64px;
+	margin: -6px 0 0 0;
+	background: var(--on-background);
+	color: var(--background);
+}
+.intro_text .inner{
+	display: inline-block;
+	width: auto;
+	max-width: 100%;
+	margin: 0 auto;
+	text-align: left;
+}
+
 
 .footer{
 	padding: 64px 64px 0 64px;
@@ -31,18 +52,18 @@ body{
 
 a,
 a:visited{
-	color: #B73A3A;
+	color: var(--on-background);
 	text-decoration: none;
 }
 a:hover{
-	color: #B73A3A;
+	color: var(--on-background);
 	text-decoration: underline;
 }
 
 h1,
 .h1{
 	font-family: 'Playfair Display', serif;
-	font-weight: lighter;
+	font-weight: 400;
 	font-size: 99px;
 	letter-spacing: -1.5px;
 }
@@ -50,7 +71,7 @@ h1,
 h2,
 .h2{
 	font-family: 'Playfair Display', serif;
-	font-weight: lighter;
+	font-weight: 400;
 	font-size: 62px;
 	letter-spacing: -0.5px;
 }
@@ -58,7 +79,7 @@ h2,
 h4,
 .h4{
 	font-family: 'Playfair Display', serif;
-	font-weight: normal;
+	font-weight: 700;
 	font-size: 35px;
 	letter-spacing: 0.25px;
 }

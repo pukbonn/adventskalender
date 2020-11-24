@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+days:
+  - date: 23
+    address: Neuenahrerstr. 2, 53115 Bonn
+    cover: ''
+    photos:
+      - 'McKibben-CovidMarshmallowTest.webp'
+...
