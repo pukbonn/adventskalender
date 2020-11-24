@@ -1,14 +1,14 @@
-import { useState, useEffect } from 'react'
+// import { useState, useEffect } from 'react'
 
 import './app.css'
 import './cards.css'
 import Countdown from 'react-countdown'
 import Footer from './Footer.js'
-import Card from './Card.js'
+// import Card from './Card.js'
 
-import YAML from 'yaml'
+// import YAML from 'yaml'
 
-import data_yaml_path from './data.yaml'
+// import data_yaml_path from './data.yaml'
 
 
 const renderer = ({ days, hours, minutes, seconds, completed }) => {
@@ -31,17 +31,17 @@ const renderer = ({ days, hours, minutes, seconds, completed }) => {
 }
 
 function App() {
-	const [data, setData] = useState({
-		days: [],
-	})
+	// const [data, setData] = useState({
+	// 	days: [],
+	// })
 
-	useEffect(() => {
-		fetch(data_yaml_path)
-		.then(async response => {
-			setData(YAML.parse(await response.text()))
-		})
-		.catch(error=> console.error(error))
-	}, [])
+	// useEffect(() => {
+	// 	fetch(data_yaml_path)
+	// 	.then(async response => {
+	// 		setData(YAML.parse(await response.text()))
+	// 	})
+	// 	.catch(error=> console.error(error))
+	// }, [])
 
 	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
 	return (
@@ -71,7 +71,7 @@ function App() {
 			</div>
 
 
-
+			{/*}
 			<div className="cards">
 				{data.days.map(day =>
 					<Card
@@ -80,7 +80,7 @@ function App() {
 					/>
 				)}
 			</div>
-
+			*/}
 
 			<Footer />
 		</>
