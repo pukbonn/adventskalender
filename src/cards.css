@@ -37,7 +37,7 @@
 .cards .card{
 	position: relative;
 	z-index: 1;
-	cursor: pointer;
+	/*cursor: pointer;*/
 
 	box-shadow:
 		 /*17px     0 0 -16px var(--on-background),*/
@@ -84,6 +84,7 @@
 	color: var(--on-background-text);
 	transition: color .2s ease;
 }
+/*
 .cards .card:hover .address{
 	color: var(--on-background);
 }
@@ -104,3 +105,4 @@
 .cards .card:hover::after{
 	opacity: 0.12;
 }
+*/
