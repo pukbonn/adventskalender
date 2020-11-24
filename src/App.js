@@ -75,7 +75,7 @@ function App() {
 			<div className="cards">
 				{data.days.map(day =>
 					<Card
-						key={day.number}
+						key={day.date}
 						data={day}
 					/>
 				)}
