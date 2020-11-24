@@ -4,7 +4,7 @@ import './app.css'
 import './cards.css'
 import Countdown from 'react-countdown'
 import Footer from './Footer.js'
- 
+import Card from './Card.js'
 
 import YAML from 'yaml'
 
@@ -69,6 +69,18 @@ function App() {
 				/>
 				</div>
 			</div>
+
+
+
+			<div className="cards">
+				{data.days.map(day =>
+					<Card
+						key={day.number}
+						data={day}
+					/>
+				)}
+			</div>
+
 
 			<Footer />
 		</>

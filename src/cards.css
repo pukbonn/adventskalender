@@ -1,0 +1,106 @@
+.cards{
+	/*position: relative;*/
+	margin: 64px auto;
+	/*grid-template-columns: 200px 200px;*/
+	/*grid-template-rows: auto auto;*/
+
+	display: grid;
+	/*grid-gap: 10px;*/
+	grid-auto-flow: row;
+	grid-template-columns: repeat(4, 256px);
+	grid-template-rows: repeat(6, 256px);
+
+	max-width: 100%;
+	width: 1024px;
+	overflow: hidden;
+}
+
+
+.cards{
+	/*position: relative;*/
+	margin: 64px auto;
+	/*grid-template-columns: 200px 200px;*/
+	/*grid-template-rows: auto auto;*/
+
+	display: grid;
+	/*grid-gap: 10px;*/
+	grid-auto-flow: row;
+	grid-template-columns: repeat(4, 256px);
+	grid-template-rows: repeat(6, auto);
+
+	max-width: 100%;
+	width: 1024px;
+	overflow: hidden;
+}
+
+
+.cards .card{
+	position: relative;
+	z-index: 1;
+	cursor: pointer;
+
+	box-shadow:
+		 /*17px     0 0 -16px var(--on-background),*/
+		-17px     0 0 -16px var(--on-background),
+		    /*0  17px 0 -16px var(--on-background),*/
+		    0 -17px 0 -16px var(--on-background);
+
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+
+	padding: 32px;
+	text-align: left;
+
+	--shadow-width: 4px;
+}
+.cards .card .number{
+	margin-bottom: 0;
+	width: 64px;
+	height: 64px;
+	line-height: 30px;
+	text-align: left;
+	font-style: italic;
+	color: var(--on-background);
+	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
+}
+.cards .card svg{
+	margin-bottom: 16px;
+	fill: var(--on-background);
+	width: 84px;
+	box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
+}
+.cards .card .image{
+	margin-bottom: 16px;
+	min-width: 128px;
+	height: 128px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
+}
+.cards .card .address{
+	text-align: left;
+	color: var(--on-background-text);
+	transition: color .2s ease;
+}
+.cards .card:hover .address{
+	color: var(--on-background);
+}
+
+.cards .card::after{
+	z-index: -1;
+	content: '';
+	position: absolute;
+	top: 16px;
+	right: 16px;
+	bottom: 16px;
+	left: 16px;
+	background: var(--on-background);
+
+	transition: opacity .2s ease;
+	opacity: 0;
+}
+.cards .card:hover::after{
+	opacity: 0.12;
+}
