@@ -1,5 +1,11 @@
+:root{
+	--background: #F5EED7;
+	--on-background: #c42b2c;
+	--on-background-text: #000;
+}
+
 body{
-	background: #F5EED7;
+	background: var(--background);
 	text-align: center;
 
     font-family: 'Petrona', sans-serif;
@@ -46,11 +52,11 @@ body{
 
 a,
 a:visited{
-	color: #B73A3A;
+	color: var(--on-background);
 	text-decoration: none;
 }
 a:hover{
-	color: #B73A3A;
+	color: var(--on-background);
 	text-decoration: underline;
 }
 
