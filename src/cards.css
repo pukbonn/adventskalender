@@ -1,43 +1,43 @@
 .cards{
-	/*position: relative;*/
 	margin: 64px auto;
-	/*grid-template-columns: 200px 200px;*/
-	/*grid-template-rows: auto auto;*/
 
 	display: grid;
-	/*grid-gap: 10px;*/
-	grid-auto-flow: row;
-	grid-template-columns: repeat(4, 256px);
-	grid-template-rows: repeat(6, 256px);
-
-	max-width: 100%;
-	width: 1024px;
-	overflow: hidden;
-}
-
-
-.cards{
-	/*position: relative;*/
-	margin: 64px auto;
-	/*grid-template-columns: 200px 200px;*/
-	/*grid-template-rows: auto auto;*/
-
-	display: grid;
-	/*grid-gap: 10px;*/
 	grid-auto-flow: row;
 	grid-template-columns: repeat(4, 256px);
 	grid-template-rows: repeat(6, auto);
-
-	max-width: 100%;
 	width: 1024px;
+	max-width: 100%;
+
 	overflow: hidden;
+}
+
+@media (max-width: 1024px) {
+	.cards{
+		grid-template-columns: repeat(3, 256px);
+		grid-template-rows: repeat(8, auto);
+		width: 768px;
+	}
+}
+@media (max-width: 768px) {
+	.cards{
+		grid-template-columns: repeat(2, 256px);
+		grid-template-rows: repeat(12, auto);
+		width: 512px;
+	}
+}
+@media (max-width: 512px) {
+	.cards{
+		grid-template-columns: repeat(1, 256px);
+		grid-template-rows: repeat(24, auto);
+		width: 256px;
+	}
 }
 
 
 .cards .card{
 	position: relative;
 	z-index: 1;
-	cursor: pointer;
+	/*cursor: pointer;*/
 
 	box-shadow:
 		 /*17px     0 0 -16px var(--on-background),*/
@@ -84,6 +84,7 @@
 	color: var(--on-background-text);
 	transition: color .2s ease;
 }
+/*
 .cards .card:hover .address{
 	color: var(--on-background);
 }
@@ -104,3 +105,6 @@
 .cards .card:hover::after{
 	opacity: 0.12;
 }
+*/
+
+

@@ -23,9 +23,9 @@ function Card({data}) {
 		loadImage()
 	}, [photos, cover])
 
-	address = address
-	.split(',')
-	.map(line => <p>{line}</p>)
+	// address = address
+	// .split(',')
+	// .map(line => <p>{line}</p>)
 
 	// const coverphotoPath1 = 'https://unsplash.com/photos/czvOY2ikK3Y/download?force=true&w=640'
 
