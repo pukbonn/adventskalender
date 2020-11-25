@@ -23,6 +23,13 @@ function Card({data}) {
 		loadImage()
 	}, [photos, cover])
 
+
+	const [weekday, setWeekday] = useState('')
+
+	useEffect(() => {
+		setWeekday(new Date(2020,11,date).toLocaleString("de", {weekday:"long"}))
+	}, [date])
+
 	// address = address
 	// .split(',')
 	// .map(line => <p>{line}</p>)
@@ -32,6 +39,7 @@ function Card({data}) {
 	return (
 		<div className="card">
 			<h2 className="number">{date}</h2>
+			<p className="weekday">{weekday}</p>
 			{
 				coverphotoPath !== ''
 				? <div className="image" style={{
