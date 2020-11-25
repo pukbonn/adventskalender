@@ -79,6 +79,11 @@
 	background-position: center center;
 	box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
+.cards .card .weekday{
+	color: var(--on-background);
+	font-weight: bold;
+	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
+}
 .cards .card .address{
 	color: var(--on-background-text);
 	transition: color .2s ease;
