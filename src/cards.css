@@ -80,7 +80,6 @@
 	box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
 .cards .card .address{
-	text-align: left;
 	color: var(--on-background-text);
 	transition: color .2s ease;
 }
