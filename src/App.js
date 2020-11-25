@@ -12,12 +12,6 @@ import data_yaml_path from './data.yaml'
 
 
 
-function logWebsiteLoad(){
-	fetch('https://script.google.com/macros/s/AKfycbxY8QOeplWqP9LKCI-epNCfmxZ5CZKOyt13y1J0wnJoXKk5qUH5/exec?url='+encodeURIComponent(window.location.href)+'&title='+encodeURIComponent(document.title))
-}
-
-
-
 const renderer = ({ days, hours, minutes, seconds, completed }) => {
 	if (completed) {
 		return null
@@ -42,9 +36,7 @@ function App() {
 		days: [],
 	})
 
-	useEffect(() => {
-		logWebsiteLoad()
-		
+	useEffect(() => {		
 		fetch(data_yaml_path)
 		.then(async response => {
 			setData(YAML.parse(await response.text()))
