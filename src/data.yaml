@@ -8,14 +8,14 @@ days:
   - date: 2020-12-01
     address: St. Maria Magdalena Magdalenenstraße 25
     photos: 
-      - 1/IMG_0951.jpeg
-      - 1/IMG_0952.jpeg
-      - 1/IMG_2009.jpeg
-      - 1/IMG_2010.jpeg
-      - 1/IMG_2011.jpeg
-      - 1/IMG_2012.jpeg
-      - 1/IMG_2013.jpeg
-      - 1/IMG_2014.jpeg
+      - 2020-12-01/IMG_0951.jpeg
+      - 2020-12-01/IMG_0952.jpeg
+      - 2020-12-01/IMG_2009.jpeg
+      - 2020-12-01/IMG_2010.jpeg
+      - 2020-12-01/IMG_2011.jpeg
+      - 2020-12-01/IMG_2012.jpeg
+      - 2020-12-01/IMG_2013.jpeg
+      - 2020-12-01/IMG_2014.jpeg
     text: |-
       Lebendiger Advent
       
@@ -60,7 +60,7 @@ days:
   - date: 2020-12-03
     address: Ulrich-Haberland Str. 69
     photos:
-      - 3/20201126_173322.jpg
+      - 2020-12-03/20201126_173322.jpg
   - date: 2020-12-04
     address: Lipschitzstrasse 40
   - date: 2020-12-05
