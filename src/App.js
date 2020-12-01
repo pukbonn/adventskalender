@@ -5,6 +5,7 @@ import './cards.css'
 import Countdown from 'react-countdown'
 import Footer from './Footer.js'
 import Card from './Card.js'
+import Sheet from './Sheet.js'
 
 import YAML from 'yaml'
 
@@ -12,6 +13,7 @@ import data_yaml_path from './data.yaml'
 
 import {
 	BrowserRouter as Router,
+	Route,
 	NavLink,
 } from 'react-router-dom'
 
@@ -32,6 +34,20 @@ const renderer = ({ days, hours, minutes, seconds, completed }) => {
 				</tbody>
 			</table>
 		</>
+	}
+}
+
+class SheetBodyStyle extends Component {
+	componentDidMount() {
+		document.body.classList.add('sheetIsOpen');
+	}
+
+	componentWillUnmount() {
+		document.body.classList.remove('sheetIsOpen');
+	}
+
+	render() {
+		return null
 	}
 }
 
@@ -88,8 +104,11 @@ function App() {
 					</NavLink>
 				)}
 			</div>
-			
-			
+
+			<Route path="/day/:dateString">
+				<SheetBodyStyle />
+				<Sheet days={data.days}/>
+			</Route>
 
 			<Footer />
 		</Router>

@@ -20,6 +20,10 @@ body{
 	font-size: 19px;
 	letter-spacing: 0.5px;
 }
+body.sheetIsOpen{
+	overflow: hidden;
+	pointer-events: none;
+}
 
 .svg-header{
 	background: var(--inverted-background);
