@@ -31,9 +31,9 @@
 }
 @media (max-width: 512px) {
 	.cards{
-		grid-template-columns: repeat(1, 256px);
+		grid-template-columns: repeat(1, 100%);
 		grid-template-rows: repeat(24, auto);
-		width: 256px;
+		width: 100%;
 	}
 }
 
