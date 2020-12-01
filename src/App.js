@@ -61,17 +61,17 @@ function App() {
 
 			<div className="intro_text">
 				<div className="inner">
-				<p>
-					Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
-					<strong>Jeweils von 18.00 bis 18.30 Uhr erstrahlt ein geschmücktes Fenster,</strong><br />
-					spazieren Sie vorbei, vielleicht gibt es eine Überraschung.
-				</p>
-				<br />
-				<p><strong>Die Gestaltung berücksichtigt die geltenden Coronabedingungen!</strong></p>
-				<Countdown
-					date={calendarStart}
-					renderer={renderer}
-				/>
+					<p>
+						Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
+						<strong>Jeweils von 18.00 bis 18.30 Uhr erstrahlt ein geschmücktes Fenster,</strong><br />
+						spazieren Sie vorbei, vielleicht gibt es eine Überraschung.
+					</p>
+					<br />
+					<p><strong>Die Gestaltung berücksichtigt die geltenden Coronabedingungen!</strong></p>
+					<Countdown
+						date={calendarStart}
+						renderer={renderer}
+					/>
 				</div>
 			</div>
 

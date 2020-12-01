@@ -6,7 +6,7 @@
 
 body{
 	background: var(--background);
-	text-align: center;
+	text-align: left;
 
     font-family: 'Petrona', sans-serif;
 	font-weight: normal;
@@ -29,6 +29,7 @@ body{
 	margin: -10px 0 0 0;
 	background: var(--on-background);
 	color: var(--background);
+	text-align: center;
 }
 .intro_text .inner{
 	display: inline-block;
@@ -41,9 +42,11 @@ body{
 
 .footer{
 	padding: 64px 64px 0 64px;
+	text-align: center;
 }
 .footer_logos{
 	padding: calc(32px - 8px) 32px calc(64px - 8px) 32px;
+	text-align: center;
 }
 .footer_logos img{
 	height: 64px;
