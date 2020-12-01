@@ -69,7 +69,7 @@
 	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
 .cards .card .image{
-	margin-bottom: 16px;
+	margin-top: 16px;
 	min-width: 128px;
 	height: 128px;
 	background-repeat: no-repeat;
