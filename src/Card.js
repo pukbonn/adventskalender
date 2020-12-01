@@ -53,8 +53,6 @@ function Card({data}) {
 			{
 				!!video
 				&& video !== ''
-				&& !!video.url
-				&& video.url !== ''
 				&& !!video.title
 				&& video.title !== ''
 				? <p className="infoLine video">
