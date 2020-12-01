@@ -23,12 +23,10 @@ function Card({data}) {
 		loadImage()
 	}, [photos])
 
-	const [weekday, setWeekday] = useState('')
 	const date = new Date(dateString)
+	const weekday = date.toLocaleString("de", {weekday:"long"})
+	const daynumber = date.getDate()
 
-	useEffect(() => {
-		setWeekday(new Date(2020,11,date).toLocaleString("de", {weekday:"long"}))
-	}, [date])
 	const now = new Date()
 	const isOpen = date < now
 
@@ -40,7 +38,7 @@ function Card({data}) {
 
 	return (
 		<div className="card">
-			<h2 className="number">{date}</h2>
+			<h2 className="number">{daynumber}</h2>
 			<p className="weekday">{weekday}</p>
 
 			{
