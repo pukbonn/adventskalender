@@ -68,12 +68,6 @@
 	color: var(--text);
 	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
-.cards .card svg{
-	margin-bottom: 16px;
-	fill: var(--text);
-	width: 84px;
-	box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
-}
 .cards .card .image{
 	margin-bottom: 16px;
 	min-width: 128px;
