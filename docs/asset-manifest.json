@@ -1,25 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.75fcd26e.chunk.css",
-    "main.js": "/static/js/main.2d3de271.chunk.js",
-    "main.js.map": "/static/js/main.2d3de271.chunk.js.map",
+    "main.css": "/static/css/main.225e2e80.chunk.css",
+    "main.js": "/static/js/main.51312a78.chunk.js",
+    "main.js.map": "/static/js/main.51312a78.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
-    "static/js/2.b20d0c83.chunk.js": "/static/js/2.b20d0c83.chunk.js",
-    "static/js/2.b20d0c83.chunk.js.map": "/static/js/2.b20d0c83.chunk.js.map",
+    "static/js/2.83e510ee.chunk.js": "/static/js/2.83e510ee.chunk.js",
+    "static/js/2.83e510ee.chunk.js.map": "/static/js/2.83e510ee.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.75fcd26e.chunk.css.map": "/static/css/main.75fcd26e.chunk.css.map",
-    "static/js/2.b20d0c83.chunk.js.LICENSE.txt": "/static/js/2.b20d0c83.chunk.js.LICENSE.txt",
+    "static/css/main.225e2e80.chunk.css.map": "/static/css/main.225e2e80.chunk.css.map",
+    "static/js/2.83e510ee.chunk.js.LICENSE.txt": "/static/js/2.83e510ee.chunk.js.LICENSE.txt",
+    "static/media/20201126_173322.jpg": "/static/media/20201126_173322.08ce5fdf.jpg",
+    "static/media/IMG_0951.jpeg": "/static/media/IMG_0951.a992d7d2.jpeg",
+    "static/media/IMG_0952.jpeg": "/static/media/IMG_0952.a7bd04e0.jpeg",
+    "static/media/IMG_2009.jpeg": "/static/media/IMG_2009.b654ea02.jpeg",
+    "static/media/IMG_2010.jpeg": "/static/media/IMG_2010.2961f636.jpeg",
+    "static/media/IMG_2011.jpeg": "/static/media/IMG_2011.913689c2.jpeg",
+    "static/media/IMG_2012.jpeg": "/static/media/IMG_2012.2103db5b.jpeg",
+    "static/media/IMG_2013.jpeg": "/static/media/IMG_2013.fa02a84b.jpeg",
+    "static/media/IMG_2014.jpeg": "/static/media/IMG_2014.dbb56656.jpeg",
     "static/media/LAK-desaturated.046dbb6a.svg": "/static/media/LAK-desaturated.046dbb6a.svg",
     "static/media/Logo_rechts_fh_mit-farbkorrektur-von-thomas.bb636f7c.svg": "/static/media/Logo_rechts_fh_mit-farbkorrektur-von-thomas.bb636f7c.svg",
-    "static/media/McKibben-CovidMarshmallowTest.webp": "/static/media/McKibben-CovidMarshmallowTest.5aabd39e.webp",
     "static/media/Trini-Logo-Schriftszug.52b96221.jpg": "/static/media/Trini-Logo-Schriftszug.52b96221.jpg",
-    "static/media/data.c40cad5a.yaml": "/static/media/data.c40cad5a.yaml"
+    "static/media/data.f56b31d1.yaml": "/static/media/data.f56b31d1.yaml",
+    "static/media/video-cover.d1e20154.jpeg": "/static/media/video-cover.d1e20154.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.a04ad65b.js",
-    "static/js/2.b20d0c83.chunk.js",
-    "static/css/main.75fcd26e.chunk.css",
-    "static/js/main.2d3de271.chunk.js"
+    "static/js/2.83e510ee.chunk.js",
+    "static/css/main.225e2e80.chunk.css",
+    "static/js/main.51312a78.chunk.js"
   ]
 }
