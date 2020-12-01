@@ -10,6 +10,10 @@
 
 	overflow: hidden;
 }
+.cards a{
+	/*color: inherit !important;*/
+	text-decoration: none !important;
+}
 
 @media (max-width: 1024px) {
 	.cards{
@@ -37,7 +41,7 @@
 .cards .card{
 	position: relative;
 	z-index: 1;
-	/*cursor: pointer;*/
+	cursor: pointer;
 
 	box-shadow:
 		 /*17px     0 0 -16px var(--on-background),*/

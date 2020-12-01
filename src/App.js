@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, Component } from 'react'
 
 import './app.css'
 import './cards.css'
@@ -10,6 +10,10 @@ import YAML from 'yaml'
 
 import data_yaml_path from './data.yaml'
 
+import {
+	BrowserRouter as Router,
+	NavLink,
+} from 'react-router-dom'
 
 
 const renderer = ({ days, hours, minutes, seconds, completed }) => {
@@ -46,7 +50,7 @@ function App() {
 
 	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
 	return (
-		<>
+		<Router>
 			<svg viewBox="0 0 775 305" className="svg-header">
 				<text className="h1" x="10" y="90">Lebendiger</text>
 				<text className="h1" x="10" y="200">Adventskalender</text>
@@ -74,18 +78,21 @@ function App() {
 
 			
 			<div className="cards">
-				{data.days.map(day =>
-					<Card
-						key={day.date}
-						data={day}
-					/>
+				{data.days.map(dayData =>
+					<NavLink
+						className="card"
+						key={dayData.date}
+						to={'/day/'+dayData.date}
+					>
+						<Card data={dayData} />
+					</NavLink>
 				)}
 			</div>
 			
 			
 
 			<Footer />
-		</>
+		</Router>
 	)
 }
 

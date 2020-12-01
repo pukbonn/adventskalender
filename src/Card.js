@@ -37,7 +37,7 @@ function Card({data}) {
 	// const coverphotoPath1 = 'https://unsplash.com/photos/czvOY2ikK3Y/download?force=true&w=640'
 
 	return (
-		<div className="card">
+		<>
 			<h2 className="number">{daynumber}</h2>
 			<p className="weekday">{weekday}</p>
 
@@ -87,7 +87,7 @@ function Card({data}) {
 				}}></div>
 				: null
 			}
-		</div>
+		</>
 	)
 
 	/*
