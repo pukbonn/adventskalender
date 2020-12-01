@@ -2,9 +2,13 @@
 ---
 days:
   - date: 2020-11-25
-    video: 'https://www.youtube.com/watch?v=WN2cy4sld38'
+    video:
+      url: https://www.youtube.com/watch?v=WN2cy4sld38
+      title: Die Reise zum Kind in der Krippen - Teaser
   - date: 2020-11-29
-    video: 'https://www.youtube.com/watch?v=R4RJfZ7kL4g'
+    video:
+      url: https://www.youtube.com/watch?v=R4RJfZ7kL4g
+      title: "Der erste Advent: „Es werde Licht” - Genesis 1:3"
   - date: 2020-12-01
     address: St. Maria Magdalena Magdalenenstraße 25
     photos: 
