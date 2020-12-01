@@ -55,8 +55,6 @@ function Sheet({days}) {
 	const now = new Date()
 	const isOpen = date < now
 
-	// console.log('text', thisDaysData.text)
-
 	if (!!thisDaysData) {
 		return (
 			<div className="sheet">

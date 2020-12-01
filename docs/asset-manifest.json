@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4372f45.chunk.css",
-    "main.js": "/static/js/main.cd9f195e.chunk.js",
-    "main.js.map": "/static/js/main.cd9f195e.chunk.js.map",
+    "main.css": "/static/css/main.05691fa0.chunk.css",
+    "main.js": "/static/js/main.fe346315.chunk.js",
+    "main.js.map": "/static/js/main.fe346315.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
-    "static/js/2.83e510ee.chunk.js": "/static/js/2.83e510ee.chunk.js",
-    "static/js/2.83e510ee.chunk.js.map": "/static/js/2.83e510ee.chunk.js.map",
+    "static/js/2.488a1570.chunk.js": "/static/js/2.488a1570.chunk.js",
+    "static/js/2.488a1570.chunk.js.map": "/static/js/2.488a1570.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d4372f45.chunk.css.map": "/static/css/main.d4372f45.chunk.css.map",
-    "static/js/2.83e510ee.chunk.js.LICENSE.txt": "/static/js/2.83e510ee.chunk.js.LICENSE.txt",
+    "static/css/main.05691fa0.chunk.css.map": "/static/css/main.05691fa0.chunk.css.map",
+    "static/js/2.488a1570.chunk.js.LICENSE.txt": "/static/js/2.488a1570.chunk.js.LICENSE.txt",
     "static/media/20201126_173322.jpg": "/static/media/20201126_173322.08ce5fdf.jpg",
     "static/media/IMG_0951.jpeg": "/static/media/IMG_0951.a992d7d2.jpeg",
     "static/media/IMG_0952.jpeg": "/static/media/IMG_0952.a7bd04e0.jpeg",
@@ -22,13 +22,13 @@
     "static/media/LAK-desaturated.046dbb6a.svg": "/static/media/LAK-desaturated.046dbb6a.svg",
     "static/media/Logo_rechts_fh_mit-farbkorrektur-von-thomas.bb636f7c.svg": "/static/media/Logo_rechts_fh_mit-farbkorrektur-von-thomas.bb636f7c.svg",
     "static/media/Trini-Logo-Schriftszug.52b96221.jpg": "/static/media/Trini-Logo-Schriftszug.52b96221.jpg",
-    "static/media/data.53af2762.yaml": "/static/media/data.53af2762.yaml",
+    "static/media/data.8bf8ecdd.yaml": "/static/media/data.8bf8ecdd.yaml",
     "static/media/video-cover.d1e20154.jpeg": "/static/media/video-cover.d1e20154.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.a04ad65b.js",
-    "static/js/2.83e510ee.chunk.js",
-    "static/css/main.d4372f45.chunk.css",
-    "static/js/main.cd9f195e.chunk.js"
+    "static/js/2.488a1570.chunk.js",
+    "static/css/main.05691fa0.chunk.css",
+    "static/js/main.fe346315.chunk.js"
   ]
 }
