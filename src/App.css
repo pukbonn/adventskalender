@@ -1,7 +1,14 @@
 :root{
-	--background: #F5EED7;
-	--on-background: #c42b2c;
-	--on-background-text: #000;
+	--red: #c42b2c;
+	--baige: #F5EED7;
+
+	--background: var(--baige);
+	--text: var(--red);
+	--text-body: #000;
+
+	--inverted-background: var(--red);
+	--inverted-text: var(--baige);
+	--inverted-text-body: var(--baige);
 }
 
 body{
@@ -15,8 +22,8 @@ body{
 }
 
 .svg-header{
-	background: var(--on-background);
-	fill: var(--background);
+	background: var(--inverted-background);
+	fill: var(--inverted-text);
 	width: 100%;
 	max-height: 64vh;
 	padding: 64px;
@@ -27,8 +34,8 @@ body{
 	width: 100%;
 	padding: 0 64px 64px 64px;
 	margin: -10px 0 0 0;
-	background: var(--on-background);
-	color: var(--background);
+	background: var(--inverted-background);
+	color: var(--inverted-text);
 	text-align: center;
 }
 .intro_text .inner{
@@ -55,11 +62,11 @@ body{
 
 a,
 a:visited{
-	color: var(--on-background);
+	color: var(--text);
 	text-decoration: none;
 }
 a:hover{
-	color: var(--on-background);
+	color: var(--text);
 	text-decoration: underline;
 }
 

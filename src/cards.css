@@ -44,10 +44,10 @@
 	cursor: pointer;
 
 	box-shadow:
-		 /*17px     0 0 -16px var(--on-background),*/
-		-17px     0 0 -16px var(--on-background),
-		    /*0  17px 0 -16px var(--on-background),*/
-		    0 -17px 0 -16px var(--on-background);
+		 /*17px     0 0 -16px var(--text),*/
+		-17px     0 0 -16px var(--text),
+		    /*0  17px 0 -16px var(--text),*/
+		    0 -17px 0 -16px var(--text);
 
 	display: flex;
 	flex-direction: column;
@@ -65,12 +65,12 @@
 	line-height: 30px;
 	text-align: left;
 	font-style: italic;
-	color: var(--on-background);
+	color: var(--text);
 	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
 .cards .card svg{
 	margin-bottom: 16px;
-	fill: var(--on-background);
+	fill: var(--text);
 	width: 84px;
 	box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
@@ -84,12 +84,12 @@
 	box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
 .cards .card .weekday{
-	color: var(--on-background);
+	color: var(--text);
 	font-weight: bold;
 	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
 .cards .card .address{
-	color: var(--on-background-text);
+	color: var(--text-body);
 	transition: color .2s ease;
 }
 /*
@@ -105,7 +105,7 @@
 	right: 16px;
 	bottom: 16px;
 	left: 16px;
-	background: var(--on-background);
+	background: var(--inverted-background);
 
 	transition: opacity .2s ease;
 	opacity: 0;
