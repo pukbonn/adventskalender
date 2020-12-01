@@ -116,6 +116,9 @@
 	transition: opacity .2s ease;
 	opacity: 0;
 }
+.cards .card.active::after{
+	opacity: 0.24;
+}
 .cards .card:hover::after{
 	opacity: 0.12;
 }
