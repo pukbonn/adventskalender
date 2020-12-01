@@ -71,6 +71,9 @@ days:
     address: Buchfinkenweg 30
   - date: 2020-12-06
     address: Magdalenenstraße 34
+    video:
+      url: ""
+      title: „Die Reise zum Kind”
   - date: 2020-12-07
     address: Verweyenstr. 4
   - date: 2020-12-08
@@ -85,6 +88,9 @@ days:
     address: Dohmstraße 2
   - date: 2020-12-13
     address: Theodor-Brinkmann Str. 40
+    video:
+      url: ""
+      title: „Die Reise zum Kind”
   - date: 2020-12-14
     address: JAP Am Propsthof 134
   - date: 2020-12-15
@@ -99,6 +105,9 @@ days:
     address: Ökum. Schaukasten Frongasse
   - date: 2020-12-20
     address: Auf dem Hügel 107
+    video:
+      url: ""
+      title: „Die Reise zum Kind”
   - date: 2020-12-21
     address: Neuenahrer Str. 2
   - date: 2020-12-22
