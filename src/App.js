@@ -12,7 +12,7 @@ import YAML from 'yaml'
 import data_yaml_path from './data.yaml'
 
 import {
-	BrowserRouter as Router,
+	HashRouter as Router,
 	Route,
 	NavLink,
 } from 'react-router-dom'
