@@ -82,13 +82,25 @@
 	font-weight: bold;
 	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
-.cards .card .address{
+.cards .card .infoLine{
+	display: flex;
+	margin: 5px 0 1px 0;
 	color: var(--text-body);
 	transition: color .2s ease;
 }
-/*
-.cards .card:hover .address{
-	color: var(--on-background);
+.cards .card .infoLine.address{
+	margin-right: -22px;
+}
+.cards .card:hover .infoLine{
+	color: var(--text);
+}
+.cards .card .infoLine svg{
+	display: inline;
+	flex-shrink: 0;
+	vertical-align: top;
+	margin: 1.5px 4px 0 0;
+	fill: var(--text);
+	transition: fill .2s ease;
 }
 
 .cards .card::after{
