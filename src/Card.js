@@ -3,7 +3,6 @@ import { useState, useEffect } from 'react'
 function Card({data}) {
 	let {
 		date,
-		cover,
 		photos,
 		address
 	} = data
@@ -15,14 +14,12 @@ function Card({data}) {
 			if (!!photos && photos.length > 0 && photos[0] !== '') {
 				const path = require('./photos/'+photos[0])
 				setCoverphotoPath(path.default)
-			}else if (!!cover && cover !== '') {
-				const path = require('./covers/'+cover)
-				setCoverphotoPath(path.default)
+			}else{
+				setCoverphotoPath('')
 			}
 		}
 		loadImage()
-	}, [photos, cover])
-
+	}, [photos])
 
 	const [weekday, setWeekday] = useState('')
 
@@ -41,7 +38,7 @@ function Card({data}) {
 			<h2 className="number">{date}</h2>
 			<p className="weekday">{weekday}</p>
 			{
-				coverphotoPath !== ''
+				isOpen === true && coverphotoPath !== ''
 				? <div className="image" style={{
 					backgroundImage: `url(${coverphotoPath})`,
 				}}></div>
