@@ -1,15 +1,21 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, Component } from 'react'
 
 import './app.css'
 import './cards.css'
 import Countdown from 'react-countdown'
 import Footer from './Footer.js'
 import Card from './Card.js'
+import Sheet from './Sheet.js'
 
 import YAML from 'yaml'
 
 import data_yaml_path from './data.yaml'
 
+import {
+	BrowserRouter as Router,
+	Route,
+	NavLink,
+} from 'react-router-dom'
 
 
 const renderer = ({ days, hours, minutes, seconds, completed }) => {
@@ -31,6 +37,20 @@ const renderer = ({ days, hours, minutes, seconds, completed }) => {
 	}
 }
 
+class SheetBodyStyle extends Component {
+	componentDidMount() {
+		document.body.classList.add('sheetIsOpen');
+	}
+
+	componentWillUnmount() {
+		document.body.classList.remove('sheetIsOpen');
+	}
+
+	render() {
+		return null
+	}
+}
+
 function App() {
 	const [data, setData] = useState({
 		days: [],
@@ -46,7 +66,7 @@ function App() {
 
 	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
 	return (
-		<>
+		<Router>
 			<svg viewBox="0 0 775 305" className="svg-header">
 				<text className="h1" x="10" y="90">Lebendiger</text>
 				<text className="h1" x="10" y="200">Adventskalender</text>
@@ -57,35 +77,41 @@ function App() {
 
 			<div className="intro_text">
 				<div className="inner">
-				<p>
-					Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
-					<strong>Jeweils von 18.00 bis 18.30 Uhr erstrahlt ein geschmücktes Fenster,</strong><br />
-					spazieren Sie vorbei, vielleicht gibt es eine Überraschung.
-				</p>
-				<br />
-				<p><strong>Die Gestaltung berücksichtigt die geltenden Coronabedingungen!</strong></p>
-				<Countdown
-					date={calendarStart}
-					renderer={renderer}
-				/>
+					<p>
+						Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
+						<strong>Jeweils von 18.00 bis 18.30 Uhr erstrahlt ein geschmücktes Fenster,</strong><br />
+						spazieren Sie vorbei, vielleicht gibt es eine Überraschung.
+					</p>
+					<br />
+					<p><strong>Die Gestaltung berücksichtigt die geltenden Coronabedingungen!</strong></p>
+					<Countdown
+						date={calendarStart}
+						renderer={renderer}
+					/>
 				</div>
 			</div>
 
 
 			
 			<div className="cards">
-				{data.days.map(day =>
-					<Card
-						key={day.date}
-						data={day}
-					/>
+				{data.days.map(dayData =>
+					<NavLink
+						className="card"
+						key={dayData.date}
+						to={'/day/'+dayData.date}
+					>
+						<Card data={dayData} />
+					</NavLink>
 				)}
 			</div>
-			
-			
+
+			<Route path="/day/:dateString">
+				<SheetBodyStyle />
+				<Sheet days={data.days}/>
+			</Route>
 
 			<Footer />
-		</>
+		</Router>
 	)
 }
 

@@ -10,6 +10,10 @@
 
 	overflow: hidden;
 }
+.cards a{
+	/*color: inherit !important;*/
+	text-decoration: none !important;
+}
 
 @media (max-width: 1024px) {
 	.cards{
@@ -27,9 +31,9 @@
 }
 @media (max-width: 512px) {
 	.cards{
-		grid-template-columns: repeat(1, 256px);
+		grid-template-columns: repeat(1, 100%);
 		grid-template-rows: repeat(24, auto);
-		width: 256px;
+		width: 100%;
 	}
 }
 
@@ -37,13 +41,13 @@
 .cards .card{
 	position: relative;
 	z-index: 1;
-	/*cursor: pointer;*/
+	cursor: pointer;
 
 	box-shadow:
-		 /*17px     0 0 -16px var(--on-background),*/
-		-17px     0 0 -16px var(--on-background),
-		    /*0  17px 0 -16px var(--on-background),*/
-		    0 -17px 0 -16px var(--on-background);
+		 /*17px     0 0 -16px var(--text),*/
+		-17px     0 0 -16px var(--text),
+		    /*0  17px 0 -16px var(--text),*/
+		    0 -17px 0 -16px var(--text);
 
 	display: flex;
 	flex-direction: column;
@@ -61,17 +65,11 @@
 	line-height: 30px;
 	text-align: left;
 	font-style: italic;
-	color: var(--on-background);
+	color: var(--text);
 	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
-.cards .card svg{
-	margin-bottom: 16px;
-	fill: var(--on-background);
-	width: 84px;
-	box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
-}
 .cards .card .image{
-	margin-bottom: 16px;
+	margin-top: 16px;
 	min-width: 128px;
 	height: 128px;
 	background-repeat: no-repeat;
@@ -80,17 +78,29 @@
 	box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
 .cards .card .weekday{
-	color: var(--on-background);
+	color: var(--text);
 	font-weight: bold;
 	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
-.cards .card .address{
-	color: var(--on-background-text);
+.cards .card .infoLine{
+	display: flex;
+	margin: 5px 0 1px 0;
+	color: var(--text-body);
 	transition: color .2s ease;
 }
-/*
-.cards .card:hover .address{
-	color: var(--on-background);
+.cards .card .infoLine.address{
+	margin-right: -22px;
+}
+.cards .card:hover .infoLine{
+	color: var(--text);
+}
+.cards .card .infoLine svg{
+	display: inline;
+	flex-shrink: 0;
+	vertical-align: top;
+	margin: 1.5px 4px 0 0;
+	fill: var(--text);
+	transition: fill .2s ease;
 }
 
 .cards .card::after{
@@ -101,14 +111,17 @@
 	right: 16px;
 	bottom: 16px;
 	left: 16px;
-	background: var(--on-background);
+	background: var(--inverted-background);
 
 	transition: opacity .2s ease;
 	opacity: 0;
 }
+.cards .card.active::after{
+	opacity: 0.24;
+}
 .cards .card:hover::after{
 	opacity: 0.12;
 }
-*/
+
 
 
