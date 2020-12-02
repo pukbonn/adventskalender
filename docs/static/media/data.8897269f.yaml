@@ -84,6 +84,8 @@ days:
     address: Wiesenweg 15
   - date: 2020-12-09
     address: Max-Cohen-Str. 30-32
+    photos:
+      - 2020-12-09/20201202_175545.jpg
   - date: 2020-12-10
     address: Am Burggraben 36
   - date: 2020-12-11
