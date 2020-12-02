@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.2cf1f305.chunk.css",
-    "main.js": "/static/js/main.e526dcd5.chunk.js",
-    "main.js.map": "/static/js/main.e526dcd5.chunk.js.map",
+    "main.js": "/static/js/main.04b69ed7.chunk.js",
+    "main.js.map": "/static/js/main.04b69ed7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
     "static/js/2.84c3ef55.chunk.js": "/static/js/2.84c3ef55.chunk.js",
@@ -30,13 +30,13 @@
     "static/media/Logo_rechts_fh_mit-farbkorrektur-von-thomas.bb636f7c.svg": "/static/media/Logo_rechts_fh_mit-farbkorrektur-von-thomas.bb636f7c.svg",
     "static/media/Trini-Logo-Schriftszug.52b96221.jpg": "/static/media/Trini-Logo-Schriftszug.52b96221.jpg",
     "static/media/c571cec50b7d765c97b334039283a9f5.jpg": "/static/media/c571cec50b7d765c97b334039283a9f5.bb82182a.jpg",
-    "static/media/data.3be0b4ee.yaml": "/static/media/data.3be0b4ee.yaml",
+    "static/media/data.21141728.yaml": "/static/media/data.21141728.yaml",
     "static/media/video-cover.d1e20154.jpeg": "/static/media/video-cover.d1e20154.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.a04ad65b.js",
     "static/js/2.84c3ef55.chunk.js",
     "static/css/main.2cf1f305.chunk.css",
-    "static/js/main.e526dcd5.chunk.js"
+    "static/js/main.04b69ed7.chunk.js"
   ]
 }

@@ -65,6 +65,41 @@ days:
       - 2020-12-02/20201202_184656.jpeg
       - 2020-12-02/20201202_171848.jpg
       - 2020-12-02/20201202_171310.jpg
+  - date: 2020-12-03
+    address: Ulrich-Haberland Str. 69
+    photos:
+      - 2020-12-03/20201126_173322.jpg
+  - date: 2020-12-04
+    address: Lipschitzstrasse 40
+  - date: 2020-12-05
+    address: Buchfinkenweg 30
+  - date: 2020-12-06
+    address: Magdalenenstraße 34
+    video:
+      url: ""
+      title: „Die Reise zum Kind”
+  - date: 2020-12-07
+    address: Verweyenstr. 4
+  - date: 2020-12-08
+    address: Wiesenweg 15
+  - date: 2020-12-09
+    address: Max-Cohen-Str. 30-32
+  - date: 2020-12-10
+    address: Am Burggraben 36
+  - date: 2020-12-11
+    address: Magdalenenstr. 28
+  - date: 2020-12-12
+    address: Dohmstraße 2
+  - date: 2020-12-13
+    address: Theodor-Brinkmann Str. 40
+    video:
+      url: ""
+      title: „Die Reise zum Kind”
+  - date: 2020-12-14
+    address: JAP Am Propsthof 134
+  - date: 2020-12-15
+    address: Röckumstrasse 15
+    photos:
       - 2020-12-02/c571cec50b7d765c97b334039283a9f5.jpg
     text: |-
       **Als der kleine Engel einen Nachtbesuch machte**
@@ -104,40 +139,6 @@ days:
       <br/>sie lächelte. „Ja! Bestimmt“, sagte das Kind. Es wusste, 
       <br/>dass man so etwas Schönes nicht erklären konnte, man 
       <br/>musste es für sich behalten, ganz tief im Herzen.
-  - date: 2020-12-03
-    address: Ulrich-Haberland Str. 69
-    photos:
-      - 2020-12-03/20201126_173322.jpg
-  - date: 2020-12-04
-    address: Lipschitzstrasse 40
-  - date: 2020-12-05
-    address: Buchfinkenweg 30
-  - date: 2020-12-06
-    address: Magdalenenstraße 34
-    video:
-      url: ""
-      title: „Die Reise zum Kind”
-  - date: 2020-12-07
-    address: Verweyenstr. 4
-  - date: 2020-12-08
-    address: Wiesenweg 15
-  - date: 2020-12-09
-    address: Max-Cohen-Str. 30-32
-  - date: 2020-12-10
-    address: Am Burggraben 36
-  - date: 2020-12-11
-    address: Magdalenenstr. 28
-  - date: 2020-12-12
-    address: Dohmstraße 2
-  - date: 2020-12-13
-    address: Theodor-Brinkmann Str. 40
-    video:
-      url: ""
-      title: „Die Reise zum Kind”
-  - date: 2020-12-14
-    address: JAP Am Propsthof 134
-  - date: 2020-12-15
-    address: Röckumstrasse 15
   - date: 2020-12-16
     address: Theodor-Litt-Str. 17
   - date: 2020-12-17
