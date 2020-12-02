@@ -14,7 +14,55 @@ import data_yaml_path from './data.yaml'
 import {
 	Route,
 	NavLink,
+	useLocation,
 } from 'react-router-dom'
+
+
+
+// START stats
+
+function uuidv4() {
+	// SOURCE: https://stackoverflow.com/questions/105034/how-to-create-a-guid-uuid
+	return ([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g, c =>
+		// eslint-disable-next-line
+		(c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
+	)
+}
+
+function getUserSessionID(){
+	let userSessionID = sessionStorage.userSessionID
+
+	if (!(!!userSessionID) || userSessionID === '') {
+		userSessionID = uuidv4()
+		sessionStorage.userSessionID = userSessionID
+	}
+
+	return userSessionID
+}
+
+async function sendStats(){
+	const webhookURL = 'https://enlifdzpibv0of7.m.pipedream.net'
+	fetch(webhookURL, {
+		method: 'POST',
+		headers: {
+			'Content-Type': 'application/json;charset=utf-8',
+			mode: 'cors',
+		},
+		body: JSON.stringify({
+			ts: new Date().toISOString(),
+			url: window.location.href,
+			userSessionID: getUserSessionID(),
+			referrer: document.referrer,
+			language: window.navigator.language,
+			viewportWidth: Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0),
+			viewportHeight: Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0),
+			userAgent: window.navigator.userAgent,
+		})
+	})
+}
+
+// END stats
+
 
 
 const renderer = ({ days, hours, minutes, seconds, completed }) => {
@@ -51,6 +99,11 @@ class SheetBodyStyle extends Component {
 }
 
 function App() {
+	const location = useLocation()
+	useEffect(() => {
+		sendStats()
+	}, [location])
+
 	const [data, setData] = useState({
 		days: [],
 	})
