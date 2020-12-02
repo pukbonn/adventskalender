@@ -108,7 +108,7 @@ function App() {
 		days: [],
 	})
 
-	useEffect(() => {		
+	useEffect(() => {
 		fetch(data_yaml_path)
 		.then(async response => {
 			setData(YAML.parse(await response.text()))
