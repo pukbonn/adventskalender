@@ -62,18 +62,21 @@ days:
   - date: 2020-12-02
     address: Gottfried-Kinkel Str. 25, 53113 Bonn
     photos:
+      - 2020-12-02/20201202_171310.jpg
       - 2020-12-02/20201202_184656.jpeg
       - 2020-12-02/20201202_171848.jpg
-      - 2020-12-02/20201202_171310.jpg
   - date: 2020-12-03
     address: Ulrich-Haberland Str. 69
     photos:
       - 2020-12-03/20201126_173322.jpg
+      - 2020-12-03/20201203_174957.jpg
+      - 2020-12-03/20201203_183422.jpg
   - date: 2020-12-04
     address: Lipschitzstrasse 40
     photos:
       - 2020-12-04/20201203_181350.jpg
       - 2020-12-04/20201203_184913.jpg
+      - 2020-12-04/20201204_165007.jpg
     text: |-
       Wir wollen an die Geschichte „Frederik” von Leo Lionni erinnern.
       <br/>Die kleine Feldmaus, die anstatt Körner und Nüsse für den Winter zu sammeln, die Farben und Sonnenstrahlen des Sommers einfängt. Und wenn der Winter kalt ist und die Vorräte aufgegessen, dann wärmt er seine Mäusefamilie mit Erinnerungen an den Sommer.
