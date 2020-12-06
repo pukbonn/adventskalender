@@ -85,6 +85,9 @@ days:
     address: Buchfinkenweg 30
   - date: 2020-12-06
     address: Magdalenenstraße 34
+    photos:
+      - 2020-12-06/IMG_0635.JPG
+      # - 2020-12-06/IMG_0636.JPG
     video:
       url: ""
       title: „Die Reise zum Kind”
