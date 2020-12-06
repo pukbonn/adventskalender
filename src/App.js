@@ -2,6 +2,7 @@ import { useState, useEffect, Component } from 'react'
 
 import './app.css'
 import './cards.css'
+import { Helmet } from 'react-helmet'
 import Countdown from 'react-countdown'
 import Footer from './Footer.js'
 import Card from './Card.js'
@@ -119,6 +120,11 @@ function App() {
 	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
 	return (
 		<>
+			<Helmet>
+				<title>Lebendiger Adventskalender</title>
+				<meta name="description" content="Ein ökumenisches Projekt der Pfarrei St. Maria Magdalena und Christi Auferstehung und der Evangelische Trinitatiskirchengemeinde Bonn-Endenich." />
+			</Helmet>
+
 			<svg viewBox="0 0 775 305" className="svg-header">
 				<text className="h1" x="10" y="90">Lebendiger</text>
 				<text className="h1" x="10" y="200">Adventskalender</text>

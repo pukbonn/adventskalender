@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import Countdown from 'react-countdown'
 import ReactMarkdown from 'react-markdown'
-import {Helmet} from 'react-helmet'
+import { Helmet } from 'react-helmet'
 import './sheet.css'
 import videoCover from './images/video-cover.jpeg'
 
