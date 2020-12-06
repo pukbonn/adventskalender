@@ -84,9 +84,7 @@ days:
   - date: 2020-12-05
     address: Buchfinkenweg 30
     photos:
-      - 2020-12-05/IMG_0641.JPG
-      - 2020-12-05/IMG_0640.JPG
-      - 2020-12-05/IMG_0639.JPG
+      - 2020-12-05/IMG_0071.jpg
     text: |-
       Der Bratapfel
 
@@ -123,12 +121,19 @@ days:
       - 2020-12-06/IMG_3914.jpeg
       - 2020-12-06/IMG_3912.jpeg
       - 2020-12-06/IMG_0635.JPG
+      - 2020-12-06/IMG_0641.JPG
+      - 2020-12-06/IMG_0640.JPG
+      - 2020-12-06/IMG_0639.JPG
       # - 2020-12-06/IMG_0636.JPG # verwackelt
     video:
       url: "https://youtu.be/8LgUrsXZpTU"
       title: "Impuls zum Zweiten Advent: „...nimm dich in Acht, dass du nicht den Herrn vergisst...”"
   - date: 2020-12-07
     address: Verweyenstr. 4
+    photos:
+      - 2020-12-07/20201206_172946.jpg
+      # - 2020-12-07/20201206_172953.jpg # similar to above
+      # - 2020-12-07/20201206_173000.jpg # similar to above
   - date: 2020-12-08
     address: Wiesenweg 15
   - date: 2020-12-09
