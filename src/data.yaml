@@ -84,7 +84,7 @@ days:
   - date: 2020-12-05
     address: Buchfinkenweg 30
     photos:
-      - 2020-12-05/IMG_0071.jpg
+      # - 2020-12-05/IMG_0071-DONT.jpg # Der Macher möchte das Photo doch nicht mehr online haben.
     text: |-
       Der Bratapfel
 
