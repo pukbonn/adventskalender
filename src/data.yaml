@@ -129,6 +129,10 @@ days:
       title: "Impuls zum Zweiten Advent: „...nimm dich in Acht, dass du nicht den Herrn vergisst...”"
   - date: 2020-12-07
     address: Verweyenstr. 4
+    photos:
+      - 2020-12-07/20201206_172946.jpg
+      # - 2020-12-07/20201206_172953.jpg # similar to above
+      # - 2020-12-07/20201206_173000.jpg # similar to above
   - date: 2020-12-08
     address: Wiesenweg 15
   - date: 2020-12-09
