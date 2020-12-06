@@ -123,7 +123,7 @@ days:
       - 2020-12-06/IMG_3914.jpeg
       - 2020-12-06/IMG_3912.jpeg
       - 2020-12-06/IMG_0635.JPG
-      # - 2020-12-06/IMG_0636.JPG
+      # - 2020-12-06/IMG_0636.JPG # verwackelt
     video:
       url: "https://youtu.be/8LgUrsXZpTU"
       title: "Impuls zum Zweiten Advent: „...nimm dich in Acht, dass du nicht den Herrn vergisst...”"
