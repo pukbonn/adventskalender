@@ -83,16 +83,57 @@ days:
       <br/>Somit wollen wir allen, die heute hier vorbei kommen auch ein paar warme Erinnerungen für die Adventszeit und den Winter bescheren. 
   - date: 2020-12-05
     address: Buchfinkenweg 30
+    photos:
+      - 2020-12-05/IMG_0071.jpg
+    text: |-
+      Der Bratapfel
+
+      <br/>Kinder, kommt und ratet,
+      <br/>was im Ofen bratet!
+      <br/>Hört, wie’s knallt und zischt.
+      <br/>Bald wird er aufgetischt,
+      <br/>der Zipfel, der Zapfel,
+      <br/>der Kipfel, der Kapfel,
+      <br/>der gelbrote Apfel.
+      
+      <br/>Kinder, lauft schneller,
+      <br/>holt einen Teller,
+      <br/>holt eine Gabel!
+      <br/>Sperrt auf den Schnabel
+      <br/>für den Zipfel, den Zapfel,
+      <br/>den Kipfel, den Kapfel,
+      <br/>den goldbraunen Apfel!
+      
+      <br/>Sie pusten und prusten,
+      <br/>sie gucken und schlucken,
+      <br/>sie schnalzen und schmecken,
+      <br/>sie lecken und schlecken
+      <br/>den Zipfel, den Zapfel,
+      <br/>den Kipfel, den Kapfel,
+      <br/>den knusprigen Apfel.
   - date: 2020-12-06
     address: Magdalenenstraße 34
     photos:
+      - 2020-12-06/IMG_3908.jpeg
+      - 2020-12-06/IMG_3909.jpeg
+      - 2020-12-06/IMG_3911.jpeg
+      - 2020-12-06/IMG_3910.jpeg
+      - 2020-12-06/IMG_3914.jpeg
+      - 2020-12-06/IMG_3912.jpeg
       - 2020-12-06/IMG_0635.JPG
-      # - 2020-12-06/IMG_0636.JPG
+      - 2020-12-06/IMG_0641.JPG
+      - 2020-12-06/IMG_0640.JPG
+      - 2020-12-06/IMG_0639.JPG
+      # - 2020-12-06/IMG_0636.JPG # verwackelt
     video:
       url: "https://youtu.be/8LgUrsXZpTU"
       title: "Impuls zum Zweiten Advent: „...nimm dich in Acht, dass du nicht den Herrn vergisst...”"
   - date: 2020-12-07
     address: Verweyenstr. 4
+    photos:
+      - 2020-12-07/20201206_172946.jpg
+      # - 2020-12-07/20201206_172953.jpg # similar to above
+      # - 2020-12-07/20201206_173000.jpg # similar to above
   - date: 2020-12-08
     address: Wiesenweg 15
   - date: 2020-12-09
