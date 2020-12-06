@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.2cf1f305.chunk.css",
-    "main.js": "/static/js/main.e2ad3268.chunk.js",
-    "main.js.map": "/static/js/main.e2ad3268.chunk.js.map",
+    "main.js": "/static/js/main.7bba12b8.chunk.js",
+    "main.js.map": "/static/js/main.7bba12b8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
     "static/js/2.20a962ed.chunk.js": "/static/js/2.20a962ed.chunk.js",
@@ -27,7 +27,7 @@
     "static/media/20201206_172953.jpg": "/static/media/20201206_172953.5d0d35aa.jpg",
     "static/media/20201206_173000.jpg": "/static/media/20201206_173000.c8edbe5d.jpg",
     "static/media/Als der Engel  2020 - Kopie.odt": "/static/media/Als der Engel  2020 - Kopie.0b4e7fe0.odt",
-    "static/media/IMG_0071.jpg": "/static/media/IMG_0071.1f8f5eb0.jpg",
+    "static/media/IMG_0071-DONT.jpg": "/static/media/IMG_0071-DONT.1f8f5eb0.jpg",
     "static/media/IMG_0635.JPG": "/static/media/IMG_0635.7c8f7be5.JPG",
     "static/media/IMG_0636.JPG": "/static/media/IMG_0636.8b8141a3.JPG",
     "static/media/IMG_0639.JPG": "/static/media/IMG_0639.69ef422b.JPG",
@@ -52,13 +52,13 @@
     "static/media/Logo_rechts_fh_mit-farbkorrektur-von-thomas.bb636f7c.svg": "/static/media/Logo_rechts_fh_mit-farbkorrektur-von-thomas.bb636f7c.svg",
     "static/media/Trini-Logo-Schriftszug.52b96221.jpg": "/static/media/Trini-Logo-Schriftszug.52b96221.jpg",
     "static/media/c571cec50b7d765c97b334039283a9f5.jpg": "/static/media/c571cec50b7d765c97b334039283a9f5.bb82182a.jpg",
-    "static/media/data.22089bd9.yaml": "/static/media/data.22089bd9.yaml",
+    "static/media/data.3574b941.yaml": "/static/media/data.3574b941.yaml",
     "static/media/video-cover.d1e20154.jpeg": "/static/media/video-cover.d1e20154.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.a04ad65b.js",
     "static/js/2.20a962ed.chunk.js",
     "static/css/main.2cf1f305.chunk.css",
-    "static/js/main.e2ad3268.chunk.js"
+    "static/js/main.7bba12b8.chunk.js"
   ]
 }
