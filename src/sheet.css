@@ -35,6 +35,26 @@
 	/*box-shadow: 16px 16px 0 0 var(--background);*/
 }
 
+
+.sheet .content a,
+.sheet .content a:visited{
+	color: var(--inverted-text);
+	text-decoration: underline;
+	transition: opacity .2s ease;
+}
+.sheet .content a:hover{
+	color: var(--inverted-text);
+	opacity: 0.7;
+}
+
+
+.sheet .content hr{
+	border: 0;
+	height: 1px;
+	background: var(--inverted-text);
+	margin: 40px 0;
+}
+
 .sheet .closebutton{
 	position: absolute;
 	top: 16px;
