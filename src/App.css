@@ -90,6 +90,16 @@ h2,
 	letter-spacing: -0.5px;
 }
 
+h3,
+.h3{
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-size: 49px;
+	letter-spacing: 0px;
+
+	margin-top: 42px;
+}
+
 h4,
 .h4{
 	font-family: 'Playfair Display', serif;
@@ -97,3 +107,12 @@ h4,
 	font-size: 35px;
 	letter-spacing: 0.25px;
 }
+
+hr{
+	border: 0;
+	height: 1px;
+	background: var(--text);
+	margin: 40px 0;
+}
+
+
