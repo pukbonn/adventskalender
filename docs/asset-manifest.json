@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cf1f305.chunk.css",
-    "main.js": "/static/js/main.943a94de.chunk.js",
-    "main.js.map": "/static/js/main.943a94de.chunk.js.map",
+    "main.css": "/static/css/main.dcd27e85.chunk.css",
+    "main.js": "/static/js/main.bd4f4a07.chunk.js",
+    "main.js.map": "/static/js/main.bd4f4a07.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
-    "static/js/2.a3a81b04.chunk.js": "/static/js/2.a3a81b04.chunk.js",
-    "static/js/2.a3a81b04.chunk.js.map": "/static/js/2.a3a81b04.chunk.js.map",
+    "static/js/2.0d1547dd.chunk.js": "/static/js/2.0d1547dd.chunk.js",
+    "static/js/2.0d1547dd.chunk.js.map": "/static/js/2.0d1547dd.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2cf1f305.chunk.css.map": "/static/css/main.2cf1f305.chunk.css.map",
-    "static/js/2.a3a81b04.chunk.js.LICENSE.txt": "/static/js/2.a3a81b04.chunk.js.LICENSE.txt",
+    "static/css/main.dcd27e85.chunk.css.map": "/static/css/main.dcd27e85.chunk.css.map",
+    "static/js/2.0d1547dd.chunk.js.LICENSE.txt": "/static/js/2.0d1547dd.chunk.js.LICENSE.txt",
     "static/media/20201126_173322.jpg": "/static/media/20201126_173322.08ce5fdf.jpg",
     "static/media/20201201_185439.jpg": "/static/media/20201201_185439.5b9d28b4.jpg",
     "static/media/20201202_145408.jpg": "/static/media/20201202_145408.1fa26bbd.jpg",
@@ -23,6 +23,7 @@
     "static/media/20201203_183422.jpg": "/static/media/20201203_183422.6fd1bd03.jpg",
     "static/media/20201203_184913.jpg": "/static/media/20201203_184913.dd8372be.jpg",
     "static/media/20201204_165007.jpg": "/static/media/20201204_165007.133bb4a9.jpg",
+    "static/media/20201205_173330[1].jpg": "/static/media/20201205_173330[1].d91c9abc.jpg",
     "static/media/20201206_172946.jpg": "/static/media/20201206_172946.46565a5e.jpg",
     "static/media/20201206_172953.jpg": "/static/media/20201206_172953.5d0d35aa.jpg",
     "static/media/20201206_173000.jpg": "/static/media/20201206_173000.c8edbe5d.jpg",
@@ -52,14 +53,14 @@
     "static/media/Logo_rechts_fh_mit-farbkorrektur-von-thomas.bb636f7c.svg": "/static/media/Logo_rechts_fh_mit-farbkorrektur-von-thomas.bb636f7c.svg",
     "static/media/Trini-Logo-Schriftszug.52b96221.jpg": "/static/media/Trini-Logo-Schriftszug.52b96221.jpg",
     "static/media/c571cec50b7d765c97b334039283a9f5.jpg": "/static/media/c571cec50b7d765c97b334039283a9f5.bb82182a.jpg",
-    "static/media/data.6c3335ed.yaml": "/static/media/data.6c3335ed.yaml",
+    "static/media/data.09c69df0.yaml": "/static/media/data.09c69df0.yaml",
     "static/media/photo_2020-12-07_20-43-11.jpeg": "/static/media/photo_2020-12-07_20-43-11.54500dbb.jpeg",
     "static/media/video-cover.d1e20154.jpeg": "/static/media/video-cover.d1e20154.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.a04ad65b.js",
-    "static/js/2.a3a81b04.chunk.js",
-    "static/css/main.2cf1f305.chunk.css",
-    "static/js/main.943a94de.chunk.js"
+    "static/js/2.0d1547dd.chunk.js",
+    "static/css/main.dcd27e85.chunk.css",
+    "static/js/main.bd4f4a07.chunk.js"
   ]
 }
