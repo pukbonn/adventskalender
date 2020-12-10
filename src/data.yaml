@@ -145,6 +145,8 @@ days:
       - 2020-12-09/20201202_175545.jpg
   - date: 2020-12-10
     address: Am Burggraben 36
+    photos:
+      - 2020-12-10/Image.jpeg
   - date: 2020-12-11
     address: Magdalenenstr. 28
   - date: 2020-12-12
