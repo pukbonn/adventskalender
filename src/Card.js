@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import LazyLoad from 'react-lazy-load'
 
 function Card({data}) {
 	let {
@@ -86,11 +87,18 @@ function Card({data}) {
 
 			{
 				isOpen === true && coverphotoPath !== ''
-				? <div className="image" style={{
-					backgroundImage: `url("${coverphotoPath}")`,
-				}}>
-					<img src={coverphotoPath} alt="Geschmücktes Fenster" />
-				</div>
+				? (
+					<LazyLoad
+						offset={512}
+						height={128}
+					>
+						<div className="image" style={{
+							backgroundImage: `url("${coverphotoPath}")`,
+						}}>
+							<img src={coverphotoPath} alt="Geschmücktes Fenster" />
+						</div>
+					</LazyLoad>
+				)
 				: null
 			}
 		</>

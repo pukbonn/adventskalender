@@ -11,6 +11,10 @@
 	--inverted-text-body: var(--baige);
 }
 
+.LazyLoad.is-visible{
+	height: auto !important;
+}
+
 body{
 	background: var(--background);
 	text-align: left;
