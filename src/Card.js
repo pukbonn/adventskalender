@@ -82,6 +82,8 @@ function Card({data}) {
 				: null
 			}
 
+			<div className="spacer"></div>
+
 			{
 				isOpen === true && coverphotoPath !== ''
 				? <div className="image" style={{

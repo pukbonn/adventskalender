@@ -68,6 +68,9 @@
 	color: var(--text);
 	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
+.cards .card .spacer{
+	flex-grow: 1;
+}
 .cards .card .image{
 	margin-top: 16px;
 	min-width: 128px;
