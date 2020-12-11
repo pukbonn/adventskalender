@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react'
 import Countdown from 'react-countdown'
 import ReactMarkdown from 'react-markdown'
 import { Helmet } from 'react-helmet'
-import LazyLoad from 'react-lazy-load'
 import './sheet.css'
 import videoCover from './images/video-cover.jpeg'
 
@@ -103,14 +102,9 @@ function Sheet({days}) {
 					isOpen === true
 					&& photoPath.length > 0
 					? photoPath.map(path => (
-						<LazyLoad
-							offset={512}
-							height={512}
-						>
-							<a className="photo" key={path} href={path} target="_blank" rel="noreferrer">
-								<img src={path} alt="Geschmücktes Fenster"/>
-							</a>
-						</LazyLoad>
+						<a className="photo" key={path} href={path} target="_blank" rel="noreferrer">
+							<img src={path} alt="Geschmücktes Fenster"/>
+						</a>
 					))
 					: null
 				}
