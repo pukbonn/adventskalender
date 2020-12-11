@@ -90,6 +90,7 @@ function Card({data}) {
 				? (
 					<LazyLoad
 						offset={512}
+						height={128}
 					>
 						<div className="image" style={{
 							backgroundImage: `url("${coverphotoPath}")`,
