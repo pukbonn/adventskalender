@@ -82,11 +82,15 @@ function Card({data}) {
 				: null
 			}
 
+			<div className="spacer"></div>
+
 			{
 				isOpen === true && coverphotoPath !== ''
 				? <div className="image" style={{
-					backgroundImage: `url(${coverphotoPath})`,
-				}}></div>
+					backgroundImage: `url("${coverphotoPath}")`,
+				}}>
+					<img src={coverphotoPath} alt="Geschmücktes Fenster" />
+				</div>
 				: null
 			}
 		</>

@@ -68,14 +68,23 @@
 	color: var(--text);
 	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
+.cards .card .spacer{
+	flex-grow: 1;
+}
 .cards .card .image{
 	margin-top: 16px;
 	min-width: 128px;
-	height: 128px;
+	min-height: 128px;
+	max-height: 256px;
+	height: auto;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
 	box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
+}
+.cards .card .image img{
+	width: 100%;
+	opacity: 0;
 }
 .cards .card .weekday{
 	color: var(--text);

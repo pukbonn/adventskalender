@@ -11,6 +11,7 @@
 
 	overflow: auto;
 	pointer-events: all;
+	-webkit-overflow-scrolling: touch;
 }
 .sheet .backdrop{
 	z-index: 1;
