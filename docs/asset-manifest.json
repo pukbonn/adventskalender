@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4417b9ff.chunk.css",
-    "main.js": "/static/js/main.acc4a9a3.chunk.js",
-    "main.js.map": "/static/js/main.acc4a9a3.chunk.js.map",
+    "main.css": "/static/css/main.0834c3b1.chunk.css",
+    "main.js": "/static/js/main.36404280.chunk.js",
+    "main.js.map": "/static/js/main.36404280.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
     "static/js/2.96c14f8b.chunk.js": "/static/js/2.96c14f8b.chunk.js",
     "static/js/2.96c14f8b.chunk.js.map": "/static/js/2.96c14f8b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.4417b9ff.chunk.css.map": "/static/css/main.4417b9ff.chunk.css.map",
+    "static/css/main.0834c3b1.chunk.css.map": "/static/css/main.0834c3b1.chunk.css.map",
     "static/js/2.96c14f8b.chunk.js.LICENSE.txt": "/static/js/2.96c14f8b.chunk.js.LICENSE.txt",
     "static/media/12-Dezember-Dohmstr-2.jpg": "/static/media/12-Dezember-Dohmstr-2.482c991d.jpg",
     "static/media/20201126_173322.jpg": "/static/media/20201126_173322.f56871d7.jpg",
@@ -63,7 +63,7 @@
   "entrypoints": [
     "static/js/runtime-main.a04ad65b.js",
     "static/js/2.96c14f8b.chunk.js",
-    "static/css/main.4417b9ff.chunk.css",
-    "static/js/main.acc4a9a3.chunk.js"
+    "static/css/main.0834c3b1.chunk.css",
+    "static/js/main.36404280.chunk.js"
   ]
 }
