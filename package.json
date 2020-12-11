@@ -20,6 +20,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "rebuild": "react-scripts build",
     "build": "react-scripts build && rm -rf docs && mv build docs && cp CNAME ./docs/CNAME",
     "serve-build": "serve -s docs",
     "test": "react-scripts test",
