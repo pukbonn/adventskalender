@@ -77,6 +77,11 @@
 	background-position: center center;
 	box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
 }
+@media (max-width: 512px) {
+	.cards .card .image{
+		height: 256px;
+	}
+}
 .cards .card .weekday{
 	color: var(--text);
 	font-weight: bold;
