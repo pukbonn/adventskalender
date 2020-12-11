@@ -30,6 +30,9 @@ function Footer() {
 				/>
 			</a>
 		</div>
+		<div className="thomasLine">
+			Design und Programmierung von <a href="https://thomasrosen.qiekub.org/" target="_blank" rel="noreferrer">Thomas Rosen</a>.
+		</div>
 	</>)
 }
 
