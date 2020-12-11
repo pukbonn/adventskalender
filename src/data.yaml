@@ -138,7 +138,8 @@ days:
   - date: 2020-12-08
     address: Wiesenweg 15
     photos:
-      - 2020-12-08/photo_2020-12-07_20-43-11.jpeg
+      - 2020-12-08/photo_2020-12-07_20-43-11-cropped.jpeg
+      # - 2020-12-08/photo_2020-12-07_20-43-11.jpeg
   - date: 2020-12-09
     address: Max-Cohen-Str. 30-32
     photos:
