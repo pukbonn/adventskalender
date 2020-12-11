@@ -63,6 +63,20 @@ body.sheetIsOpen{
 	height: 64px;
 	margin: 8px 32px;
 }
+.thomasLine{
+	color: white;
+	background: black;
+	padding: 16px;
+	text-align: center;
+}
+.thomasLine a,
+.thomasLine a:visited{
+	color: inherit;
+	text-decoration: underline;
+}
+.thomasLine a:hover{
+	opacity: 0.7;
+}
 
 a,
 a:visited{
