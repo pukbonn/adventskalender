@@ -151,6 +151,8 @@ days:
     address: Magdalenenstr. 28
   - date: 2020-12-12
     address: Dohmstraße 2
+    photos:
+      - 2020-12-12/12-Dezember-Dohmstr-2.jpg
   - date: 2020-12-13
     address: Theodor-Brinkmann Str. 40
     video:
