@@ -1,7 +1,7 @@
 // import './Footer.css'
 
 import puk_logo from './images/Logo_rechts_fh_mit-farbkorrektur-von-thomas.svg'
-import trini_logo from './images/Trini-Logo-Schriftszug.jpg'
+import trini_logo from './images/Trini-Logo-Schriftszug-transparent.png'
 import lak_logo from './images/LAK-desaturated.svg'
 
 function Footer() {
