@@ -106,7 +106,6 @@ function Sheet({days}) {
 						<LazyLoad
 							offset={512}
 							height={512}
-							onContentVisible={() => console.log("loading "+path)}
 						>
 							<a className="photo" key={path} href={path} target="_blank" rel="noreferrer">
 								<img src={path} alt="Geschmücktes Fenster"/>
