@@ -87,7 +87,7 @@ function Card({data}) {
 			{
 				isOpen === true && coverphotoPath !== ''
 				? <div className="image" style={{
-					backgroundImage: `url(${coverphotoPath})`,
+					backgroundImage: `url("${coverphotoPath}")`,
 				}}>
 					<img src={coverphotoPath} alt="Geschmücktes Fenster" />
 				</div>
