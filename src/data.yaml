@@ -232,6 +232,8 @@ days:
       title: „Die Reise zum Kind”
   - date: 2020-12-21
     address: Neuenahrer Str. 2
+    photos:
+      - 2020-12-21/IMG_4079-cropped.jpeg
   - date: 2020-12-22
     address: Zur Marterkapelle 4
     photos:
