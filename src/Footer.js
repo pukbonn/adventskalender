@@ -5,7 +5,7 @@ import trini_logo from './images/Trini-Logo-Schriftszug-transparent.png'
 import lak_logo from './images/LAK-desaturated.svg'
 
 function Footer() {
-	return (<>       	
+	return (<footer>       	
 		<div className="footer">
 			Ein ökumenisches Projekt der <a href="https://puk-bonn.de">Pfarrei St. Maria Magdalena und Christi Auferstehung</a> und der <a href="https://www.trinitatiskirche-bonn.de/">Evangelische Trinitatiskirchengemeinde Bonn-Endenich</a>.
 
@@ -33,7 +33,7 @@ function Footer() {
 		<div className="thomasLine">
 			Design und Programmierung von <a href="https://thomasrosen.qiekub.org/" target="_blank" rel="noreferrer">Thomas Rosen</a>.
 		</div>
-	</>)
+	</footer>)
 }
 
 export default Footer

@@ -59,7 +59,7 @@ function Sheet({days}) {
 		return (
 			<div className="sheet">
 				<Link to="/" className="backdrop" />
-				<div className="content">
+				<article className="content">
 
 				<Helmet>
 					<title>{`Lebendiger Adventskalender • Tag ${date}`}</title>
@@ -132,7 +132,7 @@ function Sheet({days}) {
 					: null
 				}
 
-				</div>
+				</article>
 			</div>
 		)
 	}else{
