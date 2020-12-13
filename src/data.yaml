@@ -152,7 +152,6 @@ days:
     address: Magdalenenstr. 28
     photos:
       - 2020-12-11/IMG_6294[1].JPG
-      - 2020-12-11/Screenshot-2020-12-13-at-10-45-15.png
   - date: 2020-12-12
     address: Dohmstraße 2
     photos:
@@ -213,6 +212,8 @@ days:
     address: Theodor-Litt-Str. 17
   - date: 2020-12-17
     address: Kita St. Maria Magdalena Wiesenweg 6
+    photos:
+      - 2020-12-17/Screenshot-2020-12-13-at-10-45-15.png
   - date: 2020-12-18
     address: Lutfriedstr. 18
   - date: 2020-12-19
