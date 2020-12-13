@@ -112,6 +112,8 @@ days:
       <br/>den Zipfel, den Zapfel,
       <br/>den Kipfel, den Kapfel,
       <br/>den knusprigen Apfel.
+
+      <br/>„Wem könnten wir, wie Nikolaus, das Leben versüßen?” (Nach A. Grün)
   - date: 2020-12-06
     address: Magdalenenstraße 34
     photos:
@@ -151,11 +153,14 @@ days:
   - date: 2020-12-11
     address: Magdalenenstr. 28
     photos:
+      - 2020-12-11/IMG_0677.jpg
       - 2020-12-11/IMG_6294[1].JPG
   - date: 2020-12-12
     address: Dohmstraße 2
     photos:
       - 2020-12-12/12-Dezember-Dohmstr-2.jpg
+    text: |-
+      Jesus, du Licht der Welt, wir erwarten dich.
   - date: 2020-12-13
     address: Theodor-Brinkmann Str. 40
     video:
@@ -227,6 +232,8 @@ days:
       title: „Die Reise zum Kind”
   - date: 2020-12-21
     address: Neuenahrer Str. 2
+    photos:
+      - 2020-12-21/IMG_4079-cropped.jpeg
   - date: 2020-12-22
     address: Zur Marterkapelle 4
     photos:
