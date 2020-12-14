@@ -21,7 +21,8 @@
   "scripts": {
     "start": "react-scripts start",
     "rebuild": "react-scripts build",
-    "build": "react-scripts build && rm -rf docs && mv build docs && cp CNAME ./docs/CNAME",
+    "build": "react-scripts build && cp CNAME ./build/CNAME",
+    "deploy2docs": "yarn build && rm -rf docs && mv build docs",
     "serve-build": "serve -s docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
