@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.15f93506.chunk.css",
-    "main.js": "/static/js/main.02b62fa4.chunk.js",
-    "main.js.map": "/static/js/main.02b62fa4.chunk.js.map",
+    "main.js": "/static/js/main.05d65868.chunk.js",
+    "main.js.map": "/static/js/main.05d65868.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
     "static/js/2.274896cb.chunk.js": "/static/js/2.274896cb.chunk.js",
@@ -66,7 +66,7 @@
     "static/media/Stern_21_dezember.pdf": "/static/media/Stern_21_dezember.fa6f7b68.pdf",
     "static/media/Trini-Logo-Schriftszug-transparent.1bf91475.png": "/static/media/Trini-Logo-Schriftszug-transparent.1bf91475.png",
     "static/media/c571cec50b7d765c97b334039283a9f5.jpg": "/static/media/c571cec50b7d765c97b334039283a9f5.f95ba588.jpg",
-    "static/media/data.72189c10.yaml": "/static/media/data.72189c10.yaml",
+    "static/media/data.dbfd17e0.yaml": "/static/media/data.dbfd17e0.yaml",
     "static/media/photo_2020-12-07_20-43-11-cropped.jpeg": "/static/media/photo_2020-12-07_20-43-11-cropped.1eb10bcf.jpeg",
     "static/media/photo_2020-12-07_20-43-11.jpeg": "/static/media/photo_2020-12-07_20-43-11.f1e3f5ec.jpeg",
     "static/media/video-cover.6d6ce17f.jpeg": "/static/media/video-cover.6d6ce17f.jpeg"
@@ -75,6 +75,6 @@
     "static/js/runtime-main.a04ad65b.js",
     "static/js/2.274896cb.chunk.js",
     "static/css/main.15f93506.chunk.css",
-    "static/js/main.02b62fa4.chunk.js"
+    "static/js/main.05d65868.chunk.js"
   ]
 }
