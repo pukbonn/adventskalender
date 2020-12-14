@@ -1,6 +1,6 @@
 import { useState, useEffect, Component } from 'react'
 
-import './app.css'
+// import './app.css'
 import './cards.css'
 import { Helmet } from 'react-helmet'
 import Countdown from 'react-countdown'
