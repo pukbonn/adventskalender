@@ -42,3 +42,4 @@ jobs:
         with:
           email: thomas.rosen@me.com
           build_dir: build
+          cname: adventskalender.puk-bonn.de
