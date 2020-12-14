@@ -1,6 +1,6 @@
 import { useState, useEffect, Component } from 'react'
 
-// import './app.css'
+import './app.css'
 import './cards.css'
 import { Helmet } from 'react-helmet'
 import Countdown from 'react-countdown'
@@ -129,6 +129,7 @@ function App() {
 			<svg viewBox="0 0 775 305" className="svg-header">
 				<text className="h1" x="10" y="90">Lebendiger</text>
 				<text className="h1" x="10" y="200">Adventskalender</text>
+				<text className="h1" x="10" y="290">2020</text>
 			</svg>
 
 			
