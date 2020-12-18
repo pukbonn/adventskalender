@@ -261,6 +261,12 @@ days:
       - 2020-12-17/Screenshot-2020-12-13-at-10-45-15.png
   - date: 2020-12-18
     address: Lutfriedstr. 18
+    photos:
+      - 2020-12-18/20201217_223303.jpg # right window
+      - 2020-12-18/20201218_184257.jpg # full window
+      - 2020-12-18/20201218_221340.jpg # one text
+      - 2020-12-18/20201218_184658.jpg # all texts
+      - 2020-12-18/20201218_184511.jpg # collage
   - date: 2020-12-19
     address: Ökum. Schaukasten Frongasse
   - date: 2020-12-20
