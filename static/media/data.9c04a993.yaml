@@ -269,6 +269,13 @@ days:
       - 2020-12-18/20201218_184511.jpg # collage
   - date: 2020-12-19
     address: Ökum. Schaukasten Frongasse
+    photos:
+      # - 2020-12-19/IMG_0711.JPG # verwackelt
+      - 2020-12-19/IMG_0712.JPG
+      - 2020-12-19/IMG_0713.JPG
+      - 2020-12-19/IMG_0714.JPG
+      - 2020-12-19/IMG_0716.JPG
+      - 2020-12-19/IMG_0715.JPG
   - date: 2020-12-20
     address: Auf dem Hügel 107
     video:
