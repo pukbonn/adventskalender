@@ -11,7 +11,7 @@ function Footer() {
 
 		</div>
 		<div className="footer_logos">
-			<a href="https://puk-bonn.de">
+			<a href="https://puk-bonn.de/">
 				<img
 					src={puk_logo}
 					alt="Logo der Pfarrei St. Maria Magdalena und Christi Auferstehung"
