@@ -278,6 +278,9 @@ days:
       - 2020-12-19/IMG_0715.JPG
   - date: 2020-12-20
     address: Auf dem Hügel 107
+    photos:
+      - 2020-12-20/IMG_20201220_172352.jpg
+      - 2020-12-20/IMG_20201220_182721.jpg
     video:
       url: https://www.youtube.com/watch?v=YsTVAYbDmPI
       title: „Zitternd werden sie zum Herrn kommen” – Impuls zum Vierten Advent
