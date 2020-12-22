@@ -278,6 +278,9 @@ days:
       - 2020-12-19/IMG_0715.JPG
   - date: 2020-12-20
     address: Auf dem Hügel 107
+    photos:
+      - 2020-12-20/IMG_20201220_172352.jpg
+      - 2020-12-20/IMG_20201220_182721.jpg
     video:
       url: https://www.youtube.com/watch?v=YsTVAYbDmPI
       title: „Zitternd werden sie zum Herrn kommen” – Impuls zum Vierten Advent
@@ -285,7 +288,14 @@ days:
     address: Neuenahrer Str. 2
     photos:
       - 2020-12-21/IMG_4079-cropped.jpeg
+      # - 2020-12-21/IMG_4079.jpeg
       - 2020-12-21/IMG_4339.jpeg
+      - 2020-12-21/IMG_4344.jpg
+      - 2020-12-21/IMG_4345.jpg
+      - 2020-12-21/IMG_4346.jpg
+      - 2020-12-21/IMG_4348.jpg
+      - 2020-12-21/IMG_4349.jpg
+      - 2020-12-21/IMG_4350.jpg
   - date: 2020-12-22
     address: Zur Marterkapelle 4
     photos:
