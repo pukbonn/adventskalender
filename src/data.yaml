@@ -368,8 +368,9 @@ days:
   - date: 2020-12-24
     address: Magdalenenstraße 25
     photos:
+      - 2020-12-24/IMG_0753_auto_x2_colored_toned_resized.jpg
+      - 2020-12-24/IMG_0753_auto_x2_colored_toned_cropped_resized.jpg
       - 2020-12-24/IMG_0753.JPG
-      - 2020-12-24/IMG_0754.jpg
 #   - date: 2020-12-24
 #     address: ''
 #     photos: []
