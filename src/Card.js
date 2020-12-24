@@ -29,7 +29,6 @@ function Card({data}) {
 	const daynumber = date.getDate()
 
 	const now = new Date()
-	now.setHours(now.getHours() - 1)
 	const isOpen = date < now
 
 	// address = address
