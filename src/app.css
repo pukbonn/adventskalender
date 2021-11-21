@@ -48,7 +48,7 @@ body.sheetIsOpen{
 }
 .intro_text .inner{
 	display: inline-block;
-	width: auto;
+	width: 640px;
 	max-width: 100%;
 	margin: 0 auto;
 	text-align: left;
