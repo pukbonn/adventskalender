@@ -182,6 +182,10 @@ function App() {
 						spazieren Sie vorbei, vielleicht gibt es eine Überraschung.
 					</p>
 					<br />
+					<p>
+						Für Fragen und Anregungen können Sie sich gerne an <a href="mailto:adventskalender@puk-bonn.de">adventskalender@puk-bonn.de</a> wenden.
+					</p>
+					<br />
 					<p><strong>Die Gestaltung berücksichtigt die geltenden Coronabedingungen!</strong></p>
 					<Countdown
 						date={calendarStart}
