@@ -6,13 +6,10 @@ import './sheet.css'
 import videoCover from './images/video-cover.jpeg'
 
 import {
-	useParams,
 	Link,
 } from 'react-router-dom'
 
-function Sheet({days}) {
-	let { dateString } = useParams()
-
+function Sheet({ days, dateString }) {
 	const [thisDaysData, setThisDaysData] = useState(null)
 	const [photoPath, setPhotoPaths] = useState([])
 

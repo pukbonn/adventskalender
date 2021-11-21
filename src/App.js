@@ -13,9 +13,9 @@ import YAML from 'yaml'
 import data_yaml_path from './data.yaml'
 
 import {
-	Route,
 	NavLink,
 	useLocation,
+	useRouteMatch,
 } from 'react-router-dom'
 
 
@@ -102,10 +102,23 @@ class SheetBodyStyle extends Component {
 function App() {
 	const location = useLocation()
 	const [year, ] = useState(new Date().getFullYear())
+	const [dateString, setDateString] = useState('')
 
 	useEffect(() => {
 		sendStats()
 	}, [location])
+
+	const urlMatch = useRouteMatch("/day/:dateString")
+	useEffect(() => {
+		if (urlMatch) {
+			const newDateString = urlMatch.params.dateString
+			setDateString(newDateString)
+		} else {
+			setDateString('')
+		}
+	}, [
+		urlMatch,
+	])
 
 	const [data, setData] = useState({
 		days: [],
@@ -168,10 +181,19 @@ function App() {
 				)}
 			</nav>
 
-			<Route path="/day/:dateString">
-				<SheetBodyStyle />
-				<Sheet days={days}/>
-			</Route>
+			{
+				typeof dateString === 'string'
+				&& dateString.length > 0
+				&& dateString.includes('-')
+				? <>
+					<SheetBodyStyle />
+					<Sheet
+						dateString={dateString}
+						days={data.days}
+					/>
+				</>
+				: null
+			}
 
 			<Footer />
 		</>
