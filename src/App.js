@@ -130,10 +130,9 @@ function App() {
 				<meta name="description" content="Ein ökumenisches Projekt der Pfarrei St. Maria Magdalena und Christi Auferstehung und der Evangelische Trinitatiskirchengemeinde Bonn-Endenich." />
 			</Helmet>
 
-			<svg viewBox="0 0 775 305" className="svg-header">
+			<svg viewBox="0 0 775 215" className="svg-header">
 				<text className="h1" x="10" y="90">Lebendiger</text>
 				<text className="h1" x="10" y="200">Adventskalender</text>
-				<text className="h1" x="10" y="290">{year}</text>
 			</svg>
 
 
