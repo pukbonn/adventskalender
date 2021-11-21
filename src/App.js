@@ -1,4 +1,4 @@
-import { useState, useEffect, Component } from 'react'
+import { useState, useEffect, useCallback, Component } from 'react'
 
 import './app.css'
 import './cards.css'
@@ -15,6 +15,7 @@ import data_yaml_path from './data.yaml'
 import {
 	NavLink,
 	useLocation,
+	useHistory,
 	useRouteMatch,
 } from 'react-router-dom'
 
@@ -99,10 +100,14 @@ class SheetBodyStyle extends Component {
 	}
 }
 
+const currentYear = new Date().getFullYear()
+
 function App() {
 	const location = useLocation()
-	const [year, ] = useState(new Date().getFullYear())
+	const history = useHistory()
+
 	const [dateString, setDateString] = useState('')
+	const [year, setYear] = useState(currentYear)
 
 	useEffect(() => {
 		sendStats()
@@ -113,11 +118,17 @@ function App() {
 		if (urlMatch) {
 			const newDateString = urlMatch.params.dateString
 			setDateString(newDateString)
+
+			const newDate = new Date(newDateString)
+			const newYear = newDate.getFullYear()
+			setYear(newYear)
 		} else {
 			setDateString('')
+			setYear(currentYear)
 		}
 	}, [
 		urlMatch,
+		setYear,
 	])
 
 	const [data, setData] = useState({
@@ -133,6 +144,19 @@ function App() {
 	}, [])
 
 	const days = data.days.filter(day => new Date(day.date).getFullYear() === year)
+	const years = [
+		...data.days
+			.reduce((years, day) => {
+				years.add(new Date(day.date).getFullYear())
+				return years
+			}, new Set())
+	]
+
+	const handleYearChange = useCallback(year => {
+		console.log('year', year)
+		setYear(year)
+		history.push(`/day/${year}`)
+	}, [ setYear, history ])
 
 	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
 	return (
@@ -168,6 +192,9 @@ function App() {
 			</header>
 
 
+			<nav className="years">
+				{years.map(thisYear => <span className={thisYear === year ? 'active' : ''} key={thisYear} onClick={() => handleYearChange(thisYear)}>{thisYear}</span>)}
+			</nav>
 
 			<nav className="cards">
 				{days.map(dayData =>
