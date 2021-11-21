@@ -101,6 +101,8 @@ class SheetBodyStyle extends Component {
 
 function App() {
 	const location = useLocation()
+	const [year, ] = useState(new Date().getFullYear())
+
 	useEffect(() => {
 		sendStats()
 	}, [location])
@@ -117,6 +119,8 @@ function App() {
 		.catch(error=> console.error(error))
 	}, [])
 
+	const days = data.days.filter(day => new Date(day.date).getFullYear() === year)
+
 	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
 	return (
 		<>
@@ -129,7 +133,7 @@ function App() {
 			<svg viewBox="0 0 775 305" className="svg-header">
 				<text className="h1" x="10" y="90">Lebendiger</text>
 				<text className="h1" x="10" y="200">Adventskalender</text>
-				<text className="h1" x="10" y="290">2020</text>
+				<text className="h1" x="10" y="290">{year}</text>
 			</svg>
 
 
@@ -154,7 +158,7 @@ function App() {
 
 
 			<nav className="cards">
-				{data.days.map(dayData =>
+				{days.map(dayData =>
 					<NavLink
 						className="card"
 						key={dayData.date}
@@ -167,7 +171,7 @@ function App() {
 
 			<Route path="/day/:dateString">
 				<SheetBodyStyle />
-				<Sheet days={data.days}/>
+				<Sheet days={days}/>
 			</Route>
 
 			<Footer />
