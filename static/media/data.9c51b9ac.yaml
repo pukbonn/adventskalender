@@ -379,6 +379,31 @@ days:
       - 2020-12-24/IMG_0753_auto_x2_colored_toned_resized.jpg
       - 2020-12-24/IMG_0753_auto_x2_colored_toned_cropped_resized.jpg
       - 2020-12-24/IMG_0753.JPG
+  - date: 2021-12-01
+    address: 'St. Maria Magdalena, Magdalenenstraße 25'
+  - date: 2021-12-02
+    address: ''
+  - date: 2021-12-04
+    address: 'Buchfinkenweg 30, Duisdorf'
+  - date: 2021-12-05
+    address: 'Magdalenenstraße 34'
+  - date: 2021-12-08
+    address: 'Kita St. Maria Magdalena, Wiesenweg 6'
+  - date: 2021-12-09
+    address: 'Sebastianstr. 178'
+  - date: 2021-12-11
+    address: 'Alfred Buchererstr. 20'
+  - date: 2021-12-14
+    address: 'Schieffelingsweg 26c'
+  - date: 2021-12-15
+    address: 'Magdalenenstraße 28'
+  - date: 2021-12-16
+    address: 'Schaukasten Frongasse'
+  - date: 2021-12-17
+    address: 'JAP'
+  - date: 2021-12-18
+    address: ''
+
 #   - date: 2020-12-24
 #     address: ''
 #     photos: []
