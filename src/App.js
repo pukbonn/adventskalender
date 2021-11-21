@@ -132,7 +132,7 @@ function App() {
 				<text className="h1" x="10" y="290">2020</text>
 			</svg>
 
-			
+
 
 			<div className="intro_text">
 				<div className="inner">
@@ -152,7 +152,7 @@ function App() {
 			</header>
 
 
-			
+
 			<nav className="cards">
 				{data.days.map(dayData =>
 					<NavLink
