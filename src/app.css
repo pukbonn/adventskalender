@@ -53,6 +53,14 @@ body.sheetIsOpen{
 	margin: 0 auto;
 	text-align: left;
 }
+.intro_text a{
+	color: var(--inverted-text);
+	text-decoration: underline;
+}
+.intro_text a:hover{
+	color: var(--inverted-text);
+	opacity: 0.6;
+}
 
 
 .footer{
