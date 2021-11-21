@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import LazyLoad from 'react-lazy-load'
+import LazyLoad from 'react-lazyload'
 
 function Card({data}) {
 	let {
@@ -91,6 +91,7 @@ function Card({data}) {
 					<LazyLoad
 						offset={512}
 						height={128}
+						once
 					>
 						<div className="image" style={{
 							backgroundImage: `url("${coverphotoPath}")`,
