@@ -178,7 +178,7 @@ function App() {
 				<div className="inner">
 					<p>
 						Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
-						<strong>Jeweils von 18:00 bis 18:30 Uhr erstrahlt ein geschmücktes Fenster,</strong><br />
+						<strong>Jeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenster,</strong><br />
 						spazieren Sie vorbei, vielleicht gibt es eine Überraschung.
 					</p>
 					<br />
