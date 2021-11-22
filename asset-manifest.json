@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e5c47d25.chunk.css",
-    "main.js": "/static/js/main.b1a544ba.chunk.js",
-    "main.js.map": "/static/js/main.b1a544ba.chunk.js.map",
+    "main.js": "/static/js/main.46a4c03b.chunk.js",
+    "main.js.map": "/static/js/main.46a4c03b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
     "static/js/2.502a1d45.chunk.js": "/static/js/2.502a1d45.chunk.js",
@@ -109,7 +109,7 @@
     "static/media/WhatsApp Video 2020-12-24 at 10.55.59.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.59.4f333fb7.mp4",
     "static/media/aufnahmen-2020-12-22.mov": "/static/media/aufnahmen-2020-12-22.879a6db9.mov",
     "static/media/c571cec50b7d765c97b334039283a9f5.jpg": "/static/media/c571cec50b7d765c97b334039283a9f5.f95ba588.jpg",
-    "static/media/data.9c51b9ac.yaml": "/static/media/data.9c51b9ac.yaml",
+    "static/media/data.71f9860c.yaml": "/static/media/data.71f9860c.yaml",
     "static/media/photo_2020-12-07_20-43-11-cropped.jpeg": "/static/media/photo_2020-12-07_20-43-11-cropped.1eb10bcf.jpeg",
     "static/media/photo_2020-12-07_20-43-11.jpeg": "/static/media/photo_2020-12-07_20-43-11.f1e3f5ec.jpeg",
     "static/media/video-cover.6d6ce17f.jpeg": "/static/media/video-cover.6d6ce17f.jpeg"
@@ -118,6 +118,6 @@
     "static/js/runtime-main.a04ad65b.js",
     "static/js/2.502a1d45.chunk.js",
     "static/css/main.e5c47d25.chunk.css",
-    "static/js/main.b1a544ba.chunk.js"
+    "static/js/main.46a4c03b.chunk.js"
   ]
 }
