@@ -382,6 +382,9 @@ days:
   - date: 2021-12-01
     time: 18:30
     address: 'St. Maria Magdalena, Magdalenenstraße 25'
+    photos:
+      - 2021-12-01/IMG_3967.JPG
+      - 2021-12-01/IMG_3968.JPG
   - date: 2021-12-02
     address: 'Gottfried-Kinkel Straße 25'
   - date: 2021-12-03
