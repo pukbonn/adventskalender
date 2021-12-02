@@ -393,12 +393,17 @@ days:
     address: 'Buchfinkenweg 30, Duisdorf'
   - date: 2021-12-05
     address: 'Magdalenenstraße 34'
+  - date: 2021-12-06
+    address: 'Neuenahrerstr. 2'
   - date: 2021-12-08
     address: 'Kita St. Maria Magdalena, Wiesenweg 6'
   - date: 2021-12-09
     address: 'Sebastianstraße 178'
   - date: 2021-12-11
     address: 'Alfred Bucherer-Straße 20'
+  - date: 2021-12-12
+    time: 17:00
+    address: 'Adventssingen in Trinitatis'
   - date: 2021-12-14
     address: 'Schieffelingsweg 26c, Duisdorf'
   - date: 2021-12-15
@@ -408,11 +413,16 @@ days:
   - date: 2021-12-17
     address: 'JAP, Am Propsthof 134'
   - date: 2021-12-18
-    address: 'Theodor-Litt-Str.17'
+    address: 'Theodor-Litt-Str. 17'
+  - date: 2021-12-19
+    time: 17:00
+    address: 'Adventssingen in Trinitatis'
   - date: 2021-12-20
     address: 'Wiesenweg 25'
   - date: 2021-12-21
-    address: 'Alfred-Bucherer-Straße91'
+    address: 'Alfred-Bucherer-Straße 91'
+  - date: 2021-12-22
+    address: 'Am Burggraben 36'
   - date: 2021-12-24
     address: 'Pfarrheim-Fenster, Magdalenenstraße 25'
 
