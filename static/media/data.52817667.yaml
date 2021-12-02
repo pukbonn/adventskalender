@@ -382,6 +382,9 @@ days:
   - date: 2021-12-01
     time: 18:30
     address: 'St. Maria Magdalena, Magdalenenstraße 25'
+    photos:
+      - 2021-12-01/IMG_3967.JPG
+      - 2021-12-01/IMG_3968.JPG
   - date: 2021-12-02
     address: 'Gottfried-Kinkel Straße 25'
   - date: 2021-12-03
@@ -397,9 +400,9 @@ days:
   - date: 2021-12-09
     address: 'Sebastianstraße 178'
   - date: 2021-12-11
-    address: 'Alfred Bucherer-Straße 20'
+    address: 'Alfred Bucherer-Straße 22'
   - date: 2021-12-12
-    time: 17:00
+    time: 18:00
     address: 'Adventssingen in Trinitatis'
   - date: 2021-12-14
     address: 'Schieffelingsweg 26c, Duisdorf'
@@ -412,7 +415,7 @@ days:
   - date: 2021-12-18
     address: 'Theodor-Litt-Str. 17'
   - date: 2021-12-19
-    time: 17:00
+    time: 18:00
     address: 'Adventssingen in Trinitatis'
   - date: 2021-12-20
     address: 'Wiesenweg 25'
