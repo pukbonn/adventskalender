@@ -389,6 +389,9 @@ days:
     address: 'Gottfried-Kinkel Straße 25'
   - date: 2021-12-03
     address: 'Pfarrer-Byns-Straße 5'
+    photos:
+      - 2021-12-03/IMG_9995.jpeg
+      - 2021-12-03/IMG_9996.jpeg
   - date: 2021-12-04
     address: 'Buchfinkenweg 30, Duisdorf'
   - date: 2021-12-05
