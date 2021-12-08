@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.e5c47d25.chunk.css",
-    "main.js": "/static/js/main.e54a0ada.chunk.js",
-    "main.js.map": "/static/js/main.e54a0ada.chunk.js.map",
+    "main.js": "/static/js/main.d87dc090.chunk.js",
+    "main.js.map": "/static/js/main.d87dc090.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
-    "static/js/2.559a0b15.chunk.js": "/static/js/2.559a0b15.chunk.js",
-    "static/js/2.559a0b15.chunk.js.map": "/static/js/2.559a0b15.chunk.js.map",
+    "static/js/2.61d7c148.chunk.js": "/static/js/2.61d7c148.chunk.js",
+    "static/js/2.61d7c148.chunk.js.map": "/static/js/2.61d7c148.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.e5c47d25.chunk.css.map": "/static/css/main.e5c47d25.chunk.css.map",
-    "static/js/2.559a0b15.chunk.js.LICENSE.txt": "/static/js/2.559a0b15.chunk.js.LICENSE.txt",
+    "static/js/2.61d7c148.chunk.js.LICENSE.txt": "/static/js/2.61d7c148.chunk.js.LICENSE.txt",
     "static/media/12-Dezember-Dohmstr-2.jpg": "/static/media/12-Dezember-Dohmstr-2.7760afa1.jpg",
     "static/media/20201126_173322.jpg": "/static/media/20201126_173322.55e3552f.jpg",
     "static/media/20201201_185439.jpg": "/static/media/20201201_185439.00d42812.jpg",
@@ -127,17 +127,18 @@
     "static/media/Trini-Logo-Schriftszug-transparent.1bf91475.png": "/static/media/Trini-Logo-Schriftszug-transparent.1bf91475.png",
     "static/media/WhatsApp Video 2020-12-24 at 10.55.16.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.16.e55f0585.mp4",
     "static/media/WhatsApp Video 2020-12-24 at 10.55.59.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.59.4f333fb7.mp4",
+    "static/media/_thumb.jpg": "/static/media/_thumb.faf07675.jpg",
     "static/media/aufnahmen-2020-12-22.mov": "/static/media/aufnahmen-2020-12-22.879a6db9.mov",
     "static/media/c571cec50b7d765c97b334039283a9f5.jpg": "/static/media/c571cec50b7d765c97b334039283a9f5.f95ba588.jpg",
-    "static/media/data.446c5bdb.yaml": "/static/media/data.446c5bdb.yaml",
+    "static/media/data.538977ae.yaml": "/static/media/data.538977ae.yaml",
     "static/media/photo_2020-12-07_20-43-11-cropped.jpeg": "/static/media/photo_2020-12-07_20-43-11-cropped.1eb10bcf.jpeg",
     "static/media/photo_2020-12-07_20-43-11.jpeg": "/static/media/photo_2020-12-07_20-43-11.f1e3f5ec.jpeg",
     "static/media/video-cover.6d6ce17f.jpeg": "/static/media/video-cover.6d6ce17f.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.a04ad65b.js",
-    "static/js/2.559a0b15.chunk.js",
+    "static/js/2.61d7c148.chunk.js",
     "static/css/main.e5c47d25.chunk.css",
-    "static/js/main.e54a0ada.chunk.js"
+    "static/js/main.d87dc090.chunk.js"
   ]
 }
