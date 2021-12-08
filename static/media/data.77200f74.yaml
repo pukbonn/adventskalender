@@ -400,6 +400,8 @@ days:
     address: 'Neuenahrerstr. 2'
   - date: 2021-12-08
     address: 'Kita St. Maria Magdalena, Wiesenweg 6'
+    photos:
+      - 2021-12-08/IMG_3381-small.jpeg
   - date: 2021-12-09
     address: 'Sebastianstraße 178'
   - date: 2021-12-11
