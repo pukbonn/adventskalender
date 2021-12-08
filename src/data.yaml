@@ -11,6 +11,7 @@ days:
       title: "Der erste Advent: „Es werde Licht” - Genesis 1:3"
   - date: 2020-12-01
     address: St. Maria Magdalena Magdalenenstraße 25
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-01/IMG_0951.jpeg
       - 2020-12-01/IMG_0952.jpeg
@@ -61,18 +62,21 @@ days:
       <br/>Das Licht einer Kerze kann die Dunkelheit nicht besiegen, aber es ist ein Zeichen der Hoffnung.
   - date: 2020-12-02
     address: Gottfried-Kinkel Str. 25, 53113 Bonn
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-02/20201202_171310.jpg
       - 2020-12-02/20201202_184656.jpeg
       - 2020-12-02/20201202_171848.jpg
   - date: 2020-12-03
     address: Ulrich-Haberland Str. 69
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-03/20201126_173322.jpg
       - 2020-12-03/20201203_174957.jpg
       - 2020-12-03/20201203_183422.jpg
   - date: 2020-12-04
     address: Lipschitzstrasse 40
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-04/20201203_181350.jpg
       - 2020-12-04/20201203_184913.jpg
@@ -83,6 +87,7 @@ days:
       <br/>Somit wollen wir allen, die heute hier vorbei kommen auch ein paar warme Erinnerungen für die Adventszeit und den Winter bescheren.
   - date: 2020-12-05
     address: Buchfinkenweg 30
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-05/20201205_173330[1].jpg
       # - 2020-12-05/IMG_0071-DONT.jpg # Der Macher möchte das Photo doch nicht mehr online haben.
@@ -116,6 +121,7 @@ days:
       <br/>„Wem könnten wir, wie Nikolaus, das Leben versüßen?” (Nach A. Grün)
   - date: 2020-12-06
     address: Magdalenenstraße 34
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-06/IMG_3908.jpeg
       - 2020-12-06/IMG_3909.jpeg
@@ -133,30 +139,36 @@ days:
       title: "Impuls zum Zweiten Advent: „...nimm dich in Acht, dass du nicht den Herrn vergisst...”"
   - date: 2020-12-07
     address: Verweyenstr. 4
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-07/20201206_172946.jpg
       # - 2020-12-07/20201206_172953.jpg # similar to above
       # - 2020-12-07/20201206_173000.jpg # similar to above
   - date: 2020-12-08
     address: Wiesenweg 15
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-08/photo_2020-12-07_20-43-11-cropped.jpeg
       # - 2020-12-08/photo_2020-12-07_20-43-11.jpeg
   - date: 2020-12-09
     address: Max-Cohen-Str. 30-32
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-09/20201202_175545.jpg
   - date: 2020-12-10
     address: Am Burggraben 36
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-10/Image.jpeg
   - date: 2020-12-11
     address: Magdalenenstr. 28
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-11/IMG_0677.jpg
       - 2020-12-11/IMG_6294[1].JPG
   - date: 2020-12-12
     address: Dohmstraße 2
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-12/12-Dezember-Dohmstr-2.jpg
     text: |-
@@ -166,6 +178,7 @@ days:
     video:
       url: https://youtu.be/yAc-ZACvDkk
       title: „Dein Thron soll auf ewig fest stehen!” Impuls zum Dritten Advent
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-13/84891ADA-AE3E-42F4-8944-0C5A8BD31501.jpeg
     text: |-
@@ -182,6 +195,7 @@ days:
       <br/>(entnommen aus [Vivat! Themenwelten und Jahreskreis](https://cms.vivat.de/themenwelten/jahreskreis/advent/heilige-lucia.html))
   - date: 2020-12-14
     address: JAP Am Propsthof 134
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-14/SAM_0792-smaller.JPG
     text: |-
@@ -204,6 +218,7 @@ days:
       <br/>Also: freie Sicht suchen, nach Südwesten schauen und nach dem Einsetzen der Dämmerung nach den Planeten Ausschau halten, da sie nach 18 Uhr bereits untergehen.
   - date: 2020-12-15
     address: Röckumstrasse 15
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-15/20201201_185439.jpg
       - 2020-12-15/20201202_145408.jpg
@@ -249,18 +264,21 @@ days:
       <br/>musste es für sich behalten, ganz tief im Herzen.
   - date: 2020-12-16
     address: Theodor-Litt-Str. 17
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-16/7e511a46-6676-492f-9196-a1cead323b1b.jpeg
       - 2020-12-16/20201216_184734.jpg
       - 2020-12-16/IMG_0709.JPG
   - date: 2020-12-17
     address: Kita St. Maria Magdalena Wiesenweg 6
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-17/IMG_2958.jpeg
       - 2020-12-17/IMG_2959.jpeg
       - 2020-12-17/Screenshot-2020-12-13-at-10-45-15.png
   - date: 2020-12-18
     address: Lutfriedstr. 18
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-18/20201217_223303.jpg # right window
       - 2020-12-18/20201218_184257.jpg # full window
@@ -269,6 +287,7 @@ days:
       - 2020-12-18/20201218_184511.jpg # collage
   - date: 2020-12-19
     address: Ökum. Schaukasten Frongasse
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-19/20201219_205828.jpg
       - 2020-12-19/20201219_205250.jpg
@@ -280,6 +299,7 @@ days:
       - 2020-12-19/IMG_0715.JPG
   - date: 2020-12-20
     address: Auf dem Hügel 107
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-20/IMG_20201220_172352.jpg
       - 2020-12-20/IMG_20201220_182721.jpg
@@ -288,6 +308,7 @@ days:
       title: „Zitternd werden sie zum Herrn kommen” – Impuls zum Vierten Advent
   - date: 2020-12-21
     address: Neuenahrer Str. 2
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-21/IMG_4079-cropped.jpeg
       # - 2020-12-21/IMG_4079.jpeg
@@ -322,6 +343,7 @@ days:
       <br/><br/>aus Alma Grüßhaber, TREFFPUNKT FENSTER, Verlag Junge Gemeinde, Lahn Verlag 2006, Seite 105-107
   - date: 2020-12-22
     address: Zur Marterkapelle 4
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-22/Lebendiger Adventskalender 2020_22. Dez. Engel.jpg
       - 2020-12-22/20201222_190440.jpg
@@ -369,12 +391,14 @@ days:
       *Quelle:* [bistum-augsburg.de](https://bistum-augsburg.de/content/download/170216/file/Adventliches%20Morgengebet%202016.pdf)
   - date: 2020-12-23
     address: Wiesenweg 4
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-23/IMG_4464.jpeg
       - 2020-12-23/IMG_4465.jpeg
       - 2020-12-23/IMG_4469.jpeg
   - date: 2020-12-24
     address: Magdalenenstraße 25
+    thumbnail: _thumb.jpg
     photos:
       - 2020-12-24/IMG_0753_auto_x2_colored_toned_resized.jpg
       - 2020-12-24/IMG_0753_auto_x2_colored_toned_cropped_resized.jpg
@@ -382,6 +406,7 @@ days:
   - date: 2021-12-01
     time: 18:30
     address: 'St. Maria Magdalena, Magdalenenstraße 25'
+    thumbnail: _thumb.jpg
     photos:
       - 2021-12-01/IMG_3967.JPG
       - 2021-12-01/IMG_3968.JPG
@@ -389,6 +414,7 @@ days:
     address: 'Gottfried-Kinkel Straße 25'
   - date: 2021-12-03
     address: 'Pfarrer-Byns-Straße 5'
+    thumbnail: _thumb.jpg
     photos:
       - 2021-12-03/IMG_9995.jpeg
       - 2021-12-03/IMG_9996.jpeg
@@ -398,6 +424,7 @@ days:
     address: 'Magdalenenstraße 34'
   - date: 2021-12-06
     address: 'Neuenahrerstr. 2'
+    thumbnail: _thumb.jpg
     photos:
       - 2021-12-06/IMG_0118.jpg
       - 2021-12-06/IMG_7597.JPG
@@ -409,8 +436,9 @@ days:
       - 2021-12-06/IMG_7587.JPG
   - date: 2021-12-08
     address: 'Kita St. Maria Magdalena, Wiesenweg 6'
+    thumbnail: _thumb.jpg
     photos:
-      - 2021-12-08/IMG_3381-small.jpeg
+      - IMG_3381-small.jpeg
   - date: 2021-12-09
     address: 'Sebastianstraße 178'
   - date: 2021-12-11

@@ -7,6 +7,7 @@ function Card({data}) {
 		time,
 		address,
 		video,
+		thumbnail,
 		photos,
 		text,
 	} = data
@@ -15,15 +16,20 @@ function Card({data}) {
 
 	useEffect(() => {
 		async function loadImage(){
-			if (!!photos && photos.length > 0 && photos[0] !== '') {
-				const path = require('./photos/'+photos[0])
+			if (!!thumbnail && typeof thumbnail === 'string' && thumbnail !== '') {
+				const path = require(`./photos/${dateString}/${thumbnail}`)
 				setCoverphotoPath(path.default)
 			}else{
-				setCoverphotoPath('')
+				if (!!photos && Array.isArray(photos) && photos.length > 0 && photos[0] !== '') {
+					const path = require('./photos/'+photos[0])
+					setCoverphotoPath(path.default)
+				}else{
+					setCoverphotoPath('')
+				}
 			}
 		}
 		loadImage()
-	}, [photos])
+	}, [ thumbnail, photos, dateString ])
 
 	const date = new Date(dateString)
 	const weekday = date.toLocaleString("de", {weekday:"long"})
