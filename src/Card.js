@@ -21,7 +21,7 @@ function Card({data}) {
 				setCoverphotoPath(path.default)
 			}else{
 				if (!!photos && Array.isArray(photos) && photos.length > 0 && photos[0] !== '') {
-					const path = require('./photos/'+photos[0])
+					const path = require(`./photos/${dateString}/${photos[0]}`)
 					setCoverphotoPath(path.default)
 				}else{
 					setCoverphotoPath('')

@@ -13,14 +13,14 @@ days:
     address: St. Maria Magdalena Magdalenenstraße 25
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-01/IMG_0951.jpeg
-      - 2020-12-01/IMG_0952.jpeg
-      - 2020-12-01/IMG_2009.jpeg
-      - 2020-12-01/IMG_2010.jpeg
-      - 2020-12-01/IMG_2011.jpeg
-      - 2020-12-01/IMG_2012.jpeg
-      - 2020-12-01/IMG_2013.jpeg
-      - 2020-12-01/IMG_2014.jpeg
+      - IMG_0951.jpeg
+      - IMG_0952.jpeg
+      - IMG_2009.jpeg
+      - IMG_2010.jpeg
+      - IMG_2011.jpeg
+      - IMG_2012.jpeg
+      - IMG_2013.jpeg
+      - IMG_2014.jpeg
     text: |-
       Lebendiger Advent
 
@@ -64,23 +64,23 @@ days:
     address: Gottfried-Kinkel Str. 25, 53113 Bonn
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-02/20201202_171310.jpg
-      - 2020-12-02/20201202_184656.jpeg
-      - 2020-12-02/20201202_171848.jpg
+      - 20201202_171310.jpg
+      - 20201202_184656.jpeg
+      - 20201202_171848.jpg
   - date: 2020-12-03
     address: Ulrich-Haberland Str. 69
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-03/20201126_173322.jpg
-      - 2020-12-03/20201203_174957.jpg
-      - 2020-12-03/20201203_183422.jpg
+      - 20201126_173322.jpg
+      - 20201203_174957.jpg
+      - 20201203_183422.jpg
   - date: 2020-12-04
     address: Lipschitzstrasse 40
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-04/20201203_181350.jpg
-      - 2020-12-04/20201203_184913.jpg
-      - 2020-12-04/20201204_165007.jpg
+      - 20201203_181350.jpg
+      - 20201203_184913.jpg
+      - 20201204_165007.jpg
     text: |-
       Wir wollen an die Geschichte „Frederik” von Leo Lionni erinnern.
       <br/>Die kleine Feldmaus, die anstatt Körner und Nüsse für den Winter zu sammeln, die Farben und Sonnenstrahlen des Sommers einfängt. Und wenn der Winter kalt ist und die Vorräte aufgegessen, dann wärmt er seine Mäusefamilie mit Erinnerungen an den Sommer.
@@ -89,8 +89,8 @@ days:
     address: Buchfinkenweg 30
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-05/20201205_173330[1].jpg
-      # - 2020-12-05/IMG_0071-DONT.jpg # Der Macher möchte das Photo doch nicht mehr online haben.
+      - 20201205_173330[1].jpg
+      # - IMG_0071-DONT.jpg # Der Macher möchte das Photo doch nicht mehr online haben.
     text: |-
       Der Bratapfel
 
@@ -123,17 +123,17 @@ days:
     address: Magdalenenstraße 34
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-06/IMG_3908.jpeg
-      - 2020-12-06/IMG_3909.jpeg
-      - 2020-12-06/IMG_3911.jpeg
-      - 2020-12-06/IMG_3910.jpeg
-      - 2020-12-06/IMG_3914.jpeg
-      - 2020-12-06/IMG_3912.jpeg
-      - 2020-12-06/IMG_0635.JPG
-      - 2020-12-06/IMG_0641.JPG
-      - 2020-12-06/IMG_0640.JPG
-      - 2020-12-06/IMG_0639.JPG
-      # - 2020-12-06/IMG_0636.JPG # verwackelt
+      - IMG_3908.jpeg
+      - IMG_3909.jpeg
+      - IMG_3911.jpeg
+      - IMG_3910.jpeg
+      - IMG_3914.jpeg
+      - IMG_3912.jpeg
+      - IMG_0635.JPG
+      - IMG_0641.JPG
+      - IMG_0640.JPG
+      - IMG_0639.JPG
+      # - IMG_0636.JPG # verwackelt
     video:
       url: "https://youtu.be/8LgUrsXZpTU"
       title: "Impuls zum Zweiten Advent: „...nimm dich in Acht, dass du nicht den Herrn vergisst...”"
@@ -141,36 +141,36 @@ days:
     address: Verweyenstr. 4
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-07/20201206_172946.jpg
-      # - 2020-12-07/20201206_172953.jpg # similar to above
-      # - 2020-12-07/20201206_173000.jpg # similar to above
+      - 20201206_172946.jpg
+      # - 20201206_172953.jpg # similar to above
+      # - 20201206_173000.jpg # similar to above
   - date: 2020-12-08
     address: Wiesenweg 15
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-08/photo_2020-12-07_20-43-11-cropped.jpeg
-      # - 2020-12-08/photo_2020-12-07_20-43-11.jpeg
+      - photo_2020-12-07_20-43-11-cropped.jpeg
+      # - photo_2020-12-07_20-43-11.jpeg
   - date: 2020-12-09
     address: Max-Cohen-Str. 30-32
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-09/20201202_175545.jpg
+      - 20201202_175545.jpg
   - date: 2020-12-10
     address: Am Burggraben 36
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-10/Image.jpeg
+      - Image.jpeg
   - date: 2020-12-11
     address: Magdalenenstr. 28
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-11/IMG_0677.jpg
-      - 2020-12-11/IMG_6294[1].JPG
+      - IMG_0677.jpg
+      - IMG_6294[1].JPG
   - date: 2020-12-12
     address: Dohmstraße 2
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-12/12-Dezember-Dohmstr-2.jpg
+      - 12-Dezember-Dohmstr-2.jpg
     text: |-
       Jesus, du Licht der Welt, wir erwarten dich.
   - date: 2020-12-13
@@ -180,7 +180,7 @@ days:
       title: „Dein Thron soll auf ewig fest stehen!” Impuls zum Dritten Advent
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-13/84891ADA-AE3E-42F4-8944-0C5A8BD31501.jpeg
+      - 84891ADA-AE3E-42F4-8944-0C5A8BD31501.jpeg
     text: |-
       #### Der Tag der heiligen Lucia (Luzia)
       <br />**Legende und Brauchtum zum Gedenktag am 13. Dezember**
@@ -197,7 +197,7 @@ days:
     address: JAP Am Propsthof 134
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-14/SAM_0792-smaller.JPG
+      - SAM_0792-smaller.JPG
     text: |-
       #### Der Stern von Bethlehem und die große Konjunktion
 
@@ -220,10 +220,10 @@ days:
     address: Röckumstrasse 15
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-15/20201201_185439.jpg
-      - 2020-12-15/20201202_145408.jpg
-      - 2020-12-15/20201202_145615.jpg
-      - 2020-12-15/c571cec50b7d765c97b334039283a9f5.jpg
+      - 20201201_185439.jpg
+      - 20201202_145408.jpg
+      - 20201202_145615.jpg
+      - c571cec50b7d765c97b334039283a9f5.jpg
     text: |-
       **Als der kleine Engel einen Nachtbesuch machte**
 
@@ -266,43 +266,43 @@ days:
     address: Theodor-Litt-Str. 17
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-16/7e511a46-6676-492f-9196-a1cead323b1b.jpeg
-      - 2020-12-16/20201216_184734.jpg
-      - 2020-12-16/IMG_0709.JPG
+      - 7e511a46-6676-492f-9196-a1cead323b1b.jpeg
+      - 20201216_184734.jpg
+      - IMG_0709.JPG
   - date: 2020-12-17
     address: Kita St. Maria Magdalena Wiesenweg 6
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-17/IMG_2958.jpeg
-      - 2020-12-17/IMG_2959.jpeg
-      - 2020-12-17/Screenshot-2020-12-13-at-10-45-15.png
+      - IMG_2958.jpeg
+      - IMG_2959.jpeg
+      - Screenshot-2020-12-13-at-10-45-15.png
   - date: 2020-12-18
     address: Lutfriedstr. 18
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-18/20201217_223303.jpg # right window
-      - 2020-12-18/20201218_184257.jpg # full window
-      - 2020-12-18/20201218_221340.jpg # one text
-      - 2020-12-18/20201218_184658.jpg # all texts
-      - 2020-12-18/20201218_184511.jpg # collage
+      - 20201217_223303.jpg # right window
+      - 20201218_184257.jpg # full window
+      - 20201218_221340.jpg # one text
+      - 20201218_184658.jpg # all texts
+      - 20201218_184511.jpg # collage
   - date: 2020-12-19
     address: Ökum. Schaukasten Frongasse
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-19/20201219_205828.jpg
-      - 2020-12-19/20201219_205250.jpg
-      # - 2020-12-19/IMG_0711.JPG # verwackelt
-      - 2020-12-19/IMG_0712.JPG
-      - 2020-12-19/IMG_0713.JPG
-      - 2020-12-19/IMG_0714.JPG
-      - 2020-12-19/IMG_0716.JPG
-      - 2020-12-19/IMG_0715.JPG
+      - 20201219_205828.jpg
+      - 20201219_205250.jpg
+      # - IMG_0711.JPG # verwackelt
+      - IMG_0712.JPG
+      - IMG_0713.JPG
+      - IMG_0714.JPG
+      - IMG_0716.JPG
+      - IMG_0715.JPG
   - date: 2020-12-20
     address: Auf dem Hügel 107
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-20/IMG_20201220_172352.jpg
-      - 2020-12-20/IMG_20201220_182721.jpg
+      - IMG_20201220_172352.jpg
+      - IMG_20201220_182721.jpg
     video:
       url: https://www.youtube.com/watch?v=YsTVAYbDmPI
       title: „Zitternd werden sie zum Herrn kommen” – Impuls zum Vierten Advent
@@ -310,15 +310,15 @@ days:
     address: Neuenahrer Str. 2
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-21/IMG_4079-cropped.jpeg
-      # - 2020-12-21/IMG_4079.jpeg
-      - 2020-12-21/IMG_4339.jpeg
-      - 2020-12-21/IMG_4344.jpg
-      - 2020-12-21/IMG_4345.jpg
-      - 2020-12-21/IMG_4346.jpg
-      - 2020-12-21/IMG_4348.jpg
-      - 2020-12-21/IMG_4349.jpg
-      - 2020-12-21/IMG_4350.jpg
+      - IMG_4079-cropped.jpeg
+      # - IMG_4079.jpeg
+      - IMG_4339.jpeg
+      - IMG_4344.jpg
+      - IMG_4345.jpg
+      - IMG_4346.jpg
+      - IMG_4348.jpg
+      - IMG_4349.jpg
+      - IMG_4350.jpg
     text: |-
       #### Der König, der nicht reisen konnte
       <br/><br/>**Einleitung:** Die Geschichte der drei Könige, die dem Stern folgen, ist eine der schönsten Erzählungen. Haben auch andere den Stern gesehen? Was haben sie gedacht? Warum sind sie zu Hause geblieben? Jerome, von dem ich erzählen will, ist ein solcher König.
@@ -345,9 +345,9 @@ days:
     address: Zur Marterkapelle 4
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-22/Lebendiger Adventskalender 2020_22. Dez. Engel.jpg
-      - 2020-12-22/20201222_190440.jpg
-      - 2020-12-22/20201222_190630.jpg
+      - Lebendiger Adventskalender 2020_22. Dez. Engel.jpg
+      - 20201222_190440.jpg
+      - 20201222_190630.jpg
     text: |-
       [Hier klicken für ein Video des Abends.](https://github.com/pukbonn/adventskalender/blob/main/src/photos/2020-12-22/aufnahmen-2020-12-22.mov?raw=true)
       <br/><br/>
@@ -393,31 +393,31 @@ days:
     address: Wiesenweg 4
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-23/IMG_4464.jpeg
-      - 2020-12-23/IMG_4465.jpeg
-      - 2020-12-23/IMG_4469.jpeg
+      - IMG_4464.jpeg
+      - IMG_4465.jpeg
+      - IMG_4469.jpeg
   - date: 2020-12-24
     address: Magdalenenstraße 25
     thumbnail: _thumb.jpg
     photos:
-      - 2020-12-24/IMG_0753_auto_x2_colored_toned_resized.jpg
-      - 2020-12-24/IMG_0753_auto_x2_colored_toned_cropped_resized.jpg
-      - 2020-12-24/IMG_0753.JPG
+      - IMG_0753_auto_x2_colored_toned_resized.jpg
+      - IMG_0753_auto_x2_colored_toned_cropped_resized.jpg
+      - IMG_0753.JPG
   - date: 2021-12-01
     time: 18:30
     address: 'St. Maria Magdalena, Magdalenenstraße 25'
     thumbnail: _thumb.jpg
     photos:
-      - 2021-12-01/IMG_3967.JPG
-      - 2021-12-01/IMG_3968.JPG
+      - IMG_3968.JPG
+      - IMG_3967.JPG
   - date: 2021-12-02
     address: 'Gottfried-Kinkel Straße 25'
   - date: 2021-12-03
     address: 'Pfarrer-Byns-Straße 5'
     thumbnail: _thumb.jpg
     photos:
-      - 2021-12-03/IMG_9995.jpeg
-      - 2021-12-03/IMG_9996.jpeg
+      - IMG_9995.jpeg
+      - IMG_9996.jpeg
   - date: 2021-12-04
     address: 'Buchfinkenweg 30, Duisdorf'
   - date: 2021-12-05
@@ -426,14 +426,14 @@ days:
     address: 'Neuenahrerstr. 2'
     thumbnail: _thumb.jpg
     photos:
-      - 2021-12-06/IMG_0118.jpg
-      - 2021-12-06/IMG_7597.JPG
-      - 2021-12-06/IMG_0117.jpg
-      - 2021-12-06/IMG_7589.jpg
-      - 2021-12-06/IMG_7592.jpg
-      - 2021-12-06/IMG_0123.jpg
-      - 2021-12-06/IMG_0119.jpg
-      - 2021-12-06/IMG_7587.JPG
+      - IMG_0118.jpg
+      - IMG_7597.JPG
+      - IMG_0117.jpg
+      - IMG_7589.jpg
+      - IMG_7592.jpg
+      - IMG_0123.jpg
+      - IMG_0119.jpg
+      - IMG_7587.JPG
   - date: 2021-12-08
     address: 'Kita St. Maria Magdalena, Wiesenweg 6'
     thumbnail: _thumb.jpg

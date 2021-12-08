@@ -19,7 +19,7 @@ function Sheet({ days, dateString }) {
 			if (!!photos && photos.length > 0) {
 				const paths = []
 				for (let filename of photos) {
-					const path = require('./photos/'+filename)
+					const path = require(`./photos/${dateString}/${filename}`)
 					paths.push(path.default)
 				}
 				setPhotoPaths(paths)
@@ -30,7 +30,7 @@ function Sheet({ days, dateString }) {
 		if (!!thisDaysData && !!thisDaysData.photos) {
 			loadPhotos()
 		}
-	}, [thisDaysData])
+	}, [ thisDaysData, dateString ])
 
 	useEffect(() => {
 		if (!!dateString) {
