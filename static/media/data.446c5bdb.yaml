@@ -398,6 +398,15 @@ days:
     address: 'Magdalenenstraße 34'
   - date: 2021-12-06
     address: 'Neuenahrerstr. 2'
+    photos:
+      - 2021-12-06/IMG_0118.jpg
+      - 2021-12-06/IMG_7597.JPG
+      - 2021-12-06/IMG_0117.jpg
+      - 2021-12-06/IMG_7589.jpg
+      - 2021-12-06/IMG_7592.jpg
+      - 2021-12-06/IMG_0123.jpg
+      - 2021-12-06/IMG_0119.jpg
+      - 2021-12-06/IMG_7587.JPG
   - date: 2021-12-08
     address: 'Kita St. Maria Magdalena, Wiesenweg 6'
     photos:
