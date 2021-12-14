@@ -443,6 +443,14 @@ days:
     address: 'Sebastianstraße 178'
   - date: 2021-12-11
     address: 'Alfred Bucherer-Straße 22'
+    thumbnail: _thumb.jpg
+    photos:
+      - IMG_4015.jpg
+      - IMG_4024.jpg
+      - image0.jpeg
+      - IMG_4025.jpg
+      - IMG_4028.jpg
+      - IMG_4022.jpg
   - date: 2021-12-12
     time: 18:00
     address: 'Adventssingen in Trinitatis'
