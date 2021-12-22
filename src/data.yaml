@@ -420,6 +420,11 @@ days:
       - IMG_9996.jpeg
   - date: 2021-12-04
     address: 'Buchfinkenweg 30, Duisdorf'
+    photos:
+      - 20211204_192657.jpg
+    text: |-
+      Aus der Adventsmeditation von Anselm Grün:
+      "So bedeuten für uns Christen die Barbarazweige (...), dass in der Kälte des Winters neues Leben aufblüht. Sie sind Zeichen der Hoffnung, dass durch Christus auch unser Leben immer fruchtbar ist, selbst wenn wir uns wie im Gefängnis fühlen, selbst wenn wir verletzt werden, selbst wenn wir abgelehnt und ausgestoßen werden. (...) In die Kälte des Winters kommt die Wärme der Liebe, die selbst das Tote in uns wieder aufblühen läßt."
   - date: 2021-12-05
     address: 'Magdalenenstraße 34'
     thumbnail: _thumb.jpg
@@ -500,7 +505,8 @@ days:
 
 #   - date: 2020-12-24
 #     address: ''
-#     photos: []
+#     photos: []  (1200px groesste Seite)
+#     thumbnail: ''  (400px groesste Seite)
 #     video: ''
 #     text: |-
 #       *hello*
