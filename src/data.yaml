@@ -500,6 +500,12 @@ days:
     address: 'Alfred-Bucherer-Straße 91'
   - date: 2021-12-22
     address: 'Am Burggraben 36'
+    photos:
+      - 20211222_183855.jpg
+      - 20211222_193306.jpg
+      - 20211222_193516.jpg
+      - 20211222_193629.jpg
+      - 20211222_feuer.jpg
   - date: 2021-12-24
     address: 'Pfarrheim-Fenster, Magdalenenstraße 25'
 
