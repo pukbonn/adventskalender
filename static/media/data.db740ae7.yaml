@@ -422,6 +422,12 @@ days:
     address: 'Buchfinkenweg 30, Duisdorf'
   - date: 2021-12-05
     address: 'Magdalenenstraße 34'
+    thumbnail: _thumb.jpg
+    photos:
+      - IMG_4050.JPG
+      - IMG_4051.JPG
+      - IMG_4052.JPG
+      - IMG_4053.JPG
   - date: 2021-12-06
     address: 'Neuenahrerstr. 2'
     thumbnail: _thumb.jpg
@@ -460,15 +466,31 @@ days:
     address: 'Magdalenenstraße 28'
   - date: 2021-12-16
     address: 'Ökumenischer Schaukasten, Frongasse'
+    thumbnail: _thumb.jpg
+    photos:
+      - image0.jpeg
+      - image1.jpeg
   - date: 2021-12-17
     address: 'JAP, Am Propsthof 134'
   - date: 2021-12-18
     address: 'Theodor-Litt-Str. 17'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20211218_181618.jpg
+      - 20211218_201909.jpg
+      - 20211218_204818.jpg
+      - 20211218_180033.jpg
   - date: 2021-12-19
     time: 18:00
     address: 'Adventssingen in Trinitatis'
   - date: 2021-12-20
     address: 'Wiesenweg 25'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20211220_175321_resized.jpg
+      - 20211219_193557_resized.jpg
+    text: |-
+      Es gab eine Geschichte zum Mitnehmen, Musik und Schokolade.
   - date: 2021-12-21
     address: 'Alfred-Bucherer-Straße 91'
   - date: 2021-12-22
