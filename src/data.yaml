@@ -466,6 +466,10 @@ days:
     address: 'Magdalenenstraße 28'
   - date: 2021-12-16
     address: 'Ökumenischer Schaukasten, Frongasse'
+    thumbnail: _thumb.jpg
+    photos:
+      - image0.jpeg
+      - image1.jpeg
   - date: 2021-12-17
     address: 'JAP, Am Propsthof 134'
   - date: 2021-12-18
