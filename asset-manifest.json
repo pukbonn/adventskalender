@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e5c47d25.chunk.css",
-    "main.js": "/static/js/main.7c353eff.chunk.js",
-    "main.js.map": "/static/js/main.7c353eff.chunk.js.map",
+    "main.js": "/static/js/main.51364fdb.chunk.js",
+    "main.js.map": "/static/js/main.51364fdb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
     "static/js/2.257ff4d4.chunk.js": "/static/js/2.257ff4d4.chunk.js",
@@ -143,7 +143,6 @@
     "static/media/WhatsApp Video 2020-12-24 at 10.55.16.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.16.e55f0585.mp4",
     "static/media/WhatsApp Video 2020-12-24 at 10.55.59.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.59.4f333fb7.mp4",
     "static/media/_thumb.jpg": "/static/media/_thumb.faf07675.jpg",
-    "static/media/_thumb.jpeg": "/static/media/_thumb.73f63b90.jpeg",
     "static/media/aufnahmen-2020-12-22.mov": "/static/media/aufnahmen-2020-12-22.879a6db9.mov",
     "static/media/c571cec50b7d765c97b334039283a9f5.jpg": "/static/media/c571cec50b7d765c97b334039283a9f5.f95ba588.jpg",
     "static/media/data.db740ae7.yaml": "/static/media/data.db740ae7.yaml",
@@ -157,6 +156,6 @@
     "static/js/runtime-main.a04ad65b.js",
     "static/js/2.257ff4d4.chunk.js",
     "static/css/main.e5c47d25.chunk.css",
-    "static/js/main.7c353eff.chunk.js"
+    "static/js/main.51364fdb.chunk.js"
   ]
 }
