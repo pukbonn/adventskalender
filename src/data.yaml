@@ -422,6 +422,12 @@ days:
     address: 'Buchfinkenweg 30, Duisdorf'
   - date: 2021-12-05
     address: 'Magdalenenstraße 34'
+    thumbnail: _thumb.jpg
+    photos:
+      - IMG_4050.JPG
+      - IMG_4051.JPG
+      - IMG_4052.JPG
+      - IMG_4053.JPG
   - date: 2021-12-06
     address: 'Neuenahrerstr. 2'
     thumbnail: _thumb.jpg
