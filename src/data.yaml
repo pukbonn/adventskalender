@@ -485,6 +485,12 @@ days:
     address: 'Adventssingen in Trinitatis'
   - date: 2021-12-20
     address: 'Wiesenweg 25'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20211220_175321_resized.jpg
+      - 20211219_193557_resized.jpg
+    text: |-
+      Es gab eine Geschichte zum Mitnehmen, Musik und Schokolade.
   - date: 2021-12-21
     address: 'Alfred-Bucherer-Straße 91'
   - date: 2021-12-22
