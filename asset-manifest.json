@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.e5c47d25.chunk.css",
-    "main.js": "/static/js/main.51364fdb.chunk.js",
-    "main.js.map": "/static/js/main.51364fdb.chunk.js.map",
+    "main.js": "/static/js/main.9dc804c5.chunk.js",
+    "main.js.map": "/static/js/main.9dc804c5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
-    "static/js/2.257ff4d4.chunk.js": "/static/js/2.257ff4d4.chunk.js",
-    "static/js/2.257ff4d4.chunk.js.map": "/static/js/2.257ff4d4.chunk.js.map",
+    "static/js/2.8ddbabd2.chunk.js": "/static/js/2.8ddbabd2.chunk.js",
+    "static/js/2.8ddbabd2.chunk.js.map": "/static/js/2.8ddbabd2.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.e5c47d25.chunk.css.map": "/static/css/main.e5c47d25.chunk.css.map",
-    "static/js/2.257ff4d4.chunk.js.LICENSE.txt": "/static/js/2.257ff4d4.chunk.js.LICENSE.txt",
+    "static/js/2.8ddbabd2.chunk.js.LICENSE.txt": "/static/js/2.8ddbabd2.chunk.js.LICENSE.txt",
     "static/media/12-Dezember-Dohmstr-2.jpg": "/static/media/12-Dezember-Dohmstr-2.7760afa1.jpg",
     "static/media/20201126_173322.jpg": "/static/media/20201126_173322.55e3552f.jpg",
     "static/media/20201201_185439.jpg": "/static/media/20201201_185439.00d42812.jpg",
@@ -38,6 +38,7 @@
     "static/media/20201219_205828.jpg": "/static/media/20201219_205828.64c88d5c.jpg",
     "static/media/20201222_190440.jpg": "/static/media/20201222_190440.0ad0d934.jpg",
     "static/media/20201222_190630.jpg": "/static/media/20201222_190630.f36e76a9.jpg",
+    "static/media/20211204_192657.jpg": "/static/media/20211204_192657.eca3024f.jpg",
     "static/media/20211218_180033.jpg": "/static/media/20211218_180033.16717851.jpg",
     "static/media/20211218_181618.jpg": "/static/media/20211218_181618.dae70edf.jpg",
     "static/media/20211218_201909.jpg": "/static/media/20211218_201909.ca5d3fa6.jpg",
@@ -145,7 +146,7 @@
     "static/media/_thumb.jpg": "/static/media/_thumb.faf07675.jpg",
     "static/media/aufnahmen-2020-12-22.mov": "/static/media/aufnahmen-2020-12-22.879a6db9.mov",
     "static/media/c571cec50b7d765c97b334039283a9f5.jpg": "/static/media/c571cec50b7d765c97b334039283a9f5.f95ba588.jpg",
-    "static/media/data.db740ae7.yaml": "/static/media/data.db740ae7.yaml",
+    "static/media/data.530faf04.yaml": "/static/media/data.530faf04.yaml",
     "static/media/image0.jpeg": "/static/media/image0.d0e96707.jpeg",
     "static/media/image1.jpeg": "/static/media/image1.6b6bdf66.jpeg",
     "static/media/photo_2020-12-07_20-43-11-cropped.jpeg": "/static/media/photo_2020-12-07_20-43-11-cropped.1eb10bcf.jpeg",
@@ -154,8 +155,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a04ad65b.js",
-    "static/js/2.257ff4d4.chunk.js",
+    "static/js/2.8ddbabd2.chunk.js",
     "static/css/main.e5c47d25.chunk.css",
-    "static/js/main.51364fdb.chunk.js"
+    "static/js/main.9dc804c5.chunk.js"
   ]
 }
