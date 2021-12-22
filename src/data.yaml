@@ -474,6 +474,12 @@ days:
     address: 'JAP, Am Propsthof 134'
   - date: 2021-12-18
     address: 'Theodor-Litt-Str. 17'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20211218_181618.jpg
+      - 20211218_201909.jpg
+      - 20211218_204818.jpg
+      - 20211218_180033.jpg
   - date: 2021-12-19
     time: 18:00
     address: 'Adventssingen in Trinitatis'
