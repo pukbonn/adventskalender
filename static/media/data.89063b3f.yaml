@@ -511,6 +511,7 @@ days:
 
 #   - date: 2020-12-24
 #     address: ''
+#     time: ''
 #     photos: []  (1200px groesste Seite)
 #     thumbnail: ''  (400px groesste Seite)
 #     video: ''
