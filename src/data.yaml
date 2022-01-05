@@ -477,6 +477,11 @@ days:
       - image1.jpeg
   - date: 2021-12-17
     address: 'JAP, Am Propsthof 134'
+    thumbnail: _thumb.jpg
+    photos:
+      - signal-2021-12-17-194903_001.jpg
+      - signal-2021-12-17-194903_002.jpg
+      - signal-2021-12-17-194903_003.jpg
   - date: 2021-12-18
     address: 'Theodor-Litt-Str. 17'
     thumbnail: _thumb.jpg
