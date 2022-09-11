@@ -516,7 +516,55 @@ days:
     photos:
       - 20211224_1.jpg
       - 20211224_2.jpg
-
+  - date: 2022-12-01
+    adresse: 'Der Termin ist noch frei'
+  - date: 2022-12-02
+    adresse: 'Der Termin ist noch frei'
+  - date: 2022-12-03
+    adresse: 'Der Termin ist noch frei'
+  - date: 2022-12-04
+    adresse: 'Der Termin ist noch frei'
+  - date: 2022-12-05
+    adresse: 'Der Termin ist noch frei'
+  - date: 2022-12-06
+    adresse: 'Der Termin ist noch frei'
+  - date: 2022-12-07
+    adresse: 'Der Termin ist noch frei'
+  - date: 2022-12-08
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-09
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-10
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-11
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-12
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-13
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-14
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-15
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-16
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-17
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-18
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-19
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-20
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-21
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-22
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-23
+    adresse: 'Der Termin ist möglicherweise noch frei'
+  - date: 2022-12-24
+    adresse: 'Der Termin ist möglicherweise noch frei'
+    
 #   - date: 2020-12-24
 #     address: ''
 #     time: ''
