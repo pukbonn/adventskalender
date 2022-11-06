@@ -517,53 +517,53 @@ days:
       - 20211224_1.jpg
       - 20211224_2.jpg
   - date: 2022-12-01
-    adresse: 'St. Maria Magdalena, Magdalenenstraße 25'
+    adresse: St. Maria Magdalena, Magdalenenstraße 25
   - date: 2022-12-02
-    adresse: 'Der Termin ist frei'
+    adresse: Der Termin ist frei
   - date: 2022-12-03
-    adresse: 'Buchfinkenweg 30, 531123 Bonn Duisdorf'
+    adresse: Buchfinkenweg 30, 531123 Bonn Duisdorf
   - date: 2022-12-04
-    adresse: 'Endenicher Burg, Am Burggraben'
+    adresse: Endenicher Burg, Am Burggraben
   - date: 2022-12-05
-    adresse: 'Der Termin ist frei'
+    adresse: Der Termin ist frei
   - date: 2022-12-06
-    adresse: 'Der Termin ist frei'
+    adresse: Der Termin ist frei
   - date: 2022-12-07
-    adresse: 'KiTa St. Maria Magdalena, Wiesenweg 6'
+    adresse: KiTa St. Maria Magdalena, Wiesenweg 6
   - date: 2022-12-08
-    adresse: 'Ökumenischer Schaukasten, Frongasse'
+    adresse: Ökumenischer Schaukasten, Frongasse
   - date: 2022-12-09
-    adresse: 'Sebastianstr. 178'
+    adresse: Sebastianstr. 178
   - date: 2022-12-10
-    adresse: 'Der Termin ist frei'
+    adresse: Der Termin ist frei
   - date: 2022-12-11
-    adresse: 'Bonner Logsweg 44, 53123 Bonn Lessenich'
+    adresse: Bonner Logsweg 44, 53123 Bonn Lessenich
   - date: 2022-12-12
-    adresse: 'Kaufmannstraße 46'
+    adresse: Kaufmannstraße 46
   - date: 2022-12-13
-    adresse: 'Alte Heerstraße 8'
+    adresse: Alte Heerstraße 8
   - date: 2022-12-14
-    adresse: 'Max-Cohen Straße 19-23 (Wendehammer)'
+    adresse: Max-Cohen Straße 19-23 (Wendehammer)
   - date: 2022-12-15
-    adresse: 'Theodor-Litt-Str. 17'
+    adresse: Theodor-Litt-Str. 17
   - date: 2022-12-16
-    adresse: 'JAP, Am Propsthof 134'
+    adresse: JAP, Am Propsthof 134
   - date: 2022-12-17
-    adresse: 'Alfred-Bucherer Str. 22'
+    adresse: Alfred-Bucherer Str. 22
   - date: 2022-12-18
-    adresse: 'Theodor-Brinkmann Str. 40'
+    adresse: Theodor-Brinkmann Str. 40
   - date: 2022-12-19
-    adresse: 'Alfred-Bucherer Str. 20'
+    adresse: Alfred-Bucherer Str. 20
   - date: 2022-12-20
-    adresse: 'Wiesenweg 25'
+    adresse: Wiesenweg 25
   - date: 2022-12-21
-    adresse: 'Am Burggraben 36'
+    adresse: Am Burggraben 36
   - date: 2022-12-22
-    adresse: 'Alfred-Bucherer Str. 91'
+    adresse: Alfred-Bucherer Str. 91
   - date: 2022-12-23
-    adresse: 'Enggasse 10, 53127 Bonn Lengsdorf'
+    adresse: Enggasse 10, 53127 Bonn Lengsdorf
   - date: 2022-12-24
-    adresse: 'Heiliger Abend - Frohe Weihnachten'
+    adresse: Heiliger Abend - Frohe Weihnachten
     
 #   - date: 2020-12-24
 #     address: ''
