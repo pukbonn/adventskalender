@@ -517,53 +517,53 @@ days:
       - 20211224_1.jpg
       - 20211224_2.jpg
   - date: 2022-12-01
-    adresse: 'Der Termin ist noch frei'
+    adresse: 'St. Maria Magdalena, Magdalenenstraße 25'
   - date: 2022-12-02
-    adresse: 'Der Termin ist noch frei'
+    adresse: 'Der Termin ist frei'
   - date: 2022-12-03
-    adresse: 'Der Termin ist noch frei'
+    adresse: 'Buchfinkenweg 30, 531123 Bonn Duisdorf'
   - date: 2022-12-04
-    adresse: 'Der Termin ist noch frei'
+    adresse: 'Endenicher Burg, Am Burggraben'
   - date: 2022-12-05
-    adresse: 'Der Termin ist noch frei'
+    adresse: 'Der Termin ist frei'
   - date: 2022-12-06
-    adresse: 'Der Termin ist noch frei'
+    adresse: 'Der Termin ist frei'
   - date: 2022-12-07
-    adresse: 'Der Termin ist noch frei'
+    adresse: 'KiTa St. Maria Magdalena, Wiesenweg 6'
   - date: 2022-12-08
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Ökumenischer Schaukasten, Frongasse'
   - date: 2022-12-09
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Sebastianstr. 178'
   - date: 2022-12-10
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Der Termin ist frei'
   - date: 2022-12-11
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Bonner Logsweg 44, 53123 Bonn Lessenich'
   - date: 2022-12-12
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Kaufmannstraße 46'
   - date: 2022-12-13
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Alte Heerstraße 8'
   - date: 2022-12-14
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Max-Cohen Straße 19-23 (Wendehammer)'
   - date: 2022-12-15
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Theodor-Litt-Str. 17'
   - date: 2022-12-16
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'JAP, Am Propsthof 134'
   - date: 2022-12-17
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Alfred-Bucherer Str. 22'
   - date: 2022-12-18
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Theodor-Brinkmann Str. 40'
   - date: 2022-12-19
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Alfred-Bucherer Str. 20'
   - date: 2022-12-20
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Wiesenweg 25'
   - date: 2022-12-21
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Am Burggraben 36'
   - date: 2022-12-22
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Alfred-Bucherer Str. 91'
   - date: 2022-12-23
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Enggasse 10, 53127 Bonn Lengsdorf'
   - date: 2022-12-24
-    adresse: 'Der Termin ist möglicherweise noch frei'
+    adresse: 'Heilig Abend - Frohe Weihnachten'
     
 #   - date: 2020-12-24
 #     address: ''
