@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e5c47d25.chunk.css",
-    "main.js": "/static/js/main.9313f7b9.chunk.js",
-    "main.js.map": "/static/js/main.9313f7b9.chunk.js.map",
+    "main.js": "/static/js/main.dbdac96c.chunk.js",
+    "main.js.map": "/static/js/main.dbdac96c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
     "static/js/2.695331d5.chunk.js": "/static/js/2.695331d5.chunk.js",
@@ -52,7 +52,7 @@
     "static/media/20211222_feuer.jpg": "/static/media/20211222_feuer.b2826e9c.jpg",
     "static/media/20211224_1.jpg": "/static/media/20211224_1.ff203879.jpg",
     "static/media/20211224_2.jpg": "/static/media/20211224_2.52832ad9.jpg",
-    "static/media/20221201_1.JPG": "/static/media/20221201_1.124e457f.JPG",
+    "static/media/20221201_0.jpg": "/static/media/20221201_0.124e457f.jpg",
     "static/media/20221201_2.jpg": "/static/media/20221201_2.e321fbe1.jpg",
     "static/media/20221201_3.jpg": "/static/media/20221201_3.e06d5535.jpg",
     "static/media/20221201_4.jpg": "/static/media/20221201_4.517ad9ff.jpg",
@@ -171,6 +171,6 @@
     "static/js/runtime-main.a04ad65b.js",
     "static/js/2.695331d5.chunk.js",
     "static/css/main.e5c47d25.chunk.css",
-    "static/js/main.9313f7b9.chunk.js"
+    "static/js/main.dbdac96c.chunk.js"
   ]
 }
