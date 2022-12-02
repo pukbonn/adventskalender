@@ -517,13 +517,13 @@ days:
       - 20211224_1.jpg
       - 20211224_2.jpg
   - date: 2022-12-01
-    address: St. Maria Magdalena, Magdalenenstraße 25
+    address: 'St. Maria Magdalena, Magdalenenstraße 25'
     thumbnail: _thumb.jpg
     photos:
-      - 20221201_1.JPG
-      - 20221201_2.JPG
-      - 20221201_3.JPG
-      - 20221201_4.JPG
+      - 20221201_0.jpg
+      - 20221201_2.jpg
+      - 20221201_3.jpg
+      - 20221201_4.jpg
     text: |-
       #### Zeit
       
@@ -532,11 +532,11 @@ days:
       Unseren Heiland Jesus Christ
       der für uns Mensch geworden ist.
   - date: 2022-12-02
-    address: Garten am Wiesenweg/Ecke Brahmsstraße
+    address: 'Garten am Wiesenweg/Ecke Brahmsstraße'
   - date: 2022-12-03
-    address: Buchfinkenweg 30, 53123 Bonn Duisdorf
+    address: 'Buchfinkenweg 30, 53123 Bonn Duisdorf'
   - date: 2022-12-04
-    address: Endenicher Park
+    address: 'Endenicher Park'
   - date: 2022-12-05
     address: Der Termin ist frei
   - date: 2022-12-06
