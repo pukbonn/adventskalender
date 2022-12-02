@@ -518,6 +518,16 @@ days:
       - 20211224_2.jpg
   - date: 2022-12-01
     address: St. Maria Magdalena, Magdalenenstraße 25
+    thumbnail: _thumb.jpg
+    photos:
+      - 20221201_1.JPG
+    text: |-
+      #### Zeit
+      
+      Es ist für uns eine Zeit angekommen,
+      die bringt uns eine große Gnad
+      Unseren Heiland Jesus Christ
+      der für uns Mensch geworden ist.
   - date: 2022-12-02
     address: Garten am Wiesenweg/Ecke Brahmsstraße
   - date: 2022-12-03
