@@ -533,10 +533,43 @@ days:
       der für uns Mensch geworden ist.
   - date: 2022-12-02
     address: 'Garten am Wiesenweg/Ecke Brahmsstraße'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20221202_1.jpg
+      - 20221202_2.jpg
   - date: 2022-12-03
     address: 'Buchfinkenweg 30, 53123 Bonn Duisdorf'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20221203_1.jpg
+    text: |-
+      #### Am Barbaratag
+ 
+      Am Barbaratag
+      pflück'ich mir einen Zweig
+      vom Kirschbaum in unserem Garten
+ 
+      Der Advent nämlich
+      kann zaubern, verborgen, ganz leis'.
+      Man muss nur geduldig drauf warten.
+ 
+      Zu Weihnachten dann
+      blüht's bei mir kirschblütenweiß.
+
+      Nach Anselm Grün
+      in uns wird das Leben immer wieder erneuert, 
+      selbst das Tote in uns kann wieder aufblühen .... 
+      Dafür sind die Zweige ein Symbol.
   - date: 2022-12-04
     address: 'Endenicher Park'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20221204_1.jpg
+      - 20221204_2.jpg
+      - 20221204_3.jpg
+    text: |-
+      #### Baum der Ökumene
+      im Endenicher Park
   - date: 2022-12-05
     address: Der Termin ist frei
   - date: 2022-12-06
