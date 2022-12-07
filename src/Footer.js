@@ -31,7 +31,7 @@ function Footer() {
 			</a>
 		</div>
 		<div className="thomasLine">
-			Design und Programmierung von <a href="https://thomasrosen.qiekub.org/" target="_blank" rel="noreferrer">Thomas Rosen</a>.
+			Design und Programmierung von <a href="https://thomasrosen.me/" target="_blank" rel="noreferrer">Thomas Rosen</a>.
 			<br/>
 			Der Quellcode des Adventskalenders ist auf <a href="https://github.com/pukbonn/adventskalender" target="_blank" rel="noreferrer">GitHub</a>.
 		</div>
