@@ -7,11 +7,11 @@ import lak_logo from './images/LAK-desaturated.svg'
 function Footer() {
 	return (<footer>       	
 		<div className="footer">
-			Ein ökumenisches Projekt der <a href="https://puk-bonn.de">Pfarrei St. Maria Magdalena und Christi Auferstehung</a> und der <a href="https://www.trinitatiskirche-bonn.de/">Evangelische Trinitatiskirchengemeinde Bonn-Endenich</a>.
+			Ein ökumenisches Projekt der <a href="http://puk-bonn.de">Pfarrei St. Maria Magdalena und Christi Auferstehung</a> und der <a href="https://www.trinitatiskirche-bonn.de/">Evangelische Trinitatiskirchengemeinde Bonn-Endenich</a>.
 
 		</div>
 		<div className="footer_logos">
-			<a href="https://puk-bonn.de/">
+			<a href="http://puk-bonn.de/">
 				<img
 					src={puk_logo}
 					alt="Logo der Pfarrei St. Maria Magdalena und Christi Auferstehung"
