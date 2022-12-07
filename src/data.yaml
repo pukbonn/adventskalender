@@ -566,11 +566,8 @@ days:
     thumbnail: _thumb.jpg
     photos:
       - 20221204_1.jpg
-      - 20221204_2.jpg
-      - 20221204_3.jpg
     text: |-
-      #### Baum der Ökumene
-      im Endenicher Park
+      Baum der Ökumene im Endenicher Park
   - date: 2022-12-05
     address: Der Termin ist frei
   - date: 2022-12-06
