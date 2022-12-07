@@ -569,45 +569,45 @@ days:
     text: |-
       Baum der Ökumene im Endenicher Park
   - date: 2022-12-05
-    address: Der Termin ist frei
+    address: 'Der Termin ist frei'
   - date: 2022-12-06
-    address: Der Termin ist frei
+    address: 'Der Termin ist frei'
   - date: 2022-12-07
-    address: KiTa St. Maria Magdalena, Wiesenweg 6
+    address: 'KiTa St. Maria Magdalena, Wiesenweg 6'
   - date: 2022-12-08
-    address: Ökumenischer Schaukasten, Frongasse
+    address: 'Ökumenischer Schaukasten, Frongasse'
   - date: 2022-12-09
-    address: Sebastianstr. 178
+    address: 'Sebastianstr. 178'
   - date: 2022-12-10
-    address: Der Termin ist frei
+    address: 'Der Termin ist frei'
   - date: 2022-12-11
-    address: Bonner Logsweg 44, 53123 Bonn Lessenich
+    address: 'Bonner Logsweg 44, 53123 Bonn Lessenich'
   - date: 2022-12-12
-    address: Kaufmannstraße 46
+    address: 'Kaufmannstraße 46'
   - date: 2022-12-13
-    address: Alte Heerstraße 8
+    address: 'Alte Heerstraße 8'
   - date: 2022-12-14
-    address: Max-Cohen Straße 19-23 (Wendehammer)
+    address: 'Max-Cohen Straße 19-23 (Wendehammer)''
   - date: 2022-12-15
-    address: Theodor-Litt-Str. 17
+    address: 'Theodor-Litt-Str. 17'
   - date: 2022-12-16
-    address: JAP, Am Propsthof 134
+    address: 'JAP, Am Propsthof 134'
   - date: 2022-12-17
-    address: Alfred-Bucherer Str. 22
+    address: 'Alfred-Bucherer Str. 22'
   - date: 2022-12-18
-    address: Theodor-Brinkmann Str. 40
+    address: 'Theodor-Brinkmann Str. 40'
   - date: 2022-12-19
-    address: Alfred-Bucherer Str. 20
+    address: 'Alfred-Bucherer Str. 20'
   - date: 2022-12-20
-    address: Wiesenweg 25
+    address: 'Wiesenweg 25'
   - date: 2022-12-21
-    address: Am Burggraben 36
+    address: 'Am Burggraben 36'
   - date: 2022-12-22
-    address: Alfred-Bucherer Str. 91
+    address: 'Alfred-Bucherer Str. 91'
   - date: 2022-12-23
-    address: Enggasse 10, 53127 Bonn Lengsdorf
+    address: 'Enggasse 10, 53127 Bonn Lengsdorf'
   - date: 2022-12-24
-    address: Heiliger Abend - Frohe Weihnachten
+    address: 'Heiliger Abend - Frohe Weihnachten'
     
 #   - date: 2020-12-24
 #     address: ''
