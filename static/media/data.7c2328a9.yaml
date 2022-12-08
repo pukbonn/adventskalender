@@ -535,8 +535,8 @@ days:
     address: 'Garten am Wiesenweg/Ecke Brahmsstraße'
     thumbnail: _thumb.jpg
     photos:
-      - 20221202_1.jpg
-      - 20221202_2.jpg
+      - 20221202-1.jpg
+      - 20221202-2.jpg
   - date: 2022-12-03
     address: 'Buchfinkenweg 30, 53123 Bonn Duisdorf'
     thumbnail: _thumb.jpg
@@ -565,7 +565,7 @@ days:
     address: 'Endenicher Park'
     thumbnail: _thumb.jpg
     photos:
-      - 20221204_1.jpg
+      - 20221204-1.jpg
     text: |-
       Baum der Ökumene im Endenicher Park
   - date: 2022-12-05
