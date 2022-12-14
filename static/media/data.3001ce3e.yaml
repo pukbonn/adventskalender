@@ -591,6 +591,15 @@ days:
     address: 'Der Termin ist frei'
   - date: 2022-12-11
     address: 'Bonner Logsweg 44, 53123 Bonn Lessenich'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20221211-1.jpg
+      - 20221211-2.jpg
+      - 20221211-3.jpg
+    text: |-
+      Die Hausgemeinschaft im Bonner Logsweg 44 hat den "Lebendigen Adventskalender" gestaltet (Bild 1).
+      Thema war die Geschichte "Das Weihnachtsschiff". Unsere Wünsche/Fürbitten haben wir auf den Sternen festgehalten (Bild 2).
+      Es waren 40 Menschen anwesend. Die Kinder konnten im Anschluss noch Kränze binden (Bild 3).
   - date: 2022-12-12
     address: 'Kaufmannstraße 46'
   - date: 2022-12-13
