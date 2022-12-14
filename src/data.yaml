@@ -595,6 +595,9 @@ days:
     address: 'Kaufmannstraße 46'
   - date: 2022-12-13
     address: 'Alte Heerstraße 8'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20221213-1.jpg
   - date: 2022-12-14
     address: 'Max-Cohen Straße 19-23 (Wendehammer)'
   - date: 2022-12-15
