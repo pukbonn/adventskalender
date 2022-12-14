@@ -598,6 +598,8 @@ days:
     thumbnail: _thumb.jpg
     photos:
       - 20221213-1.jpg
+    text: |-
+      Wir hatten heute unseren Garten geöffnet und zu Spekulatius, Punsch und Musik am Lagerfeuer geladen. Schön wars!
   - date: 2022-12-14
     address: 'Max-Cohen Straße 19-23 (Wendehammer)'
   - date: 2022-12-15
