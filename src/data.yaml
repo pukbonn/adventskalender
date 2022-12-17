@@ -648,6 +648,12 @@ days:
       - 20221216-2.jpg
   - date: 2022-12-17
     address: 'Alfred-Bucherer Str. 22'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20221217-2.jpg
+      - 20221217-3.jpg
+      - 20221217-4.jpg
+      - 20221217-5.jpg
   - date: 2022-12-18
     address: 'Theodor-Brinkmann Str. 40'
   - date: 2022-12-19
