@@ -528,9 +528,9 @@ days:
       #### Zeit
       
       Es ist für uns eine Zeit angekommen,
-      die bringt uns eine große Gnad
-      Unseren Heiland Jesus Christ
-      der für uns Mensch geworden ist.
+      <br>die bringt uns eine große Gnad
+      <br>Unseren Heiland Jesus Christ
+      <br>der für uns Mensch geworden ist.
   - date: 2022-12-02
     address: 'Garten am Wiesenweg/Ecke Brahmsstraße'
     thumbnail: _thumb.jpg
@@ -546,19 +546,19 @@ days:
       #### Am Barbaratag
  
       Am Barbaratag
-      pflück'ich mir einen Zweig
-      vom Kirschbaum in unserem Garten
+      <br>pflück'ich mir einen Zweig
+      <br>vom Kirschbaum in unserem Garten
  
       Der Advent nämlich
-      kann zaubern, verborgen, ganz leis'.
-      Man muss nur geduldig drauf warten.
+      <br>kann zaubern, verborgen, ganz leis'.
+      <br>Man muss nur geduldig drauf warten.
  
       Zu Weihnachten dann
-      blüht's bei mir kirschblütenweiß.
+      <br>blüht's bei mir kirschblütenweiß.
 
       ####Nach Anselm Grün
-      in uns wird das Leben immer wieder erneuert, 
-      selbst das Tote in uns kann wieder aufblühen .... 
+      <br>in uns wird das Leben immer wieder erneuert, 
+      <br>selbst das Tote in uns kann wieder aufblühen .... 
       
       Dafür sind die Zweige ein Symbol.
   - date: 2022-12-04
@@ -598,8 +598,8 @@ days:
       - 20221211-3.jpg
     text: |-
       Die Hausgemeinschaft im Bonner Logsweg 44 hat den "Lebendigen Adventskalender" gestaltet (Bild 1).
-      Thema war die Geschichte "Das Weihnachtsschiff". Unsere Wünsche/Fürbitten haben wir auf den Sternen festgehalten (Bild 2).
-      Es waren 40 Menschen anwesend. Die Kinder konnten im Anschluss noch Kränze binden (Bild 3).
+      <br>Thema war die Geschichte "Das Weihnachtsschiff". Unsere Wünsche/Fürbitten haben wir auf den Sternen festgehalten (Bild 2).
+      <br>Es waren 40 Menschen anwesend. Die Kinder konnten im Anschluss noch Kränze binden (Bild 3).
   - date: 2022-12-12
     address: 'Kaufmannstraße 46'
   - date: 2022-12-13
@@ -624,9 +624,29 @@ days:
       - 20221214-9.jpg
       - 20221214-10.jpg
   - date: 2022-12-15
-    address: 'Theodor-Litt-Str. 17'
+    address: 'Theodor-Litt-Str. 17'   thumbnail: _thumb.jpg
+    thumbnail: _thumb.jpg
+    photos:
+      - 20221215-1.jpg
+      - 20221215-2.jpg
+      - 20221215-3.jpg
+    text: |-
+      ### Geschichte:  Das „Licht“ und die „Dunkelheit“
+
+      <br>Irgendwo leuchtet in der Welt ein kleines Licht. Es tat nicht viel. Es war einfach da und flackerte hin und her. Die Flamme bewegte sich leicht und zärtlich am Docht der kleinen Kerze.
+      <br>Doch dann kam plötzlich ein Getöse und es wurde lauter und immer lauter. Eine große, mächtiger Finsternis senkte sich über das Land und ließ alles düster und dunkel werden.
+      <br>Als die Finsternis das Licht sah, wollte sie es verschlingen. Mit so einem kleinen Licht,“ sagte sie, “da werde ich schon mit fertig!“
+      <br>Und mit Kraft ging die Finsternis gegen das Licht vor aber das Licht blieb stehen. Es wich nicht zurück. So sehr die Finsternis sich auch bemühte, sie konnte das Licht nicht verschlingen.
+      <br>Das Licht war klein, aber es ließ sich nicht verjagen, sondern leuchtete überall hin. Andere Lichter halfen und da wurde es heller und viele Lichter machten es größer. 
+      <br>Noch einmal versuchte die Finsternis, das Licht zu verjagen  -  aber vergebens –
+      Schließlich viel die Finsternis in sich zusammen und verschwand. Die Lichter aber leuchteten hell und erhellten das Land.
   - date: 2022-12-16
     address: 'JAP, Am Propsthof 134'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20221216-1.jpg
+      - 20221216-2.jpg
+      - 20221216-3.jpg 
   - date: 2022-12-17
     address: 'Alfred-Bucherer Str. 22'
   - date: 2022-12-18
