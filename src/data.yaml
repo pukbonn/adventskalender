@@ -631,7 +631,7 @@ days:
       - 20221215-2.jpg
       - 20221215-3.jpg
     text: |-
-      ### Geschichte:  Das „Licht“ und die „Dunkelheit“
+      Geschichte:  Das „Licht“ und die „Dunkelheit“
 
       Irgendwo leuchtet in der Welt ein kleines Licht. Es tat nicht viel. Es war einfach da und flackerte hin und her. Die Flamme bewegte sich leicht und zärtlich am Docht der kleinen Kerze.
       <br>Doch dann kam plötzlich ein Getöse und es wurde lauter und immer lauter. Eine große, mächtiger Finsternis senkte sich über das Land und ließ alles düster und dunkel werden.
@@ -669,6 +669,8 @@ days:
       - 20221220-2.jpg
       - 20221220-3.jpg
       - 20221220-4.jpg
+    text: |-
+      Geschichte: Der Kleine Stern
   - date: 2022-12-21
     address: 'Am Burggraben 36'
   - date: 2022-12-22
