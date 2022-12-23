@@ -673,6 +673,17 @@ days:
       Geschichte: Der Kleine Stern
   - date: 2022-12-21
     address: 'Am Burggraben 36'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20221221-1.jpg
+      - 20221221-2.jpg
+      - 20221221-3.jpg
+      - 20221221-4.jpg
+      - 20221221-5.jpg
+      - 20221221-6.jpg
+    text: |-
+      Kleines schafft Großes
+      <br>Kleinvieh macht auch Mist
   - date: 2022-12-22
     address: 'Alfred-Bucherer Str. 91'
   - date: 2022-12-23
