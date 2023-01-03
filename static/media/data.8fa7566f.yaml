@@ -688,6 +688,9 @@ days:
     address: 'Alfred-Bucherer Str. 91'
   - date: 2022-12-23
     address: 'Enggasse 10, 53127 Bonn Lengsdorf'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20221223-1.jpg
   - date: 2022-12-24
     address: 'Heiliger Abend - Frohe Weihnachten'
     
