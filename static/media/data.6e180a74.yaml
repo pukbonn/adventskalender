@@ -694,31 +694,53 @@ days:
   - date: 2022-12-24
     address: 'Heiliger Abend - Frohe Weihnachten
   - date: 2023-12-01
+    address: 'frei'
   - date: 2023-12-02
+    address: 'frei'
   - date: 2023-12-03
+    address: 'frei'
   - date: 2023-12-04
+    address: 'frei'
   - date: 2023-12-05
+    address: 'frei'
   - date: 2023-12-06
+    address: 'frei'
   - date: 2023-12-07
+    address: 'frei'
   - date: 2023-12-08
+    address: 'frei'
   - date: 2023-12-09
+    address: 'frei'
   - date: 2023-12-10
+    address: 'frei'
   - date: 2023-12-11
+    address: 'frei'
   - date: 2023-12-12
+    address: 'frei'
   - date: 2023-12-13
+    address: 'frei'
   - date: 2023-12-14
+    address: 'frei'
   - date: 2023-12-15
+    address: 'frei'
   - date: 2023-12-16
+    address: 'frei'
   - date: 2023-12-17
+    address: 'frei'
   - date: 2023-12-18
+    address: 'frei'
   - date: 2023-12-19
+    address: 'frei'
   - date: 2023-12-20
+    address: 'frei'
   - date: 2023-12-21
+    address: 'frei'
   - date: 2023-12-22
+    address: 'frei'
   - date: 2023-12-23
+    address: 'frei'
   - date: 2023-12-24
-    text: |-
-      24. Dezember - Heilig Abend
+    address: 'frei'
     
 #   - date: 2020-12-24
 #     address: ''
