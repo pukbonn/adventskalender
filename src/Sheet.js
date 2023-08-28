@@ -6,13 +6,10 @@ import './sheet.css'
 import videoCover from './images/video-cover.jpeg'
 
 import {
-	useParams,
 	Link,
 } from 'react-router-dom'
 
-function Sheet({days}) {
-	let { dateString } = useParams()
-
+function Sheet({ days, dateString }) {
 	const [thisDaysData, setThisDaysData] = useState(null)
 	const [photoPath, setPhotoPaths] = useState([])
 
@@ -22,7 +19,7 @@ function Sheet({days}) {
 			if (!!photos && photos.length > 0) {
 				const paths = []
 				for (let filename of photos) {
-					const path = require('./photos/'+filename)
+					const path = require(`./photos/${dateString}/${filename}`)
 					paths.push(path.default)
 				}
 				setPhotoPaths(paths)
@@ -33,7 +30,7 @@ function Sheet({days}) {
 		if (!!thisDaysData && !!thisDaysData.photos) {
 			loadPhotos()
 		}
-	}, [thisDaysData])
+	}, [ thisDaysData, dateString ])
 
 	useEffect(() => {
 		if (!!dateString) {
@@ -55,10 +52,12 @@ function Sheet({days}) {
 	const now = new Date()
 	const isOpen = date < now
 
+	const year = date.getFullYear()
+
 	if (!!thisDaysData) {
 		return (
 			<div className="sheet">
-				<Link to="/" className="backdrop" />
+				<Link to={`/day/${year}`} className="backdrop" />
 				<article className="content">
 
 				<Helmet>
@@ -66,7 +65,7 @@ function Sheet({days}) {
 					<meta name="description" content={`${thisDaysData.address}`} />
 				</Helmet>
 
-				<Link to="/" className="closebutton">
+				<Link to={`/day/${year}`} className="closebutton">
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="black" width="18px" height="18px"><path d="M0 0h24v24H0V0z" fill="none" opacity=".87"/><path d="M12 4c-4.41 0-8 3.59-8 8s3.59 8 8 8 8-3.59 8-8-3.59-8-8-8zm5 11.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z" opacity=".3"/><path d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.59-13L12 10.59 8.41 7 7 8.41 10.59 12 7 15.59 8.41 17 12 13.41 15.59 17 17 15.59 13.41 12 17 8.41z"/></svg>
 				</Link>
 

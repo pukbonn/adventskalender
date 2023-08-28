@@ -1,11 +1,13 @@
 import { useState, useEffect } from 'react'
-import LazyLoad from 'react-lazy-load'
+import LazyLoad from 'react-lazyload'
 
 function Card({data}) {
 	let {
 		date: dateString,
+		time,
 		address,
 		video,
+		thumbnail,
 		photos,
 		text,
 	} = data
@@ -14,15 +16,20 @@ function Card({data}) {
 
 	useEffect(() => {
 		async function loadImage(){
-			if (!!photos && photos.length > 0 && photos[0] !== '') {
-				const path = require('./photos/'+photos[0])
+			if (!!thumbnail && typeof thumbnail === 'string' && thumbnail !== '') {
+				const path = require(`./photos/${dateString}/${thumbnail}`)
 				setCoverphotoPath(path.default)
 			}else{
-				setCoverphotoPath('')
+				if (!!photos && Array.isArray(photos) && photos.length > 0 && photos[0] !== '') {
+					const path = require(`./photos/${dateString}/${photos[0]}`)
+					setCoverphotoPath(path.default)
+				}else{
+					setCoverphotoPath('')
+				}
 			}
 		}
 		loadImage()
-	}, [photos])
+	}, [ thumbnail, photos, dateString ])
 
 	const date = new Date(dateString)
 	const weekday = date.toLocaleString("de", {weekday:"long"})
@@ -42,6 +49,15 @@ function Card({data}) {
 			<h2 className="number">{daynumber}</h2>
 			<p className="weekday">{weekday}</p>
 
+			{
+				!!time
+				&& time !== ''
+				? <p className="infoLine time">
+					<svg xmlns="http://www.w3.org/2000/svg" height="18px" viewBox="0 0 24 24" width="18px" fill="black"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M12 4c-4.42 0-8 3.58-8 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.25 12.15L11 13V7h1.5v5.25l4.5 2.67-.75 1.23z" opacity=".1"/><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"/></svg>
+					<span>{time}</span>
+				</p>
+				: null
+			}
 			{
 				!!address
 				&& address !== ''
@@ -68,7 +84,7 @@ function Card({data}) {
 				&& photos.length > 0
 				? <p className="infoLine">
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="black" width="18px" height="18px"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M19 5H5v14h14V5zM6 17l3-3.86 2.14 2.58 3-3.87L18 17H6z" opacity=".1"/><path d="M5 21h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2zM5 5h14v14H5V5zm6.14 10.72L9 13.14 6 17h12l-3.86-5.14z"/></svg>
-					<span>Bilder</span>
+					<span>{photos.length === 1 ? 'ein Bild' : `${photos.length} Bilder`}</span>
 				</p>
 				: null
 			}
@@ -91,6 +107,7 @@ function Card({data}) {
 					<LazyLoad
 						offset={512}
 						height={128}
+						once
 					>
 						<div className="image" style={{
 							backgroundImage: `url("${coverphotoPath}")`,

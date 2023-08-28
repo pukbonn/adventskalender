@@ -1,4 +1,4 @@
-import { useState, useEffect, Component } from 'react'
+import { useState, useEffect, useCallback, Component } from 'react'
 
 import './app.css'
 import './cards.css'
@@ -13,9 +13,10 @@ import YAML from 'yaml'
 import data_yaml_path from './data.yaml'
 
 import {
-	Route,
 	NavLink,
 	useLocation,
+	useHistory,
+	useRouteMatch,
 } from 'react-router-dom'
 
 
@@ -99,11 +100,36 @@ class SheetBodyStyle extends Component {
 	}
 }
 
+const currentYear = new Date().getFullYear()
+
 function App() {
 	const location = useLocation()
+	const history = useHistory()
+
+	const [dateString, setDateString] = useState('')
+	const [year, setYear] = useState(currentYear)
+
 	useEffect(() => {
 		sendStats()
 	}, [location])
+
+	const urlMatch = useRouteMatch("/day/:dateString")
+	useEffect(() => {
+		if (urlMatch) {
+			const newDateString = urlMatch.params.dateString
+			setDateString(newDateString)
+
+			const newDate = new Date(newDateString)
+			const newYear = newDate.getFullYear()
+			setYear(newYear)
+		} else {
+			setDateString('')
+			setYear(currentYear)
+		}
+	}, [
+		urlMatch,
+		setYear,
+	])
 
 	const [data, setData] = useState({
 		days: [],
@@ -117,6 +143,21 @@ function App() {
 		.catch(error=> console.error(error))
 	}, [])
 
+	const days = data.days.filter(day => new Date(day.date).getFullYear() === year)
+	const years = [
+		...data.days
+			.reduce((years, day) => {
+				years.add(new Date(day.date).getFullYear())
+				return years
+			}, new Set())
+	]
+
+	const handleYearChange = useCallback(year => {
+		console.log('year', year)
+		setYear(year)
+		history.push(`/day/${year}`)
+	}, [ setYear, history ])
+
 	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
 	return (
 		<>
@@ -126,23 +167,26 @@ function App() {
 				<meta name="description" content="Ein ökumenisches Projekt der Pfarrei St. Maria Magdalena und Christi Auferstehung und der Evangelische Trinitatiskirchengemeinde Bonn-Endenich." />
 			</Helmet>
 
-			<svg viewBox="0 0 775 305" className="svg-header">
+			<svg viewBox="0 0 775 215" className="svg-header">
 				<text className="h1" x="10" y="90">Lebendiger</text>
 				<text className="h1" x="10" y="200">Adventskalender</text>
-				<text className="h1" x="10" y="290">2020</text>
 			</svg>
 
-			
+
 
 			<div className="intro_text">
 				<div className="inner">
 					<p>
 						Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
-						<strong>Jeweils von 18:00 bis 18:30 Uhr erstrahlt ein geschmücktes Fenster,</strong><br />
+						<strong>Jeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenster,</strong><br />
 						spazieren Sie vorbei, vielleicht gibt es eine Überraschung.
 					</p>
 					<br />
-					<p><strong>Die Gestaltung berücksichtigt die geltenden Coronabedingungen!</strong></p>
+					<p>
+						Für Fragen und Anregungen können Sie sich gerne an <a href="mailto:uta.luenebach@netcologne.de">uta.luenebach@netcologne.de</a> wenden.
+					</p>
+					<br />
+					<p><strong>Die Gestaltung berücksichtigt die geltenden Coronabedingungen! </strong></p>
 					<Countdown
 						date={calendarStart}
 						renderer={renderer}
@@ -152,9 +196,12 @@ function App() {
 			</header>
 
 
-			
+			<nav className="years">
+				{years.map(thisYear => <span className={thisYear === year ? 'active' : ''} key={thisYear} onClick={() => handleYearChange(thisYear)}>{thisYear}</span>)}
+			</nav>
+
 			<nav className="cards">
-				{data.days.map(dayData =>
+				{days.map(dayData =>
 					<NavLink
 						className="card"
 						key={dayData.date}
@@ -165,10 +212,19 @@ function App() {
 				)}
 			</nav>
 
-			<Route path="/day/:dateString">
-				<SheetBodyStyle />
-				<Sheet days={data.days}/>
-			</Route>
+			{
+				typeof dateString === 'string'
+				&& dateString.length > 0
+				&& dateString.includes('-')
+				? <>
+					<SheetBodyStyle />
+					<Sheet
+						dateString={dateString}
+						days={data.days}
+					/>
+				</>
+				: null
+			}
 
 			<Footer />
 		</>

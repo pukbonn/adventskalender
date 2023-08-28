@@ -7,11 +7,11 @@ import lak_logo from './images/LAK-desaturated.svg'
 function Footer() {
 	return (<footer>       	
 		<div className="footer">
-			Ein ökumenisches Projekt der <a href="https://puk-bonn.de">Pfarrei St. Maria Magdalena und Christi Auferstehung</a> und der <a href="https://www.trinitatiskirche-bonn.de/">Evangelische Trinitatiskirchengemeinde Bonn-Endenich</a>.
+			Ein ökumenisches Projekt der <a href="http://puk-bonn.de">Pfarrei St. Maria Magdalena und Christi Auferstehung</a> und der <a href="https://www.trinitatiskirche-bonn.de/">Evangelische Trinitatiskirchengemeinde Bonn-Endenich</a>.
 
 		</div>
 		<div className="footer_logos">
-			<a href="https://puk-bonn.de/">
+			<a href="http://puk-bonn.de/">
 				<img
 					src={puk_logo}
 					alt="Logo der Pfarrei St. Maria Magdalena und Christi Auferstehung"
@@ -31,7 +31,7 @@ function Footer() {
 			</a>
 		</div>
 		<div className="thomasLine">
-			Design und Programmierung von <a href="https://thomasrosen.qiekub.org/" target="_blank" rel="noreferrer">Thomas Rosen</a>.
+			Design und Programmierung von <a href="https://thomasrosen.me/" target="_blank" rel="noreferrer">Thomas Rosen</a>.
 			<br/>
 			Der Quellcode des Adventskalenders ist auf <a href="https://github.com/pukbonn/adventskalender" target="_blank" rel="noreferrer">GitHub</a>.
 		</div>
