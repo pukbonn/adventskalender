@@ -144,8 +144,9 @@ hr{
 .years {
   display: flex;
   justify-content: center;
-  gap: 1rem;
-  padding: 1rem;
+  flex-wrap: wrap;
+  gap: 32px;
+  padding: 0 32px;
   margin-top: 64px;
 }
 .years span {
@@ -156,9 +157,11 @@ hr{
 	--shadow-width: 4px;
 	text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
   cursor: pointer;
+  opacity: 0.9;
 }
 
 .years span.active {
+	opacity: 1;
   box-shadow: inset 0 1px 0 0 var(--text), inset 0 -1px 0 0 var(--text);
 }
 

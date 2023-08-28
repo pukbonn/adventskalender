@@ -178,15 +178,13 @@ function App() {
 				<div className="inner">
 					<p>
 						Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
-						<strong>Jeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenster,</strong><br />
-						spazieren Sie vorbei, vielleicht gibt es eine Überraschung.
+						<strong>Jeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenster.</strong>
 					</p>
 					<br />
 					<p>
 						Für Fragen und Anregungen können Sie sich gerne an <a href="mailto:uta.luenebach@netcologne.de">uta.luenebach@netcologne.de</a> wenden.
 					</p>
 					<br />
-					<p><strong>Die Gestaltung berücksichtigt die geltenden Coronabedingungen! </strong></p>
 					<Countdown
 						date={calendarStart}
 						renderer={renderer}
