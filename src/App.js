@@ -178,7 +178,7 @@ function App() {
 				<div className="inner">
 					<p>
 						Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
-						<strong>Jeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenster.</strong>
+						<strong>Jeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenster.</strong> Stehen bleiben, Lieder singen, Geschichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespräch kommen.
 					</p>
 					<br />
 					<p>
