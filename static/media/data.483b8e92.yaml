@@ -694,7 +694,7 @@ days:
   - date: 2022-12-24
     address: 'Heiliger Abend - Frohe Weihnachten'
   - date: 2023-12-01
-    address: 'frei'
+    address: 'St. Maria Magdalena, Magdalenenstraße 25, Endenich'
   - date: 2023-12-02
     address: 'frei'
   - date: 2023-12-03
@@ -702,15 +702,15 @@ days:
   - date: 2023-12-04
     address: 'frei'
   - date: 2023-12-05
-    address: 'frei'
+    address: 'Magdalenenstraße 34, Endenich'
   - date: 2023-12-06
     address: 'frei'
   - date: 2023-12-07
-    address: 'frei'
+    address: 'KiTa St. Maria Magdalena, Wiesenweg 6, Endenich'
   - date: 2023-12-08
-    address: 'frei'
+    address: 'Bonner Logsweg 44, Lessenich'
   - date: 2023-12-09
-    address: 'frei'
+    address: 'Sebastianstraße 180, Endenich'
   - date: 2023-12-10
     address: 'frei'
   - date: 2023-12-11
@@ -718,13 +718,13 @@ days:
   - date: 2023-12-12
     address: 'frei'
   - date: 2023-12-13
-    address: 'frei'
+    address: 'Max-Cohen Straße 19-23 (Wendehammer), Endenich'
   - date: 2023-12-14
     address: 'frei'
   - date: 2023-12-15
-    address: 'frei'
+    address: 'JAP, Am Probsthof 134, Endenich'
   - date: 2023-12-16
-    address: 'frei'
+    address: 'Lutfridstrasse 14, Endenich'
   - date: 2023-12-17
     address: 'frei'
   - date: 2023-12-18
@@ -740,7 +740,7 @@ days:
   - date: 2023-12-23
     address: 'frei'
   - date: 2023-12-24
-    address: 'frei'
+    address: 'Frohe Weihnachten'
     
 #   - date: 2020-12-24
 #     address: ''
