@@ -696,7 +696,7 @@ days:
   - date: 2023-12-01
     address: 'St. Maria Magdalena, Magdalenenstraße 25, Endenich'
   - date: 2023-12-02
-    address: 'frei'
+    address: 'Buchfingenweg 30, Duisdorf'
   - date: 2023-12-03
     address: 'frei'
   - date: 2023-12-04
@@ -718,7 +718,7 @@ days:
   - date: 2023-12-12
     address: 'frei'
   - date: 2023-12-13
-    address: 'Max-Cohen Straße 19-23 (Wendehammer), Endenich'
+    address: 'frei'
   - date: 2023-12-14
     address: 'frei'
   - date: 2023-12-15
@@ -726,11 +726,11 @@ days:
   - date: 2023-12-16
     address: 'Lutfridstrasse 14, Endenich'
   - date: 2023-12-17
-    address: 'frei'
+    address: 'Lipschitzstr. 43, Endenich'
   - date: 2023-12-18
     address: 'frei'
   - date: 2023-12-19
-    address: 'frei'
+    address: 'Max-Cohen Straße 19-23 (Wendehammer), Endenich'
   - date: 2023-12-20
     address: 'frei'
   - date: 2023-12-21
