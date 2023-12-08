@@ -749,7 +749,7 @@ days:
     address: '! 20:30 Uhr Spätschicht in Sankt Maria Magdalena, Endenich'
   - date: 2023-12-07
     address: 'KiTa St. Maria Magdalena, Wiesenweg 6, Endenich'
-      thumbnail: _thumb.jpg
+    thumbnail: _thumb.jpg
     photos:
       - 20231207-1.jpg
       - 20231207-2.jpg
