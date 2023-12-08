@@ -726,14 +726,24 @@ days:
       <br>Öffne deines Herzens Tür
       <br>Dass Er in dir Mensch werde
       <br>
+      <br><br>https://www.essener-adventskalender.de/
+      <br><br>Link zum Download des Türenmemory aus dem Essener Adventskalender 2023.
   - date: 2023-12-02
     address: 'Buchfinkenweg 30, Duisdorf'
   - date: 2023-12-03
-    address: 'Flodelingsweg 42, Endenich'
+    address: 'Flodelingsweg 42, Endenich' 20231203-1.jpg
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231203-1.jpg
+      - 20231203-2.jpg
   - date: 2023-12-04
     address: 'Kaufmannstr. 46, Endenich'
   - date: 2023-12-05
     address: 'Magdalenenstraße 34, Endenich'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231205-1.jpg
+      - 20231205-2.jpg
   - date: 2023-12-06
     address: '! 20:30 Uhr Spätschicht in Sankt Maria Magdalena, Endenich'
   - date: 2023-12-07
