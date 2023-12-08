@@ -739,6 +739,10 @@ days:
       - 20231203-2.jpg
   - date: 2023-12-04
     address: 'Kaufmannstr. 46, Endenich'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231204-1.jpg
+      - 20231204-2.jpg
   - date: 2023-12-05
     address: 'Magdalenenstraße 34, Endenich'
     thumbnail: _thumb.jpg
