@@ -778,11 +778,39 @@ days:
       - 20231207-3.jpg
   - date: 2023-12-08
     address: 'Bonner Logsweg 44, Lessenich'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231208-1.jpg
+      - 20231208-2.jpg
+    text: |-
+      Thema: Lichterfeste der Religionen
+      <br>
+      <br>Judentum: Chanukka
+      <br>Christentum: Advent und Weihnachten
+      <br>Islam: Mevlid Kandili (Geburtstag des Propheten Mohammed)
+      <br>
+      <br>„Licht“ als Symbol für die „Herrlichkeit Gottes“ spielt in allen drei Religionen eine große Rolle.
+      <br><br>Gebet:
+      <br>Guter Gott, 
+      <br>lass die Gläubigen im Judentum, Christentum und Islam sich auf das besinnen, was sie verbindet und eint, nämlich der Glaube an den einen Gott. 
+      <br>Ermutige uns zum Austausch mit Menschen anderer Religionen und lass uns die bleibenden Unterschiede respektieren. 
+      <br>Lass dein Licht leuchten für ein friedliches Miteinander in der Welt. 
+      <br>Amen
+      <br>
+      <br>(Marlene Preuß)
   - date: 2023-12-09
     address: 'Sebastianstraße 180, Endenich'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231209-1.jpg
+      - 20231209-2.jpg
   - date: 2023-12-10
     address: 'Im jungen Wingert 2, Endenich; Es spielt das Ensemble VeedelBlech.'
-  - date: 2023-12-11
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231210-1.jpg
+      - 20231210-2.jpg
+- date: 2023-12-11
     address: 'Gottfried-Kinkel-Str. 25, Duisdorf'
   - date: 2023-12-12
     address: 'Auf dem Hügel 107, Endenich'
