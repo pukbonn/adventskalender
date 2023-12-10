@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.292fef69.chunk.css",
-    "main.js": "/static/js/main.bcfc03df.chunk.js",
-    "main.js.map": "/static/js/main.bcfc03df.chunk.js.map",
+    "main.js": "/static/js/main.f2c4ad8b.chunk.js",
+    "main.js.map": "/static/js/main.f2c4ad8b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
     "static/js/2.ad0cf9f1.chunk.js": "/static/js/2.ad0cf9f1.chunk.js",
@@ -117,10 +117,10 @@
     "static/media/20231207-1.jpg": "/static/media/20231207-1.d58ce69d.jpg",
     "static/media/20231207-2.jpg": "/static/media/20231207-2.7ce04bdb.jpg",
     "static/media/20231207-3.jpg": "/static/media/20231207-3.76ff6b96.jpg",
-    "static/media/20231208_1.jpg": "/static/media/20231208_1.215cc04a.jpg",
-    "static/media/20231208_2.jpg": "/static/media/20231208_2.c976a31d.jpg",
-    "static/media/20231209_1.jpg": "/static/media/20231209_1.e4c56897.jpg",
-    "static/media/20231209_2.jpg": "/static/media/20231209_2.d7c13229.jpg",
+    "static/media/20231208-1.jpg": "/static/media/20231208-1.215cc04a.jpg",
+    "static/media/20231208-2.jpg": "/static/media/20231208-2.c976a31d.jpg",
+    "static/media/20231209-1.jpg": "/static/media/20231209-1.e4c56897.jpg",
+    "static/media/20231209-2.jpg": "/static/media/20231209-2.d7c13229.jpg",
     "static/media/20231210-1.jpg": "/static/media/20231210-1.8da7b0c9.jpg",
     "static/media/20231210-2.jpg": "/static/media/20231210-2.fc01c3a1.jpg",
     "static/media/21dezember2020.docx": "/static/media/21dezember2020.d8cf6535.docx",
@@ -224,7 +224,7 @@
     "static/media/_thumb.jpg": "/static/media/_thumb.fee99137.jpg",
     "static/media/aufnahmen-2020-12-22.mov": "/static/media/aufnahmen-2020-12-22.879a6db9.mov",
     "static/media/c571cec50b7d765c97b334039283a9f5.jpg": "/static/media/c571cec50b7d765c97b334039283a9f5.f95ba588.jpg",
-    "static/media/data.e096a4ea.yaml": "/static/media/data.e096a4ea.yaml",
+    "static/media/data.a5e0abe1.yaml": "/static/media/data.a5e0abe1.yaml",
     "static/media/image0.jpeg": "/static/media/image0.d0e96707.jpeg",
     "static/media/image1.jpeg": "/static/media/image1.6b6bdf66.jpeg",
     "static/media/photo_2020-12-07_20-43-11-cropped.jpeg": "/static/media/photo_2020-12-07_20-43-11-cropped.1eb10bcf.jpeg",
@@ -238,6 +238,6 @@
     "static/js/runtime-main.a04ad65b.js",
     "static/js/2.ad0cf9f1.chunk.js",
     "static/css/main.292fef69.chunk.css",
-    "static/js/main.bcfc03df.chunk.js"
+    "static/js/main.f2c4ad8b.chunk.js"
   ]
 }
