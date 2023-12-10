@@ -797,6 +797,10 @@ days:
       <br><br>(Marlene Preuß)
   - date: 2023-12-09
     address: 'Sebastianstraße 180, Endenich'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231209-1.jpg
+      - 20231209-2.jpg
   - date: 2023-12-10
     address: 'Im jungen Wingert 2, Endenich; Es spielt das Ensemble VeedelBlech.'
   - date: 2023-12-11
