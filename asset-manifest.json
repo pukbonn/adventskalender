@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.292fef69.chunk.css",
-    "main.js": "/static/js/main.d89dd288.chunk.js",
-    "main.js.map": "/static/js/main.d89dd288.chunk.js.map",
+    "main.js": "/static/js/main.ed5233da.chunk.js",
+    "main.js.map": "/static/js/main.ed5233da.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a04ad65b.js.map",
     "static/js/2.ad0cf9f1.chunk.js": "/static/js/2.ad0cf9f1.chunk.js",
@@ -224,7 +224,7 @@
     "static/media/_thumb.jpg": "/static/media/_thumb.fee99137.jpg",
     "static/media/aufnahmen-2020-12-22.mov": "/static/media/aufnahmen-2020-12-22.879a6db9.mov",
     "static/media/c571cec50b7d765c97b334039283a9f5.jpg": "/static/media/c571cec50b7d765c97b334039283a9f5.f95ba588.jpg",
-    "static/media/data.868733b6.yaml": "/static/media/data.868733b6.yaml",
+    "static/media/data.2be0625b.yaml": "/static/media/data.2be0625b.yaml",
     "static/media/image0.jpeg": "/static/media/image0.d0e96707.jpeg",
     "static/media/image1.jpeg": "/static/media/image1.6b6bdf66.jpeg",
     "static/media/photo_2020-12-07_20-43-11-cropped.jpeg": "/static/media/photo_2020-12-07_20-43-11-cropped.1eb10bcf.jpeg",
@@ -238,6 +238,6 @@
     "static/js/runtime-main.a04ad65b.js",
     "static/js/2.ad0cf9f1.chunk.js",
     "static/css/main.292fef69.chunk.css",
-    "static/js/main.d89dd288.chunk.js"
+    "static/js/main.ed5233da.chunk.js"
   ]
 }
