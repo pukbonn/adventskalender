@@ -778,6 +778,10 @@ days:
       - 20231207-3.jpg
   - date: 2023-12-08
     address: 'Bonner Logsweg 44, Lessenich'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231208-1.jpg
+      - 20231208-2.jpg
     text: |-
       Thema: Lichterfeste der Religionen<br>
       <br>Judentum: Chanukka
