@@ -778,23 +778,11 @@ days:
       - 20231207-3.jpg
   - date: 2023-12-08
     address: 'Bonner Logsweg 44, Lessenich'
-    thumbnail: _thumb.jpg
-    photos:
-      - 20231208-1.jpg
-      - 20231208-2.jpg
   - date: 2023-12-09
     address: 'Sebastianstraße 180, Endenich'
-    thumbnail: _thumb.jpg
-    photos:
-      - 20231209-1.jpg
-      - 20231209-2.jpg
   - date: 2023-12-10
     address: 'Im jungen Wingert 2, Endenich; Es spielt das Ensemble VeedelBlech.'
-    thumbnail: _thumb.jpg
-    photos:
-      - 20231210-1.jpg
-      - 20231210-2.jpg
-- date: 2023-12-11
+  - date: 2023-12-11
     address: 'Gottfried-Kinkel-Str. 25, Duisdorf'
   - date: 2023-12-12
     address: 'Auf dem Hügel 107, Endenich'
