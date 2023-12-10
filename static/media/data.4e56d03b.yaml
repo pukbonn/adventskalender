@@ -803,6 +803,10 @@ days:
       - 20231209-2.jpg
   - date: 2023-12-10
     address: 'Im jungen Wingert 2, Endenich; Es spielt das Ensemble VeedelBlech.'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231210-1.jpg
+      - 20231210-2.jpg
   - date: 2023-12-11
     address: 'Gottfried-Kinkel-Str. 25, Duisdorf'
   - date: 2023-12-12
