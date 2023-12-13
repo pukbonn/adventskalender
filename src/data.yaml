@@ -811,13 +811,17 @@ days:
     address: 'Gottfried-Kinkel-Str. 25, Duisdorf'
   - date: 2023-12-12
     address: 'Auf dem Hügel 107, Endenich'
-    humbnail: _thumb.jpg
+    thumbnail: _thumb.jpg
     photos:
       - 20231212-1.jpg
       - 20231212-2.jpg
       - 20231212-3.jpg
   - date: 2023-12-13
     address: 'Theodor-Litt-Str. 17, Endenich'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231213-1.jpg
+      - 20231213-2.jpg
   - date: 2023-12-14
     address: 'Ökumenischer Schaukasten, Frongasse, Endenich'
   - date: 2023-12-15
