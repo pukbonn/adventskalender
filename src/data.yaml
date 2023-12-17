@@ -864,6 +864,10 @@ days:
     address: 'Lutfridstrasse 14, Endenich'
   - date: 2023-12-17
     address: 'Lipschitzstr. 43, Endenich'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231217-1.jpg
+      - 20231217-2.jpg    
   - date: 2023-12-18
     address: 'Der Termin muss leider ausfallen.'
   - date: 2023-12-19
