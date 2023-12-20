@@ -872,8 +872,17 @@ days:
     address: 'Der Termin muss leider ausfallen.'
   - date: 2023-12-19
     address: 'Max-Cohen Straße 19-23 (Wendehammer), Endenich'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231219-1.jpg
+      - 20231219-2.jpg
+      - 20231219-3.jpg
+      - 20231219-4.jpg    
+      - 20231219-5.jpg
   - date: 2023-12-20
     address: 'Enggasse 10, Lengsdorf'
+      - 20231220-1.jpg
+      - 20231220-2.jpg
   - date: 2023-12-21
     address: 'Alfred-Bucherer-Str. 91, Endenich'
   - date: 2023-12-22
