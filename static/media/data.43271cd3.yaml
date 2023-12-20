@@ -881,6 +881,8 @@ days:
       - 20231219-5.jpg
   - date: 2023-12-20
     address: 'Enggasse 10, Lengsdorf'
+    thumbnail: _thumb.jpg
+    photos:
       - 20231220-1.jpg
       - 20231220-2.jpg
   - date: 2023-12-21
