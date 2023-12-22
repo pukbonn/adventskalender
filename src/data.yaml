@@ -887,6 +887,11 @@ days:
       - 20231220-2.jpg
   - date: 2023-12-21
     address: 'Alfred-Bucherer-Str. 91, Endenich'
+    thumbnail: _thumb.jpg
+    photos:
+      - 20231221-1.jpg
+      - 20231221-2.jpg
+      - 20231221-3.jpg
   - date: 2023-12-22
     address: 'Enggasse 42, Lengsdorf'
   - date: 2023-12-23
@@ -897,7 +902,7 @@ days:
 #   - date: 2020-12-24
 #     address: ''
 #     time: ''
-#     photos: []  (1200px groesste Seite)
+#     photos: []  (1200px groesste Seite) (Standard 1000px)
 #     thumbnail: ''  (400px groesste Seite)
 #     video: ''
 #     text: |-
