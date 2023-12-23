@@ -896,6 +896,12 @@ days:
     address: 'Enggasse 42, Lengsdorf'
   - date: 2023-12-23
     address: 'Alfred-Bucherer-Straße 22, Endenich'
+   thumbnail: _thumb.jpg
+    photos:
+      - 20231223-1.jpg
+      - 20231223-2.jpg
+      - 20231223-3.jpg
+      - 20231223-4.jpg
   - date: 2023-12-24
     address: 'Frohe Weihnachten'
     
