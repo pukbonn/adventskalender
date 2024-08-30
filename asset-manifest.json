@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.875a7bff.chunk.css",
+    "main.css": "/static/css/main.75e15034.chunk.css",
     "main.js": "/static/js/main.8b2fadee.chunk.js",
     "main.js.map": "/static/js/main.8b2fadee.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a04ad65b.js",
@@ -8,7 +8,7 @@
     "static/js/2.25f1354c.chunk.js": "/static/js/2.25f1354c.chunk.js",
     "static/js/2.25f1354c.chunk.js.map": "/static/js/2.25f1354c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.875a7bff.chunk.css.map": "/static/css/main.875a7bff.chunk.css.map",
+    "static/css/main.75e15034.chunk.css.map": "/static/css/main.75e15034.chunk.css.map",
     "static/js/2.25f1354c.chunk.js.LICENSE.txt": "/static/js/2.25f1354c.chunk.js.LICENSE.txt",
     "static/media/12-Dezember-Dohmstr-2.jpg": "/static/media/12-Dezember-Dohmstr-2.7760afa1.jpg",
     "static/media/20201126_173322.jpg": "/static/media/20201126_173322.55e3552f.jpg",
@@ -262,7 +262,7 @@
   "entrypoints": [
     "static/js/runtime-main.a04ad65b.js",
     "static/js/2.25f1354c.chunk.js",
-    "static/css/main.875a7bff.chunk.css",
+    "static/css/main.75e15034.chunk.css",
     "static/js/main.8b2fadee.chunk.js"
   ]
 }
