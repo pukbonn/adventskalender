@@ -750,7 +750,9 @@ days:
       - 20231205-1.jpg
       - 20231205-2.jpg
   - date: 2023-12-06
-    address: "! 20:30 Uhr Spätschicht in Sankt Maria Magdalena, Endenich"
+    time: 20:30
+    text: "Spätschicht in St. Maria Magdalena, Endenich"
+    address: "Sankt Maria Magdalena, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231206-1.jpg
