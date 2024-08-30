@@ -751,7 +751,6 @@ days:
       - 20231205-2.jpg
   - date: 2023-12-06
     time: 20:30
-    text: "Spätschicht in St. Maria Magdalena, Endenich"
     address: "Sankt Maria Magdalena, Endenich"
     thumbnail: _thumb.jpg
     photos:
@@ -760,6 +759,8 @@ days:
       - 20231206-3.jpg
       - 20231206-4.jpg
     text: |-
+      Spätschicht in St. Maria Magdalena, Endenich<br>
+      <br>
       Dein Name, Herr, ist Leben, Friede, Schalom und Salam. 
       <br>Dieser Name sei genannt und gepriesen von alle.
       <br>Mit allen, die diesen Namen kennen, bitten wir um Frieden
