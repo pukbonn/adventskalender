@@ -905,6 +905,103 @@ days:
   - date: 2023-12-24
     address: "Frohe Weihnachten"
 
+  - date: 2024-12-01
+    address: "St. Maria Magdalena, Magdalenenstraße 25"
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-02
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-03
+    time: 17:00
+    address: "KiTa St. Maria Magdalena, Wiesenweg 6"
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-04
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-05
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-06
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-07
+    address: "Bonner Logsweg 44, Lessenich"
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-08
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-09
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-10
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-11
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-12
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-13
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-14
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-15
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-16
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-17
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-18
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-19
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-20
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-21
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-22
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-23
+    address: ""
+    thumbnail: ""
+    photos: []
+  - date: 2024-12-24
+    address: ""
+    thumbnail: ""
+    photos: []
 #   - date: 2020-12-24
 #     address: ''
 #     time: ''
