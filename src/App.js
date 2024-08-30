@@ -1,21 +1,20 @@
-import { useState, useEffect, useCallback, Component } from 'react'
+import { Component, useCallback, useEffect, useState } from 'react'
 
+import Countdown from 'react-countdown'
+import { Helmet } from 'react-helmet'
+import Card from './Card.js'
+import Footer from './Footer.js'
+import Sheet from './Sheet.js'
 import './app.css'
 import './cards.css'
-import { Helmet } from 'react-helmet'
-import Countdown from 'react-countdown'
-import Footer from './Footer.js'
-import Card from './Card.js'
-import Sheet from './Sheet.js'
 
-import YAML from 'yaml'
-
+import YAML from 'js-yaml'
 import data_yaml_path from './data.yaml'
 
 import {
 	NavLink,
-	useLocation,
 	useHistory,
+	useLocation,
 	useRouteMatch,
 } from 'react-router-dom'
 
@@ -25,13 +24,13 @@ import {
 
 function uuidv4() {
 	// SOURCE: https://stackoverflow.com/questions/105034/how-to-create-a-guid-uuid
-	return ([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g, c =>
+	return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, c =>
 		// eslint-disable-next-line
 		(c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
 	)
 }
 
-function getUserSessionID(){
+function getUserSessionID() {
 	let userSessionID = sessionStorage.userSessionID
 
 	if (!(!!userSessionID) || userSessionID === '') {
@@ -42,7 +41,7 @@ function getUserSessionID(){
 	return userSessionID
 }
 
-async function sendStats(){
+async function sendStats() {
 	const webhookURL = 'https://enlifdzpibv0of7.m.pipedream.net'
 	fetch(webhookURL, {
 		method: 'POST',
@@ -73,13 +72,13 @@ const renderer = ({ days, hours, minutes, seconds, completed }) => {
 	} else {
 		return <>
 			<br />
-			<strong>Das erste Fenster öffnet in…</strong><br/>
+			<strong>Das erste Fenster öffnet in…</strong><br />
 			<table>
 				<tbody>
-					{days === 0 ? null : (<tr><td style={{textAlign:'right'}}>{days}</td><td style={{textAlign:'left'}}>{days === 1 ? 'Tag' : 'Tagen'}</td></tr>)}
-					{hours === 0 ? null : (<tr><td style={{textAlign:'right'}}>{hours}</td><td style={{textAlign:'left'}}>{hours === 1 ? 'Stunde' : 'Stunden'}</td></tr>)}
-					{minutes === 0 ? null : (<tr><td style={{textAlign:'right'}}>{minutes}</td><td style={{textAlign:'left'}}>{minutes === 1 ? 'Minute' : 'Minuten'}</td></tr>)}
-					<tr><td style={{textAlign:'right'}}>{seconds}</td><td style={{textAlign:'left'}}>{seconds === 1 ? 'Sekunde' : 'Sekunden'}</td></tr>
+					{days === 0 ? null : (<tr><td style={{ textAlign: 'right' }}>{days}</td><td style={{ textAlign: 'left' }}>{days === 1 ? 'Tag' : 'Tagen'}</td></tr>)}
+					{hours === 0 ? null : (<tr><td style={{ textAlign: 'right' }}>{hours}</td><td style={{ textAlign: 'left' }}>{hours === 1 ? 'Stunde' : 'Stunden'}</td></tr>)}
+					{minutes === 0 ? null : (<tr><td style={{ textAlign: 'right' }}>{minutes}</td><td style={{ textAlign: 'left' }}>{minutes === 1 ? 'Minute' : 'Minuten'}</td></tr>)}
+					<tr><td style={{ textAlign: 'right' }}>{seconds}</td><td style={{ textAlign: 'left' }}>{seconds === 1 ? 'Sekunde' : 'Sekunden'}</td></tr>
 				</tbody>
 			</table>
 		</>
@@ -137,10 +136,10 @@ function App() {
 
 	useEffect(() => {
 		fetch(data_yaml_path)
-		.then(async response => {
-			setData(YAML.parse(await response.text()))
-		})
-		.catch(error=> console.error(error))
+			.then(async response => {
+				setData(YAML.load(await response.text()))
+			})
+			.catch(error => console.error(error))
 	}, [])
 
 	const days = data.days.filter(day => new Date(day.date).getFullYear() === year)
@@ -156,41 +155,41 @@ function App() {
 		console.log('year', year)
 		setYear(year)
 		history.push(`/day/${year}`)
-	}, [ setYear, history ])
+	}, [setYear, history])
 
-	const calendarStart = new Date(2020,11,1,18,0,0,0) // 1 of Dezember
+	const calendarStart = new Date(2020, 11, 1, 18, 0, 0, 0) // 1 of Dezember
 	return (
 		<>
 			<header>
-			<Helmet>
-				<title>Lebendiger Adventskalender</title>
-				<meta name="description" content="Ein ökumenisches Projekt der Pfarrei St. Maria Magdalena und Christi Auferstehung und der Evangelische Trinitatiskirchengemeinde Bonn-Endenich." />
-			</Helmet>
+				<Helmet>
+					<title>Lebendiger Adventskalender</title>
+					<meta name="description" content="Ein ökumenisches Projekt der Pfarrei St. Maria Magdalena und Christi Auferstehung und der Evangelische Trinitatiskirchengemeinde Bonn-Endenich." />
+				</Helmet>
 
-			<svg viewBox="0 0 775 215" className="svg-header">
-				<text className="h1" x="10" y="90">Lebendiger</text>
-				<text className="h1" x="10" y="200">Adventskalender</text>
-			</svg>
+				<svg viewBox="0 0 775 215" className="svg-header">
+					<text className="h1" x="10" y="90">Lebendiger</text>
+					<text className="h1" x="10" y="200">Adventskalender</text>
+				</svg>
 
 
 
-			<div className="intro_text">
-				<div className="inner">
-					<p>
-						Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
-						<strong>Jeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenster.</strong> Stehen bleiben, Lieder singen, Geschichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespräch kommen.
-					</p>
-					<br />
-					<p>
-						Für Fragen und Anregungen können Sie sich gerne an <a href="mailto:uta.luenebach@netcologne.de">uta.luenebach@netcologne.de</a> wenden.
-					</p>
-					<br />
-					<Countdown
-						date={calendarStart}
-						renderer={renderer}
-					/>
+				<div className="intro_text">
+					<div className="inner">
+						<p>
+							Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
+							<strong>Jeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenster.</strong> Stehen bleiben, Lieder singen, Geschichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespräch kommen.
+						</p>
+						<br />
+						<p>
+							Für Fragen und Anregungen können Sie sich gerne an <a href="mailto:uta.luenebach@netcologne.de">uta.luenebach@netcologne.de</a> wenden.
+						</p>
+						<br />
+						<Countdown
+							date={calendarStart}
+							renderer={renderer}
+						/>
+					</div>
 				</div>
-			</div>
 			</header>
 
 
@@ -203,7 +202,7 @@ function App() {
 					<NavLink
 						className="card"
 						key={dayData.date}
-						to={'/day/'+dayData.date}
+						to={'/day/' + dayData.date}
 					>
 						<Card data={dayData} />
 					</NavLink>
@@ -212,16 +211,16 @@ function App() {
 
 			{
 				typeof dateString === 'string'
-				&& dateString.length > 0
-				&& dateString.includes('-')
-				? <>
-					<SheetBodyStyle />
-					<Sheet
-						dateString={dateString}
-						days={data.days}
-					/>
-				</>
-				: null
+					&& dateString.length > 0
+					&& dateString.includes('-')
+					? <>
+						<SheetBodyStyle />
+						<Sheet
+							dateString={dateString}
+							days={data.days}
+						/>
+					</>
+					: null
 			}
 
 			<Footer />
