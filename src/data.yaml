@@ -405,28 +405,28 @@ days:
       - IMG_0753.JPG
   - date: 2021-12-01
     time: 18:30
-    address: 'St. Maria Magdalena, Magdalenenstraße 25'
+    address: "St. Maria Magdalena, Magdalenenstraße 25"
     thumbnail: _thumb.jpg
     photos:
       - IMG_3968.JPG
       - IMG_3967.JPG
   - date: 2021-12-02
-    address: 'Gottfried-Kinkel Straße 25'
+    address: "Gottfried-Kinkel Straße 25"
   - date: 2021-12-03
-    address: 'Pfarrer-Byns-Straße 5'
+    address: "Pfarrer-Byns-Straße 5"
     thumbnail: _thumb.jpg
     photos:
       - IMG_9995.jpeg
       - IMG_9996.jpeg
   - date: 2021-12-04
-    address: 'Buchfinkenweg 30, Duisdorf'
+    address: "Buchfinkenweg 30, Duisdorf"
     photos:
       - 20211204_192657.jpg
     text: |-
       Aus der Adventsmeditation von Anselm Grün:
       "So bedeuten für uns Christen die Barbarazweige (...), dass in der Kälte des Winters neues Leben aufblüht. Sie sind Zeichen der Hoffnung, dass durch Christus auch unser Leben immer fruchtbar ist, selbst wenn wir uns wie im Gefängnis fühlen, selbst wenn wir verletzt werden, selbst wenn wir abgelehnt und ausgestoßen werden. (...) In die Kälte des Winters kommt die Wärme der Liebe, die selbst das Tote in uns wieder aufblühen läßt."
   - date: 2021-12-05
-    address: 'Magdalenenstraße 34'
+    address: "Magdalenenstraße 34"
     thumbnail: _thumb.jpg
     photos:
       - IMG_4050.JPG
@@ -434,7 +434,7 @@ days:
       - IMG_4052.JPG
       - IMG_4053.JPG
   - date: 2021-12-06
-    address: 'Neuenahrerstr. 2'
+    address: "Neuenahrerstr. 2"
     thumbnail: _thumb.jpg
     photos:
       - IMG_0118.jpg
@@ -446,14 +446,14 @@ days:
       - IMG_0119.jpg
       - IMG_7587.JPG
   - date: 2021-12-08
-    address: 'Kita St. Maria Magdalena, Wiesenweg 6'
+    address: "Kita St. Maria Magdalena, Wiesenweg 6"
     thumbnail: _thumb.jpg
     photos:
       - IMG_3381-small.jpeg
   - date: 2021-12-09
-    address: 'Sebastianstraße 178'
+    address: "Sebastianstraße 178"
   - date: 2021-12-11
-    address: 'Alfred Bucherer-Straße 22'
+    address: "Alfred Bucherer-Straße 22"
     thumbnail: _thumb.jpg
     photos:
       - IMG_4015.jpg
@@ -464,26 +464,26 @@ days:
       - IMG_4022.jpg
   - date: 2021-12-12
     time: 18:00
-    address: 'Adventssingen in Trinitatis'
+    address: "Adventssingen in Trinitatis"
   - date: 2021-12-14
-    address: 'Schieffelingsweg 26c, Duisdorf'
+    address: "Schieffelingsweg 26c, Duisdorf"
   - date: 2021-12-15
-    address: 'Magdalenenstraße 28'
+    address: "Magdalenenstraße 28"
   - date: 2021-12-16
-    address: 'Ökumenischer Schaukasten, Frongasse'
+    address: "Ökumenischer Schaukasten, Frongasse"
     thumbnail: _thumb.jpg
     photos:
       - image0.jpeg
       - image1.jpeg
   - date: 2021-12-17
-    address: 'JAP, Am Propsthof 134'
+    address: "JAP, Am Propsthof 134"
     thumbnail: _thumb.jpg
     photos:
       - signal-2021-12-17-194903_001.jpg
       - signal-2021-12-17-194903_002.jpg
       - signal-2021-12-17-194903_003.jpg
   - date: 2021-12-18
-    address: 'Theodor-Litt-Str. 17'
+    address: "Theodor-Litt-Str. 17"
     thumbnail: _thumb.jpg
     photos:
       - 20211218_181618.jpg
@@ -492,9 +492,9 @@ days:
       - 20211218_180033.jpg
   - date: 2021-12-19
     time: 18:00
-    address: 'Adventssingen in Trinitatis'
+    address: "Adventssingen in Trinitatis"
   - date: 2021-12-20
-    address: 'Wiesenweg 25'
+    address: "Wiesenweg 25"
     thumbnail: _thumb.jpg
     photos:
       - 20211220_175321_resized.jpg
@@ -502,9 +502,9 @@ days:
     text: |-
       Es gab eine Geschichte zum Mitnehmen, Musik und Schokolade.
   - date: 2021-12-21
-    address: 'Alfred-Bucherer-Straße 91'
+    address: "Alfred-Bucherer-Straße 91"
   - date: 2021-12-22
-    address: 'Am Burggraben 36'
+    address: "Am Burggraben 36"
     photos:
       - 20211222_183855.jpg
       - 20211222_193306.jpg
@@ -512,12 +512,12 @@ days:
       - 20211222_193629.jpg
       - 20211222_feuer.jpg
   - date: 2021-12-24
-    address: 'Pfarrheim-Fenster, Magdalenenstraße 25'
+    address: "Pfarrheim-Fenster, Magdalenenstraße 25"
     photos:
       - 20211224_1.jpg
       - 20211224_2.jpg
   - date: 2022-12-01
-    address: 'St. Maria Magdalena, Magdalenenstraße 25'
+    address: "St. Maria Magdalena, Magdalenenstraße 25"
     thumbnail: _thumb.jpg
     photos:
       - 20221201_1.jpg
@@ -526,71 +526,71 @@ days:
       - 20221201_4.jpg
     text: |-
       #### Zeit
-      
+
       Es ist für uns eine Zeit angekommen,
       <br>die bringt uns eine große Gnad
       <br>Unseren Heiland Jesus Christ
       <br>der für uns Mensch geworden ist.
   - date: 2022-12-02
-    address: 'Garten am Wiesenweg/Ecke Brahmsstraße'
+    address: "Garten am Wiesenweg/Ecke Brahmsstraße"
     thumbnail: _thumb.jpg
     photos:
       - 20221202-1.jpg
       - 20221202-2.jpg
   - date: 2022-12-03
-    address: 'Buchfinkenweg 30, 53123 Bonn Duisdorf'
+    address: "Buchfinkenweg 30, 53123 Bonn Duisdorf"
     thumbnail: _thumb.jpg
     photos:
       - 20221203-1-cropped.jpg
     text: |-
       #### Am Barbaratag
- 
+
       Am Barbaratag
       <br>pflück'ich mir einen Zweig
       <br>vom Kirschbaum in unserem Garten
- 
+
       Der Advent nämlich
       <br>kann zaubern, verborgen, ganz leis'.
       <br>Man muss nur geduldig drauf warten.
- 
+
       Zu Weihnachten dann
       <br>blüht's bei mir kirschblütenweiß.
 
       ####Nach Anselm Grün
       <br>in uns wird das Leben immer wieder erneuert, 
       <br>selbst das Tote in uns kann wieder aufblühen .... 
-      
+
       Dafür sind die Zweige ein Symbol.
   - date: 2022-12-04
-    address: 'Endenicher Park'
+    address: "Endenicher Park"
     thumbnail: _thumb.jpg
     photos:
       - 20221204-1.jpg
     text: |-
       Baum der Ökumene im Endenicher Park
   - date: 2022-12-05
-    address: 'Der Termin ist frei'
+    address: "Der Termin ist frei"
   - date: 2022-12-06
-    address: 'Der Termin ist frei'
+    address: "Der Termin ist frei"
   - date: 2022-12-07
-    address: 'KiTa St. Maria Magdalena, Wiesenweg 6'
+    address: "KiTa St. Maria Magdalena, Wiesenweg 6"
     thumbnail: _thumb.jpg
     photos:
       - 20221207-1.jpg
       - 20221207-2.jpg
       - 20221207-3.jpg
   - date: 2022-12-08
-    address: 'Ökumenischer Schaukasten, Frongasse'
+    address: "Ökumenischer Schaukasten, Frongasse"
   - date: 2022-12-09
-    address: 'Sebastianstr. 178'
+    address: "Sebastianstr. 178"
     thumbnail: _thumb.jpg
     photos:
       - 20221209-1.jpg
       - 20221209-2.jpg
   - date: 2022-12-10
-    address: 'Der Termin ist frei'
+    address: "Der Termin ist frei"
   - date: 2022-12-11
-    address: 'Bonner Logsweg 44, 53123 Bonn Lessenich'
+    address: "Bonner Logsweg 44, 53123 Bonn Lessenich"
     thumbnail: _thumb.jpg
     photos:
       - 20221211-1.jpg
@@ -601,16 +601,16 @@ days:
       <br>Thema war die Geschichte "Das Weihnachtsschiff". Unsere Wünsche/Fürbitten haben wir auf den Sternen festgehalten (Bild 2).
       <br>Es waren 40 Menschen anwesend. Die Kinder konnten im Anschluss noch Kränze binden (Bild 3).
   - date: 2022-12-12
-    address: 'Kaufmannstraße 46'
+    address: "Kaufmannstraße 46"
   - date: 2022-12-13
-    address: 'Alte Heerstraße 8'
+    address: "Alte Heerstraße 8"
     thumbnail: _thumb.jpg
     photos:
       - 20221213-1.jpg
     text: |-
       Wir hatten heute unseren Garten geöffnet und zu Spekulatius, Punsch und Musik am Lagerfeuer geladen. Schön wars!
   - date: 2022-12-14
-    address: 'Max-Cohen Straße 19-23 (Wendehammer)'
+    address: "Max-Cohen Straße 19-23 (Wendehammer)"
     thumbnail: _thumb.jpg
     photos:
       - 20221214-1.jpg
@@ -624,7 +624,7 @@ days:
       - 20221214-9.jpg
       - 20221214-10.jpg
   - date: 2022-12-15
-    address: 'Theodor-Litt-Str. 17'
+    address: "Theodor-Litt-Str. 17"
     thumbnail: _thumb.jpg
     photos:
       - 20221215-1.jpg
@@ -641,13 +641,13 @@ days:
       <br>Noch einmal versuchte die Finsternis, das Licht zu verjagen  -  aber vergebens –
       Schließlich viel die Finsternis in sich zusammen und verschwand. Die Lichter aber leuchteten hell und erhellten das Land.
   - date: 2022-12-16
-    address: 'JAP, Am Propsthof 134'
+    address: "JAP, Am Propsthof 134"
     thumbnail: _thumb.jpg
     photos:
       - 20221216-1.jpg
       - 20221216-2.jpg
   - date: 2022-12-17
-    address: 'Alfred-Bucherer Str. 22'
+    address: "Alfred-Bucherer Str. 22"
     thumbnail: _thumb.jpg
     photos:
       - 20221217-2.jpg
@@ -655,14 +655,14 @@ days:
       - 20221217-4.jpg
       - 20221217-5.jpg
   - date: 2022-12-18
-    address: 'Theodor-Brinkmann Str. 40'
+    address: "Theodor-Brinkmann Str. 40"
     thumbnail: _thumb.jpg
     photos:
       - 20221218-1.jpg
   - date: 2022-12-19
-    address: 'Alfred-Bucherer Str. 20'
+    address: "Alfred-Bucherer Str. 20"
   - date: 2022-12-20
-    address: 'Wiesenweg 25'
+    address: "Wiesenweg 25"
     thumbnail: _thumb.jpg
     photos:
       - 20221220-1.jpg
@@ -672,7 +672,7 @@ days:
     text: |-
       Geschichte: Der Kleine Stern
   - date: 2022-12-21
-    address: 'Am Burggraben 36'
+    address: "Am Burggraben 36"
     thumbnail: _thumb.jpg
     photos:
       - 20221221-1.jpg
@@ -685,16 +685,16 @@ days:
       Kleines schafft Großes
       <br>Kleinvieh macht auch Mist
   - date: 2022-12-22
-    address: 'Alfred-Bucherer Str. 91'
+    address: "Alfred-Bucherer Str. 91"
   - date: 2022-12-23
-    address: 'Enggasse 10, 53127 Bonn Lengsdorf'
+    address: "Enggasse 10, 53127 Bonn Lengsdorf"
     thumbnail: _thumb.jpg
     photos:
       - 20221223-1.jpg
   - date: 2022-12-24
-    address: 'Heiliger Abend - Frohe Weihnachten'
+    address: "Heiliger Abend - Frohe Weihnachten"
   - date: 2023-12-01
-    address: 'St. Maria Magdalena, Magdalenenstraße 25, Endenich'
+    address: "St. Maria Magdalena, Magdalenenstraße 25, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231201-1.jpg
@@ -730,27 +730,27 @@ days:
       <br><br>Link zum Download des Türenmemory aus dem Essener Adventskalender 2023.
       <br>
   - date: 2023-12-02
-    address: 'Buchfinkenweg 30, Duisdorf'
+    address: "Buchfinkenweg 30, Duisdorf"
   - date: 2023-12-03
-    address: 'Flodelingsweg 42, Endenich'
+    address: "Flodelingsweg 42, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231203-1.jpg
       - 20231203-2.jpg
   - date: 2023-12-04
-    address: 'Kaufmannstr. 46, Endenich'
+    address: "Kaufmannstr. 46, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231204-1.jpg
       - 20231204-2.jpg
   - date: 2023-12-05
-    address: 'Magdalenenstraße 34, Endenich'
+    address: "Magdalenenstraße 34, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231205-1.jpg
       - 20231205-2.jpg
   - date: 2023-12-06
-    address: '! 20:30 Uhr Spätschicht in Sankt Maria Magdalena, Endenich'
+    address: "! 20:30 Uhr Spätschicht in Sankt Maria Magdalena, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231206-1.jpg
@@ -770,14 +770,14 @@ days:
       <br>Mache uns zu Werkzeugen deines Friedens.
       <br><br>(Hermman Schalück in Gotteslob 20.3)
   - date: 2023-12-07
-    address: 'KiTa St. Maria Magdalena, Wiesenweg 6, Endenich'
+    address: "KiTa St. Maria Magdalena, Wiesenweg 6, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231207-1.jpg
       - 20231207-2.jpg
       - 20231207-3.jpg
   - date: 2023-12-08
-    address: 'Bonner Logsweg 44, Lessenich'
+    address: "Bonner Logsweg 44, Lessenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231208-1.jpg
@@ -796,28 +796,28 @@ days:
       <br>Amen
       <br><br>(Marlene Preuß)
   - date: 2023-12-09
-    address: 'Sebastianstraße 180, Endenich'
+    address: "Sebastianstraße 180, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231209-1.jpg
       - 20231209-2.jpg
   - date: 2023-12-10
-    address: 'Im jungen Wingert 2, Endenich; Es spielt das Ensemble VeedelBlech.'
+    address: "Im jungen Wingert 2, Endenich; Es spielt das Ensemble VeedelBlech."
     thumbnail: _thumb.jpg
     photos:
       - 20231210-1.jpg
       - 20231210-2.jpg
   - date: 2023-12-11
-    address: 'Gottfried-Kinkel-Str. 25, Duisdorf'
+    address: "Gottfried-Kinkel-Str. 25, Duisdorf"
   - date: 2023-12-12
-    address: 'Auf dem Hügel 107, Endenich'
+    address: "Auf dem Hügel 107, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231212-1.jpg
       - 20231212-2.jpg
       - 20231212-3.jpg
   - date: 2023-12-13
-    address: 'Theodor-Litt-Str. 17, Endenich'
+    address: "Theodor-Litt-Str. 17, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231213-1.jpg
@@ -831,9 +831,9 @@ days:
       <br>O Jesu, Jesu setze
       <br>mir selbst die Fackel bei,
       <br>damit, was dich ergötze,
-      <br>mir kund und wissend sei! 
+      <br>mir kund und wissend sei!
   - date: 2023-12-14
-    address: 'Ökumenischer Schaukasten, Frongasse, Endenich'
+    address: "Ökumenischer Schaukasten, Frongasse, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231214-1.jpg
@@ -859,43 +859,43 @@ days:
       <br>zu denen, die unter Krieg leiden
       <br>und sich Frieden wünschen.
   - date: 2023-12-15
-    address: 'JAP, Am Probsthof 134, Endenich'
+    address: "JAP, Am Probsthof 134, Endenich"
   - date: 2023-12-16
-    address: 'Lutfridstrasse 14, Endenich'
+    address: "Lutfridstrasse 14, Endenich"
   - date: 2023-12-17
-    address: 'Lipschitzstr. 43, Endenich'
+    address: "Lipschitzstr. 43, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231217-1.jpg
-      - 20231217-2.jpg    
+      - 20231217-2.jpg
   - date: 2023-12-18
-    address: 'Der Termin muss leider ausfallen.'
+    address: "Der Termin muss leider ausfallen."
   - date: 2023-12-19
-    address: 'Max-Cohen Straße 19-23 (Wendehammer), Endenich'
+    address: "Max-Cohen Straße 19-23 (Wendehammer), Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231219-1.jpg
       - 20231219-2.jpg
       - 20231219-3.jpg
-      - 20231219-4.jpg    
+      - 20231219-4.jpg
       - 20231219-5.jpg
   - date: 2023-12-20
-    address: 'Enggasse 10, Lengsdorf'
+    address: "Enggasse 10, Lengsdorf"
     thumbnail: _thumb.jpg
     photos:
       - 20231220-1.jpg
       - 20231220-2.jpg
   - date: 2023-12-21
-    address: 'Alfred-Bucherer-Str. 91, Endenich'
+    address: "Alfred-Bucherer-Str. 91, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231221-1.jpg
       - 20231221-2.jpg
       - 20231221-3.jpg
   - date: 2023-12-22
-    address: 'Enggasse 42, Lengsdorf'
+    address: "Enggasse 42, Lengsdorf"
   - date: 2023-12-23
-    address: 'Alfred-Bucherer-Straße 22, Endenich'
+    address: "Alfred-Bucherer-Straße 22, Endenich"
     thumbnail: _thumb.jpg
     photos:
       - 20231223-1.jpg
@@ -903,8 +903,8 @@ days:
       - 20231223-3.jpg
       - 20231223-4.jpg
   - date: 2023-12-24
-    address: 'Frohe Weihnachten'
-    
+    address: "Frohe Weihnachten"
+
 #   - date: 2020-12-24
 #     address: ''
 #     time: ''
@@ -914,4 +914,3 @@ days:
 #     text: |-
 #       *hello*
 #       world
-...
