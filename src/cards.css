@@ -133,7 +133,7 @@
   height: 100%;
   width: 100%;
 }
-.cards .card .cardInner.isSunday::before {
+/* .cards .card .cardInner.isSunday::before {
   content: "";
   position: absolute;
   top: 0;
@@ -143,4 +143,4 @@
   margin: 16px;
   z-index: -1;
   background-color: rgba(255, 255, 255, 0.25);
-}
+} */
