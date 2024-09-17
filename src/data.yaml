@@ -934,7 +934,7 @@ days:
     thumbnail: ""
     photos: []
   - date: 2024-12-07
-    address: "Bonner Logsweg 44, Lessenich"
+    address: ""
     thumbnail: ""
     photos: []
   - date: 2024-12-08
@@ -962,7 +962,7 @@ days:
     thumbnail: ""
     photos: []
   - date: 2024-12-14
-    address: ""
+    address: "Bonner Logsweg 44, Lessenich"
     thumbnail: ""
     photos: []
   - date: 2024-12-15
