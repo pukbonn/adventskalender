@@ -909,7 +909,7 @@ days:
     address: "Frohe Weihnachten"
 
   - date: 2024-12-01
-    address: "St. Maria Magdalena, Magdalenenstraße 25"
+    address: "St. Maria Magdalena, Magdalenenstraße 25, Endenich"
     thumbnail: ""
     photos: []
   - date: 2024-12-02
@@ -918,7 +918,7 @@ days:
     photos: []
   - date: 2024-12-03
     time: 17:00
-    address: "KiTa St. Maria Magdalena, Wiesenweg 6"
+    address: "KiTa St. Maria Magdalena, Wiesenweg 6, Endenich"
     thumbnail: ""
     photos: []
   - date: 2024-12-04
@@ -926,7 +926,7 @@ days:
     thumbnail: ""
     photos: []
   - date: 2024-12-05
-    address: ""
+    address: "Pfarrheim St. Mara Magdalena, Magdalenenstraße 25, Endenich"
     thumbnail: ""
     photos: []
   - date: 2024-12-06
@@ -938,7 +938,7 @@ days:
     thumbnail: ""
     photos: []
   - date: 2024-12-08
-    address: "Flodelingsweg 42"
+    address: "Flodelingsweg 42, Endenich"
     thumbnail: ""
     photos: []
   - date: 2024-12-09
@@ -978,11 +978,11 @@ days:
     thumbnail: ""
     photos: []
   - date: 2024-12-18
-    address: ""
+    address: "Theodor-Litt-Str. 17, Endenich"
     thumbnail: ""
     photos: []
   - date: 2024-12-19
-    address: ""
+    address: "Bücherei, Uhlgasse 8, Lengsdorf"
     thumbnail: ""
     photos: []
   - date: 2024-12-20
