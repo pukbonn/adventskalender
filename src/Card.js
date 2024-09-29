@@ -18,11 +18,11 @@ function Card({ data }) {
 		async function loadImage() {
 			if (!!thumbnail && typeof thumbnail === 'string' && thumbnail !== '') {
 				const path = require(`./photos/${dateString}/${thumbnail}`)
-				setCoverphotoPath(path.default)
+				setCoverphotoPath(path)
 			} else {
 				if (!!photos && Array.isArray(photos) && photos.length > 0 && photos[0] !== '') {
 					const path = require(`./photos/${dateString}/${photos[0]}`)
-					setCoverphotoPath(path.default)
+					setCoverphotoPath(path)
 				} else {
 					setCoverphotoPath('')
 				}
@@ -42,8 +42,6 @@ function Card({ data }) {
 	// address = address
 	// .split(',')
 	// .map(line => <p>{line}</p>)
-
-	// const coverphotoPath1 = 'https://unsplash.com/photos/czvOY2ikK3Y/download?force=true&w=640'
 
 	return (
 		<div
