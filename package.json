@@ -52,5 +52,8 @@
     "@babel/preset-env": "^7.25.4",
     "@babel/preset-react": "^7.24.7",
     "babel-loader": "^9.2.1"
+  },
+  "volta": {
+    "node": "20.0.0"
   }
 }
