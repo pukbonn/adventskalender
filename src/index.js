@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import './index.css'
 import App from './App'
+import './index.css'
 // import reportWebVitals from './reportWebVitals'
 
 import {
@@ -22,11 +22,11 @@ ReactDOM.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 // reportWebVitals()
 
-const url = window.location+''
+const url = window.location + ''
 if (
 	!url.startsWith('https')
 	&& url.startsWith('http://adventskalender.puk-bonn.de')
-){
+) {
 	window.location.replace(url.replace('http://', 'https://'))
 }
 

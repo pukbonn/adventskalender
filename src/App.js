@@ -137,7 +137,13 @@ function App() {
 	useEffect(() => {
 		fetch(data_yaml_path)
 			.then(async response => {
-				setData(YAML.load(await response.text()))
+				const loadedData = YAML.load(await response.text())
+				loadedData.days = loadedData.days.map(day => ({
+					...day,
+					date: day.date.toISOString().split('T')[0],
+				}))
+
+				setData(loadedData)
 			})
 			.catch(error => console.error(error))
 	}, [])
@@ -152,7 +158,6 @@ function App() {
 	]
 
 	const handleYearChange = useCallback(year => {
-		console.log('year', year)
 		setYear(year)
 		history.push(`/day/${year}`)
 	}, [setYear, history])
@@ -198,15 +203,15 @@ function App() {
 			</nav>
 
 			<nav className="cards">
-				{days.map(dayData =>
-					<NavLink
+				{days.map(dayData => {
+					return <NavLink
 						className="card"
 						key={dayData.date}
 						to={'/day/' + dayData.date}
 					>
 						<Card data={dayData} />
 					</NavLink>
-				)}
+				})}
 			</nav>
 
 			{
