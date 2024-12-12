@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1e1b0536.css",
-    "main.js": "/static/js/main.e710e163.js",
+    "main.js": "/static/js/main.4f4dc749.js",
     "static/media/IMG_0753_auto_x2_colored_toned.jpg": "/static/media/IMG_0753_auto_x2_colored_toned.0786682a96f7908e7316.jpg",
     "static/media/WhatsApp Video 2020-12-24 at 10.55.59.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.59.4f333fb784412e470442.mp4",
     "static/media/20231206-3.jpg": "/static/media/20231206-3.d962d6ffabdade925448.jpg",
@@ -240,6 +240,10 @@
     "static/media/IMG_0754.jpg": "/static/media/IMG_0754.8753f93787e5a2461607.jpg",
     "static/media/IMG_0951.jpeg": "/static/media/IMG_0951.fd5ffd31fab2c1fe8485.jpeg",
     "static/media/20201202_184656.jpeg": "/static/media/20201202_184656.0d69b6cc5114430ba484.jpeg",
+    "static/media/20241209-3.jpg": "/static/media/20241209-3.13fd07143b7459df2f31.jpg",
+    "static/media/20241209-2.jpg": "/static/media/20241209-2.6db1c488760f9d9b6995.jpg",
+    "static/media/20241209-1.jpg": "/static/media/20241209-1.5164cffb38f766e07113.jpg",
+    "static/media/20241209-4.jpg": "/static/media/20241209-4.cb62d40ff72f57183b2d.jpg",
     "static/media/video-cover.jpeg": "/static/media/video-cover.6d6ce17fd3b8df5fac39.jpeg",
     "static/media/84891ADA-AE3E-42F4-8944-0C5A8BD31501.jpeg": "/static/media/84891ADA-AE3E-42F4-8944-0C5A8BD31501.648bf08259638dc7ce20.jpeg",
     "static/media/jpg": "/static/media/c571cec50b7d765c97b334039283a9f5.f95ba58877466a137bdf.jpg",
@@ -256,10 +260,10 @@
     "static/media/21dezember2020.docx": "/static/media/21dezember2020.d8cf653561d31147127e.docx",
     "index.html": "/index.html",
     "main.1e1b0536.css.map": "/static/css/main.1e1b0536.css.map",
-    "main.e710e163.js.map": "/static/js/main.e710e163.js.map"
+    "main.4f4dc749.js.map": "/static/js/main.4f4dc749.js.map"
   },
   "entrypoints": [
     "static/css/main.1e1b0536.css",
-    "static/js/main.e710e163.js"
+    "static/js/main.4f4dc749.js"
   ]
 }
