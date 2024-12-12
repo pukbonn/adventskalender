@@ -915,8 +915,11 @@ days:
       - 20241201-1.jpg
   - date: 2024-12-02
     address: "Kaufmannstr. 46, Weststadt"
-    thumbnail: ""
-    photos: []
+    thumbnail: _thumb.jpg
+    photos: 
+      - 20241202-2.jpg
+      - 20241202-3.jpg
+      - 20241202-1.jpg
   - date: 2024-12-03
     time: 17:00
     address: "KiTa St. Maria Magdalena, Wiesenweg 6, Endenich"
