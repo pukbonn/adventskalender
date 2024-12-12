@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1e1b0536.css",
-    "main.js": "/static/js/main.cebeeb78.js",
+    "main.js": "/static/js/main.79587270.js",
     "static/media/IMG_0753_auto_x2_colored_toned.jpg": "/static/media/IMG_0753_auto_x2_colored_toned.0786682a96f7908e7316.jpg",
     "static/media/WhatsApp Video 2020-12-24 at 10.55.59.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.59.4f333fb784412e470442.mp4",
     "static/media/20231206-3.jpg": "/static/media/20231206-3.d962d6ffabdade925448.jpg",
@@ -87,6 +87,7 @@
     "static/media/20201206_172946.jpg": "/static/media/20201206_172946.57c028292bd057a59479.jpg",
     "static/media/IMG_2011.jpeg": "/static/media/IMG_2011.e10785739894d42ca546.jpeg",
     "static/media/IMG_3381.jpeg": "/static/media/IMG_3381.efca286231d4a2a3dda3.jpeg",
+    "static/media/20241201-1.jpg": "/static/media/20241201-1.99731a2ce2be36b4255d.jpg",
     "static/media/IMG_4346.jpg": "/static/media/IMG_4346.b850c837758ea549f2d3.jpg",
     "static/media/20201206_173000.jpg": "/static/media/20201206_173000.ac26934a2bc531b40151.jpg",
     "static/media/IMG_4079.jpeg": "/static/media/IMG_4079.05814be20592c985869c.jpeg",
@@ -243,7 +244,7 @@
     "static/media/7e511a46-6676-492f-9196-a1cead323b1b.jpeg": "/static/media/7e511a46-6676-492f-9196-a1cead323b1b.e87a65639afdd4bc3573.jpeg",
     "static/media/photo_2020-12-07_20-43-11.jpeg": "/static/media/photo_2020-12-07_20-43-11.f1e3f5eca0a23bcf8027.jpeg",
     "static/media/photo_2020-12-07_20-43-11-cropped.jpeg": "/static/media/photo_2020-12-07_20-43-11-cropped.1eb10bcfc49001874feb.jpeg",
-    "static/media/data.yaml": "/static/media/data.015c869e70703cb685a4.yaml",
+    "static/media/data.yaml": "/static/media/data.29c22395c34afacf303c.yaml",
     "static/media/petrona-latin-wght-normal.woff2": "/static/media/petrona-latin-wght-normal.d18b8367d3ef7862901e.woff2",
     "static/media/LAK-desaturated.svg": "/static/media/LAK-desaturated.ccaa2a817f174deacc57a32c5d86ebb6.svg",
     "static/media/Als der Engel  2020 - Kopie.odt": "/static/media/Als der Engel  2020 - Kopie.0b4e7fe0b121ce3b7efc.odt",
@@ -253,10 +254,10 @@
     "static/media/21dezember2020.docx": "/static/media/21dezember2020.d8cf653561d31147127e.docx",
     "index.html": "/index.html",
     "main.1e1b0536.css.map": "/static/css/main.1e1b0536.css.map",
-    "main.cebeeb78.js.map": "/static/js/main.cebeeb78.js.map"
+    "main.79587270.js.map": "/static/js/main.79587270.js.map"
   },
   "entrypoints": [
     "static/css/main.1e1b0536.css",
-    "static/js/main.cebeeb78.js"
+    "static/js/main.79587270.js"
   ]
 }
