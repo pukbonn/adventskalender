@@ -910,7 +910,7 @@ days:
 
   - date: 2024-12-01
     address: "St. Maria Magdalena, Magdalenenstraße 25, Endenich"
-    thumbnail: "_thumb.jpg"
+    thumbnail: _thumb.jpg
     photos: 
       - 20241201-1.jpg
   - date: 2024-12-02
@@ -920,8 +920,10 @@ days:
   - date: 2024-12-03
     time: 17:00
     address: "KiTa St. Maria Magdalena, Wiesenweg 6, Endenich"
-    thumbnail: ""
-    photos: []
+    thumbnail: _thumb.jpg
+    photos: 
+      - 20241203-1.jpg
+      - 20241203-1.jpg
   - date: 2024-12-04
     address: "Wendehammer, Max-Cohen-Straße 19-25, Endenich"
     thumbnail: ""
@@ -944,8 +946,12 @@ days:
     photos: []
   - date: 2024-12-09
     address: "Kreuzbergstraße 3, Lengsdorf"
-    thumbnail: ""
-    photos: []
+    thumbnail: _thumb.jpg
+    photos:
+      - 20241209-1.jpg
+      - 20241209-2.jpg
+      - 20241209-3.jpg
+      - 20241209-4.jpg
   - date: 2024-12-10
     address: "Lipschitzstraße 21, Endenich"
     thumbnail: ""
