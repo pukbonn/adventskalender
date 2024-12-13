@@ -929,16 +929,24 @@ days:
       - 20241203-2.jpg
   - date: 2024-12-04
     address: "Wendehammer, Max-Cohen-Straße 19-25, Endenich"
-    thumbnail: ""
-    photos: []
+    thumbnail: _thumb.jpg
+    photos: 
+      - 20241204-1.jpg
+      - 20241204-2.jpg
+      - 20241204-3.jpg
   - date: 2024-12-05
     address: "Pfarrheim St. Maria Magdalena, Magdalenenstraße 25, Endenich"
-    thumbnail: ""
-    photos: []
+    thumbnail: _thumb.jpg
+    photos: 
+      - 20241205-1.jpg
+      - 20241205-2.jpg
+      - 20241205-3.jpg
+      - 20241205-4.jpg
   - date: 2024-12-06
     address: "JAP - Kinder- und Jugendzentrum, Am Propsthof 134, Endenich"
-    thumbnail: ""
-    photos: []
+    thumbnail: _thumb.jpg
+    photos: 
+      - 20241206-1.jpg
   - date: 2024-12-07
     address: "Heimatmuseum Lengsdorf, Lengsdorfer Hauptstraße 16"
     thumbnail: ""
@@ -965,8 +973,10 @@ days:
     photos: []
   - date: 2024-12-12
     address: "Ökumenischer Schaukasten, Frongasse, Endenich"
-    thumbnail: ""
-    photos: []
+    thumbnail: _thumb.jpg
+    photos:
+      - 20241212-1.jpg
+      - 20241212-2.jpg
   - date: 2024-12-13
     address: "In der Grächt 32, Lengsdorf"
     thumbnail: ""
