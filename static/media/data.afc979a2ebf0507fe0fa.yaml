@@ -985,8 +985,11 @@ days:
     photos: []
   - date: 2024-12-14
     address: "Bonner Logsweg 44, Lessenich"
-    thumbnail: ""
-    photos: []
+    thumbnail: _thumb.jpg
+    photos:
+      - 20241214-1.jpg
+      - 20241214-2.jpg
+      - 20241214-3.jpg
   - date: 2024-12-15
     address: "Im jungen Wingert 2, Endenich"
     thumbnail: ""
