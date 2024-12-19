@@ -993,7 +993,9 @@ days:
   - date: 2024-12-15
     address: "Im jungen Wingert 2, Endenich"
     thumbnail: ""
-    photos: []
+    photos:
+      - 20241215-1.jpg
+      - 20241215-2.jpg
   - date: 2024-12-16
     address: "Bücherschrank, Lengsdorfer Hauptstraße 36"
     thumbnail: ""
@@ -1001,7 +1003,9 @@ days:
   - date: 2024-12-17
     address: "Theodor-Litt-Straße 17, Endenich"
     thumbnail: ""
-    photos: []
+    photos:
+      - 20241217-1.jpg
+      - 20241217-2.jpg
   - date: 2024-12-18
     address: "Adventssingen Westside, Robert Havemann Straße 6"
     thumbnail: ""
