@@ -992,7 +992,7 @@ days:
       - 20241214-1.jpg
   - date: 2024-12-15
     address: "Im jungen Wingert 2, Endenich"
-    thumbnail: ""
+    thumbnail: _thumb.jpg
     photos:
       - 20241215-1.jpg
       - 20241215-2.jpg
@@ -1002,7 +1002,7 @@ days:
     photos: []
   - date: 2024-12-17
     address: "Theodor-Litt-Straße 17, Endenich"
-    thumbnail: ""
+    thumbnail: _thumb.jpg
     photos:
       - 20241217-1.jpg
       - 20241217-2.jpg
@@ -1017,7 +1017,10 @@ days:
   - date: 2024-12-20
     address: "Enggasse 42, Lengsdorf"
     thumbnail: ""
-    photos: []
+    photos: 
+      - 20241220-2.jpg
+      - 20241220-3.jpg
+      - 20241220-1.jpg
   - date: 2024-12-21
     address: "Alfred-Bucherer Straße 22, Endenich"
     thumbnail: ""
