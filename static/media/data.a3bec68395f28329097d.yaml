@@ -1016,15 +1016,18 @@ days:
     photos: []
   - date: 2024-12-20
     address: "Enggasse 42, Lengsdorf"
-    thumbnail: ""
+    thumbnail: _thumb.jpg
     photos: 
       - 20241220-2.jpg
       - 20241220-3.jpg
       - 20241220-1.jpg
   - date: 2024-12-21
     address: "Alfred-Bucherer Straße 22, Endenich"
-    thumbnail: ""
-    photos: []
+    thumbnail: _thumb.jpg
+    photos: 
+      - 20241221-1.jpg
+      - 20241221-2.jpg
+      - 20241221-3.jpg
   - date: 2024-12-22
     address: "Am Burggraben 36, Endenich"
     thumbnail: ""
