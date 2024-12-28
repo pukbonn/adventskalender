@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1e1b0536.css",
-    "main.js": "/static/js/main.c984823c.js",
+    "main.js": "/static/js/main.577d0cc0.js",
     "static/media/IMG_0753_auto_x2_colored_toned.jpg": "/static/media/IMG_0753_auto_x2_colored_toned.0786682a96f7908e7316.jpg",
     "static/media/WhatsApp Video 2020-12-24 at 10.55.59.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.59.4f333fb784412e470442.mp4",
     "static/media/20231206-3.jpg": "/static/media/20231206-3.d962d6ffabdade925448.jpg",
@@ -199,6 +199,7 @@
     "static/media/IMG_4469.jpeg": "/static/media/IMG_4469.9476653ff5ec7b191ba1.jpeg",
     "static/media/IMG_4050.JPG": "/static/media/IMG_4050.d72e5fe2e90f6d7c1229.JPG",
     "static/media/signal-2021-12-17-194903_003.jpg": "/static/media/signal-2021-12-17-194903_003.10a52efb7e869c3019ad.jpg",
+    "static/media/20241224-1.jpg": "/static/media/20241224-1.6975feb6fec32e2324c0.jpg",
     "static/media/20201126_173322.jpg": "/static/media/20201126_173322.55e3552f1e9b40c7dea9.jpg",
     "static/media/signal-2021-12-17-194903_002.jpg": "/static/media/signal-2021-12-17-194903_002.eca3ee4eda0b7029bea6.jpg",
     "static/media/20241212-1.JPG": "/static/media/20241212-1.f11c9f9b6d26980b737b.JPG",
@@ -292,10 +293,10 @@
     "static/media/21dezember2020.docx": "/static/media/21dezember2020.d8cf653561d31147127e.docx",
     "index.html": "/index.html",
     "main.1e1b0536.css.map": "/static/css/main.1e1b0536.css.map",
-    "main.c984823c.js.map": "/static/js/main.c984823c.js.map"
+    "main.577d0cc0.js.map": "/static/js/main.577d0cc0.js.map"
   },
   "entrypoints": [
     "static/css/main.1e1b0536.css",
-    "static/js/main.c984823c.js"
+    "static/js/main.577d0cc0.js"
   ]
 }
