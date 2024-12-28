@@ -1037,9 +1037,10 @@ days:
     thumbnail: ""
     photos: []
   - date: 2024-12-24
-    address: "Wir wünschen frohe Weihnachten und ein glückliches neues Jahr 2025"
-    thumbnail: ""
-    photos: []
+    address: "Wir wünschen frohe Weihnachten und ein glückliches neues Jahr 2025."
+    thumbnail: _thumb.jpg
+    photos: 
+      - 20241224-1.jpg
 #   - date: 2020-12-24
 #     address: ''
 #     time: ''
