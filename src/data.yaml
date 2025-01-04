@@ -1008,8 +1008,11 @@ days:
       - 20241217-2.jpg
   - date: 2024-12-18
     address: "Adventssingen Westside, Robert Havemann Straße 6"
-    thumbnail: ""
-    photos: []
+    thumbnail: _thumb.jpg
+    photos: 
+      - 20241218-1.jpg
+      - 20241218-2.jpg
+      - 20241218-3.jpg
   - date: 2024-12-19
     address: "Bücherei, Uhlgasse 8, Lengsdorf"
     thumbnail: ""
@@ -1034,8 +1037,14 @@ days:
     photos: []
   - date: 2024-12-23
     address: "Freebox Ecke Schubertsstraße / Wiesenweg, Endenich"
-    thumbnail: ""
-    photos: []
+    thumbnail: _thumb.jpg
+    photos: 
+      - 20241223-1.jpg
+      - 20241223-2.jpg
+      - 20241223-3.jpg
+      - 20241223-4.jpg
+      - 20241223-5.jpg
+      - 20241223-6.jpg
   - date: 2024-12-24
     address: "Wir wünschen frohe Weihnachten und ein glückliches neues Jahr 2025."
     thumbnail: _thumb.jpg
