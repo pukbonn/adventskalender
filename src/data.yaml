@@ -1050,6 +1050,8 @@ days:
     thumbnail: _thumb.jpg
     photos: 
       - 20241224-1.jpg
+  - date: 2025-12-04
+    address: Kita St. Maria Magdalena Wiesenweg 6
 #   - date: 2020-12-24
 #     address: ''
 #     time: ''
