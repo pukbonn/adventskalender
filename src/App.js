@@ -203,7 +203,9 @@ function App() {
 			</nav>
 
 			<nav className="cards">
-				{days.map(dayData => {
+				{days
+				.sort((a,b) => new Date(a.date) - new Date(b.date))
+				.map(dayData => {
 					return <NavLink
 						className="card"
 						key={dayData.date}
