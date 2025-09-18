@@ -1061,6 +1061,8 @@ days:
     address: Enggasse 42, Lengsdorf
   - date: 2025-12-06
     address: Kirchplatz Sankt Maria Magdalena, Magdalenen Str. 25
+  - date: 2025-12-08
+    address: ökumenischer Schaukasten Frongasse, Endenich
   - date: 2025-12-09
     address: Wahlverwandte Schumannshöhe, Schumannstr. 178 
   - date: 2025-12-11
@@ -1068,9 +1070,13 @@ days:
   - date: 2025-12-16
     address: Theodor-Litt-Straße 17
   - date: 2025-12-18
-    address: ökumenischer Schaukasten 
+    address: Bücherei St. Peter Uhlgasse 8, Lengsdorf 
   - date: 2025-12-19
     address: JAP Kinder- und Jugendzentrum, Am Propsthof 134
+    
+
+
+    
 
 
 
