@@ -173,21 +173,21 @@ function App() {
 		history.push(`/day/${year}`)
 	}, [setYear, history])
 
-	const entries = days
-		.filter(day => new Date(day.date).getFullYear() === year)
-		.sort((a, b) => new Date(a.date) - new Date(b.date))
-		.filter(day => day.lat && day.lng)
-		.map(day => {
-			const date = new Date(day.fullDate)
-			const daynumber = date.getDate()
-			return {
-				id: day.date,
-				latitude: day.lat,
-				longitude: day.lng,
-				title: String(daynumber),
-				url: `/#/day/${day.date}`,
-			}
-		})
+	// const entries = days
+	// 	.filter(day => new Date(day.date).getFullYear() === year)
+	// 	.sort((a, b) => new Date(a.date) - new Date(b.date))
+	// 	.filter(day => day.lat && day.lng)
+	// 	.map(day => {
+	// 		const date = new Date(day.fullDate)
+	// 		const daynumber = date.getDate()
+	// 		return {
+	// 			id: day.date,
+	// 			latitude: day.lat,
+	// 			longitude: day.lng,
+	// 			title: String(daynumber),
+	// 			url: `/#/day/${day.date}`,
+	// 		}
+	// 	})
 
 	const calendarStart = new Date(currentYear, 11, 1, 18, 0, 0, 0) // 1 of Dezember
 	return (
