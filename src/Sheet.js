@@ -2,12 +2,10 @@ import { useEffect, useState } from 'react'
 import Countdown from 'react-countdown'
 import { Helmet } from 'react-helmet'
 import ReactMarkdown from 'react-markdown'
+import { Link } from 'react-router-dom'
+import { Icon, IconDuoTone } from './components/Icon.jsx'
 import videoCover from './images/video-cover.jpeg'
 import './sheet.css'
-
-import {
-	Link,
-} from 'react-router-dom'
 
 function Sheet({ days, dateString }) {
 	const [thisDaysData, setThisDaysData] = useState(null)
@@ -45,16 +43,14 @@ function Sheet({ days, dateString }) {
 		}
 	}, [days, dateString])
 
-	const date = new Date(dateString)
-	const weekday = date.toLocaleString("de", { weekday: "long" }) || ''
-	const daynumber = date.getDate()
-
-	const now = new Date()
-	const isOpen = date < now
-
-	const year = date.getFullYear()
-
 	if (!!thisDaysData) {
+		const dateFullString = thisDaysData.fullDate
+		const date = new Date(dateFullString)
+		const now = new Date()
+		const isOpen = date < now
+
+		const year = date.getFullYear()
+
 		return (
 			<div className="sheet">
 				<Link to={`/day/${year}`} className="backdrop" />
@@ -66,13 +62,21 @@ function Sheet({ days, dateString }) {
 					</Helmet>
 
 					<Link to={`/day/${year}`} className="closebutton">
-						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="black" width="18px" height="18px"><path d="M0 0h24v24H0V0z" fill="none" opacity=".87" /><path d="M12 4c-4.41 0-8 3.59-8 8s3.59 8 8 8 8-3.59 8-8-3.59-8-8-8zm5 11.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z" opacity=".3" /><path d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.59-13L12 10.59 8.41 7 7 8.41 10.59 12 7 15.59 8.41 17 12 13.41 15.59 17 17 15.59 13.41 12 17 8.41z" /></svg>
+						<Icon name="close" size="xl" style={{ '--weight': 900 }} />
 					</Link>
 
 					<div className="header">
-						<h2 className="number">{daynumber}</h2>
-						<p className="weekday">{weekday}</p>
-						<p className="address">{thisDaysData.address}</p>
+						<h2 className="number">{date.toLocaleString("de-DE", { day: "numeric" })}</h2>
+
+						<p className="weekday" style={{ display: 'flex', alignItems: 'center', gap: '3px' }}>
+							<IconDuoTone name="schedule" style={{ '--weight': 900 }} />
+							<strong>{date.toLocaleString("de-DE", { year: "numeric", weekday: "long", month: "long", day: "numeric", hour: "2-digit", minute: '2-digit', timeZone: 'UTC' })}</strong>
+						</p>
+
+						<p className="address" style={{ display: 'flex', alignItems: 'center', gap: '3px' }}>
+							<IconDuoTone name="location_on" />
+							<span>{thisDaysData.address}</span>
+						</p>
 					</div>
 
 					<Countdown

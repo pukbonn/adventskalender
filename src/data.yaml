@@ -2,10 +2,12 @@
 ---
 days:
   - date: 2020-11-25
+    thumbnail: _thumb.jpg
     video:
       url: https://www.youtube.com/watch?v=WN2cy4sld38
       title: Die Reise zum Kind in der Krippen - Teaser
   - date: 2020-11-29
+    thumbnail: _thumb.jpg
     video:
       url: https://www.youtube.com/watch?v=R4RJfZ7kL4g
       title: "Der erste Advent: „Es werde Licht” - Genesis 1:3"
@@ -403,8 +405,7 @@ days:
       - IMG_0753_auto_x2_colored_toned_resized.jpg
       - IMG_0753_auto_x2_colored_toned_cropped_resized.jpg
       - IMG_0753.JPG
-  - date: 2021-12-01
-    time: 18:30
+  - date: 2021-12-01T18:30:00
     address: "St. Maria Magdalena, Magdalenenstraße 25"
     thumbnail: _thumb.jpg
     photos:
@@ -462,8 +463,7 @@ days:
       - IMG_4025.jpg
       - IMG_4028.jpg
       - IMG_4022.jpg
-  - date: 2021-12-12
-    time: 18:00
+  - date: 2021-12-12T18:00:00
     address: "Adventssingen in Trinitatis"
   - date: 2021-12-14
     address: "Schieffelingsweg 26c, Duisdorf"
@@ -490,8 +490,7 @@ days:
       - 20211218_201909.jpg
       - 20211218_204818.jpg
       - 20211218_180033.jpg
-  - date: 2021-12-19
-    time: 18:00
+  - date: 2021-12-19T18:00:00
     address: "Adventssingen in Trinitatis"
   - date: 2021-12-20
     address: "Wiesenweg 25"
@@ -749,8 +748,7 @@ days:
     photos:
       - 20231205-1.jpg
       - 20231205-2.jpg
-  - date: 2023-12-06
-    time: 20:30
+  - date: 2023-12-06T20:30:00
     address: "Sankt Maria Magdalena, Endenich"
     thumbnail: _thumb.jpg
     photos:
@@ -805,7 +803,8 @@ days:
       - 20231209-1.jpg
       - 20231209-2.jpg
   - date: 2023-12-10
-    address: "Im jungen Wingert 2, Endenich; Es spielt das Ensemble VeedelBlech."
+    address: "Im jungen Wingert 2, Endenich"
+    note: "Es spielt das Ensemble VeedelBlech."
     thumbnail: _thumb.jpg
     photos:
       - 20231210-1.jpg
@@ -920,8 +919,7 @@ days:
       - 20241202-2.jpg
       - 20241202-3.jpg
       - 20241202-1.jpg
-  - date: 2024-12-03
-    time: 17:00
+  - date: 2024-12-03T17:00:00
     address: "KiTa St. Maria Magdalena, Wiesenweg 6, Endenich"
     thumbnail: _thumb.jpg
     photos: 
@@ -1055,9 +1053,8 @@ days:
   - date: 2025-12-02
     address: Am Klostergarten 1
   - date: 2025-12-03
-    address: Bonner Logsweg 44  
-  - date: 2025-12-04
-    time: 17:00
+    address: Bonner Logsweg 44
+  - date: 2025-12-04T17:00:00
     address: Kita St. Maria Magdalena Wiesenweg 6
   - date: 2025-12-05
     address: Enggasse 42, Lengsdorf
@@ -1087,17 +1084,11 @@ days:
     address: JAP Kinder- und Jugendzentrum, Am Propsthof 134
   - date: 2025-12-20
     address: Auf dem Hügel 107, Endenich
- 
-    
-
-
-    
 
 
 
-#   - date: 2020-12-24
+#   - date: 2020-12-24 / date: 2020-12-24T17:00:00
 #     address: ''
-#     time: ''
 #     photos: []  (1200px groesste Seite) (Standard 1000px)
 #     thumbnail: ''  (400px groesste Seite)
 #     video: ''

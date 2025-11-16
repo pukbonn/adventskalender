@@ -1,22 +1,21 @@
 import { Component, useCallback, useEffect, useState } from 'react'
 
+import YAML from 'js-yaml'
 import Countdown from 'react-countdown'
 import { Helmet } from 'react-helmet'
-import Card from './Card.js'
-import Footer from './Footer.js'
-import Sheet from './Sheet.js'
-import './app.css'
-import './cards.css'
-
-import YAML from 'js-yaml'
-import data_yaml_path from './data.yaml'
-
 import {
 	NavLink,
 	useHistory,
 	useLocation,
 	useRouteMatch,
 } from 'react-router-dom'
+import Card from './Card.js'
+import Footer from './Footer.js'
+import Sheet from './Sheet.js'
+import './app.css'
+import './cards.css'
+import { MaterialIconStyle } from './components/Icon.jsx'
+import data_yaml_path from './data.yaml'
 
 
 
@@ -138,10 +137,20 @@ function App() {
 		fetch(data_yaml_path)
 			.then(async response => {
 				const loadedData = YAML.load(await response.text())
-				loadedData.days = loadedData.days.map(day => ({
-					...day,
-					date: day.date.toISOString().split('T')[0],
-				}))
+				loadedData.days = loadedData.days.map(day => {
+
+					let dateString = day.date.toISOString()
+					if (dateString.endsWith('T00:00:00.000Z')) {
+						dateString = dateString.replace('T00:00:00.000Z', 'T18:00:00.000Z')
+					}
+
+					return {
+						...day,
+						date: day.date.toISOString().split('T')[0],
+						fullDate: dateString,
+					}
+
+				})
 
 				setData(loadedData)
 			})
@@ -165,6 +174,8 @@ function App() {
 	const calendarStart = new Date(2020, 11, 1, 18, 0, 0, 0) // 1 of Dezember
 	return (
 		<>
+			<MaterialIconStyle />
+
 			<header>
 				<Helmet>
 					<title>Lebendiger Adventskalender</title>
@@ -204,16 +215,16 @@ function App() {
 
 			<nav className="cards">
 				{days
-				.sort((a,b) => new Date(a.date) - new Date(b.date))
-				.map(dayData => {
-					return <NavLink
-						className="card"
-						key={dayData.date}
-						to={'/day/' + dayData.date}
-					>
-						<Card data={dayData} />
-					</NavLink>
-				})}
+					.sort((a, b) => new Date(a.date) - new Date(b.date))
+					.map(dayData => {
+						return <NavLink
+							className="card"
+							key={dayData.date}
+							to={'/day/' + dayData.date}
+						>
+							<Card data={dayData} />
+						</NavLink>
+					})}
 			</nav>
 
 			{

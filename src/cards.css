@@ -43,7 +43,7 @@
   cursor: pointer;
 
   box-shadow:
-		 /*17px     0 0 -16px var(--text),*/ -17px 0 0 -16px var(--text),
+		/*17px     0 0 -16px var(--text),*/ -17px 0 0 -16px var(--text),
     /*0  17px 0 -16px var(--text),*/ 0 -17px 0 -16px var(--text);
 
   display: flex;
@@ -100,13 +100,20 @@
 .cards .card:hover .infoLine {
   color: var(--text);
 }
-.cards .card .infoLine svg {
+.cards .card .infoLine svg{
   display: inline;
+  fill: var(--text);
+  transition: fill 0.2s ease;
+}
+.cards .card .infoLine .icon {
+  color: var(--text);
+  transition: color 0.2s ease;
+}
+.cards .card .infoLine svg,
+.cards .card .infoLine .icon {
   flex-shrink: 0;
   vertical-align: top;
   margin: 1.5px 4px 0 0;
-  fill: var(--text);
-  transition: fill 0.2s ease;
 }
 
 .cards .card::after {
@@ -132,6 +139,8 @@
 .cards .card .cardInner {
   height: 100%;
   width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 /* .cards .card .cardInner.isSunday::before {
   content: "";

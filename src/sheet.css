@@ -64,14 +64,16 @@
 	height: 54px;
 	cursor: pointer;
 }
-.sheet .closebutton svg{
+.sheet .closebutton svg,
+.sheet .closebutton .icon{
 	width: 54px;
 	height: 54px;
 	fill: var(--inverted-text-body);
 	transform: scale(1);
 	transition: transform .2s ease, fill .2s ease;
 }
-.sheet .closebutton:hover svg{
+.sheet .closebutton:hover svg,
+.sheet .closebutton:hover .icon{
 	fill: var(--inverted-text-body);
 	transform: scale(1.2);
 }
