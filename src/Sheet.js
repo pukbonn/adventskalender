@@ -73,10 +73,14 @@ function Sheet({ days, dateString }) {
 							<strong>{date.toLocaleString("de-DE", { year: "numeric", weekday: "long", month: "long", day: "numeric", hour: "2-digit", minute: '2-digit', timeZone: 'UTC' })}</strong>
 						</p>
 
-						<p className="address" style={{ display: 'flex', alignItems: 'center', gap: '3px' }}>
-							<IconDuoTone name="location_on" />
-							<span>{thisDaysData.address}</span>
-						</p>
+						{
+							thisDaysData.address
+								? <p className="address" style={{ display: 'flex', alignItems: 'center', gap: '3px' }}>
+									<IconDuoTone name="location_on" />
+									<span>{thisDaysData.address}</span>
+								</p>
+								: null
+						}
 					</div>
 
 					<Countdown
