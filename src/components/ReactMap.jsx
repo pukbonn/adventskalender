@@ -2,12 +2,16 @@
 /** biome-ignore-all assist/source/organizeImports: werd ide config */
 
 import { toCanvas as htmlToImage_toCanvas } from 'html-to-image'
-import maplibregl from 'maplibre-gl'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import React, { useEffect, useMemo, useRef } from 'react'
 import { Icon } from '../components/Icon'
 // import useDarkTheme from '../hooks/useDarkTheme'
 import { onImagesLoaded } from '../lib/onAllImagesLoaded'
+
+import maplibregl from 'maplibre-gl'
+import MaplibreWorker from 'maplibre-gl/dist/maplibre-gl-csp-worker'
+maplibregl.workerClass = MaplibreWorker;
+
 
 const _PixelRatio_ = 2 // window.devicePixelRatio || 1
 

@@ -3,7 +3,7 @@ import Countdown from 'react-countdown'
 import { Helmet } from 'react-helmet'
 import ReactMarkdown from 'react-markdown'
 import { Link } from 'react-router-dom'
-import { Icon, IconDuoTone } from './components/Icon.jsx'
+import { Icon, IconDuoTone } from './components/Icon'
 import videoCover from './images/video-cover.jpeg'
 import './sheet.css'
 

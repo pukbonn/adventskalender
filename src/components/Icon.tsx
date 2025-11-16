@@ -1,6 +1,12 @@
 import "@fontsource-variable/material-symbols-rounded/full.css";
 import { cn } from '../lib/utils';
 
+declare module 'react' {
+  interface CSSProperties {
+    [key: `--${string}`]: string | number;
+  }
+}
+
 export function MaterialIconStyle() {
   return (
     <style
@@ -56,7 +62,7 @@ export function MaterialIconStyle() {
   )
 }
 
-export function Icon({ name, className, ...props }) {
+export function Icon({ name, className, ...props }: { name: string; className?: string; props: any }) {
   if (name === 'loading') {
     name = 'progress_activity'
   }
@@ -66,7 +72,13 @@ export function Icon({ name, className, ...props }) {
 }
 
 
-export function IconDuoTone({ className, name, style = {}, fgStyle, bgStyle, ...props }) {
+export function IconDuoTone({ className, name, style = {}, fgStyle, bgStyle, ...props }: {
+  name: string;
+  className?: string;
+  style?: React.CSSProperties;
+  fgStyle?: React.CSSProperties;
+  bgStyle?: React.CSSProperties;
+} & React.HTMLAttributes<HTMLSpanElement>) {
   if (name === 'loading') {
     name = 'progress_activity'
   }
@@ -98,7 +110,11 @@ export function IconDuoTone({ className, name, style = {}, fgStyle, bgStyle, ...
 }
 
 
-export function MaterialIcon({ name, className, size = 'sm', ...props }) {
+export function MaterialIcon({ name, className, size = 'sm', ...props }: {
+  name: string;
+  className?: string;
+  size?: 'sm' | 'md' | 'xl';
+} & React.HTMLAttributes<HTMLSpanElement>) {
   return (
     <span
       aria-hidden="true"

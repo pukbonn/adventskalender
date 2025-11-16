@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import LazyLoad from 'react-lazyload'
-import { IconDuoTone } from './components/Icon.jsx'
+import { IconDuoTone } from './components/Icon'
 
 function Card({ data }) {
 	let {

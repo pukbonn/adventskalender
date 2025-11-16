@@ -14,6 +14,8 @@ import Sheet from './Sheet.js'
 import './app.css'
 import './cards.css'
 import { MaterialIconStyle } from './components/Icon'
+import { Marker } from './components/Marker'
+import { ReactMap } from './components/ReactMap'
 import data_yaml_path from './data.yaml'
 
 
@@ -173,21 +175,21 @@ function App() {
 		history.push(`/day/${year}`)
 	}, [setYear, history])
 
-	// const entries = days
-	// 	.filter(day => new Date(day.date).getFullYear() === year)
-	// 	.sort((a, b) => new Date(a.date) - new Date(b.date))
-	// 	.filter(day => day.lat && day.lng)
-	// 	.map(day => {
-	// 		const date = new Date(day.fullDate)
-	// 		const daynumber = date.getDate()
-	// 		return {
-	// 			id: day.date,
-	// 			latitude: day.lat,
-	// 			longitude: day.lng,
-	// 			title: String(daynumber),
-	// 			url: `/#/day/${day.date}`,
-	// 		}
-	// 	})
+	const entries = days
+		.filter(day => new Date(day.date).getFullYear() === year)
+		.sort((a, b) => new Date(a.date) - new Date(b.date))
+		.filter(day => day.lat && day.lng)
+		.map(day => {
+			const date = new Date(day.fullDate)
+			const daynumber = date.getDate()
+			return {
+				id: day.date,
+				latitude: day.lat,
+				longitude: day.lng,
+				title: String(daynumber),
+				url: `/#/day/${day.date}`,
+			}
+		})
 
 	const calendarStart = new Date(currentYear, 11, 1, 18, 0, 0, 0) // 1 of Dezember
 	return (
@@ -248,7 +250,7 @@ function App() {
 				</nav>
 
 
-				{/* {entries.length === 0 ? null :
+				{entries.length === 0 ? null :
 					<div
 						key={JSON.stringify(entries)}
 						className="map-container"
@@ -269,7 +271,7 @@ function App() {
 								<Marker entry={entry} index={index} onImageLoaded={onImageLoaded} ref={ref} />
 							)}
 						/>
-					</div>} */}
+					</div>}
 			</div>
 
 			{
