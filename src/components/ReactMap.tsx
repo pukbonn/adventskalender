@@ -2,84 +2,109 @@
 /** biome-ignore-all assist/source/organizeImports: werd ide config */
 
 import { toCanvas as htmlToImage_toCanvas } from 'html-to-image'
+import maplibregl from 'maplibre-gl'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import React, { useEffect, useMemo, useRef } from 'react'
 import { Icon } from '../components/Icon'
 // import useDarkTheme from '../hooks/useDarkTheme'
 import { onImagesLoaded } from '../lib/onAllImagesLoaded'
 
-import maplibregl from 'maplibre-gl'
-import MaplibreWorker from 'maplibre-gl/dist/maplibre-gl-csp-worker'
-maplibregl.workerClass = MaplibreWorker;
-
-
 const _PixelRatio_ = 2 // window.devicePixelRatio || 1
 
-// type MarkerFeature = {
-//   id: string
-//   type: 'Feature'
-//   geometry: { type: 'Point'; coordinates: number[] }
-//   properties: {
-//     entry: TimelineEntry
-//     rank: number
-//     name: string
-//     iconName: string
-//     iconWidth?: number
-//     iconHeight?: number
-//   }
-// }
+declare global {
+  interface Window {
+    alreadySetRTLTextPlugin?: boolean;
+  }
+}
 
-// type MarkerFeatureCollection = {
-//   type: 'FeatureCollection'
-//   features: MarkerFeature[]
-// }
+export type TimelineEntry = {
+  id?: string
+  date: string
+  title?: string
+  tags?: string[]
+  latitude?: number
+  longitude?: number
 
-// type CustomIcon = {
-//   // documentation at https://maplibre.org/maplibre-gl-js/docs/API/interfaces/StyleImageInterface/
-//   width: number
-//   height: number
-//   data: Uint8ClampedArray
-//   context: CanvasRenderingContext2D | null
-//   dataChange: boolean
-//   onAdd: () => void
-//   onRemove: () => void
-//   render: () => boolean
-// }
+  image?: string | { src: string; blurDataURL?: string }
+  imageOrientation?: 'v' | 'h'
+  imageAspectRatio?: number
 
-// type EntryMarkerProps = {
-//   index: number
-//   entry: TimelineEntry
-//   element: HTMLDivElement | null
-//   width: number
-//   height: number
-//   rerender: boolean
-// }
+  audio?: string
+  audio_length?: string
+
+  text?: string // equal to summary from Article
+
+  author?: string
+  url?: string
+  displayAs: string
+
+  rank?: number
+  searchtext?: string
+}
+
+type MarkerFeature = {
+  id: string
+  type: 'Feature'
+  geometry: { type: 'Point'; coordinates: number[] }
+  properties: {
+    entry: TimelineEntry
+    rank: number
+    name: string
+    iconName: string
+    iconWidth?: number
+    iconHeight?: number
+  }
+}
+
+type MarkerFeatureCollection = {
+  type: 'FeatureCollection'
+  features: MarkerFeature[]
+}
+
+type CustomIcon = {
+  // documentation at https://maplibre.org/maplibre-gl-js/docs/API/interfaces/StyleImageInterface/
+  width: number
+  height: number
+  data: Uint8ClampedArray
+  context: CanvasRenderingContext2D | null
+  dataChange: boolean
+  onAdd: () => void
+  onRemove: () => void
+  render: () => boolean
+}
+
+type EntryMarkerProps = {
+  index: number
+  entry: TimelineEntry
+  element: HTMLDivElement | null
+  width: number
+  height: number
+  rerender: boolean
+}
 
 export function ReactMap({
   entries,
   onEntryMarkerClick,
   renderEntryMarker,
-}
-// : {
-//   entries: TimelineEntry[]
-//   onEntryMarkerClick: ({ entry }: { entry: TimelineEntry }) => void
-//   renderEntryMarker: ({
-//     entry,
-//     index,
-//     ref,
-//     onImageLoaded,
-//   }: {
-//     entry: TimelineEntry
-//     index: number
-//     ref?: (element: HTMLDivElement | null) => void
-//     onImageLoaded?: ({ element }: { element: HTMLDivElement | null }) => void
-//   }) => React.ReactNode
-// }
-) {
-  const mapContainer = useRef(null)
-  const map = useRef(null)
+}: {
+  entries: TimelineEntry[]
+  onEntryMarkerClick: ({ entry }: { entry: TimelineEntry }) => void
+  renderEntryMarker: ({
+    entry,
+    index,
+    ref,
+    onImageLoaded,
+  }: {
+    entry: TimelineEntry
+    index: number
+    ref?: (element: HTMLDivElement | null) => void
+    onImageLoaded?: ({ element }: { element: HTMLDivElement | null }) => void
+  }) => React.ReactNode
+}) {
+  const mapContainer = useRef<HTMLDivElement | null>(null)
+  const map = useRef<maplibregl.Map | null>(null)
   // const markersCacheRef = useRef<any[]>([])
-  const markerElementRefs = useRef({})
+  const markerElementRefs = useRef<Record<string, EntryMarkerProps>>({})
 
   // const userWantsDarkmode = useDarkTheme()
 
@@ -95,7 +120,7 @@ export function ReactMap({
       return
     }
 
-    if (!window.alreadySetRTLTextPlugin) {
+    if (window.alreadySetRTLTextPlugin !== true) {
       maplibregl.setRTLTextPlugin(
         'https://unpkg.com/@mapbox/mapbox-gl-rtl-text@0.3.0/dist/mapbox-gl-rtl-text.js',
         true // Lazy load the plugin
@@ -108,9 +133,15 @@ export function ReactMap({
       // style: 'https://vector.openstreetmap.org/demo/shortbread/colorful.json',
       // center: [lng, lat],
       // zoom,
-      center: [7.07103, 50.72039], // [13.405, 52.52], // [7, 50],
+
+      center: [7.07103, 50.72039], // [7, 50],
       zoom: 12.7,
       hash: false,
+
+      // center: [13.405, 52.52], // [7, 50],
+      // zoom: 1,
+      // hash: true,
+
       minZoom: 2.5,
       maxZoom: 22, // A zoom level this high is a bit silly but helps testing
       canvasContextAttributes: {
@@ -155,10 +186,12 @@ export function ReactMap({
     })
   }, [])
 
-  const entry_zindex = useRef(new Map())
-  const htmlMarker = useRef(new Map())
-  const clusterMarkers = useRef(new Set())
-  const lastHoveredEntryId = useRef('')
+  const entry_zindex = useRef<Map<string, { zindex: number }>>(new Map())
+  const htmlMarker = useRef<
+    Map<string, { markerId: string; entryId: string; marker: maplibregl.Marker }>
+  >(new Map())
+  const clusterMarkers = useRef<Set<string>>(new Set())
+  const lastHoveredEntryId = useRef<string>('')
 
   useEffect(() => {
     if (!map.current || map.current === null) {
@@ -170,13 +203,11 @@ export function ReactMap({
       f,
       entryId,
       isClusterMarker,
-    }
-    // : {
-    //   f: any
-    //   entryId: string
-    //   isClusterMarker: boolean
-    // }
-  ) => {
+    }: {
+      f: any
+      entryId: string
+      isClusterMarker: boolean
+    }) => {
       if (!map.current || map.current === null || !entryId) {
         // only change if map exists
         return
@@ -189,7 +220,7 @@ export function ReactMap({
         if (!marker_element.element) {
           return
         }
-        const cloned_marker_element = marker_element.element.cloneNode(true)
+        const cloned_marker_element = marker_element.element.cloneNode(true) as HTMLElement
         // cloned_marker_element.classList.add('open_marker')
 
         const el = document.createElement('div')
@@ -225,7 +256,7 @@ export function ReactMap({
         // map.current.triggerRepaint()
       }
     }
-    const hideMarker = ({ markerId, entryId }) => {
+    const hideMarker = ({ markerId, entryId }: { markerId?: string; entryId?: string }) => {
       if (!map.current || map.current === null) {
         // only change if map exists
         return
@@ -283,7 +314,7 @@ export function ReactMap({
       }
     }
 
-    const onPoiMousemove = (event) => {
+    const onPoiMousemove = (event: any) => {
       if (!map.current || map.current === null || event?.features.length === 0) {
         // only change if map exists
         return
@@ -291,7 +322,7 @@ export function ReactMap({
 
       const f =
         (lastHoveredEntryId.current
-          ? event?.features.find((f2) => f2.id === lastHoveredEntryId.current)
+          ? event?.features.find((f2: any) => f2.id === lastHoveredEntryId.current)
           : undefined) || event?.features[0]
       const currentHoveredEntryId = f.id
 
@@ -323,7 +354,7 @@ export function ReactMap({
       lastHoveredEntryId.current = ''
     }
 
-    const onPoiClick = async (event) => {
+    const onPoiClick = async (event: any) => {
       if (!map.current || map.current === null || event?.features.length === 0) {
         // only change if map exists
         return
@@ -331,7 +362,7 @@ export function ReactMap({
 
       const f =
         (lastHoveredEntryId.current
-          ? event?.features.find((f2) => f2.id === lastHoveredEntryId.current)
+          ? event?.features.find((f2: any) => f2.id === lastHoveredEntryId.current)
           : undefined) || event?.features[0]
 
       const layer = f?.layer?.id
@@ -339,7 +370,7 @@ export function ReactMap({
       if (layer === 'poi-icons-clusters') {
         // zoom into cluster
         const clusterId = f?.properties?.cluster_id
-        const source = map.current.getSource('pois')
+        const source = map.current.getSource('pois') as maplibregl.GeoJSONSource
         if (source && 'getClusterExpansionZoom' in source) {
           const zoom = await source.getClusterExpansionZoom(clusterId)
           map.current.easeTo({
@@ -367,8 +398,8 @@ export function ReactMap({
         return
       }
 
-      const pois = {
-        type: 'FeatureCollection',
+      const pois: MarkerFeatureCollection = {
+        type: 'FeatureCollection' as const,
         features: Object.values(markerElementRefs.current)
           .map(({ width, height, entry }) => {
             const entryId = entry.id
@@ -383,11 +414,11 @@ export function ReactMap({
               const canvasWidth = width * _PixelRatio_
               const canvasHeight = height * _PixelRatio_
 
-              const customIcon = {
+              const customIcon: CustomIcon = {
                 width: canvasWidth,
                 height: canvasHeight,
                 data: new Uint8ClampedArray(canvasWidth * canvasHeight * 4),
-                context: null,
+                context: null as CanvasRenderingContext2D | null,
                 dataChange: false,
 
                 onAdd() {
@@ -399,7 +430,7 @@ export function ReactMap({
                 },
 
                 render() {
-                  if (markerElementRefs.current[entryId].rerender === true) {
+                  if (entryId && markerElementRefs.current[entryId].rerender === true) {
                     markerElementRefs.current[entryId].rerender = false
 
                     const elementToRender = markerElementRefs.current[entryId].element
@@ -453,9 +484,9 @@ export function ReactMap({
 
             return {
               id: entryId,
-              type: 'Feature',
+              type: 'Feature' as const,
               geometry: {
-                type: 'Point',
+                type: 'Point' as const,
                 coordinates: [entry.longitude, entry.latitude],
               },
               properties: {
@@ -472,7 +503,7 @@ export function ReactMap({
           .filter((f) => f !== null), // filter out nulls
       }
 
-      const src = map.current.getSource('pois')
+      const src = map.current.getSource('pois') as maplibregl.GeoJSONSource
       if (src) {
         // already exists; ensure it’s GeoJSON then update
         if ('setData' in src) {
@@ -489,7 +520,7 @@ export function ReactMap({
           clusterMaxZoom: 14, // Max zoom to cluster points on
           clusterRadius: 50, // Radius of each cluster when clustering points (defaults to 50)
 
-          // attribution: 'Thomas Rosen',
+          attribution: 'Thomas Rosen',
           // clusterProperties: {
           //   sum: [
           //     ['+', ['accumulated'], ['get', 'sum']],
@@ -510,7 +541,7 @@ export function ReactMap({
         map.current.addLayer({
           id: 'poi-icons',
           filter: ['!', ['has', 'point_count']],
-          type: 'symbol',
+          type: 'symbol' as const,
           source: 'pois',
           minzoom: 0,
           layout: {
@@ -608,6 +639,13 @@ export function ReactMap({
     } else {
       map.current.on('load', setSource)
       map.current.on('load', addLayers)
+      setTimeout(() => {
+        // somehow it needs this timeout in create-react-app. otherwise the event-listeners are not added again
+        if (map.current?.loaded()) {
+          setSource()
+          addLayers()
+        }
+      }, 200)
     }
 
     return () => {
@@ -693,11 +731,12 @@ export function ReactMap({
   }, [entries, renderEntryMarker])
 
   const markersAreLoading =
-    Object.values(markerElementRefs.current).filter((m) => m.state === 'loading').length > 0
+    Object.values(markerElementRefs.current).filter((m: any) => m.state === 'loading').length > 0
 
   return (
     <>
       <div
+        // className="absolute h-0 w-0 overflow-hidden">
         style={{
           position: 'absolute',
           width: 0,
@@ -707,6 +746,7 @@ export function ReactMap({
       >{entriesRendered}</div>
 
       <div
+        // className="h-full w-full" 
         style={{
           width: '100%',
           height: '100%',
@@ -716,6 +756,7 @@ export function ReactMap({
 
       {markersAreLoading ? (
         <div
+          //className="-translate-x-1/2 -translate-y-1/2 pointer-events-none fixed top-1/2 left-1/2 z-20 flex h-auto w-auto items-center justify-center rounded-full bg-foreground p-1 text-background"
           style={{
             display: 'flex',
             position: 'fixed',
