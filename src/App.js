@@ -14,8 +14,6 @@ import Sheet from './Sheet.js'
 import './app.css'
 import './cards.css'
 import { MaterialIconStyle } from './components/Icon'
-import { Marker } from './components/Marker'
-import { ReactMap } from './components/ReactMap'
 import data_yaml_path from './data.yaml'
 
 
@@ -250,7 +248,7 @@ function App() {
 				</nav>
 
 
-				{entries.length === 0 ? null :
+				{/* {entries.length === 0 ? null :
 					<div
 						key={JSON.stringify(entries)}
 						className="map-container"
@@ -271,7 +269,7 @@ function App() {
 								<Marker entry={entry} index={index} onImageLoaded={onImageLoaded} ref={ref} />
 							)}
 						/>
-					</div>}
+					</div>} */}
 			</div>
 
 			{
