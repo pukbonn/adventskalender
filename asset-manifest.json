@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.497e0548.css",
-    "main.js": "/static/js/main.63276e9f.js",
+    "main.css": "/static/css/main.bc5bda7c.css",
+    "main.js": "/static/js/main.3c278972.js",
     "static/media/IMG_0753_auto_x2_colored_toned.jpg": "/static/media/IMG_0753_auto_x2_colored_toned.0786682a96f7908e7316.jpg",
     "static/media/WhatsApp Video 2020-12-24 at 10.55.59.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.59.4f333fb784412e470442.mp4",
     "static/media/20231206-3.jpg": "/static/media/20231206-3.d962d6ffabdade925448.jpg",
@@ -302,11 +302,11 @@
     "static/media/Der Tag der heiligen Lucia (Text lebendiger Adventskalender).docx": "/static/media/Der Tag der heiligen Lucia (Text lebendiger Adventskalender).405f231737e4c76235aa.docx",
     "static/media/21dezember2020.docx": "/static/media/21dezember2020.d8cf653561d31147127e.docx",
     "index.html": "/index.html",
-    "main.497e0548.css.map": "/static/css/main.497e0548.css.map",
-    "main.63276e9f.js.map": "/static/js/main.63276e9f.js.map"
+    "main.bc5bda7c.css.map": "/static/css/main.bc5bda7c.css.map",
+    "main.3c278972.js.map": "/static/js/main.3c278972.js.map"
   },
   "entrypoints": [
-    "static/css/main.497e0548.css",
-    "static/js/main.63276e9f.js"
+    "static/css/main.bc5bda7c.css",
+    "static/js/main.3c278972.js"
   ]
 }
