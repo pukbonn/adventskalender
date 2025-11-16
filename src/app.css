@@ -13,6 +13,7 @@
 :root {
   --red: #c42b2c;
   --baige: #f5eed7;
+  --baige-rgb: 245, 238, 215;
 
   --background: var(--baige);
   --text: var(--red);

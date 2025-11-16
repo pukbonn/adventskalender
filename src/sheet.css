@@ -6,9 +6,6 @@
 	bottom: 0;
 	left: 0;
 
-	background: rgba(0,0,0,0.6);
-	backdrop-filter: blur(8px);
-
 	overflow: auto;
 	pointer-events: all;
 	-webkit-overflow-scrolling: touch;
@@ -21,6 +18,9 @@
 	bottom: 0;
 	left: 0;
 	cursor: pointer;
+
+	background: rgba(var(--baige-rgb), 0.3);
+	backdrop-filter: blur(6px);
 }
 .sheet .content{
 	z-index: 2;
@@ -31,9 +31,41 @@
 	max-width: 100%;
 	padding: 64px;
 
+	border-radius: 3px;
+
 	background: var(--inverted-background);
 	color: var(--inverted-text);
 	/*box-shadow: 16px 16px 0 0 var(--background);*/
+}
+
+.sheet .content:before{
+	z-index: -1;
+	content: "";
+	position: absolute;
+	top: -5px;
+	right: -5px;
+	bottom: -5px;
+	left: -5px;
+	pointer-events: none;
+	border: 2px solid var(--inverted-background);
+	box-sizing: border-box;
+	opacity: 0.9;
+	border-radius: 7px;
+}
+
+.sheet .content:after{
+	z-index: -1;
+	content: "";
+	position: absolute;
+	top: -9px;
+	right: -9px;
+	bottom: -9px;
+	left: -9px;
+	pointer-events: none;
+	border: 1px solid var(--inverted-background);
+	box-sizing: border-box;
+	opacity: 0.8;
+	border-radius: 10px;
 }
 
 
@@ -139,6 +171,7 @@
 .sheet a.photo img{
 	margin-top: 64px;
 	max-width: 100%;
+	border-radius: 3px;
 }
 
 

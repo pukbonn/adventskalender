@@ -1,6 +1,5 @@
-import { Component, useCallback, useEffect, useState } from 'react'
-
 import YAML from 'js-yaml'
+import { Component, useCallback, useEffect, useState } from 'react'
 import Countdown from 'react-countdown'
 import { Helmet } from 'react-helmet'
 import {
@@ -69,9 +68,12 @@ const renderer = ({ days, hours, minutes, seconds, completed }) => {
 	if (completed) {
 		return null
 	} else {
+
+		const currentYear = new Date().getFullYear()
+
 		return <>
 			<br />
-			<strong>Das erste Fenster öffnet in…</strong><br />
+			<strong>Das erste Fenster in {currentYear} öffnet in…</strong><br />
 			<table>
 				<tbody>
 					{days === 0 ? null : (<tr><td style={{ textAlign: 'right' }}>{days}</td><td style={{ textAlign: 'left' }}>{days === 1 ? 'Tag' : 'Tagen'}</td></tr>)}
@@ -171,7 +173,8 @@ function App() {
 		history.push(`/day/${year}`)
 	}, [setYear, history])
 
-	const calendarStart = new Date(2020, 11, 1, 18, 0, 0, 0) // 1 of Dezember
+
+	const calendarStart = new Date(currentYear, 11, 1, 18, 0, 0, 0) // 1 of Dezember
 	return (
 		<>
 			<MaterialIconStyle />
@@ -179,10 +182,11 @@ function App() {
 			<header>
 				<Helmet>
 					<title>Lebendiger Adventskalender</title>
-					<meta name="description" content="Ein ökumenisches Projekt der Pfarrei St. Maria Magdalena und Christi Auferstehung und der Evangelische Trinitatiskirchengemeinde Bonn-Endenich." />
+					<meta name="description" content="Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein. Jeweils von 18:00 bis 18:30 Uhr erstrahlt ein geschmücktes Fenster. Stehen bleiben, Lieder singen, Geschichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespräch kommen." />
 				</Helmet>
 
 				<svg viewBox="0 0 775 215" className="svg-header">
+					<title>Lebendiger Adventskalender</title>
 					<text className="h1" x="10" y="90">Lebendiger</text>
 					<text className="h1" x="10" y="200">Adventskalender</text>
 				</svg>

@@ -78,6 +78,7 @@
   background-size: cover;
   background-position: center center;
   box-shadow: var(--shadow-width) var(--shadow-width) var(--background);
+  border-radius: 3px;
 }
 .cards .card .image img {
   width: 100%;
