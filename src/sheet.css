@@ -52,7 +52,6 @@
 	opacity: 0.9;
 	border-radius: 7px;
 }
-
 .sheet .content:after{
 	z-index: -1;
 	content: "";

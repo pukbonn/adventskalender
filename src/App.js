@@ -13,7 +13,9 @@ import Footer from './Footer.js'
 import Sheet from './Sheet.js'
 import './app.css'
 import './cards.css'
-import { MaterialIconStyle } from './components/Icon.jsx'
+import { MaterialIconStyle } from './components/Icon'
+import { Marker } from './components/Marker'
+import { ReactMap } from './components/ReactMap'
 import data_yaml_path from './data.yaml'
 
 
@@ -173,6 +175,21 @@ function App() {
 		history.push(`/day/${year}`)
 	}, [setYear, history])
 
+	const entries = days
+		.filter(day => new Date(day.date).getFullYear() === year)
+		.sort((a, b) => new Date(a.date) - new Date(b.date))
+		.filter(day => day.lat && day.lng)
+		.map(day => {
+			const date = new Date(day.fullDate)
+			const daynumber = date.getDate()
+			return {
+				id: day.date,
+				latitude: day.lat,
+				longitude: day.lng,
+				title: String(daynumber),
+				url: `/#/day/${day.date}`,
+			}
+		})
 
 	const calendarStart = new Date(currentYear, 11, 1, 18, 0, 0, 0) // 1 of Dezember
 	return (
@@ -212,24 +229,50 @@ function App() {
 				</div>
 			</header>
 
+			<div style={{ width: 'fit-content', padding: '32px', margin: '0 auto' }}>
 
-			<nav className="years">
-				{years.map(thisYear => <span className={thisYear === year ? 'active' : ''} key={thisYear} onClick={() => handleYearChange(thisYear)}>{thisYear}</span>)}
-			</nav>
+				<nav className="years">
+					{years.map(thisYear => <span className={thisYear === year ? 'active' : ''} key={thisYear} onClick={() => handleYearChange(thisYear)}>{thisYear}</span>)}
+				</nav>
 
-			<nav className="cards">
-				{days
-					.sort((a, b) => new Date(a.date) - new Date(b.date))
-					.map(dayData => {
-						return <NavLink
-							className="card"
-							key={dayData.date}
-							to={'/day/' + dayData.date}
-						>
-							<Card data={dayData} />
-						</NavLink>
-					})}
-			</nav>
+				<nav className="cards">
+					{days
+						.sort((a, b) => new Date(a.date) - new Date(b.date))
+						.map(dayData => {
+							return <NavLink
+								className="card"
+								key={dayData.date}
+								to={'/day/' + dayData.date}
+							>
+								<Card data={dayData} />
+							</NavLink>
+						})}
+				</nav>
+
+
+				{entries.length === 0 ? null :
+					<div
+						key={JSON.stringify(entries)}
+						className="map-container"
+					>
+						<ReactMap
+							key={JSON.stringify(entries)}
+							entries={entries}
+							onEntryMarkerClick={({ entry }) => {
+								if (entry.url) {
+									if (entry.url.startsWith('http')) {
+										window.open(entry.url, '_blank', 'noopener')
+									} else {
+										window.open(entry.url, '_self')
+									}
+								}
+							}}
+							renderEntryMarker={({ entry, index, ref, onImageLoaded }) => (
+								<Marker entry={entry} index={index} onImageLoaded={onImageLoaded} ref={ref} />
+							)}
+						/>
+					</div>}
+			</div>
 
 			{
 				typeof dateString === 'string'

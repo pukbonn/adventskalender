@@ -4,7 +4,7 @@ const csv = require('csv')
 /*
 fs.readFile('./Website_Stats - Sheet3.csv', 'utf8', (error, data) => {
     if (error) {
-        console.log(`Error reading file from disk: ${err}`);
+        console.error(`Error reading file from disk: ${err}`);
     } else {
         const counts =
             data
@@ -14,17 +14,13 @@ fs.readFile('./Website_Stats - Sheet3.csv', 'utf8', (error, data) => {
                 counts.add(line)
                 return counts
             }, new Set())
-
-        console.log(
-            counts.size
-        )
     }
 })
 */
 
 fs.readFile('./Website_Stats - Stats.csv', 'utf8', (error, data) => {
     if (error) {
-        console.log(`Error reading file from disk: ${err}`);
+        console.error(`Error reading file from disk: ${err}`);
     } else {
         csv.parse(data, function (err, data) {
             data = data
@@ -43,8 +39,6 @@ fs.readFile('./Website_Stats - Stats.csv', 'utf8', (error, data) => {
                     counts.add(line)
                     return counts
                 }, new Set())
-
-            console.log(counts.size)
         })
     }
 })

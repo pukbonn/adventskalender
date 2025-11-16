@@ -71,7 +71,7 @@ export function IconDuoTone({ className, name, style = {}, fgStyle, bgStyle, ...
     name = 'progress_activity'
   }
 
-  return <div className={cn('icon', className)} style={{
+  return <span className={cn('icon', className)} style={{
     position: 'relative',
     display: 'inline-flex',
     alignItems: 'start',
@@ -94,7 +94,7 @@ export function IconDuoTone({ className, name, style = {}, fgStyle, bgStyle, ...
       color: 'currentColor',
       ...fgStyle,
     }} />
-  </div>
+  </span>
 }
 
 

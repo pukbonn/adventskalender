@@ -12,7 +12,9 @@ days:
       url: https://www.youtube.com/watch?v=R4RJfZ7kL4g
       title: "Der erste Advent: „Es werde Licht” - Genesis 1:3"
   - date: 2020-12-01
-    address: St. Maria Magdalena Magdalenenstraße 25
+    address: St. Maria Magdalena, Magdalenenstraße 25
+    lat: 50.726026000000005
+    lng: 7.075796629936967
     thumbnail: _thumb.jpg
     photos:
       - IMG_0951.jpeg
@@ -64,6 +66,8 @@ days:
       <br/>Das Licht einer Kerze kann die Dunkelheit nicht besiegen, aber es ist ein Zeichen der Hoffnung.
   - date: 2020-12-02
     address: Gottfried-Kinkel Str. 25, 53113 Bonn
+    lat: 50.716985199999996
+    lng: 7.057710168201465
     thumbnail: _thumb.jpg
     photos:
       - 20201202_171310.jpg
@@ -71,6 +75,8 @@ days:
       - 20201202_171848.jpg
   - date: 2020-12-03
     address: Ulrich-Haberland Str. 69
+    lat: 50.731639099999995
+    lng: 7.070200399878726
     thumbnail: _thumb.jpg
     photos:
       - 20201126_173322.jpg
@@ -78,6 +84,8 @@ days:
       - 20201203_183422.jpg
   - date: 2020-12-04
     address: Lipschitzstrasse 40
+    lat: 50.732518150000004
+    lng: 7.0650921642384095
     thumbnail: _thumb.jpg
     photos:
       - 20201203_181350.jpg
@@ -89,6 +97,8 @@ days:
       <br/>Somit wollen wir allen, die heute hier vorbei kommen auch ein paar warme Erinnerungen für die Adventszeit und den Winter bescheren.
   - date: 2020-12-05
     address: Buchfinkenweg 30
+    lat: 50.732518150000004
+    lng: 7.0650921642384095
     thumbnail: _thumb.jpg
     photos:
       - 20201205_173330[1].jpg
@@ -123,6 +133,8 @@ days:
       <br/>„Wem könnten wir, wie Nikolaus, das Leben versüßen?” (Nach A. Grün)
   - date: 2020-12-06
     address: Magdalenenstraße 34
+    lat: 50.732518150000004
+    lng: 7.0650921642384095
     thumbnail: _thumb.jpg
     photos:
       - IMG_3908.jpeg
@@ -141,6 +153,8 @@ days:
       title: "Impuls zum Zweiten Advent: „...nimm dich in Acht, dass du nicht den Herrn vergisst...”"
   - date: 2020-12-07
     address: Verweyenstr. 4
+    lat: 50.733456700000005
+    lng: 7.0643823987971075
     thumbnail: _thumb.jpg
     photos:
       - 20201206_172946.jpg
@@ -148,28 +162,38 @@ days:
       # - 20201206_173000.jpg # similar to above
   - date: 2020-12-08
     address: Wiesenweg 15
+    lat: 50.72711725
+    lng: 7.0772205356680065
     thumbnail: _thumb.jpg
     photos:
       - photo_2020-12-07_20-43-11-cropped.jpeg
       # - photo_2020-12-07_20-43-11.jpeg
   - date: 2020-12-09
     address: Max-Cohen-Str. 30-32
+    lat: 50.7213091
+    lng: 7.067620248407382
     thumbnail: _thumb.jpg
     photos:
       - 20201202_175545.jpg
   - date: 2020-12-10
     address: Am Burggraben 36
+    lat: 50.72414055
+    lng: 7.072545679445556
     thumbnail: _thumb.jpg
     photos:
       - Image.jpeg
   - date: 2020-12-11
     address: Magdalenenstr. 28
+    lat: 50.7257978
+    lng: 7.074825362639076
     thumbnail: _thumb.jpg
     photos:
       - IMG_0677.jpg
       - IMG_6294[1].JPG
   - date: 2020-12-12
     address: Dohmstraße 2
+    lat: 50.7211438
+    lng: 7.073574735024762
     thumbnail: _thumb.jpg
     photos:
       - 12-Dezember-Dohmstr-2.jpg
@@ -177,6 +201,8 @@ days:
       Jesus, du Licht der Welt, wir erwarten dich.
   - date: 2020-12-13
     address: Theodor-Brinkmann Str. 40
+    lat: 50.72456
+    lng: 7.0801661920996
     video:
       url: https://youtu.be/yAc-ZACvDkk
       title: „Dein Thron soll auf ewig fest stehen!” Impuls zum Dritten Advent
@@ -196,7 +222,9 @@ days:
 
       <br/>(entnommen aus [Vivat! Themenwelten und Jahreskreis](https://cms.vivat.de/themenwelten/jahreskreis/advent/heilige-lucia.html))
   - date: 2020-12-14
-    address: JAP Am Propsthof 134
+    address: JAP, Am Propsthof 134
+    lat: 50.7311525
+    lng: 7.0645935
     thumbnail: _thumb.jpg
     photos:
       - SAM_0792-smaller.JPG
@@ -220,6 +248,8 @@ days:
       <br/>Also: freie Sicht suchen, nach Südwesten schauen und nach dem Einsetzen der Dämmerung nach den Planeten Ausschau halten, da sie nach 18 Uhr bereits untergehen.
   - date: 2020-12-15
     address: Röckumstrasse 15
+    lat: 50.72396275
+    lng: 7.076000193695654
     thumbnail: _thumb.jpg
     photos:
       - 20201201_185439.jpg
@@ -266,13 +296,17 @@ days:
       <br/>musste es für sich behalten, ganz tief im Herzen.
   - date: 2020-12-16
     address: Theodor-Litt-Str. 17
+    lat: 50.72490125
+    lng: 7.0657495085943705
     thumbnail: _thumb.jpg
     photos:
       - 7e511a46-6676-492f-9196-a1cead323b1b.jpeg
       - 20201216_184734.jpg
       - IMG_0709.JPG
   - date: 2020-12-17
-    address: Kita St. Maria Magdalena Wiesenweg 6
+    address: Kita St. Maria Magdalena, Wiesenweg 6
+    lat: 50.7266118
+    lng: 7.0771074530487805
     thumbnail: _thumb.jpg
     photos:
       - IMG_2958.jpeg
@@ -280,6 +314,8 @@ days:
       - Screenshot-2020-12-13-at-10-45-15.png
   - date: 2020-12-18
     address: Lutfriedstr. 18
+    lat: 50.7247636
+    lng: 7.0741678
     thumbnail: _thumb.jpg
     photos:
       - 20201217_223303.jpg # right window
@@ -289,6 +325,8 @@ days:
       - 20201218_184511.jpg # collage
   - date: 2020-12-19
     address: Ökum. Schaukasten Frongasse
+    lat: 50.726469
+    lng: 7.0747494
     thumbnail: _thumb.jpg
     photos:
       - 20201219_205828.jpg
@@ -301,6 +339,8 @@ days:
       - IMG_0715.JPG
   - date: 2020-12-20
     address: Auf dem Hügel 107
+    lat: 50.732084150000006
+    lng: 7.067748976382548
     thumbnail: _thumb.jpg
     photos:
       - IMG_20201220_172352.jpg
@@ -310,6 +350,8 @@ days:
       title: „Zitternd werden sie zum Herrn kommen” – Impuls zum Vierten Advent
   - date: 2020-12-21
     address: Neuenahrer Str. 2
+    lat: 50.73032575
+    lng: 7.080409847237046
     thumbnail: _thumb.jpg
     photos:
       - IMG_4079-cropped.jpeg
@@ -345,6 +387,8 @@ days:
       <br/><br/>aus Alma Grüßhaber, TREFFPUNKT FENSTER, Verlag Junge Gemeinde, Lahn Verlag 2006, Seite 105-107
   - date: 2020-12-22
     address: Zur Marterkapelle 4
+    lat: 50.7150474
+    lng: 7.072401575656437
     thumbnail: _thumb.jpg
     photos:
       - Lebendiger Adventskalender 2020_22. Dez. Engel.jpg
@@ -393,13 +437,17 @@ days:
       *Quelle:* [bistum-augsburg.de](https://bistum-augsburg.de/content/download/170216/file/Adventliches%20Morgengebet%202016.pdf)
   - date: 2020-12-23
     address: Wiesenweg 4
+    lat: 50.726645250000004
+    lng: 7.0767016969455945
     thumbnail: _thumb.jpg
     photos:
       - IMG_4464.jpeg
       - IMG_4465.jpeg
       - IMG_4469.jpeg
   - date: 2020-12-24
-    address: Magdalenenstraße 25
+    address: "St. Maria Magdalena, Magdalenenstraße 25"
+    lat: 50.726026000000005
+    lng: 7.075796629936967
     thumbnail: _thumb.jpg
     photos:
       - IMG_0753_auto_x2_colored_toned_resized.jpg
@@ -407,20 +455,28 @@ days:
       - IMG_0753.JPG
   - date: 2021-12-01T18:30:00
     address: "St. Maria Magdalena, Magdalenenstraße 25"
+    lat: 50.726026000000005
+    lng: 7.075796629936967
     thumbnail: _thumb.jpg
     photos:
       - IMG_3968.JPG
       - IMG_3967.JPG
   - date: 2021-12-02
     address: "Gottfried-Kinkel Straße 25"
+    lat: 50.716985199999996
+    lng: 7.057710168201465
   - date: 2021-12-03
     address: "Pfarrer-Byns-Straße 5"
+    lat: 50.72361455
+    lng: 7.0653194247316815
     thumbnail: _thumb.jpg
     photos:
       - IMG_9995.jpeg
       - IMG_9996.jpeg
   - date: 2021-12-04
     address: "Buchfinkenweg 30, Duisdorf"
+    lat: 50.719472249999995
+    lng: 7.0550309221759955
     photos:
       - 20211204_192657.jpg
     text: |-
@@ -428,6 +484,8 @@ days:
       "So bedeuten für uns Christen die Barbarazweige (...), dass in der Kälte des Winters neues Leben aufblüht. Sie sind Zeichen der Hoffnung, dass durch Christus auch unser Leben immer fruchtbar ist, selbst wenn wir uns wie im Gefängnis fühlen, selbst wenn wir verletzt werden, selbst wenn wir abgelehnt und ausgestoßen werden. (...) In die Kälte des Winters kommt die Wärme der Liebe, die selbst das Tote in uns wieder aufblühen läßt."
   - date: 2021-12-05
     address: "Magdalenenstraße 34"
+    lat: 50.725601049999995
+    lng: 7.075335471813071
     thumbnail: _thumb.jpg
     photos:
       - IMG_4050.JPG
@@ -436,6 +494,8 @@ days:
       - IMG_4053.JPG
   - date: 2021-12-06
     address: "Neuenahrerstr. 2"
+    lat: 50.73032575
+    lng: 7.080409847237046
     thumbnail: _thumb.jpg
     photos:
       - IMG_0118.jpg
@@ -448,13 +508,19 @@ days:
       - IMG_7587.JPG
   - date: 2021-12-08
     address: "Kita St. Maria Magdalena, Wiesenweg 6"
+    lat: 50.7266118
+    lng: 7.0771074530487805
     thumbnail: _thumb.jpg
     photos:
       - IMG_3381-small.jpeg
   - date: 2021-12-09
     address: "Sebastianstraße 178"
+    lat: 50.7243374
+    lng: 7.077793
   - date: 2021-12-11
     address: "Alfred Bucherer-Straße 22"
+    lat: 50.72613785
+    lng: 7.076331261727152
     thumbnail: _thumb.jpg
     photos:
       - IMG_4015.jpg
@@ -465,18 +531,28 @@ days:
       - IMG_4022.jpg
   - date: 2021-12-12T18:00:00
     address: "Adventssingen in Trinitatis"
+    lat: 50.7275636
+    lng: 7.0758332
   - date: 2021-12-14
     address: "Schieffelingsweg 26c, Duisdorf"
+    lat: 50.7157325
+    lng: 7.0611097000000065
   - date: 2021-12-15
     address: "Magdalenenstraße 28"
+    lat: 50.7257978
+    lng: 7.074825362639076
   - date: 2021-12-16
     address: "Ökumenischer Schaukasten, Frongasse"
+    lat: 50.726469
+    lng: 7.0747494
     thumbnail: _thumb.jpg
     photos:
       - image0.jpeg
       - image1.jpeg
   - date: 2021-12-17
     address: "JAP, Am Propsthof 134"
+    lat: 50.7311525
+    lng: 7.0645935
     thumbnail: _thumb.jpg
     photos:
       - signal-2021-12-17-194903_001.jpg
@@ -484,6 +560,8 @@ days:
       - signal-2021-12-17-194903_003.jpg
   - date: 2021-12-18
     address: "Theodor-Litt-Str. 17"
+    lat: 50.72490125
+    lng: 7.0657495085943705
     thumbnail: _thumb.jpg
     photos:
       - 20211218_181618.jpg
@@ -492,8 +570,12 @@ days:
       - 20211218_180033.jpg
   - date: 2021-12-19T18:00:00
     address: "Adventssingen in Trinitatis"
+    lat: 50.7275636
+    lng: 7.0758332
   - date: 2021-12-20
     address: "Wiesenweg 25"
+    lat: 50.727337750000004
+    lng: 7.078407450296272
     thumbnail: _thumb.jpg
     photos:
       - 20211220_175321_resized.jpg
@@ -502,8 +584,12 @@ days:
       Es gab eine Geschichte zum Mitnehmen, Musik und Schokolade.
   - date: 2021-12-21
     address: "Alfred-Bucherer-Straße 91"
+    lat: 50.72408835
+    lng: 7.079865867941674
   - date: 2021-12-22
     address: "Am Burggraben 36"
+    lat: 50.72414055
+    lng: 7.072545679445556
     photos:
       - 20211222_183855.jpg
       - 20211222_193306.jpg
@@ -512,11 +598,15 @@ days:
       - 20211222_feuer.jpg
   - date: 2021-12-24
     address: "Pfarrheim-Fenster, Magdalenenstraße 25"
+    lat: 50.72605
+    lng: 7.07535
     photos:
       - 20211224_1.jpg
       - 20211224_2.jpg
   - date: 2022-12-01
     address: "St. Maria Magdalena, Magdalenenstraße 25"
+    lat: 50.72620
+    lng: 7.07546
     thumbnail: _thumb.jpg
     photos:
       - 20221201_1.jpg
@@ -532,12 +622,16 @@ days:
       <br>der für uns Mensch geworden ist.
   - date: 2022-12-02
     address: "Garten am Wiesenweg/Ecke Brahmsstraße"
+    lat: 50.72737
+    lng: 7.07978
     thumbnail: _thumb.jpg
     photos:
       - 20221202-1.jpg
       - 20221202-2.jpg
   - date: 2022-12-03
     address: "Buchfinkenweg 30, 53123 Bonn Duisdorf"
+    lat: 50.719472249999995
+    lng: 7.0550309221759955
     thumbnail: _thumb.jpg
     photos:
       - 20221203-1-cropped.jpg
@@ -562,17 +656,17 @@ days:
       Dafür sind die Zweige ein Symbol.
   - date: 2022-12-04
     address: "Endenicher Park"
+    lat: 50.72356
+    lng: 7.07151
     thumbnail: _thumb.jpg
     photos:
       - 20221204-1.jpg
     text: |-
       Baum der Ökumene im Endenicher Park
-  - date: 2022-12-05
-    address: "Der Termin ist frei"
-  - date: 2022-12-06
-    address: "Der Termin ist frei"
   - date: 2022-12-07
     address: "KiTa St. Maria Magdalena, Wiesenweg 6"
+    lat: 50.7266118
+    lng: 7.0771074530487805
     thumbnail: _thumb.jpg
     photos:
       - 20221207-1.jpg
@@ -580,16 +674,20 @@ days:
       - 20221207-3.jpg
   - date: 2022-12-08
     address: "Ökumenischer Schaukasten, Frongasse"
+    lat: 50.726469
+    lng: 7.0747494
   - date: 2022-12-09
     address: "Sebastianstr. 178"
+    lat: 50.7243374
+    lng: 7.077793
     thumbnail: _thumb.jpg
     photos:
       - 20221209-1.jpg
       - 20221209-2.jpg
-  - date: 2022-12-10
-    address: "Der Termin ist frei"
   - date: 2022-12-11
     address: "Bonner Logsweg 44, 53123 Bonn Lessenich"
+    lat: 50.72404
+    lng: 7.049123325896734
     thumbnail: _thumb.jpg
     photos:
       - 20221211-1.jpg
@@ -601,8 +699,12 @@ days:
       <br>Es waren 40 Menschen anwesend. Die Kinder konnten im Anschluss noch Kränze binden (Bild 3).
   - date: 2022-12-12
     address: "Kaufmannstraße 46"
+    lat: 50.729703799999996
+    lng: 7.082717899560916
   - date: 2022-12-13
     address: "Alte Heerstraße 8"
+    lat: 50.7248104
+    lng: 7.0649419
     thumbnail: _thumb.jpg
     photos:
       - 20221213-1.jpg
@@ -610,6 +712,8 @@ days:
       Wir hatten heute unseren Garten geöffnet und zu Spekulatius, Punsch und Musik am Lagerfeuer geladen. Schön wars!
   - date: 2022-12-14
     address: "Max-Cohen Straße 19-23 (Wendehammer)"
+    lat: 50.721974
+    lng: 7.067463154677437
     thumbnail: _thumb.jpg
     photos:
       - 20221214-1.jpg
@@ -624,6 +728,8 @@ days:
       - 20221214-10.jpg
   - date: 2022-12-15
     address: "Theodor-Litt-Str. 17"
+    lat: 50.72490125
+    lng: 7.0657495085943705
     thumbnail: _thumb.jpg
     photos:
       - 20221215-1.jpg
@@ -641,12 +747,16 @@ days:
       Schließlich viel die Finsternis in sich zusammen und verschwand. Die Lichter aber leuchteten hell und erhellten das Land.
   - date: 2022-12-16
     address: "JAP, Am Propsthof 134"
+    lat: 50.7311525
+    lng: 7.0645935
     thumbnail: _thumb.jpg
     photos:
       - 20221216-1.jpg
       - 20221216-2.jpg
   - date: 2022-12-17
     address: "Alfred-Bucherer Str. 22"
+    lat: 50.72613785
+    lng: 7.076331261727152
     thumbnail: _thumb.jpg
     photos:
       - 20221217-2.jpg
@@ -655,13 +765,19 @@ days:
       - 20221217-5.jpg
   - date: 2022-12-18
     address: "Theodor-Brinkmann Str. 40"
+    lat: 50.72456
+    lng: 7.0801661920996
     thumbnail: _thumb.jpg
     photos:
       - 20221218-1.jpg
   - date: 2022-12-19
     address: "Alfred-Bucherer Str. 20"
+    lat: 50.72628025
+    lng: 7.076212096286788
   - date: 2022-12-20
     address: "Wiesenweg 25"
+    lat: 50.727337750000004
+    lng: 7.078407450296272
     thumbnail: _thumb.jpg
     photos:
       - 20221220-1.jpg
@@ -672,6 +788,8 @@ days:
       Geschichte: Der Kleine Stern
   - date: 2022-12-21
     address: "Am Burggraben 36"
+    lat: 50.72414055
+    lng: 7.072545679445556
     thumbnail: _thumb.jpg
     photos:
       - 20221221-1.jpg
@@ -685,8 +803,12 @@ days:
       <br>Kleinvieh macht auch Mist
   - date: 2022-12-22
     address: "Alfred-Bucherer Str. 91"
+    lat: 50.72408835
+    lng: 7.079865867941674
   - date: 2022-12-23
     address: "Enggasse 10, 53127 Bonn Lengsdorf"
+    lat: 50.71085
+    lng: 7.06830
     thumbnail: _thumb.jpg
     photos:
       - 20221223-1.jpg
@@ -694,6 +816,8 @@ days:
     address: "Heiliger Abend - Frohe Weihnachten"
   - date: 2023-12-01
     address: "St. Maria Magdalena, Magdalenenstraße 25, Endenich"
+    lat: 50.72622
+    lng: 7.07544
     thumbnail: _thumb.jpg
     photos:
       - 20231201-1.jpg
@@ -730,26 +854,36 @@ days:
       <br>
   - date: 2023-12-02
     address: "Buchfinkenweg 30, Duisdorf"
+    lat: 50.71947
+    lng: 7.05502
   - date: 2023-12-03
     address: "Flodelingsweg 42, Endenich"
+    lat: 50.72214
+    lng: 7.07536
     thumbnail: _thumb.jpg
     photos:
       - 20231203-1.jpg
       - 20231203-2.jpg
   - date: 2023-12-04
-    address: "Kaufmannstr. 46, Endenich"
+    address: "Kaufmannstr. 46, Weststadt"
+    lat: 50.72975
+    lng: 7.08272
     thumbnail: _thumb.jpg
     photos:
       - 20231204-1.jpg
       - 20231204-2.jpg
   - date: 2023-12-05
     address: "Magdalenenstraße 34, Endenich"
+    lat: 50.72563
+    lng: 7.07536
     thumbnail: _thumb.jpg
     photos:
       - 20231205-1.jpg
       - 20231205-2.jpg
   - date: 2023-12-06T20:30:00
     address: "Sankt Maria Magdalena, Endenich"
+    lat: 50.72620
+    lng: 7.07545
     thumbnail: _thumb.jpg
     photos:
       - 20231206-1.jpg
@@ -772,6 +906,8 @@ days:
       <br><br>(Hermman Schalück in Gotteslob 20.3)
   - date: 2023-12-07
     address: "KiTa St. Maria Magdalena, Wiesenweg 6, Endenich"
+    lat: 50.72680
+    lng: 7.07686
     thumbnail: _thumb.jpg
     photos:
       - 20231207-1.jpg
@@ -779,6 +915,8 @@ days:
       - 20231207-3.jpg
   - date: 2023-12-08
     address: "Bonner Logsweg 44, Lessenich"
+    lat: 50.72409
+    lng: 7.04916
     thumbnail: _thumb.jpg
     photos:
       - 20231208-1.jpg
@@ -798,12 +936,16 @@ days:
       <br><br>(Marlene Preuß)
   - date: 2023-12-09
     address: "Sebastianstraße 180, Endenich"
+    lat: 50.72460
+    lng: 7.07815
     thumbnail: _thumb.jpg
     photos:
       - 20231209-1.jpg
       - 20231209-2.jpg
   - date: 2023-12-10
     address: "Im jungen Wingert 2, Endenich"
+    lat: 50.72361
+    lng: 7.07631
     note: "Es spielt das Ensemble VeedelBlech."
     thumbnail: _thumb.jpg
     photos:
@@ -811,8 +953,12 @@ days:
       - 20231210-2.jpg
   - date: 2023-12-11
     address: "Gottfried-Kinkel-Str. 25, Duisdorf"
+    lat: 50.71695
+    lng: 7.05771
   - date: 2023-12-12
     address: "Auf dem Hügel 107, Endenich"
+    lat: 50.73213
+    lng: 7.06777
     thumbnail: _thumb.jpg
     photos:
       - 20231212-1.jpg
@@ -820,6 +966,8 @@ days:
       - 20231212-3.jpg
   - date: 2023-12-13
     address: "Theodor-Litt-Str. 17, Endenich"
+    lat: 50.72491
+    lng: 7.06575
     thumbnail: _thumb.jpg
     photos:
       - 20231213-1.jpg
@@ -836,6 +984,8 @@ days:
       <br>mir kund und wissend sei!
   - date: 2023-12-14
     address: "Ökumenischer Schaukasten, Frongasse, Endenich"
+    lat: 50.726469
+    lng: 7.0747494
     thumbnail: _thumb.jpg
     photos:
       - 20231214-1.jpg
@@ -861,19 +1011,25 @@ days:
       <br>zu denen, die unter Krieg leiden
       <br>und sich Frieden wünschen.
   - date: 2023-12-15
-    address: "JAP, Am Probsthof 134, Endenich"
+    address: "JAP, Am Propsthof 134, Endenich"
+    lat: 50.73117675
+    lng: 7.064352389644888
   - date: 2023-12-16
     address: "Lutfridstrasse 14, Endenich"
+    lat: 50.72492
+    lng: 7.07394
   - date: 2023-12-17
     address: "Lipschitzstr. 43, Endenich"
+    lat: 50.73229
+    lng: 7.06492
     thumbnail: _thumb.jpg
     photos:
       - 20231217-1.jpg
       - 20231217-2.jpg
-  - date: 2023-12-18
-    address: "Der Termin muss leider ausfallen."
   - date: 2023-12-19
     address: "Max-Cohen Straße 19-23 (Wendehammer), Endenich"
+    lat: 50.72201
+    lng: 7.06763
     thumbnail: _thumb.jpg
     photos:
       - 20231219-1.jpg
@@ -883,12 +1039,16 @@ days:
       - 20231219-5.jpg
   - date: 2023-12-20
     address: "Enggasse 10, Lengsdorf"
+    lat: 50.71086
+    lng: 7.06829
     thumbnail: _thumb.jpg
     photos:
       - 20231220-1.jpg
       - 20231220-2.jpg
   - date: 2023-12-21
     address: "Alfred-Bucherer-Str. 91, Endenich"
+    lat: 50.72406
+    lng: 7.07983
     thumbnail: _thumb.jpg
     photos:
       - 20231221-1.jpg
@@ -896,8 +1056,12 @@ days:
       - 20231221-3.jpg
   - date: 2023-12-22
     address: "Enggasse 42, Lengsdorf"
+    lat: 50.71230
+    lng: 7.06853
   - date: 2023-12-23
     address: "Alfred-Bucherer-Straße 22, Endenich"
+    lat: 50.72619
+    lng: 7.07639
     thumbnail: _thumb.jpg
     photos:
       - 20231223-1.jpg
@@ -909,11 +1073,15 @@ days:
 
   - date: 2024-12-01
     address: "St. Maria Magdalena, Magdalenenstraße 25, Endenich"
+    lat: 50.72619
+    lng: 7.07547
     thumbnail: _thumb.jpg
     photos: 
       - 20241201-1.jpg
   - date: 2024-12-02
     address: "Kaufmannstr. 46, Weststadt"
+    lat: 50.72975
+    lng: 7.08272
     thumbnail: _thumb.jpg
     photos: 
       - 20241202-2.jpg
@@ -921,12 +1089,16 @@ days:
       - 20241202-1.jpg
   - date: 2024-12-03T17:00:00
     address: "KiTa St. Maria Magdalena, Wiesenweg 6, Endenich"
+    lat: 50.72682
+    lng: 7.07686
     thumbnail: _thumb.jpg
     photos: 
       - 20241203-1.jpg
       - 20241203-2.jpg
   - date: 2024-12-04
     address: "Wendehammer, Max-Cohen-Straße 19-25, Endenich"
+    lat: 50.72200
+    lng: 7.06763
     thumbnail: _thumb.jpg
     photos: 
       - 20241204-1.jpg
@@ -936,6 +1108,8 @@ days:
       Glaube, Liebe, Hoffnung
   - date: 2024-12-05
     address: "Pfarrheim St. Maria Magdalena, Magdalenenstraße 25, Endenich"
+    lat: 50.72607
+    lng: 7.07534
     thumbnail: _thumb.jpg
     photos: 
       - 20241205-1.jpg
@@ -944,19 +1118,27 @@ days:
       - 20241205-4.jpg
   - date: 2024-12-06
     address: "JAP - Kinder- und Jugendzentrum, Am Propsthof 134, Endenich"
+    lat: 50.7311525
+    lng: 7.0645935
     thumbnail: _thumb.jpg
     photos: 
       - 20241206-1.jpg
   - date: 2024-12-07
     address: "Heimatmuseum Lengsdorf, Lengsdorfer Hauptstraße 16"
+    lat: 50.71129
+    lng: 7.06886
     thumbnail: ""
     photos: []
   - date: 2024-12-08
     address: "Flodelingsweg 42, Endenich"
+    lat: 50.72221
+    lng: 7.07531
     thumbnail: ""
     photos: []
   - date: 2024-12-09
     address: "Kreuzbergstraße 3, Lengsdorf"
+    lat: 50.71241
+    lng: 7.07226
     thumbnail: _thumb.jpg
     photos:
       - 20241209-1.jpg
@@ -965,24 +1147,34 @@ days:
       - 20241209-4.jpg
   - date: 2024-12-10
     address: "Lipschitzstraße 21, Endenich"
+    lat: 50.73205
+    lng: 7.06391
     thumbnail: ""
     photos: []
   - date: 2024-12-11
     address: "Priesterseminar Redemptoris Mater, Kapellenstraße 44, Endenich"
+    lat: 50.71828
+    lng: 7.07786
     thumbnail: ""
     photos: []
   - date: 2024-12-12
     address: "Ökumenischer Schaukasten, Frongasse, Endenich"
+    lat: 50.72650
+    lng: 7.07473
     thumbnail: _thumb.jpg
     photos:
       - 20241212-1.jpg
       - 20241212-2.jpg
   - date: 2024-12-13
     address: "In der Grächt 32, Lengsdorf"
+    lat: 50.71214
+    lng: 7.06536
     thumbnail: ""
     photos: []
   - date: 2024-12-14
     address: "Bonner Logsweg 44, Lessenich"
+    lat: 50.72407
+    lng: 7.04915
     thumbnail: _thumb.jpg
     photos:
       - 20241214-2.jpg
@@ -990,22 +1182,30 @@ days:
       - 20241214-1.jpg
   - date: 2024-12-15
     address: "Im jungen Wingert 2, Endenich"
+    lat: 50.72362
+    lng: 7.07631
     thumbnail: _thumb.jpg
     photos:
       - 20241215-1.jpg
       - 20241215-2.jpg
   - date: 2024-12-16
     address: "Bücherschrank, Lengsdorfer Hauptstraße 36"
+    lat: 50.71213
+    lng: 7.06942
     thumbnail: ""
     photos: []
   - date: 2024-12-17
     address: "Theodor-Litt-Straße 17, Endenich"
+    lat: 50.72491
+    lng: 7.06578
     thumbnail: _thumb.jpg
     photos:
       - 20241217-1.jpg
       - 20241217-2.jpg
   - date: 2024-12-18
     address: "Adventssingen Westside, Robert Havemann Straße 6"
+    lat: 50.73472
+    lng: 7.06942
     thumbnail: _thumb.jpg
     photos: 
       - 20241218-1.jpg
@@ -1013,10 +1213,14 @@ days:
       - 20241218-3.jpg
   - date: 2024-12-19
     address: "Bücherei, Uhlgasse 8, Lengsdorf"
+    lat: 50.70993
+    lng: 7.06969
     thumbnail: ""
     photos: []
   - date: 2024-12-20
     address: "Enggasse 42, Lengsdorf"
+    lat: 50.71230
+    lng: 7.06856
     thumbnail: _thumb.jpg
     photos: 
       - 20241220-2.jpg
@@ -1024,6 +1228,8 @@ days:
       - 20241220-1.jpg
   - date: 2024-12-21
     address: "Alfred-Bucherer Straße 22, Endenich"
+    lat: 50.72623
+    lng: 7.07642
     thumbnail: _thumb.jpg
     photos: 
       - 20241221-1.jpg
@@ -1031,10 +1237,14 @@ days:
       - 20241221-3.jpg
   - date: 2024-12-22
     address: "Am Burggraben 36, Endenich"
+    lat: 50.72413
+    lng: 7.07265
     thumbnail: ""
     photos: []
   - date: 2024-12-23
     address: "Freebox Ecke Schubertsstraße / Wiesenweg, Endenich"
+    lat: 50.72782
+    lng: 7.08192
     thumbnail: _thumb.jpg
     photos: 
       - 20241223-1.jpg
@@ -1049,41 +1259,79 @@ days:
     photos: 
       - 20241224-1.jpg
   - date: 2025-12-01
-    address: Hauptportal Sankt Maria Magdalena, Magdalenen Str. 25
+    address: Hauptportal Sankt Maria Magdalena, Magdalenen Str. 25, Endenich
+    lat: 50.72623
+    lng: 7.07545
   - date: 2025-12-02
-    address: Am Klostergarten 1
+    address: Am Klostergarten 1, Endenich
+    lat: 50.72085
+    lng: 7.07304
   - date: 2025-12-03
-    address: Bonner Logsweg 44
+    address: Bonner Logsweg 44, Lessenich
+    lat: 50.72411
+    lng: 7.04916
   - date: 2025-12-04T17:00:00
-    address: Kita St. Maria Magdalena Wiesenweg 6
+    address: Kita St. Maria Magdalena, Wiesenweg 6, Endenich
+    lat: 50.72680
+    lng: 7.07687
   - date: 2025-12-05
     address: Enggasse 42, Lengsdorf
+    lat: 50.71229
+    lng: 7.06854
   - date: 2025-12-06
-    address: Kirchplatz Sankt Maria Magdalena, Magdalenen Str. 25
+    address: Kirchplatz Sankt Maria Magdalena, Magdalenen Str. 25, Endenich
+    lat: 50.72594
+    lng: 7.07553
   - date: 2025-12-07
-    address: Im jungen Wingert 2 (Singen mit Veedelblech)
+    address: Im jungen Wingert 2, Endenich
+    lat: 50.7235919
+    lng: 7.076299306185539
+    note: Singen mit Veedelblech
   - date: 2025-12-08
     address: ökumenischer Schaukasten Frongasse, Endenich
+    lat: 50.72650
+    lng: 7.07473
   - date: 2025-12-09
-    address: Schumann Höhe Wahlverwandtschaften Bonn, Sebastianstraße 178
+    address: Schumann Höhe Wahlverwandtschaften Bonn, Sebastianstraße 178, Endenich
+    lat: 50.72432
+    lng: 7.07775
   - date: 2025-12-10
-    address: Am Klostergarten 15e
+    address: Am Klostergarten 15e, Endenich
+    lat: 50.71902
+    lng: 7.07288
   - date: 2025-12-11
-    address: Lipschitzstraße 43
+    address: Lipschitzstraße 43, Endenich
+    lat: 50.73230
+    lng: 7.06496
   - date: 2025-12-13
     address: Lutfriedstrasse 14, Endenich
+    lat: 50.7249655
+    lng: 7.0738433,
   - date: 2025-12-14
-    address: Flodelingsweg 42
+    address: Flodelingsweg 42, Endenich
+    lat: 50.72220
+    lng: 7.07538
   - date: 2025-12-16
-    address: Theodor-Litt-Straße 17
+    address: Theodor-Litt-Straße 17, Endenich
+    lat: 50.72492
+    lng: 7.06580
   - date: 2025-12-17
     address: Max-Cohen Straße 19-23 (Wendehammer), Endenich
+    lat: 50.72199
+    lng: 7.06766
   - date: 2025-12-18
-    address: Bücherei St. Peter Uhlgasse 8, Lengsdorf 
+    address: Bücherei St. Peter Uhlgasse 8, Lengsdorf
+    lat: 50.70988
+    lng: 7.06991
   - date: 2025-12-19
     address: JAP Kinder- und Jugendzentrum, Am Propsthof 134
+    lat: 50.7311525
+    lng: 7.0645935
   - date: 2025-12-20
     address: Auf dem Hügel 107, Endenich
+    lat: 50.73209
+    lng: 7.06776
+
 
 
 

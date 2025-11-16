@@ -1,11 +1,11 @@
 // import './Footer.css'
 
+import lak_logo from './images/LAK-desaturated.svg'
 import puk_logo from './images/Logo_rechts_fh_mit-farbkorrektur-von-thomas.svg'
 import trini_logo from './images/Trini-Logo-Schriftszug-transparent.png'
-import lak_logo from './images/LAK-desaturated.svg'
 
 function Footer() {
-	return (<footer>       	
+	return (<footer>
 		<div className="footer">
 			Ein ökumenisches Projekt der <a href="http://puk-bonn.de">Pfarrei St. Maria Magdalena und Christi Auferstehung</a> und der <a href="https://www.trinitatiskirche-bonn.de/">Evangelische Trinitatiskirchengemeinde Bonn-Endenich</a>.
 
@@ -32,7 +32,7 @@ function Footer() {
 		</div>
 		<div className="thomasLine">
 			Design und Programmierung von <a href="https://thomasrosen.me/" target="_blank" rel="noreferrer">Thomas Rosen</a>.
-			<br/>
+			<br />
 			Der Quellcode des Adventskalenders ist auf <a href="https://github.com/pukbonn/adventskalender" target="_blank" rel="noreferrer">GitHub</a>.
 		</div>
 	</footer>)
