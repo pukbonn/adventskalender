@@ -9,6 +9,10 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.5",
+    "@types/react-dom": "^19.2.3",
     "clsx": "^2.1.1",
     "html-to-image": "^1.11.13",
     "js-yaml": "^4.1.0",
@@ -22,13 +26,14 @@
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^5.0.1",
+    "typescript": "^5.9.3",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "rebuild": "react-scripts build",
     "build": "react-scripts build",
-    "serve-build": "serve -s docs",
+    "serve-build": "serve -s build -l 4000",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -40,9 +45,8 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
+      "defaults",
+      "not ie 11"
     ],
     "development": [
       "last 1 chrome version",
