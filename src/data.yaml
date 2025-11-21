@@ -1331,6 +1331,10 @@ days:
     address: Auf dem Hügel 107, Endenich
     lat: 50.73209
     lng: 7.06776
+  - date: 2025-12-22
+    address: Neuenahrerstraße 2
+    lat: 50.7302818
+    lng: 7.0803455
 
 
 
