@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc5bda7c.css",
-    "main.js": "/static/js/main.11c398c9.js",
+    "main.css": "/static/css/main.4da6f9d7.css",
+    "main.js": "/static/js/main.45775e32.js",
     "static/media/IMG_0753_auto_x2_colored_toned.jpg": "/static/media/IMG_0753_auto_x2_colored_toned.0786682a96f7908e7316.jpg",
     "static/media/WhatsApp Video 2020-12-24 at 10.55.59.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.59.4f333fb784412e470442.mp4",
     "static/media/20231206-3.jpg": "/static/media/20231206-3.d962d6ffabdade925448.jpg",
@@ -45,7 +45,7 @@
     "static/media/20221214-4.jpg": "/static/media/20221214-4.d380fefdb2bdc803a0ec.jpg",
     "static/media/20221221-6.jpg": "/static/media/20221221-6.1e0bc551830a3bc1bda9.jpg",
     "static/media/20221214-5.jpg": "/static/media/20221214-5.63cc518ed15e28172e50.jpg",
-    "static/media/material-symbols-rounded-latin-full-normal.woff2": "/static/media/material-symbols-rounded-latin-full-normal.df47aca66b9d6ba11c7f.woff2",
+    "static/media/material-symbols-rounded-latin-full-normal.woff2": "/static/media/material-symbols-rounded-latin-full-normal.48634018019697eb298b.woff2",
     "static/media/20221214-3.jpg": "/static/media/20221214-3.16ddd35630454b81b9a7.jpg",
     "static/media/20221214-9.jpg": "/static/media/20221214-9.bc96f594f0bdf95a548e.jpg",
     "static/media/20221221-4.jpg": "/static/media/20221221-4.c414e39a6c2883823fae.jpg",
@@ -293,7 +293,7 @@
     "static/media/7e511a46-6676-492f-9196-a1cead323b1b.jpeg": "/static/media/7e511a46-6676-492f-9196-a1cead323b1b.e87a65639afdd4bc3573.jpeg",
     "static/media/photo_2020-12-07_20-43-11.jpeg": "/static/media/photo_2020-12-07_20-43-11.f1e3f5eca0a23bcf8027.jpeg",
     "static/media/photo_2020-12-07_20-43-11-cropped.jpeg": "/static/media/photo_2020-12-07_20-43-11-cropped.1eb10bcfc49001874feb.jpeg",
-    "static/media/data.yaml": "/static/media/data.3056d601f6b6e334049b.yaml",
+    "static/media/data.yaml": "/static/media/data.304b9a8d399fcf7f946a.yaml",
     "static/media/petrona-latin-wght-normal.woff2": "/static/media/petrona-latin-wght-normal.016695b54f8e8449bd34.woff2",
     "static/media/LAK-desaturated.svg": "/static/media/LAK-desaturated.ccaa2a817f174deacc57a32c5d86ebb6.svg",
     "static/media/Als der Engel  2020 - Kopie.odt": "/static/media/Als der Engel  2020 - Kopie.0b4e7fe0b121ce3b7efc.odt",
@@ -302,11 +302,11 @@
     "static/media/Der Tag der heiligen Lucia (Text lebendiger Adventskalender).docx": "/static/media/Der Tag der heiligen Lucia (Text lebendiger Adventskalender).405f231737e4c76235aa.docx",
     "static/media/21dezember2020.docx": "/static/media/21dezember2020.d8cf653561d31147127e.docx",
     "index.html": "/index.html",
-    "main.bc5bda7c.css.map": "/static/css/main.bc5bda7c.css.map",
-    "main.11c398c9.js.map": "/static/js/main.11c398c9.js.map"
+    "main.4da6f9d7.css.map": "/static/css/main.4da6f9d7.css.map",
+    "main.45775e32.js.map": "/static/js/main.45775e32.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc5bda7c.css",
-    "static/js/main.11c398c9.js"
+    "static/css/main.4da6f9d7.css",
+    "static/js/main.45775e32.js"
   ]
 }
