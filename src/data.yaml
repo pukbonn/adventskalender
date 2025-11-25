@@ -1311,6 +1311,10 @@ days:
     address: Flodelingsweg 42, Endenich
     lat: 50.72220
     lng: 7.07538
+  - date: 2025-12-15
+    address: Wiesenweg 25
+    lat: 50.7271218
+    lng: 7.0772596
   - date: 2025-12-16
     address: Theodor-Litt-Straße 17, Endenich
     lat: 50.72492
