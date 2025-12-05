@@ -1262,6 +1262,9 @@ days:
     address: Hauptportal Sankt Maria Magdalena, Magdalenen Str. 25, Endenich
     lat: 50.72623
     lng: 7.07545
+    thumbnail: _thumb.jpg
+    photos:
+      - Image-1.jpeg
   - date: 2025-12-02
     address: Am Klostergarten 1, Endenich
     lat: 50.72085
@@ -1270,6 +1273,12 @@ days:
     address: Bonner Logsweg 44, Lessenich
     lat: 50.72411
     lng: 7.04916
+    thumbnail: _thumb.jpg
+    photos:
+      - IMG-20251203-WA0008.jpeg
+      - 20251203_182657.jpeg
+      - 20251203_185436.jpeg
+      - 20251203_191558.jpeg
   - date: 2025-12-04T17:00:00
     address: Kita St. Maria Magdalena, Wiesenweg 6, Endenich
     lat: 50.72680
