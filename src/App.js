@@ -239,6 +239,16 @@ function App() {
 					{days
 						.sort((a, b) => new Date(a.date) - new Date(b.date))
 						.map(dayData => {
+							const { not_assigned } = dayData
+							if (not_assigned === true) {
+								return <div
+									className="card not_clickable"
+									key={dayData.date}
+								>
+									<Card data={dayData} />
+								</div>
+							}
+
 							return <NavLink
 								className="card"
 								key={dayData.date}
@@ -257,7 +267,13 @@ function App() {
 					>
 						<ReactMap
 							key={JSON.stringify(entries)}
-							entries={entries}
+							entries={
+								entries
+									.filter(dayData => {
+										const { not_assigned } = dayData
+										return not_assigned !== true
+									})
+							}
 							onEntryMarkerClick={({ entry }) => {
 								if (entry.url) {
 									if (entry.url.startsWith('http')) {

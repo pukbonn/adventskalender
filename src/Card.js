@@ -13,6 +13,7 @@ function Card({ data }) {
 		photos,
 		text,
 		note,
+		not_assigned,
 	} = data
 
 	const [coverphotoPath, setCoverphotoPath] = useState('')
@@ -63,8 +64,9 @@ function Card({ data }) {
 			<p className="weekday">{weekday}</p>
 
 			{
-				!!timeString
-					&& timeString !== ''
+				(not_assigned !== true
+					&& !!timeString
+					&& timeString !== '')
 					? <p className="infoLine time">
 						<IconDuoTone name="schedule" style={{
 							'--weight': timeString !== '18:00' ? 900 : 400

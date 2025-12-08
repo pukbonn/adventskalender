@@ -55,6 +55,10 @@
 
   --shadow-width: 4px;
 }
+.cards .card.not_clickable {
+  cursor: default;
+  opacity: 0.33;
+}
 .cards .card .number {
   margin-bottom: 0;
   width: 64px;
@@ -98,7 +102,7 @@
 .cards .card .infoLine.address {
   margin-right: -22px;
 }
-.cards .card:hover .infoLine {
+.cards .card:hover:not(.not_clickable) .infoLine {
   color: var(--text);
 }
 .cards .card .infoLine svg{
@@ -133,7 +137,7 @@
 .cards .card.active::after {
   opacity: 0.24;
 }
-.cards .card:hover::after {
+.cards .card:hover:not(.not_clickable)::after {
   opacity: 0.12;
 }
 
