@@ -1283,19 +1283,38 @@ days:
     address: Kita St. Maria Magdalena, Wiesenweg 6, Endenich
     lat: 50.72680
     lng: 7.07687
+    thumbnail: _thumb.jpg
+    photos:
+      - IMG_5886.jpeg
+      - IMG_5887.jpeg
+      - IMG_5890.jpeg
   - date: 2025-12-05
     address: Enggasse 42, Lengsdorf
     lat: 50.71229
     lng: 7.06854
+    thumbnail: _thumb.jpg
+    photos:
+      - Image-1.jpeg
   - date: 2025-12-06
     address: Kirchplatz Sankt Maria Magdalena, Magdalenen Str. 25, Endenich
     lat: 50.72594
     lng: 7.07553
+    thumbnail: _thumb.jpg
+    photos:
+      - Image-1 4.jpeg
+      - Image-1 5.jpeg
+      - IMG_7746.jpeg
+      - IMG_7749.jpeg
+      - IMG_7759.jpeg
+      - IMG_7764.jpeg
   - date: 2025-12-07
     address: Im jungen Wingert 2, Endenich
+    note: Singen mit Veedelblech
     lat: 50.7235919
     lng: 7.076299306185539
-    note: Singen mit Veedelblech
+    thumbnail: _thumb.jpg
+    photos:
+      - Image-1 3.jpeg
   - date: 2025-12-08
     address: ökumenischer Schaukasten Frongasse, Endenich
     lat: 50.72650
@@ -1312,6 +1331,9 @@ days:
     address: Lipschitzstraße 43, Endenich
     lat: 50.73230
     lng: 7.06496
+  - date: 2025-12-12
+    not_assigned: true
+    note: Noch frei!
   - date: 2025-12-13
     address: Lutfriedstrasse 14, Endenich
     lat: 50.7249655
@@ -1344,10 +1366,16 @@ days:
     address: Auf dem Hügel 107, Endenich
     lat: 50.73209
     lng: 7.06776
+  - date: 2025-12-21
+    not_assigned: true
+    note: Noch frei!
   - date: 2025-12-22
     address: Neuenahrerstraße 2
     lat: 50.7302818
     lng: 7.0803455
+  - date: 2025-12-23
+    not_assigned: true
+    note: Noch frei!
 
 
 
