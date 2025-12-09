@@ -1332,6 +1332,13 @@ days:
     address: Schumann Höhe Wahlverwandtschaften Bonn, Sebastianstraße 178, Endenich
     lat: 50.72432
     lng: 7.07775
+    thumbnail: _thumb.jpg
+    photos:
+      - "Image-1 2.jpeg"
+      - "Image-1 2.jpg"
+      - "Image-1 4.jpeg"
+      - "Image-1.jpeg"
+      - "Image-1.jpg"
   - date: 2025-12-10
     address: Am Klostergarten 15e, Endenich
     lat: 50.71902
