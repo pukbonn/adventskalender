@@ -1269,6 +1269,9 @@ days:
     address: Am Klostergarten 1, Endenich
     lat: 50.72085
     lng: 7.07304
+    thumbnail: _thumb.jpg
+    photos:
+      - 1000167564.jpeg
   - date: 2025-12-03
     address: Bonner Logsweg 44, Lessenich
     lat: 50.72411
@@ -1319,6 +1322,12 @@ days:
     address: ökumenischer Schaukasten Frongasse, Endenich
     lat: 50.72650
     lng: 7.07473
+    thumbnail: _thumb.jpg
+    photos:
+      - "Image-1 2.jpeg"
+      - "Image-1 3.jpeg"
+      - "Image-1 4.jpeg"
+      - "Image-1 5.jpeg"
   - date: 2025-12-09
     address: Schumann Höhe Wahlverwandtschaften Bonn, Sebastianstraße 178, Endenich
     lat: 50.72432
