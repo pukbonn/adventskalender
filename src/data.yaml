@@ -517,6 +517,9 @@ days:
     address: "Sebastianstraße 178"
     lat: 50.7243374
     lng: 7.077793
+  - date: 2021-12-10
+    not_assigned: true
+    note: Noch frei!
   - date: 2021-12-11
     address: "Alfred Bucherer-Straße 22"
     lat: 50.72613785
@@ -529,10 +532,14 @@ days:
       - IMG_4025.jpg
       - IMG_4028.jpg
       - IMG_4022.jpg
-  - date: 2021-12-12T18:00:00
-    address: "Adventssingen in Trinitatis"
+  - date: 2021-12-12
+    note: Adventssingen
+    address: Trinitatis, Endenich
     lat: 50.7275636
     lng: 7.0758332
+  - date: 2021-12-13
+    not_assigned: true
+    note: Noch frei!
   - date: 2021-12-14
     address: "Schieffelingsweg 26c, Duisdorf"
     lat: 50.7157325
@@ -568,8 +575,9 @@ days:
       - 20211218_201909.jpg
       - 20211218_204818.jpg
       - 20211218_180033.jpg
-  - date: 2021-12-19T18:00:00
-    address: "Adventssingen in Trinitatis"
+  - date: 2021-12-19
+    note: Adventssingen
+    address: Trinitatis, Endenich
     lat: 50.7275636
     lng: 7.0758332
   - date: 2021-12-20
@@ -596,6 +604,9 @@ days:
       - 20211222_193516.jpg
       - 20211222_193629.jpg
       - 20211222_feuer.jpg
+  - date: 2021-12-23
+    not_assigned: true
+    note: Noch frei!
   - date: 2021-12-24
     address: "Pfarrheim-Fenster, Magdalenenstraße 25"
     lat: 50.72605
@@ -663,6 +674,12 @@ days:
       - 20221204-1.jpg
     text: |-
       Baum der Ökumene im Endenicher Park
+  - date: 2022-12-05
+    not_assigned: true
+    note: Noch frei!
+  - date: 2022-12-06
+    not_assigned: true
+    note: Noch frei!
   - date: 2022-12-07
     address: "KiTa St. Maria Magdalena, Wiesenweg 6"
     lat: 50.7266118
@@ -684,6 +701,9 @@ days:
     photos:
       - 20221209-1.jpg
       - 20221209-2.jpg
+  - date: 2022-12-10
+    not_assigned: true
+    note: Noch frei!
   - date: 2022-12-11
     address: "Bonner Logsweg 44, 53123 Bonn Lessenich"
     lat: 50.72404
@@ -813,7 +833,8 @@ days:
     photos:
       - 20221223-1.jpg
   - date: 2022-12-24
-    address: "Heiliger Abend - Frohe Weihnachten"
+    not_assigned: true
+    note: "Frohe Weihnachten!"
   - date: 2023-12-01
     address: "St. Maria Magdalena, Magdalenenstraße 25, Endenich"
     lat: 50.72622
@@ -1026,6 +1047,9 @@ days:
     photos:
       - 20231217-1.jpg
       - 20231217-2.jpg
+  - date: 2023-12-18
+    not_assigned: true
+    note: Noch frei!
   - date: 2023-12-19
     address: "Max-Cohen Straße 19-23 (Wendehammer), Endenich"
     lat: 50.72201
@@ -1069,7 +1093,8 @@ days:
       - 20231223-3.jpg
       - 20231223-4.jpg
   - date: 2023-12-24
-    address: "Frohe Weihnachten"
+    not_assigned: true
+    note: "Frohe Weihnachten"
 
   - date: 2024-12-01
     address: "St. Maria Magdalena, Magdalenenstraße 25, Endenich"
@@ -1203,7 +1228,8 @@ days:
       - 20241217-1.jpg
       - 20241217-2.jpg
   - date: 2024-12-18
-    address: "Adventssingen Westside, Robert Havemann Straße 6"
+    address: "Westside, Robert Havemann Straße 6"
+    note: Adventssingen
     lat: 50.73472
     lng: 7.06942
     thumbnail: _thumb.jpg
@@ -1254,7 +1280,7 @@ days:
       - 20241223-5.jpg
       - 20241223-6.jpg
   - date: 2024-12-24
-    address: "Wir wünschen frohe Weihnachten und ein glückliches neues Jahr 2025."
+    note: "Wir wünschen frohe Weihnachten und ein glückliches neues Jahr 2025."
     thumbnail: _thumb.jpg
     photos: 
       - 20241224-1.jpg
