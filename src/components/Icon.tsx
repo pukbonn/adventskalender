@@ -82,9 +82,10 @@ export function Icon({
 }
 
 
-export function IconDuoTone({ className, name, style = {}, fgStyle, bgStyle, ...props }: {
+export function IconDuoTone({ className, name, weight = 'normal', style = {}, fgStyle, bgStyle, ...props }: {
   name: string;
   className?: string;
+  weight?: 'light' | 'normal' | 'bold' | number;
   style?: React.CSSProperties;
   fgStyle?: React.CSSProperties;
   bgStyle?: React.CSSProperties;
@@ -93,11 +94,20 @@ export function IconDuoTone({ className, name, style = {}, fgStyle, bgStyle, ...
     name = 'progress_activity'
   }
 
+  if (weight === 'bold') {
+    weight = 900
+  } else if (weight === 'light') {
+    weight = 250
+  } else if (weight === 'normal') {
+    weight = 400
+  }
+
   return <span className={cn('icon', className)} style={{
     position: 'relative',
     display: 'inline-flex',
     alignItems: 'start',
     justifyContent: 'start',
+    '--weight': weight,
     ...style,
   }}>
     <MaterialIcon name={name} {...props} style={{

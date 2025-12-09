@@ -68,9 +68,10 @@ function Card({ data }) {
 					&& !!timeString
 					&& timeString !== '')
 					? <p className="infoLine time">
-						<IconDuoTone name="schedule" style={{
-							'--weight': timeString !== '18:00' ? 900 : 400
-						}} />
+						<IconDuoTone
+							name="schedule"
+							weight={timeString !== '18:00' ? 'bold' : 'normal'}
+						/>
 						{timeString !== '18:00' ? <strong>{timeString}</strong> : <span>{timeString}</span>}
 					</p>
 					: null
@@ -116,16 +117,16 @@ function Card({ data }) {
 					: null
 			}
 
-			<div className="spacer" />
-
 			{
 				!!note && note !== ''
 					? <p className="infoLine note" style={{ alignItems: 'start' }}>
-						<IconDuoTone name="info" />
-						<span>{note}</span>
+						<IconDuoTone name="info" weight={999} />
+						<strong>{note}</strong>
 					</p>
 					: null
 			}
+
+			<div className="spacer" />
 
 			{
 				isOpen === true && coverphotoPath !== ''
