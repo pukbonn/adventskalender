@@ -44,6 +44,9 @@ function Card({ data }) {
 	const isSunday = date.getDay() === 0
 	const daynumber = date.getDate()
 
+
+	const monthNumber = date.getMonth()
+
 	const now = new Date()
 	const isOpen = date < now
 
@@ -60,7 +63,13 @@ function Card({ data }) {
 				].filter(Boolean).join(' ')
 			}
 		>
-			<h2 className="number">{daynumber}</h2>
+			<h2 className={monthNumber === 10 ? 'number small' : 'number'}>
+				{
+					monthNumber === 10
+						? date.toLocaleString("de", { day: 'numeric', month: "short", timeZone: 'UTC' })
+						: daynumber
+				}
+			</h2>
 			<p className="weekday">{weekday}</p>
 
 			{

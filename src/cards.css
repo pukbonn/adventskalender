@@ -60,14 +60,18 @@
   opacity: 0.33;
 }
 .cards .card .number {
-  margin-bottom: 0;
-  width: 64px;
-  height: 64px;
-  line-height: 30px;
+  margin-bottom: 16px;
+  line-height: 0.7;
+  min-height: 48px;
   text-align: left;
   font-style: italic;
   color: var(--text);
   text-shadow: var(--shadow-width) var(--shadow-width) var(--background);
+  font-weight: bold;
+}
+.cards .card .number.small {
+  font-size: 42px;
+  font-weight: bolder;
 }
 .cards .card .spacer {
   flex-grow: 1;
