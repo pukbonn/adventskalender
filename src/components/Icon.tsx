@@ -50,6 +50,12 @@ export function MaterialIconStyle() {
             height: 24px;
             font-variation-settings: "FILL" var(--fill, 0), "wght" var(--weight, 400), "GRAD" 0, "opsz" 24;
           }
+          .iconframe.icon-lg {
+            font-size: 32px;
+            width: 32px;
+            height: 32px;
+            font-variation-settings: "FILL" var(--fill, 0), "wght" var(--weight, 400), "GRAD" 0, "opsz" 40;
+          }
           .iconframe.icon-xl {
             font-size: 40px;
             width: 40px;

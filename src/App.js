@@ -13,7 +13,7 @@ import Footer from './Footer.js'
 import Sheet from './Sheet.js'
 import './app.css'
 import './cards.css'
-import { MaterialIconStyle } from './components/Icon'
+import { IconDuoTone, MaterialIconStyle } from './components/Icon'
 import { Marker } from './components/Marker'
 import { ReactMap } from './components/ReactMap'
 import data_yaml_path from './data.yaml'
@@ -225,6 +225,19 @@ function App() {
 							date={calendarStart}
 							renderer={renderer}
 						/>
+
+						<a href="webcal://adventskalender.puk-bonn.de/calendar.ics" className="ics_download_link">
+							<IconDuoTone
+								size="lg"
+								name="calendar_add_on"
+								weight="bold"
+								bgStyle={{
+									opacity: 0.3,
+								}}
+							/>
+							Termine in deinen Kalender hinzufügen
+						</a>
+
 					</div>
 				</div>
 			</header>
