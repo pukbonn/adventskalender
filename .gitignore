@@ -2,6 +2,8 @@
 .icloud
 build
 
+public/calendar.ical
+
 package-lock.json
 yarn.lock
 
