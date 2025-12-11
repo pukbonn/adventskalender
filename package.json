@@ -6,9 +6,6 @@
   "dependencies": {
     "@fontsource-variable/material-symbols-rounded": "^5.2.29",
     "@fontsource-variable/petrona": "^5.1.0",
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
     "@types/jest": "^30.0.0",
     "@types/node": "^24.10.1",
     "@types/react": "^19.2.5",
