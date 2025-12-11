@@ -4,7 +4,7 @@ const { ICalCalendar } = require('ical-generator')
 const { DateTime } = require('luxon')
 const YAML = require('js-yaml')
 
-const calendar_file_name = 'calendar.ical'
+const calendar_file_name = 'calendar.ics'
 
 function loadEvents() {
   const event_file_path = `${__dirname}/src/data.yaml`
