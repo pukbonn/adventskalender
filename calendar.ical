@@ -1,0 +1,2536 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pukbonn//adventskalender//DE
+URL:https://adventskalender.puk-bonn.de/calendar.ical
+SOURCE;VALUE=URI:https://adventskalender.puk-bonn.de/calendar.ical
+NAME:Lebendiger Adventskalender
+X-WR-CALNAME:Lebendiger Adventskalender
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+LAST-MODIFIED:20250523T094234Z
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+TIMEZONE-ID:Europe/Berlin
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:3754920c-98db-48e4-8819-d212200734b5
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201125T180000
+DTEND;TZID=Europe/Berlin:20201125T183000
+SUMMARY:Lebendiger Adventskalender
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-11-25
+END:VEVENT
+BEGIN:VEVENT
+UID:1830b8e0-df44-48cd-ac45-9608c36e5ca8
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201129T180000
+DTEND;TZID=Europe/Berlin:20201129T183000
+SUMMARY:Lebendiger Adventskalender
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-11-29
+END:VEVENT
+BEGIN:VEVENT
+UID:99ec718e-30c7-4528-a80a-3f9636caa7d8
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201201T180000
+DTEND;TZID=Europe/Berlin:20201201T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:St. Maria Magdalena\, Magdalenenstraße 25
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=St. Maria
+  Magdalena\, Magdalenenstraße 25:geo:50.726026000000005,7.075796629936967
+GEO:50.726026000000005;7.075796629936967
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-01
+END:VEVENT
+BEGIN:VEVENT
+UID:8bf91795-7716-4d5d-a0ce-1b1731335884
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201202T180000
+DTEND;TZID=Europe/Berlin:20201202T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Gottfried-Kinkel Str. 25\, 53113 Bonn
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Gottfried
+ -Kinkel Str. 25\, 53113 Bonn:geo:50.716985199999996,7.057710168201465
+GEO:50.716985199999996;7.057710168201465
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-02
+END:VEVENT
+BEGIN:VEVENT
+UID:5cde37bd-f388-462f-9b42-ed005b14daaf
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201203T180000
+DTEND;TZID=Europe/Berlin:20201203T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Ulrich-Haberland Str. 69
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Ulrich-Ha
+ berland Str. 69:geo:50.731639099999995,7.070200399878726
+GEO:50.731639099999995;7.070200399878726
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-03
+END:VEVENT
+BEGIN:VEVENT
+UID:718fb8a4-232c-48c4-9d2b-51b87d114f7b
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201204T180000
+DTEND;TZID=Europe/Berlin:20201204T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Lipschitzstrasse 40
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Lipschitz
+ strasse 40:geo:50.732518150000004,7.0650921642384095
+GEO:50.732518150000004;7.0650921642384095
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-04
+END:VEVENT
+BEGIN:VEVENT
+UID:889372b0-9d70-45e9-a8b9-2a5a3d3f323e
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201205T180000
+DTEND;TZID=Europe/Berlin:20201205T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Buchfinkenweg 30
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Buchfinke
+ nweg 30:geo:50.732518150000004,7.0650921642384095
+GEO:50.732518150000004;7.0650921642384095
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-05
+END:VEVENT
+BEGIN:VEVENT
+UID:1adee035-482b-49e5-a469-5c20ba529b74
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201206T180000
+DTEND;TZID=Europe/Berlin:20201206T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Magdalenenstraße 34
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Magdalene
+ nstraße 34:geo:50.732518150000004,7.0650921642384095
+GEO:50.732518150000004;7.0650921642384095
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-06
+END:VEVENT
+BEGIN:VEVENT
+UID:8d39f6fa-4ac1-40f0-850c-2631749f07f4
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201207T180000
+DTEND;TZID=Europe/Berlin:20201207T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Verweyenstr. 4
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Verweyens
+ tr. 4:geo:50.733456700000005,7.0643823987971075
+GEO:50.733456700000005;7.0643823987971075
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-07
+END:VEVENT
+BEGIN:VEVENT
+UID:cfd611bc-42d8-4cfe-a173-472ff2497da8
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201208T180000
+DTEND;TZID=Europe/Berlin:20201208T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Wiesenweg 15
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Wiesenweg
+  15:geo:50.72711725,7.0772205356680065
+GEO:50.72711725;7.0772205356680065
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-08
+END:VEVENT
+BEGIN:VEVENT
+UID:099148ce-d9c9-4476-a334-e0cb594a0453
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201209T180000
+DTEND;TZID=Europe/Berlin:20201209T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Max-Cohen-Str. 30-32
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Max-Cohen
+ -Str. 30-32:geo:50.7213091,7.067620248407382
+GEO:50.7213091;7.067620248407382
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-09
+END:VEVENT
+BEGIN:VEVENT
+UID:40637735-6060-4428-8351-d0287e83f551
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201210T180000
+DTEND;TZID=Europe/Berlin:20201210T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Am Burggraben 36
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Am Burggr
+ aben 36:geo:50.72414055,7.072545679445556
+GEO:50.72414055;7.072545679445556
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-10
+END:VEVENT
+BEGIN:VEVENT
+UID:367f1015-3a96-4094-bae7-8b293a08fc1d
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201211T180000
+DTEND;TZID=Europe/Berlin:20201211T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Magdalenenstr. 28
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Magdalene
+ nstr. 28:geo:50.7257978,7.074825362639076
+GEO:50.7257978;7.074825362639076
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-11
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd51bc0-4383-4b6e-b533-bc8f7ae36f85
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201212T180000
+DTEND;TZID=Europe/Berlin:20201212T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Dohmstraße 2
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Dohmstra
+ ße 2:geo:50.7211438,7.073574735024762
+GEO:50.7211438;7.073574735024762
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-12
+END:VEVENT
+BEGIN:VEVENT
+UID:e448ab23-a12b-42c6-b3ae-a5adb894af20
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201213T180000
+DTEND;TZID=Europe/Berlin:20201213T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Theodor-Brinkmann Str. 40
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Theodor-B
+ rinkmann Str. 40:geo:50.72456,7.0801661920996
+GEO:50.72456;7.0801661920996
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-13
+END:VEVENT
+BEGIN:VEVENT
+UID:d29874ae-b5f3-4639-8813-e8c58489d355
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201214T180000
+DTEND;TZID=Europe/Berlin:20201214T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:JAP\, Am Propsthof 134
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=JAP\, Am 
+ Propsthof 134:geo:50.7311525,7.0645935
+GEO:50.7311525;7.0645935
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-14
+END:VEVENT
+BEGIN:VEVENT
+UID:f1073841-8837-408a-b29c-e640ae6ba09c
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201215T180000
+DTEND;TZID=Europe/Berlin:20201215T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Röckumstrasse 15
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Röckumst
+ rasse 15:geo:50.72396275,7.076000193695654
+GEO:50.72396275;7.076000193695654
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-15
+END:VEVENT
+BEGIN:VEVENT
+UID:7fdcf2ad-e4d4-43c4-a595-54b8c98d4bfd
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201216T180000
+DTEND;TZID=Europe/Berlin:20201216T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Theodor-Litt-Str. 17
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Theodor-L
+ itt-Str. 17:geo:50.72490125,7.0657495085943705
+GEO:50.72490125;7.0657495085943705
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-16
+END:VEVENT
+BEGIN:VEVENT
+UID:fd7670dd-ad6b-4b46-8517-70ad4342a616
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201217T180000
+DTEND;TZID=Europe/Berlin:20201217T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Kita St. Maria Magdalena\, Wiesenweg 6
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Kita St. 
+ Maria Magdalena\, Wiesenweg 6:geo:50.7266118,7.0771074530487805
+GEO:50.7266118;7.0771074530487805
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-17
+END:VEVENT
+BEGIN:VEVENT
+UID:7adac6ff-45ed-45a7-a9aa-0d31bfe15aae
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201218T180000
+DTEND;TZID=Europe/Berlin:20201218T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Lutfriedstr. 18
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Lutfrieds
+ tr. 18:geo:50.7247636,7.0741678
+GEO:50.7247636;7.0741678
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-18
+END:VEVENT
+BEGIN:VEVENT
+UID:687e2425-d1e2-4a9c-83b2-657added0c1b
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201219T180000
+DTEND;TZID=Europe/Berlin:20201219T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Ökum. Schaukasten Frongasse
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Ökum. Sc
+ haukasten Frongasse:geo:50.726469,7.0747494
+GEO:50.726469;7.0747494
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-19
+END:VEVENT
+BEGIN:VEVENT
+UID:be4a7900-d9bb-4de9-b79a-8b8c318e4af0
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201220T180000
+DTEND;TZID=Europe/Berlin:20201220T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Auf dem Hügel 107
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Auf dem H
+ ügel 107:geo:50.732084150000006,7.067748976382548
+GEO:50.732084150000006;7.067748976382548
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-20
+END:VEVENT
+BEGIN:VEVENT
+UID:54a91119-a55a-4238-a937-02631580b370
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201221T180000
+DTEND;TZID=Europe/Berlin:20201221T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Neuenahrer Str. 2
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Neuenahre
+ r Str. 2:geo:50.73032575,7.080409847237046
+GEO:50.73032575;7.080409847237046
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-21
+END:VEVENT
+BEGIN:VEVENT
+UID:5d52f8ac-9005-4fa1-b080-aecab3c7a640
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201222T180000
+DTEND;TZID=Europe/Berlin:20201222T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Zur Marterkapelle 4
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Zur Marte
+ rkapelle 4:geo:50.7150474,7.072401575656437
+GEO:50.7150474;7.072401575656437
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-22
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b55173-cf5b-489c-a67e-ab45f7764ad4
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201223T180000
+DTEND;TZID=Europe/Berlin:20201223T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Wiesenweg 4
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Wiesenweg
+  4:geo:50.726645250000004,7.0767016969455945
+GEO:50.726645250000004;7.0767016969455945
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-23
+END:VEVENT
+BEGIN:VEVENT
+UID:4200f036-e4ce-4900-9f49-56f51af379fc
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20201224T180000
+DTEND;TZID=Europe/Berlin:20201224T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:St. Maria Magdalena\, Magdalenenstraße 25
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=St. Maria
+  Magdalena\, Magdalenenstraße 25:geo:50.726026000000005,7.075796629936967
+GEO:50.726026000000005;7.075796629936967
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-24
+END:VEVENT
+BEGIN:VEVENT
+UID:fab3bb5a-4056-4c3d-a885-12d7ddf799fc
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211201T183000
+DTEND;TZID=Europe/Berlin:20211201T190000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:St. Maria Magdalena\, Magdalenenstraße 25
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=St. Maria
+  Magdalena\, Magdalenenstraße 25:geo:50.726026000000005,7.075796629936967
+GEO:50.726026000000005;7.075796629936967
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-01
+END:VEVENT
+BEGIN:VEVENT
+UID:9e432146-f4c1-42c8-a081-b6689598a3f9
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211202T180000
+DTEND;TZID=Europe/Berlin:20211202T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Gottfried-Kinkel Straße 25
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Gottfried
+ -Kinkel Straße 25:geo:50.716985199999996,7.057710168201465
+GEO:50.716985199999996;7.057710168201465
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-02
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c41eea-ce40-4ba2-a9e5-c65d75578694
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211203T180000
+DTEND;TZID=Europe/Berlin:20211203T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Pfarrer-Byns-Straße 5
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Pfarrer-B
+ yns-Straße 5:geo:50.72361455,7.0653194247316815
+GEO:50.72361455;7.0653194247316815
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-03
+END:VEVENT
+BEGIN:VEVENT
+UID:83f0ff8f-4e24-45bd-a921-fbf93edde4f7
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211204T180000
+DTEND;TZID=Europe/Berlin:20211204T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Buchfinkenweg 30\, Duisdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Buchfinke
+ nweg 30\, Duisdorf:geo:50.719472249999995,7.0550309221759955
+GEO:50.719472249999995;7.0550309221759955
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-04
+END:VEVENT
+BEGIN:VEVENT
+UID:30b6b90e-623a-4ea5-9647-3cdac4ba31c2
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211205T180000
+DTEND;TZID=Europe/Berlin:20211205T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Magdalenenstraße 34
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Magdalene
+ nstraße 34:geo:50.725601049999995,7.075335471813071
+GEO:50.725601049999995;7.075335471813071
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-05
+END:VEVENT
+BEGIN:VEVENT
+UID:4ac3b8f3-2ce8-48be-935d-2a0914b84197
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211206T180000
+DTEND;TZID=Europe/Berlin:20211206T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Neuenahrerstr. 2
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Neuenahre
+ rstr. 2:geo:50.73032575,7.080409847237046
+GEO:50.73032575;7.080409847237046
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-06
+END:VEVENT
+BEGIN:VEVENT
+UID:9f95a37b-035e-4077-9621-cd115e895d85
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211208T180000
+DTEND;TZID=Europe/Berlin:20211208T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Kita St. Maria Magdalena\, Wiesenweg 6
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Kita St. 
+ Maria Magdalena\, Wiesenweg 6:geo:50.7266118,7.0771074530487805
+GEO:50.7266118;7.0771074530487805
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-08
+END:VEVENT
+BEGIN:VEVENT
+UID:d88897b4-5815-4764-8267-862d1fead83e
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211209T180000
+DTEND;TZID=Europe/Berlin:20211209T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Sebastianstraße 178
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Sebastian
+ straße 178:geo:50.7243374,7.077793
+GEO:50.7243374;7.077793
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-09
+END:VEVENT
+BEGIN:VEVENT
+UID:18f53b4c-5c73-4b69-8dd4-8715d5281fa0
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211211T180000
+DTEND;TZID=Europe/Berlin:20211211T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Alfred Bucherer-Straße 22
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Alfred Bu
+ cherer-Straße 22:geo:50.72613785,7.076331261727152
+GEO:50.72613785;7.076331261727152
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-11
+END:VEVENT
+BEGIN:VEVENT
+UID:dfb6e497-a9ec-4168-8341-aba5d65b6d8a
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211212T180000
+DTEND;TZID=Europe/Berlin:20211212T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Trinitatis\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Trinitati
+ s\, Endenich:geo:50.7275636,7.0758332
+GEO:50.7275636;7.0758332
+DESCRIPTION:Adventssingen\n\nGemeindemitglieder aus St. Maria Magdalena un
+ d Trinitatis laden ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe H
+ inweis am Termin) erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Li
+ eder singen\, Geschichten hören und bei Plätzchen und Glühwein/Tee mite
+ inander ins Gespräch kommen.\n\nFür Fragen und Anregungen können Sie si
+ ch gerne an uta.luenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-12
+END:VEVENT
+BEGIN:VEVENT
+UID:8ac75385-5039-4fb8-9596-5685d7a37431
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211214T180000
+DTEND;TZID=Europe/Berlin:20211214T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Schieffelingsweg 26c\, Duisdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Schieffel
+ ingsweg 26c\, Duisdorf:geo:50.7157325,7.0611097000000065
+GEO:50.7157325;7.0611097000000065
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-14
+END:VEVENT
+BEGIN:VEVENT
+UID:6d11f74c-2722-4c1d-abc3-e0ed2da6dc77
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211215T180000
+DTEND;TZID=Europe/Berlin:20211215T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Magdalenenstraße 28
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Magdalene
+ nstraße 28:geo:50.7257978,7.074825362639076
+GEO:50.7257978;7.074825362639076
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-15
+END:VEVENT
+BEGIN:VEVENT
+UID:ddbd45bb-e6b0-432c-89f3-5a1c289c1133
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211216T180000
+DTEND;TZID=Europe/Berlin:20211216T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Ökumenischer Schaukasten\, Frongasse
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Ökumenis
+ cher Schaukasten\, Frongasse:geo:50.726469,7.0747494
+GEO:50.726469;7.0747494
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-16
+END:VEVENT
+BEGIN:VEVENT
+UID:09f424c2-6c20-4def-9fc2-60d2216c80bf
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211217T180000
+DTEND;TZID=Europe/Berlin:20211217T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:JAP\, Am Propsthof 134
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=JAP\, Am 
+ Propsthof 134:geo:50.7311525,7.0645935
+GEO:50.7311525;7.0645935
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-17
+END:VEVENT
+BEGIN:VEVENT
+UID:2282a20c-9947-4a01-a25f-bf00a37d5944
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211218T180000
+DTEND;TZID=Europe/Berlin:20211218T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Theodor-Litt-Str. 17
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Theodor-L
+ itt-Str. 17:geo:50.72490125,7.0657495085943705
+GEO:50.72490125;7.0657495085943705
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-18
+END:VEVENT
+BEGIN:VEVENT
+UID:bb99c2da-5263-4dee-bef8-6392eed8df0b
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211219T180000
+DTEND;TZID=Europe/Berlin:20211219T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Trinitatis\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Trinitati
+ s\, Endenich:geo:50.7275636,7.0758332
+GEO:50.7275636;7.0758332
+DESCRIPTION:Adventssingen\n\nGemeindemitglieder aus St. Maria Magdalena un
+ d Trinitatis laden ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe H
+ inweis am Termin) erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Li
+ eder singen\, Geschichten hören und bei Plätzchen und Glühwein/Tee mite
+ inander ins Gespräch kommen.\n\nFür Fragen und Anregungen können Sie si
+ ch gerne an uta.luenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-19
+END:VEVENT
+BEGIN:VEVENT
+UID:85ec7399-3544-4bf2-9d4c-e758490aa922
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211220T180000
+DTEND;TZID=Europe/Berlin:20211220T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Wiesenweg 25
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Wiesenweg
+  25:geo:50.727337750000004,7.078407450296272
+GEO:50.727337750000004;7.078407450296272
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-20
+END:VEVENT
+BEGIN:VEVENT
+UID:cf1b7269-677b-48a6-945e-b504b03625ac
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211221T180000
+DTEND;TZID=Europe/Berlin:20211221T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Alfred-Bucherer-Straße 91
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Alfred-Bu
+ cherer-Straße 91:geo:50.72408835,7.079865867941674
+GEO:50.72408835;7.079865867941674
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-21
+END:VEVENT
+BEGIN:VEVENT
+UID:787ddec3-f946-4e43-b773-8a763c779367
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211222T180000
+DTEND;TZID=Europe/Berlin:20211222T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Am Burggraben 36
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Am Burggr
+ aben 36:geo:50.72414055,7.072545679445556
+GEO:50.72414055;7.072545679445556
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-22
+END:VEVENT
+BEGIN:VEVENT
+UID:dab0ed82-407b-499a-b200-0d6c90eb8da5
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20211224T180000
+DTEND;TZID=Europe/Berlin:20211224T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Pfarrheim-Fenster\, Magdalenenstraße 25
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Pfarrheim
+ -Fenster\, Magdalenenstraße 25:geo:50.72605,7.07535
+GEO:50.72605;7.07535
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-24
+END:VEVENT
+BEGIN:VEVENT
+UID:597b016b-1aed-4677-b7ee-efee0444d92d
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221201T180000
+DTEND;TZID=Europe/Berlin:20221201T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:St. Maria Magdalena\, Magdalenenstraße 25
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=St. Maria
+  Magdalena\, Magdalenenstraße 25:geo:50.7262,7.07546
+GEO:50.7262;7.07546
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-01
+END:VEVENT
+BEGIN:VEVENT
+UID:8479e93b-1350-497e-8d3e-3356424bb5f0
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221202T180000
+DTEND;TZID=Europe/Berlin:20221202T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Garten am Wiesenweg/Ecke Brahmsstraße
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Garten am
+  Wiesenweg/Ecke Brahmsstraße:geo:50.72737,7.07978
+GEO:50.72737;7.07978
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-02
+END:VEVENT
+BEGIN:VEVENT
+UID:3c115c32-1db6-4e5a-a225-125b58cbc0f6
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221203T180000
+DTEND;TZID=Europe/Berlin:20221203T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Buchfinkenweg 30\, 53123 Bonn Duisdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Buchfinke
+ nweg 30\, 53123 Bonn Duisdorf:geo:50.719472249999995,7.0550309221759955
+GEO:50.719472249999995;7.0550309221759955
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-03
+END:VEVENT
+BEGIN:VEVENT
+UID:e72a0a4e-9a66-42ed-b042-7fcc01253920
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221204T180000
+DTEND;TZID=Europe/Berlin:20221204T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Endenicher Park
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Endeniche
+ r Park:geo:50.72356,7.07151
+GEO:50.72356;7.07151
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-04
+END:VEVENT
+BEGIN:VEVENT
+UID:6333033b-2e64-4a6a-9695-1afc67913063
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221207T180000
+DTEND;TZID=Europe/Berlin:20221207T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:KiTa St. Maria Magdalena\, Wiesenweg 6
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=KiTa St. 
+ Maria Magdalena\, Wiesenweg 6:geo:50.7266118,7.0771074530487805
+GEO:50.7266118;7.0771074530487805
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-07
+END:VEVENT
+BEGIN:VEVENT
+UID:467fb3d9-d580-47ed-9894-919887a3e44f
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221208T180000
+DTEND;TZID=Europe/Berlin:20221208T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Ökumenischer Schaukasten\, Frongasse
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Ökumenis
+ cher Schaukasten\, Frongasse:geo:50.726469,7.0747494
+GEO:50.726469;7.0747494
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-08
+END:VEVENT
+BEGIN:VEVENT
+UID:2d5f66ac-f045-45a4-bac5-f712446b6a02
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221209T180000
+DTEND;TZID=Europe/Berlin:20221209T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Sebastianstr. 178
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Sebastian
+ str. 178:geo:50.7243374,7.077793
+GEO:50.7243374;7.077793
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-09
+END:VEVENT
+BEGIN:VEVENT
+UID:5b2a10ee-25aa-4123-8660-8e10b060b353
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221211T180000
+DTEND;TZID=Europe/Berlin:20221211T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Bonner Logsweg 44\, 53123 Bonn Lessenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Bonner Lo
+ gsweg 44\, 53123 Bonn Lessenich:geo:50.72404,7.049123325896734
+GEO:50.72404;7.049123325896734
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-11
+END:VEVENT
+BEGIN:VEVENT
+UID:f4359ad8-28b9-4194-8a5f-5d9c1b194032
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221212T180000
+DTEND;TZID=Europe/Berlin:20221212T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Kaufmannstraße 46
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Kaufmanns
+ traße 46:geo:50.729703799999996,7.082717899560916
+GEO:50.729703799999996;7.082717899560916
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-12
+END:VEVENT
+BEGIN:VEVENT
+UID:35e5f600-76ff-488c-a7e7-90f6fb137d28
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221213T180000
+DTEND;TZID=Europe/Berlin:20221213T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Alte Heerstraße 8
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Alte Heer
+ straße 8:geo:50.7248104,7.0649419
+GEO:50.7248104;7.0649419
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-13
+END:VEVENT
+BEGIN:VEVENT
+UID:5cf554c4-f282-4d2b-be75-0898ab02433e
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221214T180000
+DTEND;TZID=Europe/Berlin:20221214T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Max-Cohen Straße 19-23 (Wendehammer)
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Max-Cohen
+  Straße 19-23 (Wendehammer):geo:50.721974,7.067463154677437
+GEO:50.721974;7.067463154677437
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-14
+END:VEVENT
+BEGIN:VEVENT
+UID:68533724-d323-48b5-8584-2c244d2d29b3
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221215T180000
+DTEND;TZID=Europe/Berlin:20221215T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Theodor-Litt-Str. 17
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Theodor-L
+ itt-Str. 17:geo:50.72490125,7.0657495085943705
+GEO:50.72490125;7.0657495085943705
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-15
+END:VEVENT
+BEGIN:VEVENT
+UID:d59af178-3249-41a1-8885-69dcb919d75d
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221216T180000
+DTEND;TZID=Europe/Berlin:20221216T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:JAP\, Am Propsthof 134
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=JAP\, Am 
+ Propsthof 134:geo:50.7311525,7.0645935
+GEO:50.7311525;7.0645935
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-16
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc3b19d-ffdb-45e7-943c-17025a5f492b
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221217T180000
+DTEND;TZID=Europe/Berlin:20221217T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Alfred-Bucherer Str. 22
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Alfred-Bu
+ cherer Str. 22:geo:50.72613785,7.076331261727152
+GEO:50.72613785;7.076331261727152
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-17
+END:VEVENT
+BEGIN:VEVENT
+UID:1faea79c-fec8-4fbe-821e-c7a14303ca2b
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221218T180000
+DTEND;TZID=Europe/Berlin:20221218T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Theodor-Brinkmann Str. 40
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Theodor-B
+ rinkmann Str. 40:geo:50.72456,7.0801661920996
+GEO:50.72456;7.0801661920996
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-18
+END:VEVENT
+BEGIN:VEVENT
+UID:dea20b4e-7f9e-4102-bd1e-b349c312ca16
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221219T180000
+DTEND;TZID=Europe/Berlin:20221219T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Alfred-Bucherer Str. 20
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Alfred-Bu
+ cherer Str. 20:geo:50.72628025,7.076212096286788
+GEO:50.72628025;7.076212096286788
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-19
+END:VEVENT
+BEGIN:VEVENT
+UID:02f7f500-bffa-4aff-b3fd-702177c22f5a
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221220T180000
+DTEND;TZID=Europe/Berlin:20221220T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Wiesenweg 25
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Wiesenweg
+  25:geo:50.727337750000004,7.078407450296272
+GEO:50.727337750000004;7.078407450296272
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-20
+END:VEVENT
+BEGIN:VEVENT
+UID:10a4b68f-a16d-4e0d-b595-ed34609b0802
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221221T180000
+DTEND;TZID=Europe/Berlin:20221221T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Am Burggraben 36
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Am Burggr
+ aben 36:geo:50.72414055,7.072545679445556
+GEO:50.72414055;7.072545679445556
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-21
+END:VEVENT
+BEGIN:VEVENT
+UID:14711adc-322a-437a-a615-981e76fe8eaf
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221222T180000
+DTEND;TZID=Europe/Berlin:20221222T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Alfred-Bucherer Str. 91
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Alfred-Bu
+ cherer Str. 91:geo:50.72408835,7.079865867941674
+GEO:50.72408835;7.079865867941674
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-22
+END:VEVENT
+BEGIN:VEVENT
+UID:c6f79c35-4952-47d8-a80e-1c33a73adb1c
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20221223T180000
+DTEND;TZID=Europe/Berlin:20221223T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Enggasse 10\, 53127 Bonn Lengsdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Enggasse 
+ 10\, 53127 Bonn Lengsdorf:geo:50.71085,7.0683
+GEO:50.71085;7.0683
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-23
+END:VEVENT
+BEGIN:VEVENT
+UID:607b367e-e588-4a06-bc0c-2e9743d8612d
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231201T180000
+DTEND;TZID=Europe/Berlin:20231201T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:St. Maria Magdalena\, Magdalenenstraße 25\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=St. Maria
+  Magdalena\, Magdalenenstraße 25\, Endenich:geo:50.72622,7.07544
+GEO:50.72622;7.07544
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-01
+END:VEVENT
+BEGIN:VEVENT
+UID:93ea01bc-abbd-47ee-8a80-7a3507b8e128
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231202T180000
+DTEND;TZID=Europe/Berlin:20231202T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Buchfinkenweg 30\, Duisdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Buchfinke
+ nweg 30\, Duisdorf:geo:50.71947,7.05502
+GEO:50.71947;7.05502
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-02
+END:VEVENT
+BEGIN:VEVENT
+UID:7a5b2dff-0686-403c-84bf-20f93db8b081
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231203T180000
+DTEND;TZID=Europe/Berlin:20231203T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Flodelingsweg 42\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Flodeling
+ sweg 42\, Endenich:geo:50.72214,7.07536
+GEO:50.72214;7.07536
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-03
+END:VEVENT
+BEGIN:VEVENT
+UID:fbbd8415-d83c-4608-afd7-128b48666c31
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231204T180000
+DTEND;TZID=Europe/Berlin:20231204T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Kaufmannstr. 46\, Weststadt
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Kaufmanns
+ tr. 46\, Weststadt:geo:50.72975,7.08272
+GEO:50.72975;7.08272
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-04
+END:VEVENT
+BEGIN:VEVENT
+UID:3309177f-6e59-4496-9b96-abe10fb2f71a
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231205T180000
+DTEND;TZID=Europe/Berlin:20231205T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Magdalenenstraße 34\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Magdalene
+ nstraße 34\, Endenich:geo:50.72563,7.07536
+GEO:50.72563;7.07536
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-05
+END:VEVENT
+BEGIN:VEVENT
+UID:d37394bd-34ec-4f62-ac2f-89a1ce7ae746
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231206T203000
+DTEND;TZID=Europe/Berlin:20231206T210000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Sankt Maria Magdalena\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Sankt Mar
+ ia Magdalena\, Endenich:geo:50.7262,7.07545
+GEO:50.7262;7.07545
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-06
+END:VEVENT
+BEGIN:VEVENT
+UID:7ea4707c-2392-4e8f-b9b3-0c8ebad8b99b
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231207T180000
+DTEND;TZID=Europe/Berlin:20231207T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:KiTa St. Maria Magdalena\, Wiesenweg 6\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=KiTa St. 
+ Maria Magdalena\, Wiesenweg 6\, Endenich:geo:50.7268,7.07686
+GEO:50.7268;7.07686
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-07
+END:VEVENT
+BEGIN:VEVENT
+UID:a477b8b7-0993-4d56-8318-ef6fee5f02ef
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231208T180000
+DTEND;TZID=Europe/Berlin:20231208T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Bonner Logsweg 44\, Lessenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Bonner Lo
+ gsweg 44\, Lessenich:geo:50.72409,7.04916
+GEO:50.72409;7.04916
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-08
+END:VEVENT
+BEGIN:VEVENT
+UID:8d35f808-b548-4ed8-a945-5afd5a98e47c
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231209T180000
+DTEND;TZID=Europe/Berlin:20231209T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Sebastianstraße 180\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Sebastian
+ straße 180\, Endenich:geo:50.7246,7.07815
+GEO:50.7246;7.07815
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-09
+END:VEVENT
+BEGIN:VEVENT
+UID:4c697706-8157-4fb1-97d9-9de6987d2891
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231210T180000
+DTEND;TZID=Europe/Berlin:20231210T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Im jungen Wingert 2\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Im jungen
+  Wingert 2\, Endenich:geo:50.72361,7.07631
+GEO:50.72361;7.07631
+DESCRIPTION:Es spielt das Ensemble VeedelBlech.\n\nGemeindemitglieder aus 
+ St. Maria Magdalena und Trinitatis laden ein.\nJeweils von 18:00 bis 18:30
+  Uhr (Ausnahme siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenste
+ r. Stehen bleiben\, Lieder singen\, Geschichten hören und bei Plätzchen 
+ und Glühwein/Tee miteinander ins Gespräch kommen.\n\nFür Fragen und Anr
+ egungen können Sie sich gerne an uta.luenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-10
+END:VEVENT
+BEGIN:VEVENT
+UID:b012ebe5-3a14-4baf-8e84-d275652b46a1
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231211T180000
+DTEND;TZID=Europe/Berlin:20231211T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Gottfried-Kinkel-Str. 25\, Duisdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Gottfried
+ -Kinkel-Str. 25\, Duisdorf:geo:50.71695,7.05771
+GEO:50.71695;7.05771
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-11
+END:VEVENT
+BEGIN:VEVENT
+UID:72b12865-6699-4cde-989a-c94f36db2929
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231212T180000
+DTEND;TZID=Europe/Berlin:20231212T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Auf dem Hügel 107\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Auf dem H
+ ügel 107\, Endenich:geo:50.73213,7.06777
+GEO:50.73213;7.06777
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-12
+END:VEVENT
+BEGIN:VEVENT
+UID:5743887b-1599-48b1-bd6e-86c63928c595
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231213T180000
+DTEND;TZID=Europe/Berlin:20231213T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Theodor-Litt-Str. 17\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Theodor-L
+ itt-Str. 17\, Endenich:geo:50.72491,7.06575
+GEO:50.72491;7.06575
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-13
+END:VEVENT
+BEGIN:VEVENT
+UID:9d89f695-132b-4d35-8e5a-ed49e7a34ed2
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231214T180000
+DTEND;TZID=Europe/Berlin:20231214T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Ökumenischer Schaukasten\, Frongasse\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Ökumenis
+ cher Schaukasten\, Frongasse\, Endenich:geo:50.726469,7.0747494
+GEO:50.726469;7.0747494
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-14
+END:VEVENT
+BEGIN:VEVENT
+UID:74cd2986-2d36-4ce2-80c4-498de3a94c47
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231215T180000
+DTEND;TZID=Europe/Berlin:20231215T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:JAP\, Am Propsthof 134\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=JAP\, Am 
+ Propsthof 134\, Endenich:geo:50.73117675,7.064352389644888
+GEO:50.73117675;7.064352389644888
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-15
+END:VEVENT
+BEGIN:VEVENT
+UID:ef68ef01-a76b-4dad-9371-912a477899a8
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231216T180000
+DTEND;TZID=Europe/Berlin:20231216T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Lutfridstrasse 14\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Lutfridst
+ rasse 14\, Endenich:geo:50.72492,7.07394
+GEO:50.72492;7.07394
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-16
+END:VEVENT
+BEGIN:VEVENT
+UID:af4345df-139c-4f32-8e2b-29e5a61ff696
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231217T180000
+DTEND;TZID=Europe/Berlin:20231217T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Lipschitzstr. 43\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Lipschitz
+ str. 43\, Endenich:geo:50.73229,7.06492
+GEO:50.73229;7.06492
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-17
+END:VEVENT
+BEGIN:VEVENT
+UID:c87e21ff-31d6-4058-9727-085de66ec804
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231219T180000
+DTEND;TZID=Europe/Berlin:20231219T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Max-Cohen Straße 19-23 (Wendehammer)\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Max-Cohen
+  Straße 19-23 (Wendehammer)\, Endenich:geo:50.72201,7.06763
+GEO:50.72201;7.06763
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-19
+END:VEVENT
+BEGIN:VEVENT
+UID:6728e2fd-678d-4772-8071-d5d8d1b762f9
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231220T180000
+DTEND;TZID=Europe/Berlin:20231220T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Enggasse 10\, Lengsdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Enggasse 
+ 10\, Lengsdorf:geo:50.71086,7.06829
+GEO:50.71086;7.06829
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-20
+END:VEVENT
+BEGIN:VEVENT
+UID:7f07bb69-91eb-4ff3-a567-f34a91c97c00
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231221T180000
+DTEND;TZID=Europe/Berlin:20231221T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Alfred-Bucherer-Str. 91\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Alfred-Bu
+ cherer-Str. 91\, Endenich:geo:50.72406,7.07983
+GEO:50.72406;7.07983
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-21
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9da7f9-a1d3-4034-b8f4-5ad17af67f68
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231222T180000
+DTEND;TZID=Europe/Berlin:20231222T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Enggasse 42\, Lengsdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Enggasse 
+ 42\, Lengsdorf:geo:50.7123,7.06853
+GEO:50.7123;7.06853
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-22
+END:VEVENT
+BEGIN:VEVENT
+UID:c9467fdc-3713-444c-91df-c24ceec89e6e
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20231223T180000
+DTEND;TZID=Europe/Berlin:20231223T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Alfred-Bucherer-Straße 22\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Alfred-Bu
+ cherer-Straße 22\, Endenich:geo:50.72619,7.07639
+GEO:50.72619;7.07639
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-23
+END:VEVENT
+BEGIN:VEVENT
+UID:0f67d009-8218-403d-8b92-9589c93cb4c1
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241201T180000
+DTEND;TZID=Europe/Berlin:20241201T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:St. Maria Magdalena\, Magdalenenstraße 25\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=St. Maria
+  Magdalena\, Magdalenenstraße 25\, Endenich:geo:50.72619,7.07547
+GEO:50.72619;7.07547
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-01
+END:VEVENT
+BEGIN:VEVENT
+UID:dae60d1b-c883-45f5-bfff-eac5d1430017
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241202T180000
+DTEND;TZID=Europe/Berlin:20241202T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Kaufmannstr. 46\, Weststadt
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Kaufmanns
+ tr. 46\, Weststadt:geo:50.72975,7.08272
+GEO:50.72975;7.08272
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-02
+END:VEVENT
+BEGIN:VEVENT
+UID:781d4e3e-fec2-4578-aabc-5dbf1f3d8ac6
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241203T170000
+DTEND;TZID=Europe/Berlin:20241203T173000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:KiTa St. Maria Magdalena\, Wiesenweg 6\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=KiTa St. 
+ Maria Magdalena\, Wiesenweg 6\, Endenich:geo:50.72682,7.07686
+GEO:50.72682;7.07686
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-03
+END:VEVENT
+BEGIN:VEVENT
+UID:0cb35022-6a1b-47e8-948f-6870d3eec18f
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241204T180000
+DTEND;TZID=Europe/Berlin:20241204T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Wendehammer\, Max-Cohen-Straße 19-25\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Wendehamm
+ er\, Max-Cohen-Straße 19-25\, Endenich:geo:50.722,7.06763
+GEO:50.722;7.06763
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-04
+END:VEVENT
+BEGIN:VEVENT
+UID:91c341b5-5af3-4f04-9dde-b46679a6fa0f
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241205T180000
+DTEND;TZID=Europe/Berlin:20241205T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Pfarrheim St. Maria Magdalena\, Magdalenenstraße 25\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Pfarrheim
+  St. Maria Magdalena\, Magdalenenstraße 25\, Endenich:geo:50.72607,7.0753
+ 4
+GEO:50.72607;7.07534
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-05
+END:VEVENT
+BEGIN:VEVENT
+UID:9ef8e7cb-f260-48a9-95fe-b462a11d4d1f
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241206T180000
+DTEND;TZID=Europe/Berlin:20241206T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:JAP - Kinder- und Jugendzentrum\, Am Propsthof 134\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=JAP - Kin
+ der- und Jugendzentrum\, Am Propsthof 134\, Endenich:geo:50.7311525,7.0645
+ 935
+GEO:50.7311525;7.0645935
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-06
+END:VEVENT
+BEGIN:VEVENT
+UID:85920aa2-3ece-4dac-853d-8bec352f01cd
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241207T180000
+DTEND;TZID=Europe/Berlin:20241207T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Heimatmuseum Lengsdorf\, Lengsdorfer Hauptstraße 16
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Heimatmus
+ eum Lengsdorf\, Lengsdorfer Hauptstraße 16:geo:50.71129,7.06886
+GEO:50.71129;7.06886
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-07
+END:VEVENT
+BEGIN:VEVENT
+UID:0a9d1695-34e9-476f-9733-3b53a8b9771a
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241208T180000
+DTEND;TZID=Europe/Berlin:20241208T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Flodelingsweg 42\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Flodeling
+ sweg 42\, Endenich:geo:50.72221,7.07531
+GEO:50.72221;7.07531
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-08
+END:VEVENT
+BEGIN:VEVENT
+UID:acf9d813-a581-4ddc-9c41-971bd83e9363
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241209T180000
+DTEND;TZID=Europe/Berlin:20241209T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Kreuzbergstraße 3\, Lengsdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Kreuzberg
+ straße 3\, Lengsdorf:geo:50.71241,7.07226
+GEO:50.71241;7.07226
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-09
+END:VEVENT
+BEGIN:VEVENT
+UID:11e4114a-4719-4804-b6e7-8bffef41bb68
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241210T180000
+DTEND;TZID=Europe/Berlin:20241210T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Lipschitzstraße 21\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Lipschitz
+ straße 21\, Endenich:geo:50.73205,7.06391
+GEO:50.73205;7.06391
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-10
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d61c51-2f58-4243-848e-33685f1e4542
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241211T180000
+DTEND;TZID=Europe/Berlin:20241211T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Priesterseminar Redemptoris Mater\, Kapellenstraße 44\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Priesters
+ eminar Redemptoris Mater\, Kapellenstraße 44\, Endenich:geo:50.71828,7.07
+ 786
+GEO:50.71828;7.07786
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-11
+END:VEVENT
+BEGIN:VEVENT
+UID:e94a0e04-13bc-4166-9f8a-5bb463fcbb50
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241212T180000
+DTEND;TZID=Europe/Berlin:20241212T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Ökumenischer Schaukasten\, Frongasse\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Ökumenis
+ cher Schaukasten\, Frongasse\, Endenich:geo:50.7265,7.07473
+GEO:50.7265;7.07473
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-12
+END:VEVENT
+BEGIN:VEVENT
+UID:91dfa8ef-0a13-4013-9536-1fb178e0b436
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241213T180000
+DTEND;TZID=Europe/Berlin:20241213T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:In der Grächt 32\, Lengsdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=In der Gr
+ ächt 32\, Lengsdorf:geo:50.71214,7.06536
+GEO:50.71214;7.06536
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-13
+END:VEVENT
+BEGIN:VEVENT
+UID:4b328fe1-e2f8-4eea-ac04-360fb4be51fa
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241214T180000
+DTEND;TZID=Europe/Berlin:20241214T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Bonner Logsweg 44\, Lessenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Bonner Lo
+ gsweg 44\, Lessenich:geo:50.72407,7.04915
+GEO:50.72407;7.04915
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-14
+END:VEVENT
+BEGIN:VEVENT
+UID:30ba9a3f-153e-4af3-8489-444b8f3b1630
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241215T180000
+DTEND;TZID=Europe/Berlin:20241215T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Im jungen Wingert 2\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Im jungen
+  Wingert 2\, Endenich:geo:50.72362,7.07631
+GEO:50.72362;7.07631
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-15
+END:VEVENT
+BEGIN:VEVENT
+UID:0cbf3a39-10ed-4d0a-898d-b714f16ab9ad
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241216T180000
+DTEND;TZID=Europe/Berlin:20241216T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Bücherschrank\, Lengsdorfer Hauptstraße 36
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Büchersc
+ hrank\, Lengsdorfer Hauptstraße 36:geo:50.71213,7.06942
+GEO:50.71213;7.06942
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2ab8885a-7a7f-466c-a092-35ffd38a78fd
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241217T180000
+DTEND;TZID=Europe/Berlin:20241217T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Theodor-Litt-Straße 17\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Theodor-L
+ itt-Straße 17\, Endenich:geo:50.72491,7.06578
+GEO:50.72491;7.06578
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-17
+END:VEVENT
+BEGIN:VEVENT
+UID:e88cbed9-adf0-4c93-aab2-6acf738f5037
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241218T180000
+DTEND;TZID=Europe/Berlin:20241218T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Westside\, Robert Havemann Straße 6
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Westside\
+ , Robert Havemann Straße 6:geo:50.73472,7.06942
+GEO:50.73472;7.06942
+DESCRIPTION:Adventssingen\n\nGemeindemitglieder aus St. Maria Magdalena un
+ d Trinitatis laden ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe H
+ inweis am Termin) erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Li
+ eder singen\, Geschichten hören und bei Plätzchen und Glühwein/Tee mite
+ inander ins Gespräch kommen.\n\nFür Fragen und Anregungen können Sie si
+ ch gerne an uta.luenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-18
+END:VEVENT
+BEGIN:VEVENT
+UID:e4d30618-dac4-4057-8452-396ac10c5968
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241219T180000
+DTEND;TZID=Europe/Berlin:20241219T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Bücherei\, Uhlgasse 8\, Lengsdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Bücherei
+ \, Uhlgasse 8\, Lengsdorf:geo:50.70993,7.06969
+GEO:50.70993;7.06969
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-19
+END:VEVENT
+BEGIN:VEVENT
+UID:3994b08e-1f86-454e-bf6c-5d16f0f26983
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241220T180000
+DTEND;TZID=Europe/Berlin:20241220T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Enggasse 42\, Lengsdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Enggasse 
+ 42\, Lengsdorf:geo:50.7123,7.06856
+GEO:50.7123;7.06856
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-20
+END:VEVENT
+BEGIN:VEVENT
+UID:38f59568-a94e-4c07-8326-491688a631d1
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241221T180000
+DTEND;TZID=Europe/Berlin:20241221T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Alfred-Bucherer Straße 22\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Alfred-Bu
+ cherer Straße 22\, Endenich:geo:50.72623,7.07642
+GEO:50.72623;7.07642
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-21
+END:VEVENT
+BEGIN:VEVENT
+UID:e97e0feb-db00-4608-b58f-fa958cb17f88
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241222T180000
+DTEND;TZID=Europe/Berlin:20241222T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Am Burggraben 36\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Am Burggr
+ aben 36\, Endenich:geo:50.72413,7.07265
+GEO:50.72413;7.07265
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-22
+END:VEVENT
+BEGIN:VEVENT
+UID:be2c677c-5321-45ad-a9de-3cd9b0c54408
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241223T180000
+DTEND;TZID=Europe/Berlin:20241223T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Freebox Ecke Schubertsstraße / Wiesenweg\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Freebox E
+ cke Schubertsstraße / Wiesenweg\, Endenich:geo:50.72782,7.08192
+GEO:50.72782;7.08192
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-23
+END:VEVENT
+BEGIN:VEVENT
+UID:b81bda44-3e19-4c43-9363-7e8b6d750594
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20241224T180000
+DTEND;TZID=Europe/Berlin:20241224T183000
+SUMMARY:Lebendiger Adventskalender
+DESCRIPTION:Wir wünschen frohe Weihnachten und ein glückliches neues Jah
+ r 2025.\n\nGemeindemitglieder aus St. Maria Magdalena und Trinitatis laden
+  ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin) 
+ erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Gesc
+ hichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-24
+END:VEVENT
+BEGIN:VEVENT
+UID:33dc74cf-6c15-444a-82a4-6076552767e6
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251201T180000
+DTEND;TZID=Europe/Berlin:20251201T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Hauptportal Sankt Maria Magdalena\, Magdalenen Str. 25\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Hauptport
+ al Sankt Maria Magdalena\, Magdalenen Str. 25\, Endenich:geo:50.72623,7.07
+ 545
+GEO:50.72623;7.07545
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-01
+END:VEVENT
+BEGIN:VEVENT
+UID:48e904a4-eea9-4f04-b7fd-e6022c9ef3fe
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251202T180000
+DTEND;TZID=Europe/Berlin:20251202T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Am Klostergarten 1\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Am Kloste
+ rgarten 1\, Endenich:geo:50.72085,7.07304
+GEO:50.72085;7.07304
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-02
+END:VEVENT
+BEGIN:VEVENT
+UID:fbabf8bb-aee6-4886-b2e0-5406bb7765b0
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251203T180000
+DTEND;TZID=Europe/Berlin:20251203T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Bonner Logsweg 44\, Lessenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Bonner Lo
+ gsweg 44\, Lessenich:geo:50.72411,7.04916
+GEO:50.72411;7.04916
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-03
+END:VEVENT
+BEGIN:VEVENT
+UID:2c040f75-e476-42ed-b053-341780a7cf93
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251204T170000
+DTEND;TZID=Europe/Berlin:20251204T173000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Kita St. Maria Magdalena\, Wiesenweg 6\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Kita St. 
+ Maria Magdalena\, Wiesenweg 6\, Endenich:geo:50.7268,7.07687
+GEO:50.7268;7.07687
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-04
+END:VEVENT
+BEGIN:VEVENT
+UID:3f397617-f422-459c-9004-eb85b788dc51
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251205T180000
+DTEND;TZID=Europe/Berlin:20251205T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Enggasse 42\, Lengsdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Enggasse 
+ 42\, Lengsdorf:geo:50.71229,7.06854
+GEO:50.71229;7.06854
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-05
+END:VEVENT
+BEGIN:VEVENT
+UID:ed6dba47-def0-4c48-8d33-1b00bba01205
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251206T180000
+DTEND;TZID=Europe/Berlin:20251206T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Kirchplatz Sankt Maria Magdalena\, Magdalenen Str. 25\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Kirchplat
+ z Sankt Maria Magdalena\, Magdalenen Str. 25\, Endenich:geo:50.72594,7.075
+ 53
+GEO:50.72594;7.07553
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-06
+END:VEVENT
+BEGIN:VEVENT
+UID:b74fc745-582d-4d58-97fa-c6c3d9bd56b8
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251207T180000
+DTEND;TZID=Europe/Berlin:20251207T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Im jungen Wingert 2\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Im jungen
+  Wingert 2\, Endenich:geo:50.7235919,7.076299306185539
+GEO:50.7235919;7.076299306185539
+DESCRIPTION:Singen mit Veedelblech\n\nGemeindemitglieder aus St. Maria Mag
+ dalena und Trinitatis laden ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahm
+ e siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenster. Stehen ble
+ iben\, Lieder singen\, Geschichten hören und bei Plätzchen und Glühwein
+ /Tee miteinander ins Gespräch kommen.\n\nFür Fragen und Anregungen könn
+ en Sie sich gerne an uta.luenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-07
+END:VEVENT
+BEGIN:VEVENT
+UID:b13e81c1-0be0-40e1-98b5-654c62f52fcc
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251208T180000
+DTEND;TZID=Europe/Berlin:20251208T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:ökumenischer Schaukasten Frongasse\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=ökumenis
+ cher Schaukasten Frongasse\, Endenich:geo:50.7265,7.07473
+GEO:50.7265;7.07473
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-08
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a611b2-cb29-4482-8d4f-566d119792be
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251209T180000
+DTEND;TZID=Europe/Berlin:20251209T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Schumann Höhe Wahlverwandtschaften Bonn\, Sebastianstraße 178\
+ , Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Schumann 
+ Höhe Wahlverwandtschaften Bonn\, Sebastianstraße 178\, Endenich:geo:50.
+ 72432,7.07775
+GEO:50.72432;7.07775
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-09
+END:VEVENT
+BEGIN:VEVENT
+UID:1934c392-6d0a-45a4-895d-4e4bb96a9839
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251210T180000
+DTEND;TZID=Europe/Berlin:20251210T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Am Klostergarten 15e\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Am Kloste
+ rgarten 15e\, Endenich:geo:50.71902,7.07288
+GEO:50.71902;7.07288
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-10
+END:VEVENT
+BEGIN:VEVENT
+UID:9e5bddb3-fa71-4228-b695-c137d7726f32
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251211T180000
+DTEND;TZID=Europe/Berlin:20251211T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Lipschitzstraße 43\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Lipschitz
+ straße 43\, Endenich:geo:50.7323,7.06496
+GEO:50.7323;7.06496
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-11
+END:VEVENT
+BEGIN:VEVENT
+UID:d3adba19-837f-43a2-922e-3ec3f793fda4
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251213T180000
+DTEND;TZID=Europe/Berlin:20251213T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Lutfriedstrasse 14\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Lutfrieds
+ trasse 14\, Endenich:geo:50.7249655,7.0738433
+GEO:50.7249655;7.0738433
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-13
+END:VEVENT
+BEGIN:VEVENT
+UID:6702b513-81e1-432f-b452-77026e87aacc
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251214T180000
+DTEND;TZID=Europe/Berlin:20251214T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Flodelingsweg 42\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Flodeling
+ sweg 42\, Endenich:geo:50.7222,7.07538
+GEO:50.7222;7.07538
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-14
+END:VEVENT
+BEGIN:VEVENT
+UID:0e89a3ab-1889-47ea-97f1-7436ff793a89
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251215T180000
+DTEND;TZID=Europe/Berlin:20251215T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Wiesenweg 25
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Wiesenweg
+  25:geo:50.7271218,7.0772596
+GEO:50.7271218;7.0772596
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-15
+END:VEVENT
+BEGIN:VEVENT
+UID:003eaf5f-7b2e-40d0-87cd-44d214381089
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251216T180000
+DTEND;TZID=Europe/Berlin:20251216T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Theodor-Litt-Straße 17\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Theodor-L
+ itt-Straße 17\, Endenich:geo:50.72492,7.0658
+GEO:50.72492;7.0658
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-16
+END:VEVENT
+BEGIN:VEVENT
+UID:c3dce8a6-e174-4164-ae00-3ffeea6cede3
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251217T180000
+DTEND;TZID=Europe/Berlin:20251217T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Max-Cohen Straße 19-23 (Wendehammer)\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Max-Cohen
+  Straße 19-23 (Wendehammer)\, Endenich:geo:50.72199,7.06766
+GEO:50.72199;7.06766
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-17
+END:VEVENT
+BEGIN:VEVENT
+UID:bb193aff-5a91-405f-8c1d-1c402cd2cabd
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251218T180000
+DTEND;TZID=Europe/Berlin:20251218T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Bücherei St. Peter Uhlgasse 8\, Lengsdorf
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Bücherei
+  St. Peter Uhlgasse 8\, Lengsdorf:geo:50.70988,7.06991
+GEO:50.70988;7.06991
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-18
+END:VEVENT
+BEGIN:VEVENT
+UID:6ac6ee7d-1318-4d68-9129-ca167176134a
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251219T180000
+DTEND;TZID=Europe/Berlin:20251219T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:JAP Kinder- und Jugendzentrum\, Am Propsthof 134
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=JAP Kinde
+ r- und Jugendzentrum\, Am Propsthof 134:geo:50.7311525,7.0645935
+GEO:50.7311525;7.0645935
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-19
+END:VEVENT
+BEGIN:VEVENT
+UID:3d36f2cc-740b-44f6-9598-1efeed9a2a2c
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251220T180000
+DTEND;TZID=Europe/Berlin:20251220T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Auf dem Hügel 107\, Endenich
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Auf dem H
+ ügel 107\, Endenich:geo:50.73209,7.06776
+GEO:50.73209;7.06776
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-20
+END:VEVENT
+BEGIN:VEVENT
+UID:c2c8028d-be58-4888-b073-10872d058721
+SEQUENCE:0
+DTSTAMP:20251211T125256
+DTSTART;TZID=Europe/Berlin:20251222T180000
+DTEND;TZID=Europe/Berlin:20251222T183000
+SUMMARY:Lebendiger Adventskalender
+LOCATION:Neuenahrerstraße 2
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Neuenahre
+ rstraße 2:geo:50.7302818,7.0803455
+GEO:50.7302818;7.0803455
+DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
+ n ein.\nJeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin)
+  erstrahlt ein geschmücktes Fenster. Stehen bleiben\, Lieder singen\, Ges
+ chichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespr
+ äch kommen.\n\nFür Fragen und Anregungen können Sie sich gerne an uta.l
+ uenebach@netcologne.de wenden.
+URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-22
+END:VEVENT
+END:VCALENDAR
