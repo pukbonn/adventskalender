@@ -45,18 +45,24 @@ body.sheetIsOpen {
 .svg-header {
   background: var(--inverted-background);
   fill: var(--inverted-text);
-  width: 100%;
-  max-height: 64vh;
+  width: 640px;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+header {
+  background: var(--inverted-background);
+  color: var(--inverted-text);
+
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
   padding: 64px;
-  padding: 8vh;
 }
 
 .intro_text {
   width: 100%;
-  padding: 0 64px 64px 64px;
-  margin: -10px 0 0 0;
-  background: var(--inverted-background);
-  color: var(--inverted-text);
+  margin: 0;
   text-align: center;
 }
 .intro_text .inner {

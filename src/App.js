@@ -202,7 +202,7 @@ function App() {
 					<meta name="description" content="Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein. Jeweils von 18:00 bis 18:30 Uhr erstrahlt ein geschmücktes Fenster. Stehen bleiben, Lieder singen, Geschichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespräch kommen." />
 				</Helmet>
 
-				<svg viewBox="0 0 775 215" className="svg-header">
+				<svg viewBox="5 15 660 195" className="svg-header">
 					<title>Lebendiger Adventskalender</title>
 					<text className="h1" x="10" y="90">Lebendiger</text>
 					<text className="h1" x="10" y="200">Adventskalender</text>
