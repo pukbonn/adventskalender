@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a867b3b7.css",
-    "main.js": "/static/js/main.4403e5c4.js",
+    "main.js": "/static/js/main.77c41715.js",
     "static/media/IMG_0753_auto_x2_colored_toned.jpg": "/static/media/IMG_0753_auto_x2_colored_toned.0786682a96f7908e7316.jpg",
     "static/media/WhatsApp Video 2020-12-24 at 10.55.59.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.59.4f333fb784412e470442.mp4",
     "static/media/20231206-3.jpg": "/static/media/20231206-3.d962d6ffabdade925448.jpg",
@@ -230,10 +230,13 @@
     "static/media/20231205-1.jpg": "/static/media/20231205-1.28783fca8ae28c9cbb52.jpg",
     "static/media/20241223-1.jpg": "/static/media/20241223-1.bd0028d8dd7c9f910e6c.jpg",
     "static/media/20211220_175321_resized.jpg": "/static/media/20211220_175321_resized.045c0f5719f69d27621c.jpg",
+    "static/media/20251215_175217_resized.jpg": "/static/media/20251215_175217_resized.05a1e96eaeebd32c8e21.jpg",
     "static/media/20201222_190630.jpg": "/static/media/20201222_190630.f36e76a95e3e28afef64.jpg",
     "static/media/20231204-1.jpg": "/static/media/20231204-1.d22b75f478cc79e707cc.jpg",
     "static/media/20201218_184511.jpg": "/static/media/20201218_184511.fe01bd434745b017c6fc.jpg",
     "static/media/Image-1 2.jpg": "/static/media/Image-1 2.066132c750bbc889cade.jpg",
+    "static/media/gurke.heic": "/static/media/gurke.28b64dc0dd5052b0a2ce.heic",
+    "static/media/20251215_175116_resized.jpg": "/static/media/20251215_175116_resized.efb87ab567ae32e690b7.jpg",
     "static/media/20211224_1.jpg": "/static/media/20211224_1.bceac49fa8a68c5e0bd9.jpg",
     "static/media/Image-1.jpg": "/static/media/Image-1.a763e0f6e102e18aba98.jpg",
     "static/media/IMG_3914.jpeg": "/static/media/IMG_3914.6a7bda8510da925f0c0d.jpeg",
@@ -279,6 +282,7 @@
     "static/media/20241212-1.jpg": "/static/media/20241212-1.e819bb895f79c2955e65.jpg",
     "static/media/20231210-2.jpg": "/static/media/20231210-2.fc01c3a1d7afb92e630d.jpg",
     "static/media/20241214-3.jpg": "/static/media/20241214-3.1ca44fa1fc47624cea4a.jpg",
+    "static/media/gurke.jpeg": "/static/media/gurke.cedc062de82e27b28ce6.jpeg",
     "static/media/Image-1 5.HEIC": "/static/media/Image-1 5.a72731b78a452f631185.HEIC",
     "static/media/Image-1.HEIC": "/static/media/Image-1.03e16f58bf56c52d11cc.HEIC",
     "static/media/IMG_4464.jpeg": "/static/media/IMG_4464.f5c141a707e2557616ba.jpeg",
@@ -332,7 +336,7 @@
     "static/media/7e511a46-6676-492f-9196-a1cead323b1b.jpeg": "/static/media/7e511a46-6676-492f-9196-a1cead323b1b.e87a65639afdd4bc3573.jpeg",
     "static/media/photo_2020-12-07_20-43-11.jpeg": "/static/media/photo_2020-12-07_20-43-11.f1e3f5eca0a23bcf8027.jpeg",
     "static/media/photo_2020-12-07_20-43-11-cropped.jpeg": "/static/media/photo_2020-12-07_20-43-11-cropped.1eb10bcfc49001874feb.jpeg",
-    "static/media/data.yaml": "/static/media/data.6cd05329c1baa922842a.yaml",
+    "static/media/data.yaml": "/static/media/data.4460dc806ae23801fd38.yaml",
     "static/media/petrona-latin-wght-normal.woff2": "/static/media/petrona-latin-wght-normal.016695b54f8e8449bd34.woff2",
     "static/media/LAK-desaturated.svg": "/static/media/LAK-desaturated.ccaa2a817f174deacc57a32c5d86ebb6.svg",
     "static/media/Als der Engel  2020 - Kopie.odt": "/static/media/Als der Engel  2020 - Kopie.0b4e7fe0b121ce3b7efc.odt",
@@ -342,10 +346,10 @@
     "static/media/21dezember2020.docx": "/static/media/21dezember2020.d8cf653561d31147127e.docx",
     "index.html": "/index.html",
     "main.a867b3b7.css.map": "/static/css/main.a867b3b7.css.map",
-    "main.4403e5c4.js.map": "/static/js/main.4403e5c4.js.map"
+    "main.77c41715.js.map": "/static/js/main.77c41715.js.map"
   },
   "entrypoints": [
     "static/css/main.a867b3b7.css",
-    "static/js/main.4403e5c4.js"
+    "static/js/main.77c41715.js"
   ]
 }
