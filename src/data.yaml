@@ -1392,6 +1392,14 @@ days:
     address: Wiesenweg 25
     lat: 50.7271218
     lng: 7.0772596
+    text: |-
+      Wir haben Adventslieder gesungen, ich habe die Geschichte der Weihnachtsgurke erzählt und passend dazu gab es saure Gurken, Käse und Brot aber auch Punsch-Tee, Gebäck und Obst.
+      Wir waren 8 Erwachsene und 5 Kinder – Es war richtig schön.
+    thumbnail: _thumb.jpg
+    photos:
+      - 20251215_175116_resized.jpg
+      - 20251215_175217_resized.jpg
+      - gurke.jpeg
   - date: 2025-12-16
     address: Theodor-Litt-Straße 17, Endenich
     lat: 50.72492
