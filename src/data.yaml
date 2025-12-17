@@ -1369,14 +1369,14 @@ days:
     address: Am Klostergarten 15e, Endenich
     lat: 50.71902
     lng: 7.07288
-    thumbnail: _thumb.jpg
-    photos:
-      - "20251211_173434.JPG"
-      - "20251211_174549.JPG"
   - date: 2025-12-11
     address: Lipschitzstraße 43, Endenich
     lat: 50.73230
     lng: 7.06496
+    thumbnail: _thumb.jpg
+    photos:
+      - "20251211_173434.JPG"
+      - "20251211_174549.JPG"
   - date: 2025-12-12
     not_assigned: true
     note: Noch frei!
