@@ -1404,6 +1404,13 @@ days:
     address: Theodor-Litt-Straße 17, Endenich
     lat: 50.72492
     lng: 7.06580
+    thumbnail: _thumb.jpg
+    photos:
+      - IMG_5247.jpeg
+      - IMG_5248.jpeg
+      - IMG_5249.jpeg
+      - IMG_5250.jpeg
+      - IMG_5251_color_graded.jpeg
   - date: 2025-12-17
     address: Max-Cohen Straße 19-23 (Wendehammer), Endenich
     lat: 50.72199
