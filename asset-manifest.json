@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a867b3b7.css",
-    "main.js": "/static/js/main.77c41715.js",
+    "main.js": "/static/js/main.d597db8c.js",
     "static/media/IMG_0753_auto_x2_colored_toned.jpg": "/static/media/IMG_0753_auto_x2_colored_toned.0786682a96f7908e7316.jpg",
     "static/media/WhatsApp Video 2020-12-24 at 10.55.59.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.59.4f333fb784412e470442.mp4",
     "static/media/20231206-3.jpg": "/static/media/20231206-3.d962d6ffabdade925448.jpg",
@@ -143,10 +143,13 @@
     "static/media/IMG_7592.HEIC": "/static/media/IMG_7592.ceba9f46145c0fcfe1f8.HEIC",
     "static/media/IMG_0635.JPG": "/static/media/IMG_0635.820893a46eb82289c752.JPG",
     "static/media/IMG_3908.jpeg": "/static/media/IMG_3908.329287a6f0a274c5af20.jpeg",
+    "static/media/IMG_5251.heic": "/static/media/IMG_5251.5e6bf66de36ebf66a719.heic",
     "static/media/IMG_3909.jpeg": "/static/media/IMG_3909.aa920a3422eba9df26e7.jpeg",
+    "static/media/IMG_5251_color_graded.heic": "/static/media/IMG_5251_color_graded.6be9ccd516751a77a3f5.heic",
     "static/media/20231207-2.jpg": "/static/media/20231207-2.048f6f8cf66cbd08db3f.jpg",
     "static/media/IMG_0636.JPG": "/static/media/IMG_0636.43bd8e2932837e021882.JPG",
     "static/media/IMG_2014.jpeg": "/static/media/IMG_2014.aa1aac59c053d5e49f00.jpeg",
+    "static/media/IMG_5250.heic": "/static/media/IMG_5250.3d93b6ddb758d59c2d37.heic",
     "static/media/IMG_2012.jpeg": "/static/media/IMG_2012.7d6a0627bdc4c93a58fb.jpeg",
     "static/media/IMG_7749.HEIC": "/static/media/IMG_7749.802f0db740fbcfd4b666.HEIC",
     "static/media/IMG_4350.jpg": "/static/media/IMG_4350.2331475012c3989694cb.jpg",
@@ -215,11 +218,14 @@
     "static/media/20211222_193629.jpg": "/static/media/20211222_193629.299b4a816618cee15962.jpg",
     "static/media/image1.jpeg": "/static/media/image1.6b6bdf66ab31275bc49e.jpeg",
     "static/media/IMG_4469.jpeg": "/static/media/IMG_4469.9476653ff5ec7b191ba1.jpeg",
+    "static/media/IMG_5247.heic": "/static/media/IMG_5247.2a9f381730476f8d1a94.heic",
     "static/media/20251203_185436.heic": "/static/media/20251203_185436.9ef0e336008dc7dbb3c8.heic",
     "static/media/IMG_4050.JPG": "/static/media/IMG_4050.d72e5fe2e90f6d7c1229.JPG",
     "static/media/signal-2021-12-17-194903_003.jpg": "/static/media/signal-2021-12-17-194903_003.10a52efb7e869c3019ad.jpg",
+    "static/media/IMG_5249.heic": "/static/media/IMG_5249.6060cd58f281fa16d858.heic",
     "static/media/20241223-2.jpg": "/static/media/20241223-2.aca5049c2e15356037ac.jpg",
     "static/media/20241224-1.jpg": "/static/media/20241224-1.6975feb6fec32e2324c0.jpg",
+    "static/media/IMG_5248.heic": "/static/media/IMG_5248.57f362118bbc37e5a31b.heic",
     "static/media/20201126_173322.jpg": "/static/media/20201126_173322.55e3552f1e9b40c7dea9.jpg",
     "static/media/signal-2021-12-17-194903_002.jpg": "/static/media/signal-2021-12-17-194903_002.eca3ee4eda0b7029bea6.jpg",
     "static/media/20241212-1.JPG": "/static/media/20241212-1.f11c9f9b6d26980b737b.JPG",
@@ -294,6 +300,7 @@
     "static/media/20241206-1.jpg": "/static/media/20241206-1.551acc803af4f6e875b5.jpg",
     "static/media/1000167564.jpeg": "/static/media/1000167564.3f849e580278f3346c80.jpeg",
     "static/media/IMG_0123.jpg": "/static/media/IMG_0123.1c3dd7766670f6138630.jpg",
+    "static/media/IMG_5251_color_graded.jpeg": "/static/media/IMG_5251_color_graded.91b02a90fa337364b774.jpeg",
     "static/media/IMG_7764.jpeg": "/static/media/IMG_7764.5753c629a9d9985883fe.jpeg",
     "static/media/IMG_4052.JPG": "/static/media/IMG_4052.6a24980f57aaa0b0a481.JPG",
     "static/media/20241221-3.jpg": "/static/media/20241221-3.ba6213d11f1ffd6b1999.jpg",
@@ -311,9 +318,12 @@
     "static/media/20221211-2.jpg": "/static/media/20221211-2.385f6c60c508477b4cb5.jpg",
     "static/media/IMG_7746.jpeg": "/static/media/IMG_7746.91d7fd71407094b83781.jpeg",
     "static/media/20251203_182657.jpeg": "/static/media/20251203_182657.851045a8bd52b209f077.jpeg",
+    "static/media/IMG_5250.jpeg": "/static/media/IMG_5250.e27560ad9408831342f1.jpeg",
     "static/media/20241217-1.jpg": "/static/media/20241217-1.d25c177de9463528ff2c.jpg",
     "static/media/20251203_185436.jpeg": "/static/media/20251203_185436.81f2a515e5fa469dadd2.jpeg",
+    "static/media/IMG_5249.jpeg": "/static/media/IMG_5249.42b62c142d61508793de.jpeg",
     "static/media/20231212-3.jpg": "/static/media/20231212-3.0c82f8bf9d40a358286b.jpg",
+    "static/media/IMG_5247.jpeg": "/static/media/IMG_5247.24984f463e0161266464.jpeg",
     "static/media/20241205-3.jpg": "/static/media/20241205-3.288b2db2ec3fa89185a2.jpg",
     "static/media/IMG_0118.jpg": "/static/media/IMG_0118.0529c7e1686682a9f2d9.jpg",
     "static/media/IMG_20201211_0001.pdf": "/static/media/IMG_20201211_0001.33a14a8789702ff3b1ea.pdf",
@@ -324,6 +334,7 @@
     "static/media/IMG_0951.jpeg": "/static/media/IMG_0951.fd5ffd31fab2c1fe8485.jpeg",
     "static/media/20201202_184656.jpeg": "/static/media/20201202_184656.0d69b6cc5114430ba484.jpeg",
     "static/media/IMG-20251203-WA0008.jpeg": "/static/media/IMG-20251203-WA0008.db0d54cc9eab9f1f3b22.jpeg",
+    "static/media/IMG_5248.jpeg": "/static/media/IMG_5248.43c2f8b52f4665f72ed4.jpeg",
     "static/media/20241209-3.jpg": "/static/media/20241209-3.13fd07143b7459df2f31.jpg",
     "static/media/20241209-2.jpg": "/static/media/20241209-2.6db1c488760f9d9b6995.jpg",
     "static/media/20241217-2.jpg": "/static/media/20241217-2.d0644c285d0adb297278.jpg",
@@ -336,7 +347,7 @@
     "static/media/7e511a46-6676-492f-9196-a1cead323b1b.jpeg": "/static/media/7e511a46-6676-492f-9196-a1cead323b1b.e87a65639afdd4bc3573.jpeg",
     "static/media/photo_2020-12-07_20-43-11.jpeg": "/static/media/photo_2020-12-07_20-43-11.f1e3f5eca0a23bcf8027.jpeg",
     "static/media/photo_2020-12-07_20-43-11-cropped.jpeg": "/static/media/photo_2020-12-07_20-43-11-cropped.1eb10bcfc49001874feb.jpeg",
-    "static/media/data.yaml": "/static/media/data.4460dc806ae23801fd38.yaml",
+    "static/media/data.yaml": "/static/media/data.2e3d9c278458521fd960.yaml",
     "static/media/petrona-latin-wght-normal.woff2": "/static/media/petrona-latin-wght-normal.016695b54f8e8449bd34.woff2",
     "static/media/LAK-desaturated.svg": "/static/media/LAK-desaturated.ccaa2a817f174deacc57a32c5d86ebb6.svg",
     "static/media/Als der Engel  2020 - Kopie.odt": "/static/media/Als der Engel  2020 - Kopie.0b4e7fe0b121ce3b7efc.odt",
@@ -346,10 +357,10 @@
     "static/media/21dezember2020.docx": "/static/media/21dezember2020.d8cf653561d31147127e.docx",
     "index.html": "/index.html",
     "main.a867b3b7.css.map": "/static/css/main.a867b3b7.css.map",
-    "main.77c41715.js.map": "/static/js/main.77c41715.js.map"
+    "main.d597db8c.js.map": "/static/js/main.d597db8c.js.map"
   },
   "entrypoints": [
     "static/css/main.a867b3b7.css",
-    "static/js/main.77c41715.js"
+    "static/js/main.d597db8c.js"
   ]
 }
