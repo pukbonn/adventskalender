@@ -1,9 +1,11 @@
+import { AnimatePresence } from "framer-motion"
 import { useEffect, useState } from 'react'
 import Countdown from 'react-countdown'
 import { Helmet } from 'react-helmet'
 import ReactMarkdown from 'react-markdown'
 import { Link } from 'react-router-dom'
 import { Icon, IconDuoTone } from './components/Icon'
+import { NumbersDisplay } from './components/NumbersDisplay'
 import videoCover from './images/video-cover.jpeg'
 import './sheet.css'
 
@@ -92,14 +94,13 @@ function Sheet({ days, dateString }) {
 								return <>
 									<br />
 									<strong>Das Fenster öffnet in…</strong><br />
-									<table>
-										<tbody>
-											{days === 0 ? null : (<tr><td style={{ textAlign: 'right' }}>{days}</td><td style={{ textAlign: 'left' }}>{days === 1 ? 'Tag' : 'Tagen'}</td></tr>)}
-											{hours === 0 ? null : (<tr><td style={{ textAlign: 'right' }}>{hours}</td><td style={{ textAlign: 'left' }}>{hours === 1 ? 'Stunde' : 'Stunden'}</td></tr>)}
-											{minutes === 0 ? null : (<tr><td style={{ textAlign: 'right' }}>{minutes}</td><td style={{ textAlign: 'left' }}>{minutes === 1 ? 'Minute' : 'Minuten'}</td></tr>)}
-											<tr><td style={{ textAlign: 'right' }}>{seconds}</td><td style={{ textAlign: 'left' }}>{seconds === 1 ? 'Sekunde' : 'Sekunden'}</td></tr>
-										</tbody>
-									</table>
+
+									<AnimatePresence initial={false} mode="popLayout">
+										<NumbersDisplay count={days} singularLabel="Tag" pluralLabel="Tagen" />
+										<NumbersDisplay count={hours} singularLabel="Stunde" pluralLabel="Stunden" />
+										<NumbersDisplay count={minutes} singularLabel="Minute" pluralLabel="Minuten" />
+										<NumbersDisplay count={seconds} singularLabel="Sekunde" pluralLabel="Sekunden" />
+									</AnimatePresence>
 								</>
 							}
 						}}
