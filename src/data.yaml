@@ -1448,12 +1448,6 @@ days:
   - date: 2025-12-24
     not_assigned: true
     note: Frohe Weihnachten!
-  - date: 2025-12-31
-    address: Neuenahrerstraße 2
-    lat: 50.7302818
-    lng: 7.0803455
-    # not_assigned: true
-    # note: Frohe Weihnachten!
 
 
 
