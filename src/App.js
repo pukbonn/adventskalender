@@ -1,4 +1,4 @@
-import { AnimatePresence } from "framer-motion"
+import { AnimatePresence, MotionConfig } from 'framer-motion'
 import YAML from 'js-yaml'
 import { Component, useCallback, useEffect, useState } from 'react'
 import Countdown from 'react-countdown'
@@ -195,130 +195,132 @@ function App() {
 	const calendarStart = new Date(currentYear, 11, 1, 18, 0, 0, 0) // 1 of Dezember
 	return (
 		<>
-			<MaterialIconStyle />
+			<MotionConfig transition={{ duration: 0.6, type: "spring", bounce: 0.3 }}>
+				<MaterialIconStyle />
 
-			<header>
-				<Helmet>
-					<title>Lebendiger Adventskalender</title>
-					<meta name="description" content="Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein. Jeweils von 18:00 bis 18:30 Uhr erstrahlt ein geschmücktes Fenster. Stehen bleiben, Lieder singen, Geschichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespräch kommen." />
-				</Helmet>
+				<header>
+					<Helmet>
+						<title>Lebendiger Adventskalender</title>
+						<meta name="description" content="Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein. Jeweils von 18:00 bis 18:30 Uhr erstrahlt ein geschmücktes Fenster. Stehen bleiben, Lieder singen, Geschichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespräch kommen." />
+					</Helmet>
 
-				<svg viewBox="5 15 660 195" className="svg-header">
-					<title>Lebendiger Adventskalender</title>
-					<text className="h1" x="10" y="90">Lebendiger</text>
-					<text className="h1" x="10" y="200">Adventskalender</text>
-				</svg>
+					<svg viewBox="5 15 660 195" className="svg-header">
+						<title>Lebendiger Adventskalender</title>
+						<text className="h1" x="10" y="90">Lebendiger</text>
+						<text className="h1" x="10" y="200">Adventskalender</text>
+					</svg>
 
 
 
-				<div className="intro_text">
-					<div className="inner">
-						<p>
-							Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
-							<strong>Jeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenster.</strong> Stehen bleiben, Lieder singen, Geschichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespräch kommen.
-						</p>
-						<br />
-						<p>
-							Für Fragen und Anregungen können Sie sich gerne an <a href="mailto:uta.luenebach@netcologne.de">uta.luenebach@netcologne.de</a> wenden.
-						</p>
-						<br />
-						<Countdown
-							date={calendarStart}
-							renderer={renderer}
-						/>
-
-						<a href="webcal://adventskalender.puk-bonn.de/calendar.ics" className="ics_download_link">
-							<IconDuoTone
-								size="lg"
-								name="calendar_add_on"
-								weight="bold"
-								bgStyle={{
-									opacity: 0.3,
-								}}
+					<div className="intro_text">
+						<div className="inner">
+							<p>
+								Gemeindemitglieder aus St. Maria Magdalena und Trinitatis laden ein.<br />
+								<strong>Jeweils von 18:00 bis 18:30 Uhr (Ausnahme siehe Hinweis am Termin) erstrahlt ein geschmücktes Fenster.</strong> Stehen bleiben, Lieder singen, Geschichten hören und bei Plätzchen und Glühwein/Tee miteinander ins Gespräch kommen.
+							</p>
+							<br />
+							<p>
+								Für Fragen und Anregungen können Sie sich gerne an <a href="mailto:uta.luenebach@netcologne.de">uta.luenebach@netcologne.de</a> wenden.
+							</p>
+							<br />
+							<Countdown
+								date={calendarStart}
+								renderer={renderer}
 							/>
-							Termine in deinen Kalender hinzufügen
-						</a>
 
+							<a href="webcal://adventskalender.puk-bonn.de/calendar.ics" className="ics_download_link">
+								<IconDuoTone
+									size="lg"
+									name="calendar_add_on"
+									weight="bold"
+									bgStyle={{
+										opacity: 0.3,
+									}}
+								/>
+								Termine in deinen Kalender hinzufügen
+							</a>
+
+						</div>
 					</div>
-				</div>
-			</header>
+				</header>
 
-			<div style={{ width: 'fit-content', padding: '32px', margin: '0 auto' }}>
+				<div style={{ width: 'fit-content', padding: '32px', margin: '0 auto' }}>
 
-				<nav className="years">
-					{years.map(thisYear => <span className={thisYear === year ? 'active' : ''} key={thisYear} onClick={() => handleYearChange(thisYear)}>{thisYear}</span>)}
-				</nav>
+					<nav className="years">
+						{years.map(thisYear => <span className={thisYear === year ? 'active' : ''} key={thisYear} onClick={() => handleYearChange(thisYear)}>{thisYear}</span>)}
+					</nav>
 
-				<nav className="cards">
-					{days
-						.sort((a, b) => new Date(a.date) - new Date(b.date))
-						.map(dayData => {
-							const { not_assigned } = dayData
-							if (not_assigned === true) {
-								return <div
-									className="card not_clickable"
+					<nav className="cards">
+						{days
+							.sort((a, b) => new Date(a.date) - new Date(b.date))
+							.map(dayData => {
+								const { not_assigned } = dayData
+								if (not_assigned === true) {
+									return <div
+										className="card not_clickable"
+										key={dayData.date}
+									>
+										<Card data={dayData} />
+									</div>
+								}
+
+								return <NavLink
+									className="card"
 									key={dayData.date}
+									to={'/day/' + dayData.date}
 								>
 									<Card data={dayData} />
-								</div>
-							}
-
-							return <NavLink
-								className="card"
-								key={dayData.date}
-								to={'/day/' + dayData.date}
-							>
-								<Card data={dayData} />
-							</NavLink>
-						})}
-				</nav>
+								</NavLink>
+							})}
+					</nav>
 
 
-				{entries.length === 0 ? null :
-					<div
-						key={JSON.stringify(entries)}
-						className="map-container"
-					>
-						<ReactMap
+					{entries.length === 0 ? null :
+						<div
 							key={JSON.stringify(entries)}
-							entries={
-								entries
-									.filter(dayData => {
-										const { not_assigned } = dayData
-										return not_assigned !== true
-									})
-							}
-							onEntryMarkerClick={({ entry }) => {
-								if (entry.url) {
-									if (entry.url.startsWith('http')) {
-										window.open(entry.url, '_blank', 'noopener')
-									} else {
-										window.open(entry.url, '_self')
-									}
+							className="map-container"
+						>
+							<ReactMap
+								key={JSON.stringify(entries)}
+								entries={
+									entries
+										.filter(dayData => {
+											const { not_assigned } = dayData
+											return not_assigned !== true
+										})
 								}
-							}}
-							renderEntryMarker={({ entry, index, ref, onImageLoaded }) => (
-								<Marker entry={entry} index={index} onImageLoaded={onImageLoaded} ref={ref} />
-							)}
-						/>
-					</div>}
-			</div>
+								onEntryMarkerClick={({ entry }) => {
+									if (entry.url) {
+										if (entry.url.startsWith('http')) {
+											window.open(entry.url, '_blank', 'noopener')
+										} else {
+											window.open(entry.url, '_self')
+										}
+									}
+								}}
+								renderEntryMarker={({ entry, index, ref, onImageLoaded }) => (
+									<Marker entry={entry} index={index} onImageLoaded={onImageLoaded} ref={ref} />
+								)}
+							/>
+						</div>}
+				</div>
 
-			{
-				typeof dateString === 'string'
-					&& dateString.length > 0
-					&& dateString.includes('-')
-					? <>
-						<SheetBodyStyle />
-						<Sheet
-							dateString={dateString}
-							days={data.days}
-						/>
-					</>
-					: null
-			}
+				{
+					typeof dateString === 'string'
+						&& dateString.length > 0
+						&& dateString.includes('-')
+						? <>
+							<SheetBodyStyle />
+							<Sheet
+								dateString={dateString}
+								days={data.days}
+							/>
+						</>
+						: null
+				}
 
-			<Footer />
+				<Footer />
+			</MotionConfig>
 		</>
 	)
 }
