@@ -84,6 +84,8 @@ header {
 .footer {
   padding: 64px 64px 0 64px;
   text-align: center;
+  text-wrap: balance;
+  line-height: 1.25;
 }
 .footer_logos {
   padding: calc(32px - 8px) 32px calc(64px - 8px) 32px;
@@ -92,12 +94,18 @@ header {
 .footer_logos img {
   height: 64px;
   margin: 8px 32px;
+  transition: transform 0.1s ease-in-out;
+}
+.footer_logos a:hover img {
+  transform: scale(1.1);
 }
 .thomasLine {
   color: white;
   background: black;
   padding: 16px;
+  line-height: 1.25;
   text-align: center;
+  text-wrap: balance;
 }
 .thomasLine a,
 .thomasLine a:visited {

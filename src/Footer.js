@@ -8,7 +8,6 @@ function Footer() {
 	return (<footer>
 		<div className="footer">
 			Ein ökumenisches Projekt der <a href="http://puk-bonn.de">Pfarrei St. Maria Magdalena und Christi Auferstehung</a> und der <a href="https://www.trinitatiskirche-bonn.de/">Evangelische Trinitatiskirchengemeinde Bonn-Endenich</a>.
-
 		</div>
 		<div className="footer_logos">
 			<a href="http://puk-bonn.de/">
