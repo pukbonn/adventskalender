@@ -46,6 +46,7 @@ function Card({ data }) {
 
 
 	const monthNumber = date.getMonth()
+	const yearNumber = date.getFullYear();
 
 	const now = new Date()
 	const isOpen = date < now
@@ -53,6 +54,13 @@ function Card({ data }) {
 	// address = address
 	// .split(',')
 	// .map(line => <p>{line}</p>)
+
+	const noImageFallbackOptions = ['mode_cool', 'crib', 'star', 'stars_2', 'star_shine', 'moon_stars', 'featured_seasonal_and_gifts', 'park', 'favorite', 'ice_skating', 'sledding', 'gondola_lift', 'candle', 'celebration', 'landscape', 'mail', 'notifications', 'cookie']
+	const dateSeed = (yearNumber * 31 + monthNumber) * 31 + daynumber + (isSunday * 1);
+	const hash = dateSeed * 1103515245;
+	const index = Math.floor((hash >>> 0) / (0x100000000 / noImageFallbackOptions.length)) % noImageFallbackOptions.length;
+	const noImageFallbackIcon = noImageFallbackOptions[index];
+
 
 	return (
 		<div
@@ -138,20 +146,34 @@ function Card({ data }) {
 			<div className="spacer" />
 
 			{
-				isOpen === true && coverphotoPath !== ''
-					? (
-						<LazyLoad
-							offset={512}
-							height={128}
-							once
-						>
-							<div className="image" style={{
-								backgroundImage: `url("${coverphotoPath}")`,
-							}}>
-								<img src={coverphotoPath} alt="Geschmücktes Fenster" />
-							</div>
-						</LazyLoad>
-					)
+				isOpen === true && not_assigned !== true ?
+					(coverphotoPath !== ''
+						? (
+							<LazyLoad
+								offset={512}
+								height={128}
+								once
+							>
+								<div className="image" style={{
+									backgroundImage: `url("${coverphotoPath}")`,
+								}}>
+									<img src={coverphotoPath} alt="Geschmücktes Fenster" />
+								</div>
+							</LazyLoad>
+						)
+						: <div style={{
+							display: 'flex',
+							justifyContent: 'center',
+							alignItems: 'center',
+							opacity: 1,
+							color: 'var(--text)'
+						}}>
+							<IconDuoTone
+								name={noImageFallbackIcon}
+								size="4xl"
+								weight="400"
+							/>
+						</div>)
 					: null
 			}
 		</div>

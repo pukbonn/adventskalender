@@ -94,15 +94,17 @@ function Sheet({ days, dateString }) {
 						if (completed) {
 							return null
 						} else {
+							const padLength = days > 99 ? 3 : 2
+
 							return <>
 								<br />
 								<strong>Das Fenster öffnet in…</strong><br />
 
 								<AnimatePresence initial={false} mode="popLayout">
-									<NumbersDisplay count={days} singularLabel="Tag" pluralLabel="Tagen" />
-									<NumbersDisplay count={hours} singularLabel="Stunde" pluralLabel="Stunden" />
-									<NumbersDisplay count={minutes} singularLabel="Minute" pluralLabel="Minuten" />
-									<NumbersDisplay count={seconds} singularLabel="Sekunde" pluralLabel="Sekunden" />
+									<NumbersDisplay padLength={padLength} count={days} singularLabel="Tag" pluralLabel="Tagen" />
+									<NumbersDisplay padLength={padLength} count={hours} singularLabel="Stunde" pluralLabel="Stunden" />
+									<NumbersDisplay padLength={padLength} count={minutes} singularLabel="Minute" pluralLabel="Minuten" />
+									<NumbersDisplay padLength={padLength} count={seconds} singularLabel="Sekunde" pluralLabel="Sekunden" />
 								</AnimatePresence>
 							</>
 						}

@@ -62,6 +62,12 @@ export function MaterialIconStyle() {
             height: 40px;
             font-variation-settings: "FILL" var(--fill, 0), "wght" var(--weight, 400), "GRAD" 0, "opsz" 40;
           }
+          .iconframe.icon-4xl {
+            font-size: 160px;
+            width: 160px;
+            height: 160px;
+            font-variation-settings: "FILL" var(--fill, 0), "wght" var(--weight, 400), "GRAD" 0, "opsz" 48;
+          }
           `.replace(/^(\s+)/gm, ''),
       }}
     />
@@ -70,7 +76,7 @@ export function MaterialIconStyle() {
 
 export type IconProps = {
   name?: string
-  size?: 'sm' | 'md' | 'lg' | 'xl' | 'auto'
+  size?: 'sm' | 'md' | 'lg' | 'xl' | '4xl' | 'auto'
   className?: string
 }
 

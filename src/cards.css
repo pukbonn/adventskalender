@@ -102,6 +102,7 @@
   margin: 5px 0 1px 0;
   color: var(--text-body);
   transition: color 0.2s ease;
+  width: 110%;
 }
 .cards .card .infoLine.address {
   margin-right: -22px;
