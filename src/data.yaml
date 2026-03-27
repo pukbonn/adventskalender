@@ -1453,8 +1453,9 @@ days:
     not_assigned: true
     note: Noch frei!
   - date: 2026-12-02
-    not_assigned: true
-    note: Noch frei!
+    address: Kita St. Maria Magdalena, Wiesenweg 6
+    lat: 50.72680
+    lng: 7.07687
   - date: 2026-12-03
     not_assigned: true
     note: Noch frei!
