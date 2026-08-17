@@ -29,9 +29,9 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:22b55a0a-7b69-4e89-a077-ac3300c2ffa3
+UID:03eede4b-7eec-4b10-bde7-f088102639e3
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101234
 DTSTART;TZID=Europe/Berlin:20201125T180000
 DTEND;TZID=Europe/Berlin:20201125T183000
 SUMMARY:Lebendiger Adventskalender
@@ -44,9 +44,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-11-25
 END:VEVENT
 BEGIN:VEVENT
-UID:399a299f-a60d-44db-b21d-3d71bb483f19
+UID:1ba4c5b8-6a49-4f91-9f47-9feb4ce1259a
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101234
 DTSTART;TZID=Europe/Berlin:20201129T180000
 DTEND;TZID=Europe/Berlin:20201129T183000
 SUMMARY:Lebendiger Adventskalender
@@ -59,9 +59,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-11-29
 END:VEVENT
 BEGIN:VEVENT
-UID:6ae83d7b-0b8b-467b-ab50-d099a1452a0b
+UID:b10bd55d-f44b-4431-9e87-76697426e9a5
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101234
 DTSTART;TZID=Europe/Berlin:20201201T180000
 DTEND;TZID=Europe/Berlin:20201201T183000
 SUMMARY:Lebendiger Adventskalender
@@ -78,9 +78,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-01
 END:VEVENT
 BEGIN:VEVENT
-UID:42397720-acd1-447b-b5a2-195f036b2bea
+UID:d57892df-0e17-4881-ae91-df651453945e
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101234
 DTSTART;TZID=Europe/Berlin:20201202T180000
 DTEND;TZID=Europe/Berlin:20201202T183000
 SUMMARY:Lebendiger Adventskalender
@@ -97,9 +97,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-02
 END:VEVENT
 BEGIN:VEVENT
-UID:231a5cb6-f52e-4fd3-a690-dccf776ca363
+UID:6c5c449f-5fda-4254-a633-16522e19e98c
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101234
 DTSTART;TZID=Europe/Berlin:20201203T180000
 DTEND;TZID=Europe/Berlin:20201203T183000
 SUMMARY:Lebendiger Adventskalender
@@ -116,9 +116,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-03
 END:VEVENT
 BEGIN:VEVENT
-UID:5f5ee5f3-fe0f-4c26-8a29-d93d74615248
+UID:e2dc653e-7083-43c7-9f6f-45194446d7d3
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101234
 DTSTART;TZID=Europe/Berlin:20201204T180000
 DTEND;TZID=Europe/Berlin:20201204T183000
 SUMMARY:Lebendiger Adventskalender
@@ -135,9 +135,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-04
 END:VEVENT
 BEGIN:VEVENT
-UID:086c1748-7c38-49e2-b54c-234f71a8a458
+UID:5d5b7417-e457-48d3-b7c8-fc19cd9d6dc1
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101234
 DTSTART;TZID=Europe/Berlin:20201205T180000
 DTEND;TZID=Europe/Berlin:20201205T183000
 SUMMARY:Lebendiger Adventskalender
@@ -154,9 +154,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-05
 END:VEVENT
 BEGIN:VEVENT
-UID:1f86c590-ab43-408a-a155-bb63ff36590d
+UID:a98f2f7a-379a-4876-b803-f16da3609fdc
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101234
 DTSTART;TZID=Europe/Berlin:20201206T180000
 DTEND;TZID=Europe/Berlin:20201206T183000
 SUMMARY:Lebendiger Adventskalender
@@ -173,9 +173,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-06
 END:VEVENT
 BEGIN:VEVENT
-UID:d442ac95-5a96-4a80-b988-d26d969737ee
+UID:eecab356-a5cf-4937-839a-59a808903419
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201207T180000
 DTEND;TZID=Europe/Berlin:20201207T183000
 SUMMARY:Lebendiger Adventskalender
@@ -192,9 +192,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-07
 END:VEVENT
 BEGIN:VEVENT
-UID:fc90e1b3-1e24-4dc7-80c1-ea56fb8d791f
+UID:d4b754e4-3c19-4b40-8e6a-7c8761073b16
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201208T180000
 DTEND;TZID=Europe/Berlin:20201208T183000
 SUMMARY:Lebendiger Adventskalender
@@ -211,9 +211,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-08
 END:VEVENT
 BEGIN:VEVENT
-UID:6db0f284-b436-4392-b4c0-fe978eb4b6cc
+UID:9edd6f94-d467-4e81-a648-60a89d286c3d
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201209T180000
 DTEND;TZID=Europe/Berlin:20201209T183000
 SUMMARY:Lebendiger Adventskalender
@@ -230,9 +230,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-09
 END:VEVENT
 BEGIN:VEVENT
-UID:fdb5d072-400f-477f-bf7a-8c794f2931fe
+UID:2badebae-be9d-4042-b768-96a439726b60
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201210T180000
 DTEND;TZID=Europe/Berlin:20201210T183000
 SUMMARY:Lebendiger Adventskalender
@@ -249,9 +249,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-10
 END:VEVENT
 BEGIN:VEVENT
-UID:9ec40f07-d8de-48d3-b88a-256576d9430f
+UID:94aeab6a-5e84-43cb-a8dc-2d0b0534b743
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201211T180000
 DTEND;TZID=Europe/Berlin:20201211T183000
 SUMMARY:Lebendiger Adventskalender
@@ -268,9 +268,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-11
 END:VEVENT
 BEGIN:VEVENT
-UID:d78a82d3-e57b-49ac-ad91-3099c3a3a90d
+UID:8ff84b4d-559d-41b4-87aa-531c56c63823
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201212T180000
 DTEND;TZID=Europe/Berlin:20201212T183000
 SUMMARY:Lebendiger Adventskalender
@@ -287,9 +287,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-12
 END:VEVENT
 BEGIN:VEVENT
-UID:cd2da432-14df-49de-a43d-e4b48579e7ec
+UID:7fac4ead-68e2-4d21-ae59-a00178d80ca6
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201213T180000
 DTEND;TZID=Europe/Berlin:20201213T183000
 SUMMARY:Lebendiger Adventskalender
@@ -306,9 +306,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-13
 END:VEVENT
 BEGIN:VEVENT
-UID:b3dc71c9-56b9-4dcb-82ab-faa69c457db0
+UID:92dcd430-ed36-409a-8ae7-eed51c8042c1
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201214T180000
 DTEND;TZID=Europe/Berlin:20201214T183000
 SUMMARY:Lebendiger Adventskalender
@@ -325,9 +325,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-14
 END:VEVENT
 BEGIN:VEVENT
-UID:2df9104a-4080-4c28-a0c8-d344e9b233ca
+UID:b0745bc3-dc99-4fdb-b8b4-2ff9f1461aa2
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201215T180000
 DTEND;TZID=Europe/Berlin:20201215T183000
 SUMMARY:Lebendiger Adventskalender
@@ -344,9 +344,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-15
 END:VEVENT
 BEGIN:VEVENT
-UID:452e0478-4f57-40cb-b9a8-8c13d98f261f
+UID:5467e64d-e2cc-41b7-8a88-a823838b6e9c
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201216T180000
 DTEND;TZID=Europe/Berlin:20201216T183000
 SUMMARY:Lebendiger Adventskalender
@@ -363,9 +363,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-16
 END:VEVENT
 BEGIN:VEVENT
-UID:366f7660-9de3-4550-9d48-37e2616c086a
+UID:656bf171-4d05-42c1-91a6-da6260f00ff2
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201217T180000
 DTEND;TZID=Europe/Berlin:20201217T183000
 SUMMARY:Lebendiger Adventskalender
@@ -382,9 +382,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-17
 END:VEVENT
 BEGIN:VEVENT
-UID:f654eafe-b9ce-4dcd-9db2-cdd4e5ad1fb3
+UID:4df53f40-ba38-4ec8-9b29-04f59fce5b73
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201218T180000
 DTEND;TZID=Europe/Berlin:20201218T183000
 SUMMARY:Lebendiger Adventskalender
@@ -401,9 +401,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-18
 END:VEVENT
 BEGIN:VEVENT
-UID:c76ee727-f54d-4af9-b72a-adce0b99c682
+UID:ddb02da6-d7eb-48dd-ab31-69673a6752db
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201219T180000
 DTEND;TZID=Europe/Berlin:20201219T183000
 SUMMARY:Lebendiger Adventskalender
@@ -420,9 +420,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-19
 END:VEVENT
 BEGIN:VEVENT
-UID:4a86c12d-61fe-492a-bf9c-35af69edbfd2
+UID:134625e1-3cb1-432f-a7ea-78ff5b6b9395
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201220T180000
 DTEND;TZID=Europe/Berlin:20201220T183000
 SUMMARY:Lebendiger Adventskalender
@@ -439,9 +439,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-20
 END:VEVENT
 BEGIN:VEVENT
-UID:7e67bc8c-d7a4-4671-884f-1a157294f7af
+UID:cfa4a776-acd3-4777-8067-03f6060ac616
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201221T180000
 DTEND;TZID=Europe/Berlin:20201221T183000
 SUMMARY:Lebendiger Adventskalender
@@ -458,9 +458,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-21
 END:VEVENT
 BEGIN:VEVENT
-UID:97bae4ff-b76d-44b7-900f-05f7ca80f989
+UID:7b3a5f64-742b-4ae1-b110-8f0287f7acff
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201222T180000
 DTEND;TZID=Europe/Berlin:20201222T183000
 SUMMARY:Lebendiger Adventskalender
@@ -477,9 +477,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-22
 END:VEVENT
 BEGIN:VEVENT
-UID:195db6b5-19eb-44ed-9edb-822b3b2b5900
+UID:f3c5ebaf-fa33-4956-8409-6b2d82622899
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201223T180000
 DTEND;TZID=Europe/Berlin:20201223T183000
 SUMMARY:Lebendiger Adventskalender
@@ -496,9 +496,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-23
 END:VEVENT
 BEGIN:VEVENT
-UID:c9c82a06-6ed5-4a44-98bd-dad4e52a5359
+UID:cb86c444-8758-4082-ae34-80ad46d8a1d1
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20201224T180000
 DTEND;TZID=Europe/Berlin:20201224T183000
 SUMMARY:Lebendiger Adventskalender
@@ -515,9 +515,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2020-12-24
 END:VEVENT
 BEGIN:VEVENT
-UID:8d042093-98a0-4237-9e31-970114af15b3
+UID:17ece072-0d36-409b-a8a8-9546966ab091
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211201T183000
 DTEND;TZID=Europe/Berlin:20211201T190000
 SUMMARY:Lebendiger Adventskalender
@@ -534,9 +534,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-01
 END:VEVENT
 BEGIN:VEVENT
-UID:3342d9f9-4d40-4b45-a8cd-16424e9af3ae
+UID:27ce9622-fea4-4a7e-8364-5614a656b323
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211202T180000
 DTEND;TZID=Europe/Berlin:20211202T183000
 SUMMARY:Lebendiger Adventskalender
@@ -553,9 +553,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-02
 END:VEVENT
 BEGIN:VEVENT
-UID:edaaf49c-d04f-4d6b-8550-0bfdb6d41252
+UID:5b78d76b-4610-414a-b0bb-b27994b79f1a
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211203T180000
 DTEND;TZID=Europe/Berlin:20211203T183000
 SUMMARY:Lebendiger Adventskalender
@@ -572,9 +572,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-03
 END:VEVENT
 BEGIN:VEVENT
-UID:70579e5d-8c0d-4ac1-b696-c98799f87089
+UID:6fac2309-0c58-4cfd-b1aa-f63600f18c01
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211204T180000
 DTEND;TZID=Europe/Berlin:20211204T183000
 SUMMARY:Lebendiger Adventskalender
@@ -591,9 +591,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-04
 END:VEVENT
 BEGIN:VEVENT
-UID:8c201365-8ba1-4caa-9a47-ba49e49d97eb
+UID:45f4bc07-5bc9-4945-8ee9-5c1e5244e178
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211205T180000
 DTEND;TZID=Europe/Berlin:20211205T183000
 SUMMARY:Lebendiger Adventskalender
@@ -610,9 +610,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-05
 END:VEVENT
 BEGIN:VEVENT
-UID:0e771473-dcfb-4980-a1ce-aef969143af7
+UID:104372dd-d848-4ec7-8e85-717fb2fed129
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211206T180000
 DTEND;TZID=Europe/Berlin:20211206T183000
 SUMMARY:Lebendiger Adventskalender
@@ -629,9 +629,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-06
 END:VEVENT
 BEGIN:VEVENT
-UID:3553128c-4e23-48a5-9045-b0509d2cdc8b
+UID:63a89d0d-0d4d-4f7e-a458-74b0cc36da11
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211208T180000
 DTEND;TZID=Europe/Berlin:20211208T183000
 SUMMARY:Lebendiger Adventskalender
@@ -648,9 +648,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-08
 END:VEVENT
 BEGIN:VEVENT
-UID:fefe3e03-9a53-4b23-a086-3e3a4f6268fc
+UID:6867cef8-7b15-4f5e-b7ec-9b152f47116d
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211209T180000
 DTEND;TZID=Europe/Berlin:20211209T183000
 SUMMARY:Lebendiger Adventskalender
@@ -667,9 +667,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-09
 END:VEVENT
 BEGIN:VEVENT
-UID:d52c220e-d1a7-48ff-a823-8f872125c879
+UID:f2fd6cc9-edc9-4c4d-9e40-96594dee8254
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211211T180000
 DTEND;TZID=Europe/Berlin:20211211T183000
 SUMMARY:Lebendiger Adventskalender
@@ -686,9 +686,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-11
 END:VEVENT
 BEGIN:VEVENT
-UID:7c4df047-9c72-496e-b92e-e889c07ddad9
+UID:b7349df6-b1d6-4bd6-a224-afeeced23332
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211212T180000
 DTEND;TZID=Europe/Berlin:20211212T183000
 SUMMARY:Lebendiger Adventskalender
@@ -705,9 +705,9 @@ DESCRIPTION:Adventssingen\n\nGemeindemitglieder aus St. Maria Magdalena un
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-12
 END:VEVENT
 BEGIN:VEVENT
-UID:cf01495a-617c-478d-ac5d-66f569a2d9dc
+UID:64d0c6c7-53c4-4c4e-8525-b9be502acade
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211214T180000
 DTEND;TZID=Europe/Berlin:20211214T183000
 SUMMARY:Lebendiger Adventskalender
@@ -724,9 +724,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-14
 END:VEVENT
 BEGIN:VEVENT
-UID:e6e34cf8-2ba0-4516-b4e4-e376a3e3e426
+UID:8b1bc1a5-8511-4641-8ade-74765dd64fea
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211215T180000
 DTEND;TZID=Europe/Berlin:20211215T183000
 SUMMARY:Lebendiger Adventskalender
@@ -743,9 +743,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-15
 END:VEVENT
 BEGIN:VEVENT
-UID:6436e924-4abe-4be7-9f42-3ed4df467882
+UID:5b2fb99d-f861-43ba-abb1-ad9a861badf4
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211216T180000
 DTEND;TZID=Europe/Berlin:20211216T183000
 SUMMARY:Lebendiger Adventskalender
@@ -762,9 +762,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-16
 END:VEVENT
 BEGIN:VEVENT
-UID:400a2472-0f85-4ec6-9f80-0e59534e2ed0
+UID:49550739-a7ae-439b-be18-2bbd965c8c24
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211217T180000
 DTEND;TZID=Europe/Berlin:20211217T183000
 SUMMARY:Lebendiger Adventskalender
@@ -781,9 +781,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-17
 END:VEVENT
 BEGIN:VEVENT
-UID:6fc901f1-293c-459d-8e8a-ebf015116c02
+UID:daf4a344-5b91-442d-ab89-25d7f3dd1126
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211218T180000
 DTEND;TZID=Europe/Berlin:20211218T183000
 SUMMARY:Lebendiger Adventskalender
@@ -800,9 +800,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-18
 END:VEVENT
 BEGIN:VEVENT
-UID:758dfc96-243f-451d-aac4-f8ac6b4f45ad
+UID:3dc20048-e419-4303-b307-7e47a0bfda9f
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211219T180000
 DTEND;TZID=Europe/Berlin:20211219T183000
 SUMMARY:Lebendiger Adventskalender
@@ -819,9 +819,9 @@ DESCRIPTION:Adventssingen\n\nGemeindemitglieder aus St. Maria Magdalena un
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-19
 END:VEVENT
 BEGIN:VEVENT
-UID:af06ef24-56cc-4ef8-a13f-9d939d3ad180
+UID:8ba363fe-a77f-4232-88e2-90c3ee6b93a0
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211220T180000
 DTEND;TZID=Europe/Berlin:20211220T183000
 SUMMARY:Lebendiger Adventskalender
@@ -838,9 +838,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-20
 END:VEVENT
 BEGIN:VEVENT
-UID:628ef3de-ba19-47b0-9744-fb49518b4bd8
+UID:b8f77d13-966c-43eb-ac2d-d52639ed45a8
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211221T180000
 DTEND;TZID=Europe/Berlin:20211221T183000
 SUMMARY:Lebendiger Adventskalender
@@ -857,9 +857,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-21
 END:VEVENT
 BEGIN:VEVENT
-UID:b641125a-e0bf-45f4-b20d-b99e4f2f9d7c
+UID:c771ae9e-4bfb-4167-be3d-de6b8594d634
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211222T180000
 DTEND;TZID=Europe/Berlin:20211222T183000
 SUMMARY:Lebendiger Adventskalender
@@ -876,9 +876,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-22
 END:VEVENT
 BEGIN:VEVENT
-UID:4371714e-3928-45aa-9a0e-41752b947227
+UID:faed8213-bfb7-4b52-ac8e-2ec47214f269
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20211224T180000
 DTEND;TZID=Europe/Berlin:20211224T183000
 SUMMARY:Lebendiger Adventskalender
@@ -895,9 +895,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2021-12-24
 END:VEVENT
 BEGIN:VEVENT
-UID:c42a7dd7-3a91-4cdc-bcbf-ce49bbed5a8b
+UID:c404a0a6-6592-4ada-824b-0ef32db129a4
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221201T180000
 DTEND;TZID=Europe/Berlin:20221201T183000
 SUMMARY:Lebendiger Adventskalender
@@ -914,9 +914,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-01
 END:VEVENT
 BEGIN:VEVENT
-UID:fdec4200-1aa9-4b27-a8e6-bb8978b2c638
+UID:e6451429-1394-45eb-831f-fcb7c2288f0c
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221202T180000
 DTEND;TZID=Europe/Berlin:20221202T183000
 SUMMARY:Lebendiger Adventskalender
@@ -933,9 +933,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-02
 END:VEVENT
 BEGIN:VEVENT
-UID:70a9a9bf-09b6-482d-a639-e81d1238ba6f
+UID:a303745c-9e5b-460f-9971-ee4bdbd33ac9
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221203T180000
 DTEND;TZID=Europe/Berlin:20221203T183000
 SUMMARY:Lebendiger Adventskalender
@@ -952,9 +952,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-03
 END:VEVENT
 BEGIN:VEVENT
-UID:3912efed-4a8a-4610-8344-f7718dc25cd8
+UID:5fc615f2-4b93-4f59-a16a-47c70bde2a86
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221204T180000
 DTEND;TZID=Europe/Berlin:20221204T183000
 SUMMARY:Lebendiger Adventskalender
@@ -971,9 +971,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-04
 END:VEVENT
 BEGIN:VEVENT
-UID:0e224cf5-95ee-460a-8918-192d40c1c9ae
+UID:ef4b1683-95f6-4d48-b3be-bf058a1e1f83
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221207T180000
 DTEND;TZID=Europe/Berlin:20221207T183000
 SUMMARY:Lebendiger Adventskalender
@@ -990,9 +990,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-07
 END:VEVENT
 BEGIN:VEVENT
-UID:3baa2467-35d1-45d5-8104-13997734100d
+UID:c17b32b9-11ed-4fdc-8ce8-7ae86cd632a3
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221208T180000
 DTEND;TZID=Europe/Berlin:20221208T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1009,9 +1009,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-08
 END:VEVENT
 BEGIN:VEVENT
-UID:8db2d8a8-cb76-4314-a675-4eaf138a1a6f
+UID:c0770136-b53e-4993-a08d-6383f3f7b22e
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221209T180000
 DTEND;TZID=Europe/Berlin:20221209T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1028,9 +1028,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-09
 END:VEVENT
 BEGIN:VEVENT
-UID:667e5ed1-edd1-49e1-929a-f08353c50ca3
+UID:6cb64c45-ba3d-4a4e-aaa5-bedc0af5a3fa
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221211T180000
 DTEND;TZID=Europe/Berlin:20221211T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1047,9 +1047,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-11
 END:VEVENT
 BEGIN:VEVENT
-UID:ac9ee11d-b71f-4ae0-aaf3-070a22729669
+UID:5c782d80-225f-469b-ab51-f6b7ebf1e5bf
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221212T180000
 DTEND;TZID=Europe/Berlin:20221212T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1066,9 +1066,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-12
 END:VEVENT
 BEGIN:VEVENT
-UID:3a5a5b8c-5139-4885-9980-5ec80544b50a
+UID:06c2d08d-6af1-4a02-8a0e-f3b551b2d4a0
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221213T180000
 DTEND;TZID=Europe/Berlin:20221213T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1085,9 +1085,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-13
 END:VEVENT
 BEGIN:VEVENT
-UID:22f5c0a6-272d-4c2a-8e2f-9ea26f018530
+UID:ff257946-381e-4713-8786-ff5b62c6fbfa
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221214T180000
 DTEND;TZID=Europe/Berlin:20221214T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1104,9 +1104,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-14
 END:VEVENT
 BEGIN:VEVENT
-UID:af78e2a8-056d-47c6-89e0-e5ef612f9a99
+UID:42046b4d-9bb0-48a3-ab46-f12001ec9981
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221215T180000
 DTEND;TZID=Europe/Berlin:20221215T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1123,9 +1123,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-15
 END:VEVENT
 BEGIN:VEVENT
-UID:162c1ff2-f57c-48ad-b97b-9782c395e90c
+UID:95e9bed0-cd79-47ac-83f3-463ed03d1a7f
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221216T180000
 DTEND;TZID=Europe/Berlin:20221216T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1142,9 +1142,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-16
 END:VEVENT
 BEGIN:VEVENT
-UID:df26219f-1de8-4bc8-8070-86c3c558152f
+UID:a6196341-d492-4dee-a8af-8437e5ba60c9
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221217T180000
 DTEND;TZID=Europe/Berlin:20221217T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1161,9 +1161,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-17
 END:VEVENT
 BEGIN:VEVENT
-UID:083f0e27-a7dd-4d6e-8cba-b5949edda64a
+UID:97f4f82f-95fb-4a56-a925-6189aa92c0d4
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221218T180000
 DTEND;TZID=Europe/Berlin:20221218T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1180,9 +1180,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-18
 END:VEVENT
 BEGIN:VEVENT
-UID:a3cb8ac9-8f31-4ed7-8b3c-f8347766c652
+UID:e34828ef-aed2-4c96-8ce6-d03a2b44da9e
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221219T180000
 DTEND;TZID=Europe/Berlin:20221219T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1199,9 +1199,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-19
 END:VEVENT
 BEGIN:VEVENT
-UID:a3b8537c-819f-4cdf-a943-698a3414a235
+UID:181cc2fb-cd06-45ac-8268-818dd510187c
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221220T180000
 DTEND;TZID=Europe/Berlin:20221220T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1218,9 +1218,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-20
 END:VEVENT
 BEGIN:VEVENT
-UID:32738dc7-65f5-4128-8244-a5bad8846105
+UID:e6d97fe9-e729-49f4-ad3e-1c1f09d5415c
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221221T180000
 DTEND;TZID=Europe/Berlin:20221221T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1237,9 +1237,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-21
 END:VEVENT
 BEGIN:VEVENT
-UID:7f77587f-8457-40ea-be8d-920698b5df1c
+UID:d6bdb163-5f49-45ad-9135-4e5b9e7a1926
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221222T180000
 DTEND;TZID=Europe/Berlin:20221222T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1256,9 +1256,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-22
 END:VEVENT
 BEGIN:VEVENT
-UID:33a0cfb6-04d1-4750-8b2f-561c3f6018d4
+UID:eafd24e1-52ad-4676-a145-2ffbcdef8bc3
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20221223T180000
 DTEND;TZID=Europe/Berlin:20221223T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1275,9 +1275,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2022-12-23
 END:VEVENT
 BEGIN:VEVENT
-UID:69c694a3-6d29-40f8-9b95-511c94d16c3f
+UID:4be1ecd2-ca8d-4902-b1c7-72266f0d1865
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231201T180000
 DTEND;TZID=Europe/Berlin:20231201T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1294,9 +1294,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-01
 END:VEVENT
 BEGIN:VEVENT
-UID:302255e4-f207-4667-8b87-34e357dd3e99
+UID:9c0425ab-2348-4143-a99b-aa2dac7ea70c
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231202T180000
 DTEND;TZID=Europe/Berlin:20231202T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1313,9 +1313,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-02
 END:VEVENT
 BEGIN:VEVENT
-UID:36d71ecd-41c2-42a7-84d3-28d671c30230
+UID:1343ae89-e4c8-4c85-80c4-9b25025a0a1c
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231203T180000
 DTEND;TZID=Europe/Berlin:20231203T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1332,9 +1332,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-03
 END:VEVENT
 BEGIN:VEVENT
-UID:9c8cc7f7-62c6-49af-b13c-289eaaf7f373
+UID:59829818-fb39-4b90-a4f5-f572a56895b1
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231204T180000
 DTEND;TZID=Europe/Berlin:20231204T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1351,9 +1351,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-04
 END:VEVENT
 BEGIN:VEVENT
-UID:81d1f309-5916-4a22-872e-b083c2a1392d
+UID:d72ba465-d845-4826-b39f-0b4933da3daa
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231205T180000
 DTEND;TZID=Europe/Berlin:20231205T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1370,9 +1370,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-05
 END:VEVENT
 BEGIN:VEVENT
-UID:b1e30fe3-d5f8-4cf2-9425-33b3e22a6707
+UID:52cf1b46-3750-464f-9cb1-077472172527
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231206T203000
 DTEND;TZID=Europe/Berlin:20231206T210000
 SUMMARY:Lebendiger Adventskalender
@@ -1389,9 +1389,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-06
 END:VEVENT
 BEGIN:VEVENT
-UID:db4274f3-e108-49ee-9559-243eb39ffbf1
+UID:1ad7f61e-6635-415c-9a7f-f33b4de0ae3b
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231207T180000
 DTEND;TZID=Europe/Berlin:20231207T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1408,9 +1408,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-07
 END:VEVENT
 BEGIN:VEVENT
-UID:efee7503-dd61-4372-a1d8-17203b435393
+UID:ec370db8-7ac2-45ce-aea8-31c53081290f
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231208T180000
 DTEND;TZID=Europe/Berlin:20231208T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1427,9 +1427,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-08
 END:VEVENT
 BEGIN:VEVENT
-UID:45fd0e32-c5b7-40b5-82a6-8e66b539e02b
+UID:e437da06-ad2d-4277-9fe2-ba970a751263
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231209T180000
 DTEND;TZID=Europe/Berlin:20231209T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1446,9 +1446,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-09
 END:VEVENT
 BEGIN:VEVENT
-UID:a2b28fa0-0186-4030-a473-f0527788b05f
+UID:b209e176-5598-4246-98b7-e7bd5187b0d2
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231210T180000
 DTEND;TZID=Europe/Berlin:20231210T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1465,9 +1465,9 @@ DESCRIPTION:Es spielt das Ensemble VeedelBlech.\n\nGemeindemitglieder aus
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-10
 END:VEVENT
 BEGIN:VEVENT
-UID:20a12cf5-e1d3-4dde-bdf0-f682711ca9c6
+UID:a81545bd-5b34-4de6-91f2-3b98673f4408
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231211T180000
 DTEND;TZID=Europe/Berlin:20231211T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1484,9 +1484,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-11
 END:VEVENT
 BEGIN:VEVENT
-UID:ce5adcb1-2abf-4137-96e3-10ed9fdbc4a6
+UID:fed2b202-4d71-4b90-b93e-07db41005873
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231212T180000
 DTEND;TZID=Europe/Berlin:20231212T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1503,9 +1503,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-12
 END:VEVENT
 BEGIN:VEVENT
-UID:b7531897-5bc3-4ba8-bf78-165a58288228
+UID:247789b7-94fd-4849-947c-0efd03e4f058
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231213T180000
 DTEND;TZID=Europe/Berlin:20231213T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1522,9 +1522,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-13
 END:VEVENT
 BEGIN:VEVENT
-UID:df0565cf-09d8-41bb-aca0-ca7c4ec874d4
+UID:eb99443e-8372-4a28-9738-d00937bdbe47
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231214T180000
 DTEND;TZID=Europe/Berlin:20231214T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1541,9 +1541,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-14
 END:VEVENT
 BEGIN:VEVENT
-UID:e1a2f8b5-0eac-4679-a9f8-c80e99261f30
+UID:1e3614b4-f22b-414e-b1a8-37ddaea971e1
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231215T180000
 DTEND;TZID=Europe/Berlin:20231215T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1560,9 +1560,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-15
 END:VEVENT
 BEGIN:VEVENT
-UID:5e8c2d10-d36c-4a8a-8e4d-413a3f0544cd
+UID:1327b579-6459-4f14-90a6-cd99315fe821
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231216T180000
 DTEND;TZID=Europe/Berlin:20231216T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1579,9 +1579,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-16
 END:VEVENT
 BEGIN:VEVENT
-UID:6952be5a-49e4-487c-8650-6033380931a0
+UID:f46d2178-e9dc-4756-a7fe-a4000cfc24b9
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231217T180000
 DTEND;TZID=Europe/Berlin:20231217T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1598,9 +1598,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-17
 END:VEVENT
 BEGIN:VEVENT
-UID:027b80d8-175e-4d76-96d9-a1ca40717ecb
+UID:67d3a42d-6b37-4be5-96e3-fe64715098fd
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231219T180000
 DTEND;TZID=Europe/Berlin:20231219T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1617,9 +1617,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-19
 END:VEVENT
 BEGIN:VEVENT
-UID:7a2acaca-7763-4eaa-ad7e-0d653af0cc7e
+UID:11b5e85a-664e-4a27-9b97-c6dedf04d3ef
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231220T180000
 DTEND;TZID=Europe/Berlin:20231220T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1636,9 +1636,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-20
 END:VEVENT
 BEGIN:VEVENT
-UID:cf76514e-97f2-4900-adfd-5bc90ddb030b
+UID:307e6fea-98f8-418d-85d5-d0f5e452dc5e
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231221T180000
 DTEND;TZID=Europe/Berlin:20231221T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1655,9 +1655,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-21
 END:VEVENT
 BEGIN:VEVENT
-UID:f4cbea54-afba-4ef8-a0f5-1eb1b8dbed3f
+UID:db370aef-3a9e-476d-9e07-3613635cf725
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231222T180000
 DTEND;TZID=Europe/Berlin:20231222T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1674,9 +1674,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-22
 END:VEVENT
 BEGIN:VEVENT
-UID:2ebde0fb-4bd1-4e49-aa0c-7aa2fced0315
+UID:31cd2806-d3fb-4968-83e3-18216cc053e8
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20231223T180000
 DTEND;TZID=Europe/Berlin:20231223T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1693,9 +1693,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2023-12-23
 END:VEVENT
 BEGIN:VEVENT
-UID:86f20f49-b1e0-4209-9aa0-db9df383a87c
+UID:f5301f41-debb-4949-9530-91cd1e24dffa
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241201T180000
 DTEND;TZID=Europe/Berlin:20241201T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1712,9 +1712,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-01
 END:VEVENT
 BEGIN:VEVENT
-UID:4fc29916-dc59-40cf-a1ed-5966a357e65b
+UID:1b302019-ae18-466c-84cf-b8c0a2ca7b96
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241202T180000
 DTEND;TZID=Europe/Berlin:20241202T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1731,9 +1731,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-02
 END:VEVENT
 BEGIN:VEVENT
-UID:5c9249c4-892d-4118-9607-78fd41121ebb
+UID:9c038f6b-f5bf-4ca7-806e-4c44b6e153bf
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241203T170000
 DTEND;TZID=Europe/Berlin:20241203T173000
 SUMMARY:Lebendiger Adventskalender
@@ -1750,9 +1750,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-03
 END:VEVENT
 BEGIN:VEVENT
-UID:f349572d-a447-4962-8aec-6ab9fc8e70ab
+UID:565909e8-9e4d-460f-9714-ca87efdf7df5
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241204T180000
 DTEND;TZID=Europe/Berlin:20241204T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1769,9 +1769,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-04
 END:VEVENT
 BEGIN:VEVENT
-UID:487cba3b-7615-4cc3-9174-493e6fdee999
+UID:fb800986-eee4-4b05-9efb-e9f5ab36bc14
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241205T180000
 DTEND;TZID=Europe/Berlin:20241205T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1789,9 +1789,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-05
 END:VEVENT
 BEGIN:VEVENT
-UID:ec9e0847-878d-462a-8f58-260753e1b111
+UID:1a489857-067b-4244-ab57-8cea95a40e72
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241206T180000
 DTEND;TZID=Europe/Berlin:20241206T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1809,9 +1809,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-06
 END:VEVENT
 BEGIN:VEVENT
-UID:99ba57da-2596-4296-8a69-92c3b835d6a0
+UID:98806587-f2af-4bd9-827e-9d165e947db7
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241207T180000
 DTEND;TZID=Europe/Berlin:20241207T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1828,9 +1828,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-07
 END:VEVENT
 BEGIN:VEVENT
-UID:df0d75d0-4fe1-476f-bc64-f150f9c59266
+UID:bf9ab698-511b-455b-89fe-519b78eced48
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241208T180000
 DTEND;TZID=Europe/Berlin:20241208T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1847,9 +1847,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-08
 END:VEVENT
 BEGIN:VEVENT
-UID:cd50276b-4672-4732-81b0-f614938dac40
+UID:e5e83ced-0d6c-4308-8911-811bccc62714
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241209T180000
 DTEND;TZID=Europe/Berlin:20241209T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1866,9 +1866,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-09
 END:VEVENT
 BEGIN:VEVENT
-UID:3eeb7d04-5773-4150-976d-c68274f37b9a
+UID:8e0aa684-f711-4760-ae01-3dc2adfcc121
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241210T180000
 DTEND;TZID=Europe/Berlin:20241210T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1885,9 +1885,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-10
 END:VEVENT
 BEGIN:VEVENT
-UID:6f794ce1-76b6-4d5b-8c2b-7c94fb9eb7d8
+UID:076fd51c-c79e-41d1-9ded-47bffa92f493
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241211T180000
 DTEND;TZID=Europe/Berlin:20241211T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1905,9 +1905,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-11
 END:VEVENT
 BEGIN:VEVENT
-UID:ba967e03-19a7-4b1a-9284-7624181d62bd
+UID:51c2c888-868a-464a-852c-251eb2747768
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241212T180000
 DTEND;TZID=Europe/Berlin:20241212T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1924,9 +1924,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-12
 END:VEVENT
 BEGIN:VEVENT
-UID:df4e929e-0a56-4fe4-9531-9aca659ea0b7
+UID:3c605866-f73f-43a2-8278-677dc218c4d5
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241213T180000
 DTEND;TZID=Europe/Berlin:20241213T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1943,9 +1943,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-13
 END:VEVENT
 BEGIN:VEVENT
-UID:df1a8d03-0b9a-4a6e-999f-092e8c405432
+UID:2b6ebdba-f304-407d-a206-1f5b3c430d62
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241214T180000
 DTEND;TZID=Europe/Berlin:20241214T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1962,9 +1962,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-14
 END:VEVENT
 BEGIN:VEVENT
-UID:0f9e17e6-7f76-4c61-a41a-6ad93a5fe092
+UID:deefdec2-3a31-4c6a-875a-a6507091070d
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241215T180000
 DTEND;TZID=Europe/Berlin:20241215T183000
 SUMMARY:Lebendiger Adventskalender
@@ -1981,9 +1981,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-15
 END:VEVENT
 BEGIN:VEVENT
-UID:5066f5ef-a074-470a-8acb-2c02bbae4fe0
+UID:8f7bbeaa-e37c-4a6a-b41b-17b7d6b80aad
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241216T180000
 DTEND;TZID=Europe/Berlin:20241216T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2000,9 +2000,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-16
 END:VEVENT
 BEGIN:VEVENT
-UID:b53ac7d2-b4e7-4060-ad54-bd53b2c71aa2
+UID:2073c8dc-ab1b-4987-9210-ac7dc76fc458
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241217T180000
 DTEND;TZID=Europe/Berlin:20241217T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2019,9 +2019,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-17
 END:VEVENT
 BEGIN:VEVENT
-UID:78b3235e-a39d-4399-a945-2d2c6cbbe875
+UID:9832a1c0-f52a-4eed-b934-879b607ff9fa
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241218T180000
 DTEND;TZID=Europe/Berlin:20241218T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2038,9 +2038,9 @@ DESCRIPTION:Adventssingen\n\nGemeindemitglieder aus St. Maria Magdalena un
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-18
 END:VEVENT
 BEGIN:VEVENT
-UID:b50d41ed-2081-4206-9a42-482d51d57db4
+UID:f6f432dc-098f-490a-84f0-a651ef9a84bf
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241219T180000
 DTEND;TZID=Europe/Berlin:20241219T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2057,9 +2057,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-19
 END:VEVENT
 BEGIN:VEVENT
-UID:bee50d63-6857-4e70-968d-3146d567d78c
+UID:41ff13d1-0936-4e78-9a83-96d5ee660a3a
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241220T180000
 DTEND;TZID=Europe/Berlin:20241220T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2076,9 +2076,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-20
 END:VEVENT
 BEGIN:VEVENT
-UID:469bbecb-d689-4ee1-8d8b-fdf11f9ea031
+UID:baa01ca3-cee1-46d7-8d49-0ddcf46f5b24
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241221T180000
 DTEND;TZID=Europe/Berlin:20241221T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2095,9 +2095,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-21
 END:VEVENT
 BEGIN:VEVENT
-UID:9b971328-99e0-4863-805d-5c0706241225
+UID:7d4781cf-fd7f-4636-9203-41fa2aa728f3
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241222T180000
 DTEND;TZID=Europe/Berlin:20241222T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2114,9 +2114,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-22
 END:VEVENT
 BEGIN:VEVENT
-UID:4c3acc6b-f2c0-4105-8326-d945cc1b934a
+UID:5739c227-cd6b-4717-bfdf-b5c2bac6cb91
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241223T180000
 DTEND;TZID=Europe/Berlin:20241223T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2133,9 +2133,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-23
 END:VEVENT
 BEGIN:VEVENT
-UID:925b5e67-4e1f-43f4-979f-5972c01a0e49
+UID:c70a060f-b709-42f5-8b8f-7a97e161eca7
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20241224T180000
 DTEND;TZID=Europe/Berlin:20241224T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2149,9 +2149,9 @@ DESCRIPTION:Wir wünschen frohe Weihnachten und ein glückliches neues Jah
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2024-12-24
 END:VEVENT
 BEGIN:VEVENT
-UID:cbe8aade-8e7f-4a06-8440-958a80525973
+UID:87542732-ed4a-41d3-b817-29e02de40c3f
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251201T180000
 DTEND;TZID=Europe/Berlin:20251201T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2169,9 +2169,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-01
 END:VEVENT
 BEGIN:VEVENT
-UID:66556f7a-8b20-4f58-9297-aea2de866bf4
+UID:52084afc-f17d-4f30-b105-c8dbcd713537
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251202T180000
 DTEND;TZID=Europe/Berlin:20251202T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2188,9 +2188,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-02
 END:VEVENT
 BEGIN:VEVENT
-UID:951f95c1-2b75-4583-9f81-3b12d98f6f6e
+UID:ec17f941-0041-4c58-a529-9655b41bdf65
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251203T180000
 DTEND;TZID=Europe/Berlin:20251203T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2207,9 +2207,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-03
 END:VEVENT
 BEGIN:VEVENT
-UID:4f7691ec-dd99-49c3-9d66-ab2dc18c51bf
+UID:95231047-1a2b-4600-a0c0-19c208fd55a4
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251204T170000
 DTEND;TZID=Europe/Berlin:20251204T173000
 SUMMARY:Lebendiger Adventskalender
@@ -2226,9 +2226,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-04
 END:VEVENT
 BEGIN:VEVENT
-UID:5c9f84a7-df8a-46ea-b238-5221d5232d17
+UID:728c51c8-2ee7-4109-9d1c-b07891b1d0de
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251205T180000
 DTEND;TZID=Europe/Berlin:20251205T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2245,9 +2245,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-05
 END:VEVENT
 BEGIN:VEVENT
-UID:5dab4b0e-12c0-4174-b619-1a7e5a461c1f
+UID:d06815a1-5369-4e76-abde-acb2f6077576
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251206T180000
 DTEND;TZID=Europe/Berlin:20251206T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2265,9 +2265,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-06
 END:VEVENT
 BEGIN:VEVENT
-UID:504494f6-5664-4694-85bd-2b1f6888cadd
+UID:564f25b5-f2fa-4360-8d3f-8182fb887805
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251207T180000
 DTEND;TZID=Europe/Berlin:20251207T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2284,9 +2284,9 @@ DESCRIPTION:Singen mit Veedelblech\n\nGemeindemitglieder aus St. Maria Mag
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-07
 END:VEVENT
 BEGIN:VEVENT
-UID:8a48494c-2cb4-4a2a-9d45-20556f385de4
+UID:e3f2a711-ce2e-4e51-b562-b3f3f627ca9f
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251208T180000
 DTEND;TZID=Europe/Berlin:20251208T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2303,9 +2303,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-08
 END:VEVENT
 BEGIN:VEVENT
-UID:37c0d1ef-d2ff-474d-956b-e3dbfa76c3a3
+UID:884ce9d6-02a9-4bae-ad85-5ba653efa7b3
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251209T180000
 DTEND;TZID=Europe/Berlin:20251209T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2324,9 +2324,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-09
 END:VEVENT
 BEGIN:VEVENT
-UID:81e2cc86-86fe-4556-913c-a7db05647a89
+UID:e76b7fdf-5c37-477b-925e-f60a7d86b615
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251210T180000
 DTEND;TZID=Europe/Berlin:20251210T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2343,9 +2343,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-10
 END:VEVENT
 BEGIN:VEVENT
-UID:8ae4915a-da8b-489f-81eb-f051099e2d0b
+UID:7b795e85-c828-44ac-9cae-1be99153471b
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251211T180000
 DTEND;TZID=Europe/Berlin:20251211T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2362,9 +2362,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-11
 END:VEVENT
 BEGIN:VEVENT
-UID:eb95b125-8e0d-4824-a248-9684f79fa470
+UID:07fc6e03-6343-48e9-95be-78f897bf5350
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251213T180000
 DTEND;TZID=Europe/Berlin:20251213T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2381,9 +2381,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-13
 END:VEVENT
 BEGIN:VEVENT
-UID:6147b354-5e4a-48f4-ac7b-e179a8cbc706
+UID:2d11e466-9a59-467c-a000-96b776c070f4
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251214T180000
 DTEND;TZID=Europe/Berlin:20251214T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2400,9 +2400,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-14
 END:VEVENT
 BEGIN:VEVENT
-UID:a69158dc-1b4b-4e6a-86d5-aad702f84182
+UID:5b202a13-1a94-40bb-a6ea-3294aed9ecda
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251215T180000
 DTEND;TZID=Europe/Berlin:20251215T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2419,9 +2419,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-15
 END:VEVENT
 BEGIN:VEVENT
-UID:2abb2672-ba41-44b0-83f0-6da158792514
+UID:b2de072f-e526-4bb1-b480-973ff2279922
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251216T180000
 DTEND;TZID=Europe/Berlin:20251216T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2438,9 +2438,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-16
 END:VEVENT
 BEGIN:VEVENT
-UID:4bb718ac-325c-4cb7-8106-8b449464c9b9
+UID:b28e1620-a53f-49c2-a918-46ed9662efd4
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251217T180000
 DTEND;TZID=Europe/Berlin:20251217T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2457,9 +2457,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-17
 END:VEVENT
 BEGIN:VEVENT
-UID:d2d0d5e5-5de2-4ff3-9b3a-ac327e88c0d6
+UID:26b7a24b-4c92-44ee-a115-4fae0bad98d2
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251218T180000
 DTEND;TZID=Europe/Berlin:20251218T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2476,9 +2476,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-18
 END:VEVENT
 BEGIN:VEVENT
-UID:594ea1c6-b3aa-4d25-ab46-5df09b0e319d
+UID:a37d5882-3ea1-445e-80be-f8b82bfeca57
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251219T180000
 DTEND;TZID=Europe/Berlin:20251219T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2495,9 +2495,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-19
 END:VEVENT
 BEGIN:VEVENT
-UID:12184246-06a0-47f8-bde8-e80148f2f3d6
+UID:736596b7-23da-4339-8180-73a78c909834
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251220T180000
 DTEND;TZID=Europe/Berlin:20251220T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2514,9 +2514,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-20
 END:VEVENT
 BEGIN:VEVENT
-UID:bbdde142-3858-4369-a2fc-30b7159ffb86
+UID:327044b5-8de9-4346-a1ab-1b156d8cf27a
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20251222T180000
 DTEND;TZID=Europe/Berlin:20251222T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2533,9 +2533,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2025-12-22
 END:VEVENT
 BEGIN:VEVENT
-UID:deb785e0-4bbe-4749-9946-a35fc3fb622c
+UID:5c61b6c7-70fc-42ff-b0a4-b856aad9b63b
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20261201T180000
 DTEND;TZID=Europe/Berlin:20261201T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2553,9 +2553,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2026-12-01
 END:VEVENT
 BEGIN:VEVENT
-UID:77897c8c-6070-4fc2-94e8-c7730dda2208
+UID:e4a0db91-dbc2-4883-9d24-3099f6c087ed
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20261202T170000
 DTEND;TZID=Europe/Berlin:20261202T173000
 SUMMARY:Lebendiger Adventskalender
@@ -2572,9 +2572,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2026-12-02
 END:VEVENT
 BEGIN:VEVENT
-UID:59cbaed8-0867-4755-bfd9-c79c0829e03f
+UID:ee859478-5317-43b1-8c31-06053b8205b4
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20261204T180000
 DTEND;TZID=Europe/Berlin:20261204T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2591,9 +2591,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2026-12-04
 END:VEVENT
 BEGIN:VEVENT
-UID:de7d286b-c060-41ae-ad8c-652de5bbd048
+UID:51698964-c0c0-4919-a41e-796bcc92df69
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20261205T180000
 DTEND;TZID=Europe/Berlin:20261205T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2610,9 +2610,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2026-12-05
 END:VEVENT
 BEGIN:VEVENT
-UID:f345c5e5-291b-43cb-84e4-088572eb3070
+UID:46547c8a-d3e4-43b7-a67d-dbc7f863e1ec
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20261209T180000
 DTEND;TZID=Europe/Berlin:20261209T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2630,9 +2630,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2026-12-09
 END:VEVENT
 BEGIN:VEVENT
-UID:d198e56a-bbbf-4b02-a1bb-c49334c39388
+UID:648bdbb2-03a0-4c2d-8d4a-6b79272a117e
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20261210T180000
 DTEND;TZID=Europe/Berlin:20261210T183000
 SUMMARY:Lebendiger Adventskalender
@@ -2649,9 +2649,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2026-12-10
 END:VEVENT
 BEGIN:VEVENT
-UID:432f467c-6724-4c86-a331-f19056549013
+UID:3b175f78-5aee-475e-8213-172138d18815
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20261214T170000
 DTEND;TZID=Europe/Berlin:20261214T173000
 SUMMARY:Lebendiger Adventskalender
@@ -2669,9 +2669,9 @@ DESCRIPTION:Gemeindemitglieder aus St. Maria Magdalena und Trinitatis lade
 URL;VALUE=URI:https://adventskalender.puk-bonn.de/#/day/2026-12-14
 END:VEVENT
 BEGIN:VEVENT
-UID:aee1b73b-2b6c-4d93-bb70-c6c3ecb42468
+UID:4b0b5089-0cf0-46de-8621-4e5daab9ef23
 SEQUENCE:0
-DTSTAMP:20260817T101103
+DTSTAMP:20260817T101235
 DTSTART;TZID=Europe/Berlin:20261217T180000
 DTEND;TZID=Europe/Berlin:20261217T183000
 SUMMARY:Lebendiger Adventskalender
