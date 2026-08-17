@@ -1544,6 +1544,9 @@ days:
     note: Noch frei!
 
 
+# Falls du überprüfen möchtest, ob etwas richtig eingegeben wurde, kannst den Inhalt dieser Datei in zB eins dieser Online-Tools reinkopiere:
+# https://yamlchecker.com/
+# https://platform.text.com/tools/yaml-validator
 
 
 #   - date: 2020-12-24 / date: 2020-12-24T17:00:00
