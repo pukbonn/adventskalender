@@ -1449,11 +1449,24 @@ days:
     not_assigned: true
     note: Frohe Weihnachten!
 
+
+
+
+
+
+
+
+
+
+
+
+
+
   - date: 2026-12-01
     address: Hauptportal Sankt Maria Magdalena, Magdalenen Str. 25, Endenich
     lat: 50.72623
     lng: 7.07545
-  - date: 2026-12-02
+  - date: 2026-12-02T17:00:00
     address: Kita St. Maria Magdalena, Wiesenweg 6
     lat: 50.72680
     lng: 7.07687
