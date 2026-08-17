@@ -1491,11 +1491,13 @@ days:
     not_assigned: true
     note: Noch frei!
   - date: 2026-12-09
-    not_assigned: true
-    note: Noch frei!
+    address: Schumann Höhe Wahlverwandtschaften Bonn, Sebastianstr. 180
+    lat: 50.7247279170838
+    lng: 7.078170354516836
   - date: 2026-12-10
-    not_assigned: true
-    note: Noch frei!
+    address: Bücherei Sankt Peter, Uhlgasse 8, Lengsdorf
+    lat: 50.70988
+    lng: 7.06991
   - date: 2026-12-11
     not_assigned: true
     note: Noch frei!
@@ -1505,9 +1507,10 @@ days:
   - date: 2026-12-13
     not_assigned: true
     note: Noch frei!
-  - date: 2026-12-14
-    not_assigned: true
-    note: Noch frei!
+  - date: 2026-12-14T17:00:00
+    address: GFO Kindergarten St. Martin Vaclav-Havel-PLatz 12
+    lat: 50.73618424916392
+    lng: 7.06879858335284
   - date: 2026-12-15
     not_assigned: true
     note: Noch frei!
@@ -1515,8 +1518,9 @@ days:
     not_assigned: true
     note: Noch frei!
   - date: 2026-12-17
-    not_assigned: true
-    note: Noch frei!
+    address: Pfarrheim Sankt Maria Magdalena, Magdalenen Str. 25
+    lat: 50.72594
+    lng: 7.07553
   - date: 2026-12-18
     not_assigned: true
     note: Noch frei!
