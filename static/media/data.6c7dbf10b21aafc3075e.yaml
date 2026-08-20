@@ -1471,8 +1471,9 @@ days:
     lat: 50.72680
     lng: 7.07687
   - date: 2026-12-03
-    not_assigned: true
-    note: Noch frei!
+    address: Bonner Logsweg 44, Lessenich
+    lat: 50.72411
+    lng: 7.04916
   - date: 2026-12-04
     address: ökumenischer Schaukasten Frongasse, Endenich
     lat: 50.72650
