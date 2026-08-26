@@ -1513,8 +1513,9 @@ days:
     lat: 50.73618424916392
     lng: 7.06879858335284
   - date: 2026-12-15
-    not_assigned: true
-    note: Noch frei!
+    address: Theodor-Litt-Straße 17, Endenich
+    lat: 50.72492
+    lng: 7.06580
   - date: 2026-12-16
     not_assigned: true
     note: Noch frei!
