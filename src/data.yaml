@@ -1536,8 +1536,9 @@ days:
     not_assigned: true
     note: Noch frei!
   - date: 2026-12-22
-    not_assigned: true
-    note: Noch frei!
+    address: JAP Kinder- und Jugendzentrum, Am Propsthof 134
+    lat: 50.7311525
+    lng: 7.0645935
   - date: 2026-12-23
     not_assigned: true
     note: Noch frei!
