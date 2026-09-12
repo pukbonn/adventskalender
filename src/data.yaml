@@ -1483,8 +1483,9 @@ days:
     lat: 50.73230
     lng: 7.06496
   - date: 2026-12-06
-    not_assigned: true
-    note: Noch frei!
+    address: Flodelingsweg 42, Endenich
+    lat: 50.72220
+    lng: 7.07538
   - date: 2026-12-07
     not_assigned: true
     note: Noch frei!
