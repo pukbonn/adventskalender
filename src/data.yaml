@@ -1528,8 +1528,9 @@ days:
     not_assigned: true
     note: Noch frei!
   - date: 2026-12-19
-    not_assigned: true
-    note: Noch frei!
+    address: Messdiener 
+    lat: 50.72594
+    lng: 7.07553
   - date: 2026-12-20
     not_assigned: true
     note: Noch frei!
