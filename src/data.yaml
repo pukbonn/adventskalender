@@ -1510,8 +1510,8 @@ days:
     address: "Im jungen Wingert 2, Endenich"
     lat: 50.72361
     lng: 7.07631
-    note: "Es spielt das Ensemble VeedelBlech."
-    - date: 2026-12-14T17:00:00
+    note: "Wir singen Adventslieder mit VeedelBlech."
+  - date: 2026-12-14T17:00:00
     address: GFO Kindergarten St. Martin Vaclav-Havel-PLatz 12
     lat: 50.73618424916392
     lng: 7.06879858335284
