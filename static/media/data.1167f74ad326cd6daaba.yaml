@@ -1507,8 +1507,10 @@ days:
     not_assigned: true
     note: Noch frei!
   - date: 2026-12-13
-    not_assigned: true
-    note: Noch frei!
+    address: "Im jungen Wingert 2, Endenich"
+    lat: 50.72361
+    lng: 7.07631
+    note: "Wir singen Adventslieder mit VeedelBlech."
   - date: 2026-12-14T17:00:00
     address: GFO Kindergarten St. Martin Vaclav-Havel-PLatz 12
     lat: 50.73618424916392
@@ -1529,8 +1531,8 @@ days:
     note: Noch frei!
   - date: 2026-12-19
     address: Messdiener 
-    lat: 50.72594
-    lng: 7.07553
+    lat: 50.72623
+    lng: 7.07545
   - date: 2026-12-20
     not_assigned: true
     note: Noch frei!
