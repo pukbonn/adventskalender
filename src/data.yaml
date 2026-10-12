@@ -1529,12 +1529,12 @@ days:
     lat: 50.72594
     lng: 7.07553
   - date: 2026-12-18
-    not_assigned: true
-    note: Noch frei!
-  - date: 2026-12-19
     address: Messdiener, Magdalenen Str. 25
     lat: 50.72623
-    lng: 7.07545
+    lng: 7.07545   
+  - date: 2026-12-19
+    not_assigned: true
+    note: Noch frei!
   - date: 2026-12-20
     not_assigned: true
     note: Noch frei!
