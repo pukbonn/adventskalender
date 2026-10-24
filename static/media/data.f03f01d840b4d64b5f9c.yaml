@@ -1487,8 +1487,9 @@ days:
     lat: 50.72220
     lng: 7.07538
   - date: 2026-12-07
-    not_assigned: true
-    note: Noch frei!
+    address: Wiesenweg 25
+    lat: 50.7271218
+    lng: 7.0772596
   - date: 2026-12-08
     address: "Max-Cohen Straße 19-23 (Wendehammer), Endenich"
     lat: 50.72201
@@ -1522,8 +1523,9 @@ days:
     lat: 50.72492
     lng: 7.06580
   - date: 2026-12-16
-    not_assigned: true
-    note: Noch frei!
+    address: Begegnungsstätte Am Burggraben 18
+    lat: 50.72526861721673 
+    lgn: 7.072365854516801
   - date: 2026-12-17
     address: Pfarrheim Sankt Maria Magdalena, Magdalenen Str. 25
     lat: 50.72594
