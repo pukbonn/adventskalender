@@ -1504,8 +1504,8 @@ days:
     lng: 7.06991
   - date: 2026-12-11
     address: Bücherei im Glockenturm der Michaelkirche, Rheinbacher Str. 4-18
-    lat: 50.7299558
-    lng: 7.081331
+    lat: 50.73112
+    lng: 7.082811
   - date: 2026-12-12
     address:
     note: reserviert
@@ -1524,8 +1524,8 @@ days:
     lng: 7.06580
   - date: 2026-12-16
     address: Begegnungsstätte Endenicher Burg, Am Burggraben 18
-    lat: 50.724426953125
-    lgn: 7.0732741355896
+    lat: 50.725248
+    lgn: 7.072355
   - date: 2026-12-17
     address: Pfarrheim Sankt Maria Magdalena, Magdalenen Str. 25
     lat: 50.72594
