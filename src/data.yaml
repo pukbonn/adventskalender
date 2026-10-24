@@ -1506,8 +1506,8 @@ days:
     lat: 50.7311212
     lng: 7.006641
   - date: 2026-12-12
-    not_assigned: true
-    note: Noch frei!
+    address:
+    note: reserviert
   - date: 2026-12-13
     address: "Im jungen Wingert 2, Endenich"
     lat: 50.72361
@@ -1546,8 +1546,9 @@ days:
     lat: 50.7311525
     lng: 7.0645935
   - date: 2026-12-23
-    not_assigned: true
-    note: Noch frei!
+    address: Neuenahrerstraße 2
+    lat: 50.7302818
+    lng: 7.0803455
   - date: 2026-12-24
     not_assigned: true
     note: Noch frei!
