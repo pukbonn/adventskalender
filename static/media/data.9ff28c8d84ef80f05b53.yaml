@@ -1538,8 +1538,9 @@ days:
     not_assigned: true
     note: Noch frei!
   - date: 2026-12-20
-    not_assigned: true
-    note: Noch frei!
+    address: "Enggasse 42, Lengsdorf"
+    lat: 50.71230
+    lng: 7.06853
   - date: 2026-12-21
     not_assigned: true
     note: Noch frei!
