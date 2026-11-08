@@ -1475,9 +1475,8 @@ days:
     lat: 50.72411
     lng: 7.04916
   - date: 2026-12-04
-    address: ökumenischer Schaukasten Frongasse, Endenich
-    lat: 50.72650
-    lng: 7.07473
+    not_assigned: true
+    note: Noch frei!
   - date: 2026-12-05
     address: Lipschitzstraße 43, Endenich
     lat: 50.73230
