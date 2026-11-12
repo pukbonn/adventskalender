@@ -1506,8 +1506,9 @@ days:
     lat: 50.73112
     lng: 7.082811
   - date: 2026-12-12
-    not_assigned: true
-    note: Noch frei!
+    address: "Am Burggraben 36, Endenich"
+    lat: 50.72413
+    lng: 7.07265
   - date: 2026-12-13
     address: "Im jungen Wingert 2, Endenich"
     lat: 50.72361
