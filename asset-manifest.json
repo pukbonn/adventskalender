@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a5a65933.css",
-    "main.js": "/static/js/main.aecd972b.js",
+    "main.js": "/static/js/main.ce75de71.js",
     "static/media/IMG_0753_auto_x2_colored_toned.jpg": "/static/media/IMG_0753_auto_x2_colored_toned.0786682a96f7908e7316.jpg",
     "static/media/WhatsApp Video 2020-12-24 at 10.55.59.mp4": "/static/media/WhatsApp Video 2020-12-24 at 10.55.59.4f333fb784412e470442.mp4",
     "static/media/20231206-3.jpg": "/static/media/20231206-3.d962d6ffabdade925448.jpg",
@@ -369,10 +369,10 @@
     "static/media/21dezember2020.docx": "/static/media/21dezember2020.d8cf653561d31147127e.docx",
     "index.html": "/index.html",
     "main.a5a65933.css.map": "/static/css/main.a5a65933.css.map",
-    "main.aecd972b.js.map": "/static/js/main.aecd972b.js.map"
+    "main.ce75de71.js.map": "/static/js/main.ce75de71.js.map"
   },
   "entrypoints": [
     "static/css/main.a5a65933.css",
-    "static/js/main.aecd972b.js"
+    "static/js/main.ce75de71.js"
   ]
 }
