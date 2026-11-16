@@ -1538,12 +1538,13 @@ days:
     not_assigned: true
     note: Noch frei!
   - date: 2026-12-20
-    address: "Enggasse 42, Lengsdorf"
+    address: Enggasse 42, Lengsdorf
     lat: 50.71230
     lng: 7.06853
   - date: 2026-12-21
-    not_assigned: true
-    note: Noch frei!
+    address: Im Mühlenbach 2, Lengsdorf
+    lat: 50.7140130
+    lng: 7.0712508
   - date: 2026-12-22
     address: JAP Kinder- und Jugendzentrum, Am Propsthof 134
     lat: 50.7311525
