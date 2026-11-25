@@ -1535,8 +1535,9 @@ days:
     lat: 50.72623
     lng: 7.07545   
   - date: 2026-12-19
-    not_assigned: true
-    note: Noch frei!
+    address: Alfred-Bucherer-Straße 27
+    lat: 50.72609
+    lng: 7.07431
   - date: 2026-12-20
     address: Enggasse 42, Lengsdorf
     lat: 50.71230
