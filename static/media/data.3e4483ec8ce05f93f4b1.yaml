@@ -1523,7 +1523,7 @@ days:
     lat: 50.72492
     lng: 7.06580
   - date: 2026-12-16
-    address: Begegnungsstätte Endenicher Burg, Am Burggraben 18
+    address: Zukunftsforum Endenich an der Endenicher Burg, Am Burggraben 18
     lat: 50.725248
     lng: 7.072355
   - date: 2026-12-17
@@ -1536,8 +1536,8 @@ days:
     lng: 7.07545   
   - date: 2026-12-19
     address: Alfred-Bucherer-Straße 27
-    lat: 50.72609
-    lng: 7.07431
+    lat: 50.7261054
+    lng: 7.0769652
   - date: 2026-12-20
     address: Enggasse 42, Lengsdorf
     lat: 50.71230
